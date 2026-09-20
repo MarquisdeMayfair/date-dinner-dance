@@ -39,10 +39,12 @@
     <meta name="twitter:image" content="https://datedinnerdance.com/og.png" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="preload" href="/cities.json" as="fetch" crossorigin />
+    <link rel="preload" href="/data/ibiza.json" as="fetch" crossorigin />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Outfit:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Outfit:wght@400;600;700&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="/src/style.css" />
@@ -51,7 +53,16 @@
     <div class="grain" aria-hidden="true"></div>
     <div class="app">
       <header class="hero">
-        <p class="kicker">Ibiza</p>
+        <div class="city-wrap">
+          <button type="button" class="city-chevron" data-dir="-1" aria-label="Previous city">
+            <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M14.5 6 8.5 12l6 6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <div id="city-scroller" class="city-scroller" role="tablist" aria-label="Cities"></div>
+          <button type="button" class="city-chevron" data-dir="1" aria-label="Next city">
+            <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M9.5 6 15.5 12l-6 6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </div>
+        <div id="city-dots" class="city-dots" aria-hidden="true"></div>
         <h1>Date · Dinner · Dance</h1>
         <p class="tagline">Spin your night. Nudge until it feels right.</p>
       </header>
@@ -59,10 +70,38 @@
       <main id="reels" class="reels"></main>
 
       <footer class="dock">
+        <button type="button" id="share" class="share-btn" aria-label="Share this night">
+          Share
+        </button>
         <button type="button" id="spin" class="spin">
           <span class="spin-label">Spin</span>
         </button>
       </footer>
+    </div>
+
+    <div id="share-sheet" class="sheet" hidden>
+      <div class="sheet-card">
+        <button type="button" class="sheet-close" data-close-sheet aria-label="Close">×</button>
+        <p class="sheet-kicker">Share this night</p>
+        <h2 id="share-title">Date · Dinner · Dance</h2>
+        <p id="share-picks" class="sheet-picks"></p>
+        <div class="share-actions">
+          <button type="button" id="share-native" class="share-action">Share</button>
+          <button type="button" id="share-copy" class="share-action">Copy link</button>
+          <button type="button" id="share-dm" class="share-action">Instagram DM</button>
+          <button type="button" id="share-story" class="share-action">Add to Story</button>
+        </div>
+        <p id="share-status" class="sheet-status" aria-live="polite"></p>
+        <form id="subscribe-form" class="subscribe">
+          <p class="sheet-kicker">Get new cities first</p>
+          <label class="sr-only" for="subscribe-email">Email</label>
+          <input id="subscribe-email" name="email" type="email" autocomplete="email" inputmode="email" placeholder="you@email.com" required />
+          <label class="sr-only" for="subscribe-handle">Instagram handle</label>
+          <input id="subscribe-handle" name="handle" type="text" autocomplete="username" placeholder="@yourhandle (optional)" />
+          <button type="submit" class="subscribe-btn">Notify me</button>
+          <p class="subscribe-note">No spam. We’ll send nights and new cities — not ads.</p>
+        </form>
+      </div>
     </div>
     <script type="module" src="/src/main.ts"></script>
   </body>
