@@ -6,3 +6,5 @@ dist
 .env
 .env.*
 public/assets
+public/data/london-full.json
+sync_and_deploy.sh

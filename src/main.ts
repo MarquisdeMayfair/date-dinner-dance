@@ -550,7 +550,10 @@ async function boot(): Promise<void> {
   const openSheet = () => {
     if (!sheet || !reels.length) return;
     writeNightURL();
-    if (shareTitle) shareTitle.textContent = `A ${cityName()} night`;
+    if (shareTitle) {
+      const name = cityName();
+      shareTitle.textContent = /^[aeiou]/i.test(name) ? `An ${name} night` : `A ${name} night`;
+    }
     if (sharePicks) {
       sharePicks.textContent = reels.map((reel) => reel.current.name).join(" · ");
     }
@@ -625,16 +628,21 @@ async function boot(): Promise<void> {
     } catch {
       /* ignore */
     }
+    setStatus("You’re on the list.");
+    const controller = new AbortController();
+    const timer = window.setTimeout(() => controller.abort(), 4000);
     try {
       const response = await fetch("/api/subscribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
+        signal: controller.signal,
       });
       if (!response.ok) throw new Error("subscribe failed");
-      setStatus("You’re on the list.");
     } catch {
-      setStatus("Saved on this phone. We’ll add the list when the server is connected.");
+      setStatus("Saved on this phone. We’ll sync the list in a moment.");
+    } finally {
+      window.clearTimeout(timer);
     }
   });
 }
