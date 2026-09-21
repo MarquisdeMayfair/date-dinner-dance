@@ -4,6 +4,10 @@
     "name": "Ibiza"
   },
   {
+    "id": "nyc",
+    "name": "New York"
+  },
+  {
     "id": "manchester",
     "name": "Manchester"
   },

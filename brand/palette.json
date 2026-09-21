@@ -1,0 +1,24 @@
+{
+  "name": "Date Dinner Dance",
+  "source": "brand/Date Dinner Dance Brand Book.dc.html",
+  "coral": "#FF5A3D",
+  "coralDeep": "#E8462A",
+  "yellow": "#FFC93C",
+  "teal": "#12B39B",
+  "cream": "#FFF6EC",
+  "ink": "#171312",
+  "inkSoft": "#241F1D",
+  "type": {
+    "display": "Bricolage Grotesque",
+    "ui": "Jost"
+  },
+  "cta": "Plan yours →",
+  "rules": [
+    "Never reorder the dots",
+    "Never two grounds in one asset",
+    "Never coral text on yellow",
+    "Never a gradient",
+    "Ink text on yellow, cream text on coral and teal",
+    "Sentence case except labels and the URL"
+  ]
+}

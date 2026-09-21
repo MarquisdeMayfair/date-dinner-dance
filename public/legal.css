@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,800&family=Jost:wght@400;500;600&display=swap");
+
+:root {
+  --cream: #fff6ec;
+  --ink: #171312;
+  --muted: rgba(23, 19, 18, 0.7);
+  --coral: #ff5a3d;
+  --teal: #12b39b;
+  --line: rgba(23, 19, 18, 0.16);
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  min-height: 100dvh;
+  background: var(--cream);
+  color: var(--ink);
+  font-family: Jost, system-ui, sans-serif;
+  line-height: 1.55;
+}
+main {
+  width: min(640px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 48px 0 80px;
+}
+h1 {
+  font-family: "Bricolage Grotesque", system-ui, sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--ink);
+}
+h2 { color: var(--ink); font-size: 1.05rem; margin-top: 2rem; font-weight: 600; }
+p, li { color: var(--muted); }
+a { color: var(--coral); }
+.kicker {
+  font-family: "Bricolage Grotesque", system-ui, sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  font-size: 1rem;
+  color: var(--ink);
+}
+.mail {
+  display: inline-block;
+  margin: 8px 0 20px;
+  font-size: 1.35rem;
+  font-family: "Bricolage Grotesque", system-ui, sans-serif;
+  font-weight: 800;
+  color: var(--ink);
+}
+.links {
+  margin-top: 48px;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+}
+.links a { color: var(--ink); text-decoration: none; }
+.entity {
+  margin-top: 28px;
+  font-size: 0.68rem;
+  letter-spacing: 0.01em;
+  color: rgba(23, 19, 18, 0.5);
+}
+label { color: var(--ink); font-size: 0.85rem; font-weight: 600; }
+input {
+  margin: 8px 0 12px;
+  width: min(100%, 320px);
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--ink);
+  border-radius: 8px;
+  font: inherit;
+}
+button {
+  background: var(--coral);
+  color: var(--cream);
+  border: 0;
+  padding: 10px 16px;
+  border-radius: 999px;
+  font-weight: 600;
+  cursor: pointer;
+}

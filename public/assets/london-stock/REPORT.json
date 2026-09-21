@@ -1,0 +1,135 @@
+{
+  "stats": {
+    "already_had": {
+      "date": 10,
+      "dinner": 17,
+      "dance": 7
+    },
+    "filled": {
+      "date": 990,
+      "dinner": 983,
+      "dance": 993
+    },
+    "skipped_bad_existing": {
+      "dinner": 2
+    },
+    "pool_sizes": {
+      "date": 18,
+      "dinner": 22,
+      "dance": 18
+    },
+    "prefix_use_top": {
+      "dance:neon-crowd": 789,
+      "date:covent-garden": 388,
+      "dinner:mediterranean": 339,
+      "date:tate-modern": 272,
+      "date:british-museum": 149,
+      "dance:festival": 149,
+      "dinner:indian": 138,
+      "dinner:pasta": 102,
+      "dinner:thai": 90,
+      "dinner:pizza": 86,
+      "dinner:sushi": 70,
+      "date:london-eye": 65,
+      "date:hyde-park": 55,
+      "dance:crowd-hands": 55,
+      "dinner:steak": 43,
+      "date:borough-market": 40,
+      "dinner:burger": 39,
+      "dinner:chinese": 37,
+      "dinner:seafood": 17,
+      "dinner:brunch": 14,
+      "date:greenwich": 9,
+      "date:westminster": 7,
+      "dinner:dessert": 6,
+      "date:tower-bridge": 4,
+      "dinner:salad": 2,
+      "date:thames-skyline": 1
+    }
+  },
+  "live_counts": {
+    "date": 120,
+    "dinner": 120,
+    "dance": 120
+  },
+  "full_counts": {
+    "date": 1000,
+    "dinner": 1000,
+    "dance": 1000
+  },
+  "stock_files": {
+    "date": [
+      "british-museum-01.jpg",
+      "canary-wharf-01.jpg",
+      "covent-garden-01.jpg",
+      "greenwich-01.jpg",
+      "hyde-park-01.jpg",
+      "hyde-park-02.jpg",
+      "kew-01.jpg",
+      "london-eye-01.jpg",
+      "millennium-bridge-01.jpg",
+      "natural-history-01.jpg",
+      "regents-park-01.jpg",
+      "southbank-01.jpg",
+      "st-pauls-01.jpg",
+      "thames-skyline-01.jpg",
+      "thames-skyline-02.jpg",
+      "tower-bridge-01.jpg",
+      "tower-bridge-02.jpg",
+      "westminster-01.jpg"
+    ],
+    "dinner": [
+      "brunch-01.jpg",
+      "brunch-02.jpg",
+      "burger-01.jpg",
+      "burger-02.jpg",
+      "dessert-01.jpg",
+      "dessert-02.jpg",
+      "indian-01.jpg",
+      "indian-02.jpg",
+      "mediterranean-01.jpg",
+      "mediterranean-02.jpg",
+      "pasta-01.jpg",
+      "pasta-02.jpg",
+      "pizza-01.jpg",
+      "pizza-02.jpg",
+      "salad-01.jpg",
+      "salad-02.jpg",
+      "seafood-01.jpg",
+      "seafood-02.jpg",
+      "steak-01.jpg",
+      "steak-02.jpg",
+      "sushi-01.jpg",
+      "sushi-02.jpg"
+    ],
+    "dance": [
+      "club-neon-01.jpg",
+      "club-neon-02.jpg",
+      "crowd-hands-01.jpg",
+      "crowd-hands-02.jpg",
+      "dancefloor-01.jpg",
+      "dancefloor-02.jpg",
+      "dancer-01.jpg",
+      "dancer-02.jpg",
+      "dj-decks-01.jpg",
+      "dj-decks-02.jpg",
+      "festival-01.jpg",
+      "festival-02.jpg",
+      "laser-01.jpg",
+      "laser-02.jpg",
+      "laser-03.jpg",
+      "neon-crowd-01.jpg",
+      "neon-crowd-02.jpg",
+      "neon-crowd-03.jpg"
+    ]
+  },
+  "paths": {
+    "stock": "/workspace/date-dinner-dance/public/assets/london-stock",
+    "london_json": "/workspace/date-dinner-dance/public/data/london.json",
+    "london_full": "/workspace/date-dinner-dance/public/data/london-full.json",
+    "b2c_json": "/workspace/B2C/london_venues_with_images.json",
+    "b2c_zip": "/workspace/B2C/london_venues.zip",
+    "attribution": "/workspace/date-dinner-dance/public/assets/london-stock/ATTRIBUTION.md"
+  },
+  "alcohol_policy": "enforced \u2014 stock pool alcohol-free (Wikimedia landmarks + food plates + dance lights/crowds; no bar pours)"
+}

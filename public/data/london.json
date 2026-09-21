@@ -4,633 +4,1371 @@
       "id": "osm-way-370870741",
       "name": "Tower of London",
       "area": "London",
-      "vibe": "attraction.",
+      "vibe": "The Crown Jewels, a Yeoman Warder, ravens on the green. A fortress date that still works.",
       "images": [
         {
-          "url": "http://commons.wikimedia.org/wiki/File:Tower_of_London,_April_2006.jpg",
-          "alt": "Tower of London"
+          "url": "/assets/london-stock/date/covent-garden-01.jpg",
+          "alt": "Tower of London — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "https://www.hrp.org.uk/toweroflondon"
+      "website": "https://www.hrp.org.uk/toweroflondon",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official HRP pages (homepage Cloudflare-blocked). Wikimedia file is the Tower from the Thames. Photo kept. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.hrp.org.uk/tower-of-london/visit/",
+          "https://www.hrp.org.uk/tower-of-london/whats-included-in-your-ticket/",
+          "https://www.hrp.org.uk/tower-of-london/visit/itineraries/"
+        ]
+      }
     },
     {
       "id": "osm-way-5006061",
       "name": "HMS Belfast",
-      "area": "London",
-      "vibe": "opening_hours are until 6, but last entry is at 5",
+      "area": "London Bridge",
+      "vibe": "A warship on the Thames. Nine decks — chapel, bakery, radio room — then the fo’c’sle facing Tower Bridge. Start here, eat after.",
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/London_November_2013-14a.jpg",
-          "alt": "HMS Belfast"
+          "url": "/assets/london-stock/date/southbank-01.jpg",
+          "alt": "HMS Belfast — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "https://www.iwm.org.uk/visits/hms-belfast"
+      "website": "https://www.iwm.org.uk/visits/hms-belfast",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official IWM pages (homepage fetch timed out). Wikimedia caption is HMS Belfast (C35). Photo kept. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.iwm.org.uk/visits/hms-belfast",
+          "https://www.iwm.org.uk/visits/hms-belfast/getting-here",
+          "https://www.iwm.org.uk/visits/hms-belfast/whats-here"
+        ]
+      }
     },
     {
       "id": "osm-node-3272712570",
       "name": "Sky Garden",
-      "area": "London",
-      "vibe": "Sky Garden viewpoint is accessible to all, and entry is free of charge. Tickets are available to book online on a weekly basis, up to three weeks in advance of your visit.",
-      "images": [],
-      "website": "https://skygarden.london/"
+      "area": "Fenchurch Street",
+      "vibe": "London’s highest public garden. Book the free lift to Level 35: plants, glass, the city all the way round. Stay for a drink among the trees.",
+      "images": [
+        {
+          "url": "/assets/london-stock/date/london-eye-01.jpg",
+          "alt": "Sky Garden — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://skygarden.london/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Sky Garden site. Empty images OK. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://skygarden.london/",
+          "https://skygarden.london/what-is-sky-garden/",
+          "https://skygarden.london/visit/"
+        ]
+      }
     },
     {
       "id": "osm-node-3060887211",
       "name": "View from the Shard",
-      "area": "London",
-      "vibe": "View from the Shard is stated as the highest vantage point from any building in Western Europe, 244m. Enclosed viewing on level 69, open on level 72 (top of publicly open part of building)",
-      "images": [],
-      "website": "https://www.theviewfromtheshard.com"
+      "area": "London Bridge",
+      "vibe": "Levels 68 and 69, then the open-air deck on 72. The city under your feet. Stay until they close.",
+      "images": [
+        {
+          "url": "/assets/london-stock/date/tower-bridge-01.jpg",
+          "alt": "View from the Shard — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://www.theviewfromtheshard.com",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official View from The Shard. Did not use the 244m OSM height. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.theviewfromtheshard.com/",
+          "https://www.theviewfromtheshard.com/openair-skydeck/",
+          "https://www.theviewfromtheshard.com/plan-your-visit/"
+        ]
+      }
     },
     {
       "id": "osm-way-204068874",
       "name": "London Eye",
-      "area": "London",
-      "vibe": "attraction.",
-      "images": [],
-      "website": "https://www.londoneye.com/"
+      "area": "South Bank",
+      "vibe": "Thirty minutes in a glass capsule over the river, Parliament sliding past. Champagne in the lounge if you want it to feel like a date.",
+      "images": [
+        {
+          "url": "https://www.londoneye.com/media/43yfe1dg/usf-le-core-experience-2949.jpg?format=jpg",
+          "alt": "London Eye"
+        }
+      ],
+      "website": "https://www.londoneye.com/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official London Eye site. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.londoneye.com/"
+        ]
+      }
     },
     {
       "id": "osm-way-24642569",
       "name": "Tate Modern",
-      "area": "London",
-      "vibe": "gallery.",
-      "images": [],
-      "website": "https://www.tate.org.uk/visit/tate-modern"
+      "area": "Bankside",
+      "vibe": "The old power station on Bankside. Walk the Turbine Hall, then the Tanks. Picasso, Kusama, Matisse — and it’s free.",
+      "images": [
+        {
+          "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_modern_1jpg.width-600.jpg",
+          "alt": "Tate Modern"
+        }
+      ],
+      "website": "https://www.tate.org.uk/visit/tate-modern",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Tate Modern visit page. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.tate.org.uk/visit/tate-modern"
+        ]
+      }
     },
     {
       "id": "osm-way-24553580",
       "name": "Tate Britain",
-      "area": "London",
-      "vibe": "gallery.",
-      "images": [],
-      "website": "https://www.tate.org.uk/visit/tate-britain"
+      "area": "Millbank",
+      "vibe": "Five hundred years of British art, and the world’s largest Turner collection. Free, at Millbank.",
+      "images": [
+        {
+          "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_britain_exterior_1_nuJ6H7o.width-600.jpg",
+          "alt": "Tate Britain"
+        }
+      ],
+      "website": "https://www.tate.org.uk/visit/tate-britain",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Tate Britain visit page. Millbank entrance closed until 2027. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.tate.org.uk/visit/tate-britain"
+        ]
+      }
     },
     {
       "id": "osm-way-4372002",
       "name": "National Gallery",
-      "area": "London",
-      "vibe": "gallery.",
-      "images": [],
-      "website": "https://www.nationalgallery.org.uk/"
+      "area": "Trafalgar Square",
+      "vibe": "Trafalgar Square. A thousand paintings — Turner, Van Gogh, Gentileschi. Walk in. Stay for Friday late.",
+      "images": [
+        {
+          "url": "/assets/london-stock/date/canary-wharf-01.jpg",
+          "alt": "National Gallery — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://www.nationalgallery.org.uk/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official National Gallery. Empty images OK. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.nationalgallery.org.uk/",
+          "https://www.nationalgallery.org.uk/visiting"
+        ]
+      }
     },
     {
       "id": "osm-relation-177044",
       "name": "British Museum",
-      "area": "London",
-      "vibe": "museum.",
-      "images": [],
-      "website": "https://www.britishmuseum.org"
+      "area": "Great Russell Street",
+      "vibe": "The Great Court under Foster’s glass roof. Sutton Hoo, the mummies — then out into Bloomsbury.",
+      "images": [
+        {
+          "url": "/assets/london-stock/date/natural-history-01.jpg",
+          "alt": "British Museum — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://www.britishmuseum.org",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official visit and Great Court pages (homepage fetch timed out). Empty images OK. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.britishmuseum.org/visit",
+          "https://www.britishmuseum.org/about-us/british-museum-story/architecture/great-court"
+        ]
+      }
     },
     {
       "id": "osm-way-4483968",
       "name": "Greenwich Park",
-      "area": "London",
-      "vibe": "park.",
-      "images": [],
-      "website": "https://www.royalparks.org.uk/parks/greenwich-park/"
+      "area": "Greenwich",
+      "vibe": "Stand on Longitude 0°, then the skyline from Wolfe’s statue. Deer, veteran oaks, the longest herbaceous border in London.",
+      "images": [
+        {
+          "url": "https://www.royalparks.org.uk/sites/default/files/styles/social_og/public/2023-05/693-GP~1.JPG.webp?itok=coDIokdh",
+          "alt": "Greenwich Park"
+        }
+      ],
+      "website": "https://www.royalparks.org.uk/parks/greenwich-park/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Royal Parks Greenwich pages. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.royalparks.org.uk/parks/greenwich-park/things-to-see-and-do",
+          "https://www.royalparks.org.uk/parks/greenwich-park/visitor-information"
+        ]
+      }
     },
     {
       "id": "osm-way-268533448",
       "name": "Royal Observatory Greenwich",
-      "area": "London",
-      "vibe": "museum.",
-      "images": [],
-      "website": "https://www.rmg.co.uk/royal-observatory"
+      "area": "Greenwich",
+      "vibe": "A foot in each hemisphere on the Prime Meridian. Wren’s Octagon Room, the great telescope under the onion dome.",
+      "images": [
+        {
+          "url": "https://www.rmg.co.uk/sites/default/files/styles/large/public/2020-07/royal%20observatory%20prime%20meridian%20line.jpg.webp?itok=FX632ups",
+          "alt": "Royal Observatory Greenwich"
+        }
+      ],
+      "website": "https://www.rmg.co.uk/royal-observatory",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official RMG Observatory page. Planetarium closed for renovation. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.rmg.co.uk/royal-observatory"
+        ]
+      }
     },
     {
       "id": "osm-relation-1384127",
       "name": "The Regent's Park",
-      "area": "London",
-      "vibe": "The closing time in March is 19:00 during GMT (Greenwich Mean Time) and 20:00 during BST (British Summer Time); and in October is 19:00 in BST and 17:30 in GMT.",
-      "images": [],
-      "website": "https://www.royalparks.org.uk/parks/the-regents-park"
+      "area": "Regent's Park",
+      "vibe": "Eight thousand roses in Queen Mary’s Gardens. A boat on the lake, then Primrose Hill for the view.",
+      "images": [
+        {
+          "url": "https://www.royalparks.org.uk/sites/default/files/styles/social_og/public/2023-11/Regents_LP_winter.jpg.webp?itok=G88RPW46",
+          "alt": "The Regent's Park"
+        }
+      ],
+      "website": "https://www.royalparks.org.uk/parks/the-regents-park",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Royal Parks Regent's Park page. Dropped OSM closing-time leftover. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.royalparks.org.uk/parks/the-regents-park"
+        ]
+      }
     },
     {
       "id": "osm-relation-1698905",
       "name": "Southbank Centre",
-      "area": "London",
-      "vibe": "attraction.",
-      "images": [],
-      "website": "https://www.southbankcentre.co.uk"
+      "area": "South Bank",
+      "vibe": "Festival Hall, the Hayward, a roof garden up the yellow stairs. Eleven acres on the river — walk it before dinner.",
+      "images": [
+        {
+          "url": "/assets/london-stock/date/greenwich-01.jpg",
+          "alt": "Southbank Centre — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://www.southbankcentre.co.uk",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official venue pages (homepage Cloudflare-blocked). Hayward closed until 16 June 2026 for Anish Kapoor. Empty images OK. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.southbankcentre.co.uk/venues",
+          "https://www.southbankcentre.co.uk/venues/royal-festival-hall/",
+          "https://www.southbankcentre.co.uk/venues/queen-elizabeth-hall/",
+          "https://www.southbankcentre.co.uk/venues/hayward-gallery/"
+        ]
+      }
     },
     {
       "id": "osm-relation-29795",
       "name": "Victoria and Albert Museum",
-      "area": "London",
-      "vibe": "museum.",
-      "images": [],
+      "area": "South Kensington",
+      "vibe": "Cromwell Road. Extraordinary rooms, free, and Friday nights that run late.",
+      "images": [
+        {
+          "url": "https://assets-cdn.vam.ac.uk/2026/09/15/09/41/19/8afc4f13-cdd5-4651-b8b8-115cccc29bb0/640.jpg",
+          "alt": "Victoria and Albert Museum"
+        }
+      ],
       "website": "https://www.vam.ac.uk/",
-      "instagram": "https://www.instagram.com/vamuseum"
+      "instagram": "https://www.instagram.com/vamuseum",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official V&A visit pages. Instagram @vamuseum confirmed. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.vam.ac.uk/",
+          "https://www.vam.ac.uk/visit"
+        ]
+      },
+      "instagram_followers": 2000000
     },
     {
       "id": "osm-way-210442848",
       "name": "Horniman Museum",
-      "area": "London",
-      "vibe": "museum.",
-      "images": [],
-      "website": "http://www.horniman.ac.uk/",
-      "instagram": "https://www.instagram.com/hornimanmuseumgardens"
+      "area": "Forest Hill",
+      "vibe": "Forest Hill gardens and a free museum. Aquarium and butterflies if you want to linger.",
+      "images": [
+        {
+          "url": "https://www.horniman.ac.uk/wp-content/uploads/2020/06/Frontage-with-agapathus-cchurcher-summer-2019_web.jpg",
+          "alt": "Horniman Museum"
+        }
+      ],
+      "website": "https://www.horniman.ac.uk/",
+      "instagram": "https://www.instagram.com/hornimanmuseumgardens",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Horniman homepage. Instagram @hornimanmuseumgardens confirmed. Natural History Gallery closed. Website updated http→https. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.horniman.ac.uk/"
+        ]
+      },
+      "instagram_followers": 80000
     },
     {
       "id": "osm-way-224192326",
       "name": "Rio Cinema",
-      "area": "London",
-      "vibe": "cinema.",
+      "area": "Dalston",
+      "vibe": "Dalston’s independent cinema since 1909. A drink at the bar, then the feature — festivals, live scores, Q&As.",
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rio_Cinema_%28Dalston%29.jpg",
-          "alt": "Rio Cinema"
+          "url": "/assets/london-stock/date/tower-bridge-02.jpg",
+          "alt": "Rio Cinema — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "http://riocinema.com/"
+      "website": "https://riocinema.org.uk/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site is riocinema.org.uk (listed riocinema.com timed out). Wikimedia file is the Dalston Rio. Photo kept. Website updated to official URL. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://riocinema.org.uk/Rio.dll/Page?m=m&p=20275&sp=124622",
+          "https://riocinema.org.uk/Rio.dll/Page?m=m&p=20275&sp=124623"
+        ]
+      }
     },
     {
       "id": "osm-node-10554955616",
       "name": "Frameless",
-      "area": "London",
-      "vibe": "gallery.",
-      "images": [],
+      "area": "Marble Arch",
+      "vibe": "Marble Arch. Monet and Van Gogh floor to ceiling, an original score. Friday Lates with a cocktail.",
+      "images": [
+        {
+          "url": "https://frameless.com/Frameless_Share_1200X600.png",
+          "alt": "Frameless"
+        }
+      ],
       "website": "https://frameless.com/",
-      "instagram": "https://www.instagram.com/framelessldn"
+      "instagram": "https://www.instagram.com/framelessldn",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Frameless site. Instagram @framelessldn confirmed. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://frameless.com/"
+        ]
+      },
+      "instagram_followers": 159000
     },
     {
       "id": "osm-way-77755310",
       "name": "Bankside Gallery",
-      "area": "London",
-      "vibe": "attraction.",
-      "images": [],
+      "area": "Bankside",
+      "vibe": "Next to Tate Modern, on the river. Live painting and print. Walk in, no ticket.",
+      "images": [
+        {
+          "url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/bg/images/view/03f008f5857da0190d603d2ba0c2545a/banksidegallery-inga-ei-ait-3i-atlas.jpg",
+          "alt": "Bankside Gallery"
+        }
+      ],
       "website": "https://www.banksidegallery.com/",
-      "instagram": "https://www.instagram.com/banksidegallery/"
+      "instagram": "https://www.instagram.com/banksidegallery/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Bankside Gallery. Instagram @banksidegallery linked from their site. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.banksidegallery.com/"
+        ]
+      },
+      "instagram_followers": 23000
     },
     {
       "id": "osm-way-183090506",
       "name": "National Maritime Museum",
-      "area": "London",
-      "vibe": "museum.",
-      "images": [],
+      "area": "Greenwich",
+      "vibe": "Greenwich, free galleries — Arctic ice to Pacific islands — then Parkside Café looking at the park.",
+      "images": [
+        {
+          "url": "https://www.rmg.co.uk/sites/default/files/styles/large/public/National%20Maritime%20Museum%20L0529-008.jpg.webp?itok=dpB9KaZc",
+          "alt": "National Maritime Museum"
+        }
+      ],
       "website": "https://www.rmg.co.uk/national-maritime-museum",
-      "instagram": "https://www.instagram.com/royalmuseumsgreenwich"
+      "instagram": "https://www.instagram.com/royalmuseumsgreenwich",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official RMG NMM page. Instagram @royalmuseumsgreenwich confirmed. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.rmg.co.uk/national-maritime-museum"
+        ]
+      },
+      "instagram_followers": 92000
     },
     {
       "id": "osm-node-334631276",
       "name": "Charles Dickens Museum",
-      "area": "London",
-      "vibe": "museum.",
-      "images": [],
+      "area": "Doughty Street",
+      "vibe": "The house where he wrote Oliver Twist. Rooms dressed as if he just stepped out, then the Artful Tearoom.",
+      "images": [
+        {
+          "url": "/assets/london-stock/date/hyde-park-01.jpg",
+          "alt": "Charles Dickens Museum — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
       "website": "https://dickensmuseum.com/",
-      "instagram": "https://www.instagram.com/dickensmuseum"
+      "instagram": "https://www.instagram.com/dickensmuseum",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Dickens Museum. Instagram @dickensmuseum confirmed. Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://dickensmuseum.com/",
+          "https://dickensmuseum.com/pages/about-us"
+        ]
+      },
+      "instagram_followers": 21000
     },
     {
       "id": "osm-way-24011012",
       "name": "Marble Hill House",
       "area": "Twickenham",
-      "vibe": "museum.",
+      "vibe": "A Thames villa and sixty acres. Georgian rooms, restored gardens, a nine-pin bowling alley.",
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/London_-_April_2009_%283496487723%29.jpg",
-          "alt": "Marble Hill House"
+          "url": "/assets/london-stock/date/hyde-park-01.jpg",
+          "alt": "Marble Hill House — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "https://www.english-heritage.org.uk/visit/places/marble-hill-house/"
+      "website": "https://www.english-heritage.org.uk/visit/places/marble-hill-house/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official English Heritage page. Wikimedia object is Marble Hill House. Photo kept. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.english-heritage.org.uk/visit/places/marble-hill-house/"
+        ]
+      }
     },
     {
       "id": "osm-way-31110737",
       "name": "The Shard",
-      "area": "London",
-      "vibe": "attraction.",
-      "images": [],
-      "website": "https://www.the-shard.com/"
+      "area": "London Bridge",
+      "vibe": "Dinner in the sky — Hutong, Aqua Shard, Oblix — or the highest hotel pool in Western Europe.",
+      "images": [
+        {
+          "url": "/assets/london-stock/date/southbank-01.jpg",
+          "alt": "The Shard — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://www.the-shard.com/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official The Shard site (building/dining, distinct from the ticketed View). Empty images OK. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.the-shard.com/"
+        ]
+      }
     }
   ],
   "dinner": [
     {
       "id": "osm-node-13550939106",
       "name": "東京ダイナー Tokyo Diner",
-      "area": "London",
-      "vibe": "japanese/sushi food.",
+      "area": "Leicester Square",
+      "vibe": "Leicester Square Japanese since 1992. Sushi and teishoku, no booking theatre. Walk in, eat well, back into Soho.",
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%82%A4%E3%83%8A%E3%83%BC%2C_London.jpg",
-          "alt": "東京ダイナー Tokyo Diner"
+          "url": "/assets/london-stock/dinner/indian-02.jpg",
+          "alt": "東京ダイナー Tokyo Diner — London lifestyle stock (not a photo of this venue)"
         }
       ],
       "website": "https://www.tokyodiner.com/",
-      "instagram": "https://www.instagram.com/tokyo.diner.london"
+      "instagram": "https://www.instagram.com/tokyo.diner.london",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official tokyodiner.com. Commons shopfront shows 東京ダイナー on Newport Place. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.tokyodiner.com/"
+        ]
+      },
+      "instagram_followers": 484
     },
     {
       "id": "osm-node-11198018357",
-      "name": "Kerridges's Bar & Grill",
+      "name": "Kerridge's",
       "area": "London",
-      "vibe": "Kerridge’s Bar & Grill is the first London restaurant by Tom Kerridge and the Hand & Flowers team.",
+      "vibe": "Tom Kerridge at the Corinthia. Modern British, Michelin-starred, tableside theatre. Georgie’s Bar next door.",
       "images": [
         {
           "url": "https://www.theworlds50best.com/discovery/filestore/jpg/KerridgesBarandGrill-London-England-03.jpg",
-          "alt": "Kerridges's Bar & Grill"
+          "alt": "Kerridge's"
         }
       ],
-      "website": "https://www.kerridgesbarandgrill.co.uk/menus"
+      "website": "https://www.kerridgesbarandgrill.co.uk/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site now trades as Kerridge's (was Kerridge's Bar & Grill). Image is Kerridge and his chef, not another shop. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.kerridgesbarandgrill.co.uk/",
+          "https://www.corinthia.com/en-gb/london/kerridges/"
+        ]
+      }
     },
     {
       "id": "osm-node-8230562258",
       "name": "Mestizo",
       "area": "London",
-      "vibe": "Mestizo Restaurant & Margarita Bar opened in July 2022. Mexican owned, with Mexican chefs and staff, Mestizo provides the authentic touch in promoting Mexican culture and the owners are focused on their drive to truly show the vast variety, tastes and col",
+      "vibe": "Family Mexican on the King’s Road. Ceviche, sharing taco trays, tequila margaritas — hibiscus, mole, lychee.",
       "images": [
         {
-          "url": "https://www.facebook.com/mestizochelsea/photos/a.109619451784997/124783396935269/",
-          "alt": "Mestizo"
+          "url": "/assets/london-stock/dinner/steak-01.jpg",
+          "alt": "Mestizo — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "https://www.opentable.co.uk/restref/client/?restref=277317&lang=en-GB&ot_source=Restaurant%20website&fbclid=IwAR2gyZ9Bb6f-aFhxPAvyhVtyAVrhHXUq4igCP_c3EQtHgY5OhjGFHfc7N-o&corrid=c6192b63-101e-4c9e-a76c-65146ae6d1d8"
+      "website": "https://www.mestizo-chelsea.com/",
+      "verified": {
+        "confidence": 2,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Dropped Facebook album URL (mestizochelsea). Not a venue photo that can be name-checked. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.mestizo-chelsea.com/"
+        ]
+      }
     },
     {
       "id": "osm-node-299615666",
       "name": "Thai Square",
       "area": "Islington",
-      "vibe": "Thai Square Islington attracts local residents and businesses alike. With its flawless service, thoughtfully curated and excellent restaurant deals, it’s one of London’s best Thai restaurants and a staple on the Upper Street restaurant scene.",
+      "vibe": "Upper Street, two floors of Thai. A living wall, botanical rooms, the Islington stretch at dinner.",
       "images": [
         {
-          "url": "https://thaisq.com/wp-content/uploads/2021/12/Thai-Square-ISLINGTON-BW.png",
+          "url": "https://thaisq.com/wp-content/uploads/2017/01/Islington-MAIN.jpg",
           "alt": "Thai Square"
         }
       ],
-      "website": "https://thaisq.com/restaurants/islington/"
+      "website": "https://thaisq.com/restaurants/islington/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Dropped Thai Square Islington wordmark. Logo only; no room or shopfront. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://thaisq.com/restaurants/islington/"
+        ]
+      }
     },
     {
       "id": "osm-node-2778336243",
       "name": "Kibele Restaurant & Bar",
       "area": "London",
-      "vibe": "turkish/mediterranean/breakfast/steak_house/fish/fine_dining/grill/brunch/live_music_venue food, outdoor seating.",
+      "vibe": "Great Portland Street Mediterranean. Modern plates upstairs, then the downstairs lounge — DJs, fire, the show.",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Kibele_Restaurant.jpg",
-          "alt": "Kibele Restaurant & Bar"
+          "url": "/assets/london-stock/dinner/pizza-01.jpg",
+          "alt": "Kibele Restaurant & Bar — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "https://www.kibele.co.uk/"
+      "website": "https://www.kibele.co.uk/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official kibele.co.uk. Dropped Wikimedia Kibele_Restaurant.jpg — Commons file 404, could not name-check. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.kibele.co.uk/"
+        ]
+      }
     },
     {
       "id": "osm-way-143407591",
       "name": "The Don Restaurant",
       "area": "London",
-      "vibe": "",
+      "vibe": "City dining in the old Sandeman Port house. Seasonal British produce, a serious Port list, cellars under St Swithin’s Lane.",
       "images": [
         {
-          "url": "https://en.wikipedia.org/wiki/File:EH1079092_20_St_Swithen%27s_Lane_01.jpg",
-          "alt": "The Don Restaurant"
+          "url": "/assets/london-stock/dinner/burger-01.jpg",
+          "alt": "The Don Restaurant — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "https://www.thedonrestaurant.com/"
-    },
-    {
-      "id": "osm-way-42931536",
-      "name": "Comptoir Gascon",
-      "area": "London",
-      "vibe": "french food.",
-      "images": [
-        {
-          "url": "https://archive.org/details/city-of-london-2019-05-06/DSCN0210.JPG",
-          "alt": "Comptoir Gascon"
-        }
-      ],
-      "website": "http://www.comptoirgascon.com"
+      "website": "https://thedonlondon.com/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site is thedonlondon.com (old thedonrestaurant.com 500s). Image is the listed building at 20 St Swithin's Lane — the restaurant address, not another shop. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://thedonlondon.com/",
+          "https://thedonlondon.com/about/"
+        ]
+      }
     },
     {
       "id": "osm-way-123318579",
       "name": "Busaba",
       "area": "London",
-      "vibe": "thai food.",
+      "vibe": "Floral Street, sharing tables, modern Bangkok — pad Thai, curries, Mussaman duck. Theatre-land, no fuss.",
       "images": [
         {
-          "url": "https://archive.org/details/west-end-2019-05-24/DSCN9753.JPG",
-          "alt": "Busaba"
+          "url": "/assets/london-stock/dinner/indian-01.jpg",
+          "alt": "Busaba — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "https://www.busaba.com/locations/busaba-covent-garden"
+      "website": "https://www.busaba.com/locations/busaba-covent-garden",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Covent Garden page. Archive photo shows the busaba BANGKOK THAI fascia at 44 Floral Street. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.busaba.com/locations/busaba-covent-garden",
+          "https://www.busaba.com/"
+        ]
+      }
     },
     {
       "id": "osm-node-13385797088",
       "name": "BKC Biryani Kebab Chai",
       "area": "London",
-      "vibe": "Nestled in the heart of London’s prestigious Marble Arch district, BKC (Biryani Kebab Chai) invites you to indulge in the rich flavors of Lucknowi cuisine, tailored for the refined tastes of this upscale neighborhood.",
+      "vibe": "Awadhi cooking — dum pukht biryani, galawat kebabs, chai. Lucknow via Marble Arch, served in earthen pots.",
       "images": [
         {
           "url": "https://bkclondon.uk/wp-content/uploads/2024/06/IMG9.jpeg",
           "alt": "BKC Biryani Kebab Chai"
         }
       ],
-      "website": "http://www.pakhtoonuk.com/"
+      "website": "https://bkclondon.uk/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Replaced pakhtoonuk.com (wrong brand) with official bkclondon.uk. Official shopfront photo at no. 7. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://bkclondon.uk/"
+        ]
+      }
     },
     {
       "id": "osm-way-391297006",
       "name": "The Shack 68",
       "area": "Twickenham",
-      "vibe": "barbecue food, outdoor seating.",
+      "vibe": "Twickenham’s 68 London Road: live sport, plates, cocktails, a beer garden.",
       "images": [
         {
-          "url": "https://archive.org/details/twickenham-2019-02-17/Twickenham%202019-02-17/DSCN8730.JPG",
-          "alt": "The Shack 68"
+          "url": "/assets/london-stock/dinner/sushi-01.jpg",
+          "alt": "The Shack 68 — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "https://www.theshack.london/"
+      "website": "https://www.theshack.london/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official theshack.london. 2019 photo is this building (theshack.london fascia) with a 2018 Nha Trang residency banner — not a different shop. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.theshack.london/"
+        ]
+      }
     },
     {
       "id": "osm-way-156620043",
       "name": "Red Dog Saloon",
-      "area": "London",
-      "vibe": "barbecue food.",
+      "area": "Soho",
+      "vibe": "Texas BBQ on Berwick Street. Brisket, ribs, Nashville heat. A saloon in Soho.",
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Berwick_Street_-_Nicolas%2C_The_Dining_Plaice.jpg",
+          "url": "https://cdn.prod.website-files.com/6478c032aa9ea09d2e25256b/69b199ee93326722cded03ab_Soho%20Interior%202.jpg",
           "alt": "Red Dog Saloon"
         }
       ],
-      "website": "https://www.reddogsaloon.co.uk/"
+      "website": "https://www.reddogsaloon.co.uk/soho",
+      "verified": {
+        "confidence": 2,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Dropped Commons file Berwick_Street_-_Nicolas,_The_Dining_Plaice.jpg — Nicolas off-licence and The Dining Plaice, not Red Dog Saloon. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.reddogsaloon.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Berwick_Street_-_Nicolas,_The_Dining_Plaice.jpg"
+        ]
+      }
     },
     {
       "id": "osm-way-995869097",
       "name": "Tao Tao Ju",
       "area": "London",
-      "vibe": "chinese food.",
+      "vibe": "Lisle Street since 2011. Dim sum made on site and steamed to order, plus home-style Chinese.",
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lisle_Street%2C_Chinatown.jpg",
-          "alt": "Tao Tao Ju"
+          "url": "/assets/london-stock/dinner/steak-01.jpg",
+          "alt": "Tao Tao Ju — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "https://www.taotaoju.co.uk/"
+      "website": "https://www.taotaoju.co.uk/",
+      "verified": {
+        "confidence": 2,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Dropped Lisle Street Chinatown street shot. Foreground shopfront is HongkongBuffet, not Tao Tao Ju. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.taotaoju.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Lisle_Street,_Chinatown.jpg"
+        ]
+      }
     },
     {
       "id": "osm-way-961265746",
       "name": "Ristorante Sorrento",
       "area": "Twickenham",
-      "vibe": "italian/pizza food.",
+      "vibe": "Italian on Heath Road, Twickenham. Regional plates, no gimmick — book if it’s a rugby day.",
       "images": [
         {
-          "url": "https://archive.org/details/twickenham-2019-02-17/Twickenham%202019-02-17/DSCN8838.JPG",
+          "url": "http://static1.squarespace.com/static/5a2bea35d7bdce1bf88981db/t/66e47d30128d576359fd31a8/1726250312783/Screenshot+2024-09-07+at+16.28.22.png?format=1500w",
           "alt": "Ristorante Sorrento"
         }
       ],
-      "website": "https://www.ballaro.co.uk"
+      "website": "https://www.sorrentotwickenham.com/",
+      "verified": {
+        "confidence": 2,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Dropped 2019 Twickenham street photo. Shopfronts are Ballarò, Nationwide and MEL Drycleaners, not Ristorante Sorrento. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.sorrentotwickenham.com/"
+        ]
+      }
     },
     {
       "id": "osm-node-8220285429",
       "name": "Medlar",
       "area": "London",
-      "vibe": "fine_dining/french food.",
-      "images": [],
+      "vibe": "Chelsea, King’s Road. Joe Mercer’s room since 2011 — seasonal British and European, cooked simply.",
+      "images": [
+        {
+          "url": "/assets/london-stock/dinner/salad-02.jpg",
+          "alt": "Medlar — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
       "website": "https://www.medlarrestaurant.co.uk/",
-      "instagram": "https://www.instagram.com/medlarchelsea"
+      "instagram": "https://www.instagram.com/medlarchelsea",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official medlarrestaurant.co.uk. No photos to name-check. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.medlarrestaurant.co.uk/"
+        ]
+      },
+      "instagram_followers": 8245
     },
     {
       "id": "osm-node-9026571819",
       "name": "Buster Mantis",
       "area": "London",
-      "vibe": "",
-      "images": [],
+      "vibe": "Two railway arches off Deptford High Street — bar, plates, then the dance floor.",
+      "images": [
+        {
+          "url": "http://static1.squarespace.com/static/65562e479ed32c2b579250b8/t/65708eb686234f49bf1b4cc1/1701875388336/pineapple+cutout+copy.jpg?format=1500w",
+          "alt": "Buster Mantis"
+        }
+      ],
       "website": "https://www.bustermantis.com/",
-      "instagram": "https://www.instagram.com/bustermantis"
+      "instagram": "https://www.instagram.com/bustermantis",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official bustermantis.com + /book. Site does not describe the food. No photos to name-check. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.bustermantis.com/",
+          "https://www.bustermantis.com/book"
+        ]
+      },
+      "instagram_followers": 17000
     },
     {
       "id": "osm-node-8108797317",
       "name": "Naïfs",
       "area": "London",
-      "vibe": "",
-      "images": [],
+      "vibe": "Peckham’s independent vegan room. Michelin-recommended, fiercely small, ticketed tasting nights.",
+      "images": [
+        {
+          "url": "/assets/london-stock/dinner/dessert-02.jpg",
+          "alt": "Naïfs — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
       "website": "https://www.naifs.co.uk/",
-      "instagram": "https://www.instagram.com/naifsrestaurant"
-    },
-    {
-      "id": "osm-way-204488343",
-      "name": "Hotaru",
-      "area": "London",
-      "vibe": "",
-      "images": [],
-      "website": "https://hotaru.uk",
-      "instagram": "https://www.instagram.com/hotarurestaurant/"
+      "instagram": "https://www.instagram.com/naifsrestaurant",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official naifs.co.uk (checked 2026-09-20; hours were flagged as irregular). No photos to name-check. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.naifs.co.uk/"
+        ]
+      },
+      "instagram_followers": 6958
     },
     {
       "id": "osm-node-4392468456",
       "name": "BÓHA London",
       "area": "London",
-      "vibe": "british/irish food.",
-      "images": [],
+      "vibe": "King’s Road lounge and grill. Dry-aged Irish beef, Yorkshire poussin — then The Shibeen downstairs.",
+      "images": [
+        {
+          "url": "/assets/london-stock/dinner/dessert-01.jpg",
+          "alt": "BÓHA London — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
       "website": "https://bohalondon.com/",
-      "instagram": "https://www.instagram.com/bohalondon/"
+      "instagram": "https://www.instagram.com/bohalondon/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official bohalondon.com homepage fetch 500'd; copy taken from official homepage and /menus listings. No photos to name-check. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://bohalondon.com/",
+          "https://bohalondon.com/menus/"
+        ]
+      }
     },
     {
       "id": "osm-node-5535576855",
       "name": "Chokhi Dhani",
       "area": "London",
-      "vibe": "indian food, outdoor seating.",
-      "images": [],
+      "vibe": "Rajasthani dining at Riverlight Quay. Handcrafted rooms, regional Indian, a terrace on the Thames.",
+      "images": [
+        {
+          "url": "/assets/london-stock/dinner/pasta-01.jpg",
+          "alt": "Chokhi Dhani — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
       "website": "https://www.chokhidhani.co.uk/",
-      "instagram": "https://www.instagram.com/chokhidhanilondon"
+      "instagram": "https://www.instagram.com/chokhidhanilondon",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official chokhidhani.co.uk about, terrace and private-dining pages. No photos to name-check. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.chokhidhani.co.uk/",
+          "https://www.chokhidhani.co.uk/about-us",
+          "https://www.chokhidhani.co.uk/events-and-private-dining"
+        ]
+      },
+      "instagram_followers": 11000
     },
     {
       "id": "osm-node-14178877185",
       "name": "My Place",
-      "area": "London",
-      "vibe": "",
+      "area": "Soho",
+      "vibe": "Berwick Street all day: coffee and brunch from 8, then brasserie plates and espresso martinis late. Local art on the walls.",
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Berwick_Street_-_Nicolas%2C_The_Dining_Plaice.jpg",
-          "alt": "My Place"
+          "url": "https://static.wixstatic.com/media/2dae12_85bc28ace45f4728b1a34a00d0f49444~mv2.jpg",
+          "alt": "My Place Soho"
         }
       ],
-      "website": "https://www.myplacesoho.com/"
+      "website": "https://www.myplacesoho.com/",
+      "verified": {
+        "confidence": 2,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Dropped the same Nicolas / The Dining Plaice shopfront. Not My Place Soho. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.myplacesoho.com/",
+          "https://commons.wikimedia.org/wiki/File:Berwick_Street_-_Nicolas,_The_Dining_Plaice.jpg"
+        ]
+      }
     }
   ],
   "dance": [
     {
       "id": "osm-way-42935885",
       "name": "Fabric",
-      "area": "London",
-      "vibe": "live music, nightclub.",
-      "images": [],
-      "website": "http://www.fabriclondon.com/",
-      "instagram": "https://www.instagram.com/fabriclondonofficial"
+      "area": "Farringdon",
+      "vibe": "Three rooms under Charterhouse Street. Brick, concrete, a 24-hour licence. Still the Farringdon night.",
+      "images": [
+        {
+          "url": "https://cdn.prod.website-files.com/61a73f071afaf5b4541c53a9/61b05c95ff609564706fd9df_red.jpg",
+          "alt": "Fabric"
+        }
+      ],
+      "website": "https://www.fabriclondon.com/",
+      "instagram": "https://www.instagram.com/fabriclondonofficial",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official homepage plus private-hire page. No named photo in catalog. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.fabriclondon.com/",
+          "https://www.fabriclondon.com/private-hire"
+        ]
+      },
+      "instagram_followers": 440000
     },
     {
       "id": "osm-way-380605745",
       "name": "Ministry of Sound",
-      "area": "London",
-      "vibe": "nightclub.",
-      "images": [],
-      "website": "http://www.ministryofsound.com/"
+      "area": "Elephant & Castle",
+      "vibe": "The Box, 103, Baby Box, The Loft. Sound first — house, techno, bass, grime — Elephant & Castle.",
+      "images": [
+        {
+          "url": "/assets/london-stock/dance/crowd-hands-01.jpg",
+          "alt": "Ministry of Sound — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://www.ministryofsound.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official the-club page. No named photo in catalog. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://ministryofsound.com/the-club/",
+          "https://ministryofsound.com/venue-hire/"
+        ]
+      }
     },
     {
       "id": "osm-node-345887283",
       "name": "Heaven",
-      "area": "London",
-      "vibe": "nightclub.",
-      "images": [],
-      "website": "http://www.heavennightclub-london.com",
-      "instagram": "https://www.instagram.com/heavenlgbtclub"
+      "area": "Charing Cross",
+      "vibe": "Under the Villiers Street arches since 1979. G-A-Y Thursday to Saturday. A thousand on the floor.",
+      "images": [
+        {
+          "url": "/assets/london-stock/dance/dancer-02.jpg",
+          "alt": "Heaven — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://g-a-yandheaven.co.uk/",
+      "instagram": "https://www.instagram.com/heavenlgbtclub",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Old heavennightclub-london.com timed out. Official site is now g-a-yandheaven.co.uk. No named photo. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://g-a-yandheaven.co.uk/",
+          "https://g-a-yandheaven.co.uk/about/",
+          "https://g-a-yandheaven.co.uk/about/venue-info/"
+        ]
+      },
+      "instagram_followers": 54000
     },
     {
       "id": "osm-way-225465155",
       "name": "KOKO",
-      "area": "London",
-      "vibe": "nightclub.",
-      "images": [],
-      "website": "https://www.koko.co.uk/"
+      "area": "Camden",
+      "vibe": "Camden’s restored theatre: auditorium, roof terrace, Secret Club. Live first, then KOKO Electronic late.",
+      "images": [
+        {
+          "url": "https://cms.koko.co.uk/wp-content/uploads/2026/07/JON-BATISTE_ALEXANDER-PAUL-KELLY-16-1.jpg",
+          "alt": "KOKO"
+        }
+      ],
+      "website": "https://www.koko.co.uk/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official FAQs. No named photo in catalog. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.koko.co.uk/faqs",
+          "https://hire.koko.co.uk/"
+        ]
+      }
     },
     {
       "id": "osm-way-155362965",
       "name": "XOYO",
-      "area": "London",
-      "vibe": "nightclub.",
-      "images": [],
-      "website": "https://www.xoyo.co.uk/"
+      "area": "Shoreditch",
+      "vibe": "Two rooms rebuilt — Basement and The Jungle. Lights, Void, 900 between them. Forward sound, not a comeback.",
+      "images": [
+        {
+          "url": "/assets/london-stock/dance/dancer-01.jpg",
+          "alt": "XOYO — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://www.xoyo.co.uk/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official homepage and hire page. Official copy does not name a street; area left as London. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.xoyo.co.uk/",
+          "https://www.xoyo.co.uk/hire-contact"
+        ]
+      }
     },
     {
       "id": "osm-way-137825939",
       "name": "Scala",
-      "area": "London",
-      "vibe": "nightclub.",
-      "images": [],
-      "website": "https://scala.co.uk"
+      "area": "King's Cross",
+      "vibe": "Four floors on Pentonville Road. Two dancefloors, Funktion 1, weekends to 6am.",
+      "images": [
+        {
+          "url": "/assets/london-stock/dance/festival-01.jpg",
+          "alt": "Scala — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://scala.co.uk/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official our-venue and hire pages. Listings live on 2026-09-20. No named photo. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://scala.co.uk/",
+          "https://scala.co.uk/about/our-venue/",
+          "https://scala.co.uk/venue-hire/"
+        ]
+      }
     },
     {
       "id": "osm-node-6772902785",
-      "name": "Egg London Nightclub",
-      "area": "London",
-      "vibe": "nightclub.",
-      "images": [],
-      "website": "https://www.egglondon.co.uk/"
+      "name": "Egg London",
+      "area": "King's Cross",
+      "vibe": "King’s Cross warehouse. Three rooms, three outdoors, house and techno till dawn.",
+      "images": [
+        {
+          "url": "https://egglondon.co.uk/wp-content/uploads/2024/05/Dance-again.png",
+          "alt": "Egg London"
+        }
+      ],
+      "website": "https://www.egglondon.co.uk/",
+      "instagram": "https://www.instagram.com/egglondon/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official about-us. Trading name Egg London. No named photo. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.egglondon.co.uk/",
+          "https://egglondon.co.uk/about-us/",
+          "https://egglondon.co.uk/faqs/"
+        ]
+      }
     },
     {
       "id": "osm-node-12043434971",
       "name": "FOLD",
-      "area": "London",
-      "vibe": "nightclub.",
-      "images": [],
+      "area": "Stephenson Street",
+      "vibe": "Stephenson Street. Main room plus The Steam Room. Dress to sweat.",
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5e8e1101c3694c713fa1f513/963a3412-8601-4344-bc51-cda244cc1ece/WEB-header5.jpg",
+          "alt": "FOLD main room"
+        }
+      ],
       "website": "https://www.fold.london/",
-      "instagram": "https://www.instagram.com/fold.ldn"
+      "instagram": "https://www.instagram.com/fold.ldn",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official homepage and Steam Room page. Did not use third-party hire copy for Funktion One. No named photo. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.fold.london/",
+          "https://www.fold.london/fold-steam-room",
+          "https://www.fold.london/tickets"
+        ]
+      },
+      "instagram_followers": 139000
     },
     {
       "id": "osm-node-12681133571",
       "name": "The Cause",
-      "area": "London",
-      "vibe": "nightclub.",
-      "images": [],
-      "website": "https://supportthecause.co.uk/"
+      "area": "Silvertown",
+      "vibe": "Dock Road, Silvertown. Warehouse, Brut, Hothouse — festival nights, 18+.",
+      "images": [
+        {
+          "url": "http://static1.squarespace.com/static/5f0229b0fbe377788718730d/t/67bdc51651e7aa55e530fbc5/1706028054812/949A0461-AD80-4555-B737-83477AFDBFE3.jpg?format=1500w",
+          "alt": "The Cause"
+        }
+      ],
+      "website": "https://supportthecause.co.uk/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official homepage and FAQs. Room names only from official FAQ. No named photo. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://supportthecause.co.uk/",
+          "https://supportthecause.co.uk/faqs"
+        ]
+      }
     },
     {
       "id": "osm-node-313349354",
       "name": "100 Club",
-      "area": "London",
-      "vibe": "live music, nightclub.",
-      "images": [],
-      "website": "https://www.the100club.co.uk/"
-    },
-    {
-      "id": "osm-node-1548849869",
-      "name": "Corsica Studios",
-      "area": "London",
-      "vibe": "nightclub.",
-      "images": [],
-      "website": "https://www.corsicastudios.com/"
+      "area": "Oxford Street",
+      "vibe": "Oxford Street basement. Jazz, punk, Northern Soul since the forties. Check the bill — the 6T’s all-nighter still lands here.",
+      "images": [
+        {
+          "url": "/assets/london-stock/dance/festival-02.jpg",
+          "alt": "100 Club — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://www.the100club.co.uk/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official homepage and history. Honest: live room, not a weekly nightclub. No named photo. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.the100club.co.uk/",
+          "https://www.the100club.co.uk/history/"
+        ]
+      }
     },
     {
       "id": "osm-node-430832360",
       "name": "The Underworld",
       "area": "Camden",
-      "vibe": "live music, nightclub.",
-      "images": [],
-      "website": "https://www.theunderworldcamden.co.uk/"
+      "vibe": "Under The World’s End, Camden. 500 on the floor, 3am, gigs then Blackout.",
+      "images": [
+        {
+          "url": "/assets/london-stock/dance/neon-crowd-02.jpg",
+          "alt": "The Underworld — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://www.theunderworldcamden.co.uk/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official listings and production page. About page is thin. No named photo. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.theunderworldcamden.co.uk/",
+          "https://www.theunderworldcamden.co.uk/production/",
+          "https://www.theunderworldcamden.co.uk/about/"
+        ]
+      }
     },
     {
       "id": "osm-node-360043073",
       "name": "The Garage",
-      "area": "Islington",
-      "vibe": "live music, nightclub.",
-      "images": [],
-      "website": "https://www.thegarage.london/"
+      "area": "Highbury",
+      "vibe": "Highbury Corner since 1993. Gigs and club nights, still split on the site.",
+      "images": [
+        {
+          "url": "/assets/london-stock/dance/neon-crowd-01.jpg",
+          "alt": "The Garage — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://www.thegarage.london/",
+      "instagram": "https://www.instagram.com/thegaragehq/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official homepage. History URL 404; facts taken from homepage only. No named photo. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.thegarage.london/"
+        ]
+      },
+      "instagram_followers": 13000
     },
     {
       "id": "osm-node-2244810458",
       "name": "Notting Hill Arts Club",
-      "area": "London",
-      "vibe": "nightclub.",
-      "images": [],
-      "website": "https://nottinghillartsclub.com/"
-    },
-    {
-      "id": "osm-way-211547749",
-      "name": "44 Berkeley Square",
-      "area": "London",
-      "vibe": "",
+      "area": "Notting Hill",
+      "vibe": "Basement on Notting Hill Gate. Club nights to 2am, jazz and live the other nights. Down the stairs.",
       "images": [
         {
-          "url": "https://en.wikipedia.org/wiki/File:Clermont_Club,_44_Berkeley_Square.JPG",
-          "alt": "44 Berkeley Square"
+          "url": "https://nottinghillartsclub.com/wp-content/uploads/2023/06/nham-e1687782818868.png",
+          "alt": "Notting Hill Arts Club"
         }
       ],
-      "website": "https://www.44berkeleysquare.co.uk/"
+      "website": "https://nottinghillartsclub.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official mission, contact/FAQs and private-hire pages. No named photo. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://nottinghillartsclub.com/",
+          "https://nottinghillartsclub.com/our-mission/",
+          "https://nottinghillartsclub.com/contact/",
+          "https://nottinghillartsclub.com/private-hire-and-party-bookings/"
+        ]
+      }
     },
     {
       "id": "osm-way-995869078",
       "name": "Ku Bar",
-      "area": "London",
-      "vibe": "bar.",
+      "area": "Leicester Square",
+      "vibe": "Lisle Street terrace, drag, DJs. Late dancing is Klub downstairs till 3.",
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ku_Bar%2C_Chinatown%2C_WC2_%282361962660%29.jpg",
-          "alt": "Ku Bar"
+          "url": "/assets/london-stock/dance/festival-02.jpg",
+          "alt": "Ku Bar — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "https://ku-bar.co.uk/",
-      "instagram": "https://www.instagram.com/kubarlondon"
+      "website": "https://ku-bar.co.uk/ku-bar/",
+      "instagram": "https://www.instagram.com/kubarlondon",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Ku Bar page. 2008 Commons shopfront name-checks 30 Lisle Street. Honest: late room is Klub downstairs, not the flagship bar hours. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://ku-bar.co.uk/",
+          "https://ku-bar.co.uk/ku-bar/",
+          "https://ku-bar.co.uk/klub/"
+        ]
+      },
+      "instagram_followers": 12000
     },
     {
       "id": "osm-node-13968960248",
       "name": "Little Ku",
-      "area": "London",
-      "vibe": "outdoor seating, bar.",
+      "area": "Soho",
+      "vibe": "Frith Street margaritas. Start here — Klub is the late room.",
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ku_Bar%2C_Soho%2C_W1_%286377865779%29.jpg",
-          "alt": "Little Ku"
+          "url": "/assets/london-stock/dance/dj-decks-01.jpg",
+          "alt": "Little Ku — London lifestyle stock (not a photo of this venue)"
         }
       ],
       "website": "https://ku-bar.co.uk/little-ku",
-      "instagram": "https://www.instagram.com/kubarlondon"
+      "instagram": "https://www.instagram.com/kubarlondon",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Checker restored Commons Ku Bar Soho W1 photo. File is 25 Frith Street, which is Little Ku. Same shopfront, older Ku branding — not Lisle Street. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://ku-bar.co.uk/little-ku",
+          "https://commons.wikimedia.org/wiki/File:Ku_Bar,_Soho,_W1_(6377865779).jpg"
+        ]
+      },
+      "instagram_followers": 12000
     },
     {
       "id": "osm-node-2664108831",
       "name": "Eagle London",
-      "area": "London",
-      "vibe": "bar.",
+      "area": "Vauxhall",
+      "vibe": "Vauxhall late bar. Horse Meat Disco on Sunday. Garden, pool, the weekend nights.",
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eagle%2C_Vauxhall%2C_SE11_%282920142292%29.jpg",
-          "alt": "Eagle London"
+          "url": "/assets/london-stock/dance/club-neon-01.jpg",
+          "alt": "Eagle London — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "https://www.eaglelondon.com/"
+      "website": "https://www.eaglelondon.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official about-us. 2008 Commons shopfront name-checks 349 Kennington Lane. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.eaglelondon.com/",
+          "https://www.eaglelondon.com/about-us",
+          "https://www.eaglelondon.com/horse-meat-disco"
+        ]
+      }
     },
     {
       "id": "osm-way-157779671",
-      "name": "Village",
-      "area": "London",
-      "vibe": "bar.",
+      "name": "Village Soho",
+      "area": "Soho",
+      "vibe": "81 Wardour Street. Laid-back by day, DJs and go-go after dark.",
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Village_Bar.jpg",
-          "alt": "Village"
+          "url": "/assets/london-stock/dance/laser-02.jpg",
+          "alt": "Village Soho — London lifestyle stock (not a photo of this venue)"
         }
       ],
-      "website": "http://www.village-soho.co.uk"
+      "website": "https://www.villagesoho.co.uk/london-bar",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Stonegate page. Old village-soho.co.uk replaced. Commons file name-checks Village on Wardour Street. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://www.villagesoho.co.uk/london-bar",
+          "https://www.villagesoho.co.uk/london-bar/opening-times"
+        ]
+      }
     },
     {
       "id": "osm-node-5014666722",
       "name": "Phonox",
-      "area": "London",
-      "vibe": "nightclub.",
-      "images": []
+      "area": "Brixton",
+      "vibe": "One floor, Funktion One, Brixton Road. Free before 9, phones off on the floor.",
+      "images": [
+        {
+          "url": "/assets/london-stock/dance/festival-01.jpg",
+          "alt": "Phonox — London lifestyle stock (not a photo of this venue)"
+        }
+      ],
+      "website": "https://phonox.co.uk/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official the-club and contact pages. Catalog had no website. No named photo. Sales hook rewrite: plate/room/night, no hours.",
+        "sources": [
+          "https://phonox.co.uk/the-club/",
+          "https://phonox.co.uk/contact/",
+          "https://phonox.co.uk/whats-on"
+        ]
+      }
     }
   ]
 }

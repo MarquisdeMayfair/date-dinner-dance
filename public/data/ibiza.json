@@ -386,7 +386,8 @@
         }
       ],
       "website": "https://www.amanteibiza.com/",
-      "instagram": "https://www.instagram.com/amanteibiza"
+      "instagram": "https://www.instagram.com/amanteibiza",
+      "instagram_followers": 206000
     },
     {
       "id": "aiyanna-ibiza",
@@ -404,7 +405,8 @@
         }
       ],
       "website": "https://aiyannaibiza.com/",
-      "instagram": "https://www.instagram.com/ibizaaiyanna"
+      "instagram": "https://www.instagram.com/ibizaaiyanna",
+      "instagram_followers": 101000
     },
     {
       "id": "aubergine-by-atzaró",
@@ -422,7 +424,8 @@
         }
       ],
       "website": "https://www.atzaro.com/",
-      "instagram": "https://www.instagram.com/atzaro_hotel"
+      "instagram": "https://www.instagram.com/atzaro_hotel",
+      "instagram_followers": 126000
     },
     {
       "id": "bambuddha",
@@ -440,7 +443,8 @@
         }
       ],
       "website": "https://bambuddha.com/",
-      "instagram": "https://www.instagram.com/bambuddhaibiza"
+      "instagram": "https://www.instagram.com/bambuddhaibiza",
+      "instagram_followers": 138000
     },
     {
       "id": "beso-beach",
@@ -458,7 +462,8 @@
         }
       ],
       "website": "https://www.besobeach.com/ibiza",
-      "instagram": "https://www.instagram.com/besobeachibiza"
+      "instagram": "https://www.instagram.com/besobeachibiza",
+      "instagram_followers": 71200
     },
     {
       "id": "beachouse-ibiza",
@@ -472,7 +477,8 @@
         }
       ],
       "website": "https://beachouseibiza.com/",
-      "instagram": "https://instagram.com/beachouse_ibiza"
+      "instagram": "https://instagram.com/beachouse_ibiza",
+      "instagram_followers": 60000
     },
     {
       "id": "café-mambo",
@@ -490,7 +496,8 @@
         }
       ],
       "website": "https://www.cafemamboibiza.com/",
-      "instagram": "https://www.instagram.com/mamboibiza"
+      "instagram": "https://www.instagram.com/mamboibiza",
+      "instagram_followers": 546000
     },
     {
       "id": "casa-jondal",
@@ -504,7 +511,8 @@
         }
       ],
       "website": "https://www.casajondal.es/",
-      "instagram": "https://www.instagram.com/casajondal"
+      "instagram": "https://www.instagram.com/casajondal",
+      "instagram_followers": 200000
     },
     {
       "id": "cotton-beach-club",
@@ -522,7 +530,8 @@
         }
       ],
       "website": "https://www.cottonlifestyle.com/cotton-beach-club-ibiza/",
-      "instagram": "https://www.instagram.com/cottonbeachclub"
+      "instagram": "https://www.instagram.com/cottonbeachclub",
+      "instagram_followers": 134000
     },
     {
       "id": "el-chiringuito-es-cavallet",
@@ -536,7 +545,8 @@
         }
       ],
       "website": "https://elchiringuitoibiza.com/",
-      "instagram": "https://www.instagram.com/elchiringuitoibiza_"
+      "instagram": "https://www.instagram.com/elchiringuitoibiza_",
+      "instagram_followers": 95000
     },
     {
       "id": "es-boldado",
@@ -554,7 +564,8 @@
         }
       ],
       "website": "https://esboldadoibiza.com/",
-      "instagram": "https://www.instagram.com/restaurante_esboldado"
+      "instagram": "https://www.instagram.com/restaurante_esboldado",
+      "instagram_followers": 15000
     },
     {
       "id": "hostal-la-torre",
@@ -572,7 +583,8 @@
         }
       ],
       "website": "https://www.latorreibiza.com/en/restaurant-terrace",
-      "instagram": "https://www.instagram.com/latorreibiza"
+      "instagram": "https://www.instagram.com/latorreibiza",
+      "instagram_followers": 80000
     },
     {
       "id": "sa-capella-restaurant",
@@ -590,7 +602,8 @@
         }
       ],
       "website": "https://sacapellaibiza.com/en/",
-      "instagram": "https://www.instagram.com/sacapellaibiza"
+      "instagram": "https://www.instagram.com/sacapellaibiza",
+      "instagram_followers": 58000
     },
     {
       "id": "sa-trinxa",
@@ -608,7 +621,8 @@
         }
       ],
       "website": "https://satrinxa.com/",
-      "instagram": "https://www.instagram.com/satrinxaibiza"
+      "instagram": "https://www.instagram.com/satrinxaibiza",
+      "instagram_followers": 47000
     },
     {
       "id": "nobu-ibiza-bay",
@@ -626,7 +640,8 @@
         }
       ],
       "website": "https://www.nobuhotelibizabay.com/dining-drinks/nobu/nobu-menu",
-      "instagram": "https://www.instagram.com/ibizabay"
+      "instagram": "https://www.instagram.com/ibizabay",
+      "instagram_followers": 125000
     },
     {
       "id": "experimental-beach",
@@ -643,7 +658,8 @@
           "alt": "Experimental Beach"
         }
       ],
-      "instagram": "https://www.instagram.com/experimentalbeachibiza"
+      "instagram": "https://www.instagram.com/experimentalbeachibiza",
+      "instagram_followers": 29800
     },
     {
       "id": "nassau-beach-club",
@@ -661,7 +677,8 @@
         }
       ],
       "website": "https://www.nassaubeachclub.com/",
-      "instagram": "https://www.instagram.com/nassaubeachclub"
+      "instagram": "https://www.instagram.com/nassaubeachclub",
+      "instagram_followers": 100000
     },
     {
       "id": "cala-gracioneta",
@@ -679,7 +696,8 @@
         }
       ],
       "website": "http://calagracioneta.com/en/",
-      "instagram": "https://instagram.com/calagracioneta"
+      "instagram": "https://instagram.com/calagracioneta",
+      "instagram_followers": 146000
     },
     {
       "id": "can-berri-vell",
@@ -710,7 +728,8 @@
         }
       ],
       "website": "https://lagaiaibiza.com/",
-      "instagram": "https://www.instagram.com/lagaiaibiza"
+      "instagram": "https://www.instagram.com/lagaiaibiza",
+      "instagram_followers": 7753
     },
     {
       "id": "luum-ibiza",
@@ -728,7 +747,8 @@
         }
       ],
       "website": "https://luumibiza.com/",
-      "instagram": "https://www.instagram.com/luum_ibiza"
+      "instagram": "https://www.instagram.com/luum_ibiza",
+      "instagram_followers": 27000
     },
     {
       "id": "unic",
@@ -746,7 +766,8 @@
         }
       ],
       "website": "https://unicrestaurantibiza.com/",
-      "instagram": "https://www.instagram.com/unicrestaurant"
+      "instagram": "https://www.instagram.com/unicrestaurant",
+      "instagram_followers": 4704
     },
     {
       "id": "yemanjá",
@@ -764,7 +785,8 @@
         }
       ],
       "website": "https://yemanjaibiza.com/en/",
-      "instagram": "https://www.instagram.com/yemanjaibiza"
+      "instagram": "https://www.instagram.com/yemanjaibiza",
+      "instagram_followers": 24000
     },
     {
       "id": "zazú-ibiza",
@@ -782,7 +804,8 @@
         }
       ],
       "website": "https://zazuibiza.com/",
-      "instagram": "https://www.instagram.com/zazu.ibiza"
+      "instagram": "https://www.instagram.com/zazu.ibiza",
+      "instagram_followers": 65000
     },
     {
       "id": "coco-beach",
@@ -800,7 +823,8 @@
         }
       ],
       "website": "https://www.cocobeachibiza.com/en",
-      "instagram": "https://www.instagram.com/cocobeachibiza"
+      "instagram": "https://www.instagram.com/cocobeachibiza",
+      "instagram_followers": 41000
     },
     {
       "id": "eden-hacienda-na-xamena",
@@ -818,7 +842,8 @@
         }
       ],
       "website": "https://www.haciendanaxamena-ibiza.com/en/gastronomy/eden-restaurant/",
-      "instagram": "https://www.instagram.com/edengastronomia"
+      "instagram": "https://www.instagram.com/edengastronomia",
+      "instagram_followers": 6631
     },
     {
       "id": "finca-la-plaza-ibiza",
@@ -836,7 +861,8 @@
         }
       ],
       "website": "https://www.fincalaplaza.com/",
-      "instagram": "https://www.instagram.com/fincalaplaza"
+      "instagram": "https://www.instagram.com/fincalaplaza",
+      "instagram_followers": 17000
     },
     {
       "id": "juntos-house",
@@ -853,7 +879,8 @@
           "alt": "Juntos House"
         }
       ],
-      "instagram": "https://www.instagram.com/juntos.house"
+      "instagram": "https://www.instagram.com/juntos.house",
+      "instagram_followers": 33000
     },
     {
       "id": "nūn-ibiza",
@@ -871,7 +898,8 @@
         }
       ],
       "website": "https://nunibiza.com/",
-      "instagram": "https://www.instagram.com/nun_ibiza"
+      "instagram": "https://www.instagram.com/nun_ibiza",
+      "instagram_followers": 5447
     }
   ],
   "dance": [
@@ -887,7 +915,8 @@
         }
       ],
       "website": "https://www.528ibiza.com/",
-      "instagram": "https://www.instagram.com/528ibiza"
+      "instagram": "https://www.instagram.com/528ibiza",
+      "instagram_followers": 102000
     },
     {
       "id": "unvrs",
@@ -905,7 +934,8 @@
         }
       ],
       "website": "https://www.unvrs.com/",
-      "instagram": "https://www.instagram.com/unvrsibiza"
+      "instagram": "https://www.instagram.com/unvrsibiza",
+      "instagram_followers": 622000
     },
     {
       "id": "akasha-las-dalias",
@@ -923,7 +953,8 @@
         }
       ],
       "website": "https://akashaibiza.com/",
-      "instagram": "https://instagram.com/akashaibiza"
+      "instagram": "https://instagram.com/akashaibiza",
+      "instagram_followers": 81000
     },
     {
       "id": "amnesia",
@@ -941,7 +972,8 @@
         }
       ],
       "website": "https://www.amnesia.es/",
-      "instagram": "https://www.instagram.com/amnesiaibiza"
+      "instagram": "https://www.instagram.com/amnesiaibiza",
+      "instagram_followers": 898000
     },
     {
       "id": "bam-bu-ku",
@@ -959,7 +991,8 @@
         }
       ],
       "website": "https://bambukuibiza.com/",
-      "instagram": "https://www.instagram.com/bambukuibiza"
+      "instagram": "https://www.instagram.com/bambukuibiza",
+      "instagram_followers": 80000
     },
     {
       "id": "café-del-mar",
@@ -977,7 +1010,8 @@
         }
       ],
       "website": "https://cafedelmar.com/ibiza",
-      "instagram": "https://www.instagram.com/cafedelmar"
+      "instagram": "https://www.instagram.com/cafedelmar",
+      "instagram_followers": 184000
     },
     {
       "id": "chinois-ibiza",
@@ -995,7 +1029,8 @@
         }
       ],
       "website": "https://chinois.com/",
-      "instagram": "https://www.instagram.com/chinoisibiza"
+      "instagram": "https://www.instagram.com/chinoisibiza",
+      "instagram_followers": 162000
     },
     {
       "id": "cova-santa",
@@ -1013,7 +1048,8 @@
         }
       ],
       "website": "https://covasanta.com/en/the-venue",
-      "instagram": "https://www.instagram.com/covasantaibiza"
+      "instagram": "https://www.instagram.com/covasantaibiza",
+      "instagram_followers": 190000
     },
     {
       "id": "destino-five-ibiza",
@@ -1031,7 +1067,8 @@
         }
       ],
       "website": "https://destino.fivehotelsandresorts.com/",
-      "instagram": "https://www.instagram.com/destinofiveibiza_"
+      "instagram": "https://www.instagram.com/destinofiveibiza_",
+      "instagram_followers": 251000
     },
     {
       "id": "es-paradis",
@@ -1049,7 +1086,8 @@
         }
       ],
       "website": "https://www.esparadis.com/",
-      "instagram": "https://www.instagram.com/esparadisibiza"
+      "instagram": "https://www.instagram.com/esparadisibiza",
+      "instagram_followers": 71500
     },
     {
       "id": "hï-ibiza",
@@ -1067,7 +1105,8 @@
         }
       ],
       "website": "https://www.hiibiza.com/",
-      "instagram": "https://www.instagram.com/hiibizaofficial"
+      "instagram": "https://www.instagram.com/hiibizaofficial",
+      "instagram_followers": 1000000
     },
     {
       "id": "ibiza-rocks-pool-club",
@@ -1085,7 +1124,8 @@
         }
       ],
       "website": "https://www.ibizarocks.com/poolclub/",
-      "instagram": "https://instagram.com/ibizarocks"
+      "instagram": "https://instagram.com/ibizarocks",
+      "instagram_followers": 237000
     },
     {
       "id": "lío-ibiza",
@@ -1103,7 +1143,8 @@
         }
       ],
       "website": "https://www.liogroup.com/ibiza-2",
-      "instagram": "https://www.instagram.com/lioibizaofficial"
+      "instagram": "https://www.instagram.com/lioibizaofficial",
+      "instagram_followers": 228000
     },
     {
       "id": "mint-lounge",
@@ -1121,7 +1162,8 @@
         }
       ],
       "website": "https://www.mintbymambo.com/en/",
-      "instagram": "https://www.instagram.com/mintbymamboibiza"
+      "instagram": "https://www.instagram.com/mintbymamboibiza",
+      "instagram_followers": 12000
     },
     {
       "id": "o-beach-ibiza",
@@ -1139,7 +1181,8 @@
         }
       ],
       "website": "https://obeachibiza.com/",
-      "instagram": "https://www.instagram.com/obeachibiza"
+      "instagram": "https://www.instagram.com/obeachibiza",
+      "instagram_followers": 477000
     },
     {
       "id": "pacha-ibiza",
@@ -1157,7 +1200,8 @@
         }
       ],
       "website": "https://pacha.com/",
-      "instagram": "https://www.instagram.com/pachaofficial"
+      "instagram": "https://www.instagram.com/pachaofficial",
+      "instagram_followers": 826000
     },
     {
       "id": "pikes",
@@ -1175,7 +1219,8 @@
         }
       ],
       "website": "https://www.pikesibiza.com/",
-      "instagram": "https://instagram.com/pikesibiza"
+      "instagram": "https://instagram.com/pikesibiza",
+      "instagram_followers": 247000
     },
     {
       "id": "playa-soleil",
@@ -1193,7 +1238,8 @@
         }
       ],
       "website": "https://www.playasoleil.com/",
-      "instagram": "https://www.instagram.com/playasoleilibiza"
+      "instagram": "https://www.instagram.com/playasoleilibiza",
+      "instagram_followers": 114000
     },
     {
       "id": "sundara",
@@ -1211,7 +1257,8 @@
         }
       ],
       "website": "https://sundaraibiza.com/",
-      "instagram": "https://www.instagram.com/sundaraibiza"
+      "instagram": "https://www.instagram.com/sundaraibiza",
+      "instagram_followers": 11000
     },
     {
       "id": "swag-ibiza",
@@ -1229,7 +1276,8 @@
         }
       ],
       "website": "https://swagibizaoficial.com/",
-      "instagram": "https://www.instagram.com/swagibizaclub"
+      "instagram": "https://www.instagram.com/swagibizaclub",
+      "instagram_followers": 34000
     },
     {
       "id": "ushuaïa-ibiza",
@@ -1247,7 +1295,8 @@
         }
       ],
       "website": "https://www.theushuaiaexperience.com/club/en",
-      "instagram": "https://www.instagram.com/ushuaiaibiza"
+      "instagram": "https://www.instagram.com/ushuaiaibiza",
+      "instagram_followers": 2000000
     }
   ]
 }

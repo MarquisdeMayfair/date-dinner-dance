@@ -1,0 +1,741 @@
+{
+  "date": [
+    {
+      "id": "met",
+      "name": "The Met",
+      "area": "Upper East Side",
+      "vibe": "Fifth Avenue. The Great Hall, the Temple of Dendur, European paintings. Give it an afternoon — then out onto the steps.",
+      "images": [
+        {
+          "url": "/stock/nyc/museum-gallery-01.jpg",
+          "alt": "The Met"
+        }
+      ],
+      "website": "https://www.metmuseum.org/",
+      "instagram": "https://www.instagram.com/metmuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.metmuseum.org/"
+        ]
+      },
+      "instagram_followers": 5000000
+    },
+    {
+      "id": "moma",
+      "name": "MoMA",
+      "area": "Midtown",
+      "vibe": "53rd Street. Starry Night, the sculpture garden, modern work that still startles. A midtown date that earns dinner after.",
+      "images": [
+        {
+          "url": "/stock/nyc/museum-gallery-02.jpg",
+          "alt": "MoMA"
+        }
+      ],
+      "website": "https://www.moma.org/",
+      "instagram": "https://www.instagram.com/themuseumofmodernart/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.moma.org/"
+        ]
+      },
+      "instagram_followers": 6000000
+    },
+    {
+      "id": "high-line",
+      "name": "The High Line",
+      "area": "Chelsea",
+      "vibe": "An old freight rail, now a garden in the sky from Gansevoort to Hudson Yards. Plantings, the city at your shoulder.",
+      "images": [
+        {
+          "url": "/stock/nyc/couple-photographing-landmark-01.jpg",
+          "alt": "The High Line"
+        }
+      ],
+      "website": "https://www.thehighline.org/",
+      "instagram": "https://www.instagram.com/highlinenyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.thehighline.org/"
+        ]
+      },
+      "instagram_followers": 252000
+    },
+    {
+      "id": "central-park",
+      "name": "Central Park",
+      "area": "Manhattan",
+      "vibe": "Bow Bridge, Bethesda Fountain, the Reservoir loop. 843 acres in the middle of the city — walk until it feels like a date.",
+      "images": [
+        {
+          "url": "/stock/nyc/central-park-lifestyle-04.jpg",
+          "alt": "Central Park"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Central_Park_New_York_City_New_York_23.jpg",
+          "alt": "Central Park — Wikimedia"
+        }
+      ],
+      "website": "https://www.centralparknyc.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Conservancy. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.centralparknyc.org/"
+        ]
+      }
+    },
+    {
+      "id": "brooklyn-bridge",
+      "name": "Brooklyn Bridge",
+      "area": "DUMBO",
+      "vibe": "Walk the wooden promenade from Brooklyn to Manhattan. The skyline is the date.",
+      "images": [
+        {
+          "url": "/stock/nyc/bridge-landmark-01.jpg",
+          "alt": "Brooklyn Bridge"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brooklyn_Bridge_Manhattan.jpg",
+          "alt": "Brooklyn Bridge — Wikimedia"
+        }
+      ],
+      "website": "https://www.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "NYC DOT page. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml"
+        ]
+      }
+    },
+    {
+      "id": "guggenheim",
+      "name": "Guggenheim",
+      "area": "Upper East Side",
+      "vibe": "Wright’s spiral on Fifth Avenue. Walk the ramp, look down the rotunda, then the park across the street.",
+      "images": [
+        {
+          "url": "/stock/nyc/museum-gallery-02.jpg",
+          "alt": "Guggenheim"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/NYC_-_Guggenheim_Museum.jpg",
+          "alt": "Guggenheim — Wikimedia"
+        }
+      ],
+      "website": "https://www.guggenheim.org/",
+      "instagram": "https://www.instagram.com/guggenheim/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.guggenheim.org/"
+        ]
+      },
+      "instagram_followers": 3000000
+    },
+    {
+      "id": "top-of-the-rock",
+      "name": "Top of the Rock",
+      "area": "Rockefeller Center",
+      "vibe": "Three decks on 30 Rock, the Empire State in frame. Go at dusk and stay for the lights.",
+      "images": [
+        {
+          "url": "/stock/nyc/nyc-skyline-viewpoint-03.jpg",
+          "alt": "Top of the Rock"
+        }
+      ],
+      "website": "https://www.topoftherocknyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.topoftherocknyc.com/"
+        ]
+      }
+    },
+    {
+      "id": "cloisters",
+      "name": "The Met Cloisters",
+      "area": "Fort Tryon Park",
+      "vibe": "Medieval cloisters and gardens at the top of Manhattan. Tapestries, herb gardens, the Hudson below.",
+      "images": [
+        {
+          "url": "/stock/nyc/botanical-garden-04.jpg",
+          "alt": "The Met Cloisters"
+        }
+      ],
+      "website": "https://www.metmuseum.org/visit/plan-your-visit/met-cloisters",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Met Cloisters page. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.metmuseum.org/visit/plan-your-visit/met-cloisters"
+        ]
+      }
+    },
+    {
+      "id": "911-memorial",
+      "name": "9/11 Memorial",
+      "area": "Financial District",
+      "vibe": "The twin pools on the footprints. Quiet first — the museum if you want to go further.",
+      "images": [
+        {
+          "url": "/stock/nyc/outdoor-plaza-02.jpg",
+          "alt": "9/11 Memorial"
+        }
+      ],
+      "website": "https://www.911memorial.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official memorial. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.911memorial.org/"
+        ]
+      }
+    },
+    {
+      "id": "staten-island-ferry",
+      "name": "Staten Island Ferry",
+      "area": "Battery Park",
+      "vibe": "Free. The harbor, the Statue, Manhattan from the water. Stand on the deck, not in the cabin.",
+      "images": [
+        {
+          "url": "/stock/nyc/waterfront-pier-04.jpg",
+          "alt": "Staten Island Ferry"
+        }
+      ],
+      "website": "https://www.siferry.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official ferry. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.siferry.com/"
+        ]
+      }
+    }
+  ],
+  "dinner": [
+    {
+      "id": "katzs",
+      "name": "Katz's Delicatessen",
+      "area": "Lower East Side",
+      "vibe": "Houston Street. Pastrami on rye since 1888. Take a ticket, watch the cutters, don’t lose the ticket.",
+      "images": [
+        {
+          "url": "/stock/nyc/american-01.jpg",
+          "alt": "Katz's Delicatessen"
+        }
+      ],
+      "website": "https://katzsdelicatessen.com/",
+      "instagram": "https://www.instagram.com/katzsdeli/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://katzsdelicatessen.com/"
+        ]
+      },
+      "instagram_followers": 2000000
+    },
+    {
+      "id": "peter-luger",
+      "name": "Peter Luger",
+      "area": "Williamsburg",
+      "vibe": "Porterhouse for two, the steak they built the name on. A Brooklyn room that has not chased trends.",
+      "images": [
+        {
+          "url": "/stock/nyc/steak-and-chips-03.jpg",
+          "alt": "Peter Luger"
+        }
+      ],
+      "website": "https://peterluger.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://peterluger.com/"
+        ]
+      }
+    },
+    {
+      "id": "keens",
+      "name": "Keens Steakhouse",
+      "area": "Herald Square",
+      "vibe": "Mutton chop, the pipe collection, a steakhouse since 1885. Dark wood, serious beef.",
+      "images": [
+        {
+          "url": "/stock/nyc/steak-and-chips-01.jpg",
+          "alt": "Keens Steakhouse"
+        }
+      ],
+      "website": "https://www.keens.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.keens.com/"
+        ]
+      }
+    },
+    {
+      "id": "oyster-bar",
+      "name": "Grand Central Oyster Bar",
+      "area": "Grand Central",
+      "vibe": "Under the whispering gallery. Oysters, chowder, the vaulted Guastavino ceiling. Lunch here feels like the city.",
+      "images": [
+        {
+          "url": "/stock/nyc/seafood-04.jpg",
+          "alt": "Grand Central Oyster Bar"
+        }
+      ],
+      "website": "https://www.oysterbarny.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.oysterbarny.com/"
+        ]
+      }
+    },
+    {
+      "id": "russ-and-daughters-cafe",
+      "name": "Russ & Daughters Cafe",
+      "area": "Orchard Street",
+      "vibe": "Smoked fish, bagels, the appetizing counter made into a room. Classic New York on a plate.",
+      "images": [
+        {
+          "url": "/stock/nyc/bakery-dessert-01.jpg",
+          "alt": "Russ & Daughters Cafe"
+        }
+      ],
+      "website": "https://www.russanddaughterscafe.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official cafe site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.russanddaughterscafe.com/"
+        ]
+      }
+    },
+    {
+      "id": "lilia",
+      "name": "Lilia",
+      "area": "Williamsburg",
+      "vibe": "Missy Robbins in an old garage. Pasta first — the kind of room you book for, then linger.",
+      "images": [
+        {
+          "url": "/stock/nyc/italian-pasta-02.jpg",
+          "alt": "Lilia"
+        }
+      ],
+      "website": "https://www.lilianewyork.com/",
+      "instagram": "https://www.instagram.com/lilianewyork/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.lilianewyork.com/"
+        ]
+      },
+      "instagram_followers": 159000
+    },
+    {
+      "id": "xian-famous-foods",
+      "name": "Xi'an Famous Foods",
+      "area": "East Village",
+      "vibe": "Hand-ripped noodles, cumin lamb, the spicy cumin burger. Fast, loud, the real thing from Xi’an.",
+      "images": [
+        {
+          "url": "/stock/nyc/chinese-03.jpg",
+          "alt": "Xi'an Famous Foods"
+        }
+      ],
+      "website": "https://www.xianfoods.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.xianfoods.com/"
+        ]
+      }
+    },
+    {
+      "id": "carbone",
+      "name": "Carbone",
+      "area": "Greenwich Village",
+      "vibe": "Thompson Street. Red-sauce theatre, spicy rigatoni, tuxedoed service. Book it or hunt a walk-in.",
+      "images": [
+        {
+          "url": "/stock/nyc/italian-pasta-04.jpg",
+          "alt": "Carbone"
+        }
+      ],
+      "website": "https://carbonenewyork.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://carbonenewyork.com/"
+        ]
+      }
+    },
+    {
+      "id": "johns-of-bleecker",
+      "name": "John's of Bleecker Street",
+      "area": "West Village",
+      "vibe": "Coal-oven pizza since 1929. No slices, whole pies, the char you came for.",
+      "images": [
+        {
+          "url": "/stock/nyc/pizza-01.jpg",
+          "alt": "John's of Bleecker Street"
+        }
+      ],
+      "website": "https://www.johnsbrickovenpizza.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.johnsbrickovenpizza.com/"
+        ]
+      }
+    },
+    {
+      "id": "locanda-verde",
+      "name": "Locanda Verde",
+      "area": "Tribeca",
+      "vibe": "Andrew Carmellini’s Greenwich Hotel room. Sheep’s milk ricotta, the kind of Italian you stay for.",
+      "images": [
+        {
+          "url": "/stock/nyc/italian-pasta-02.jpg",
+          "alt": "Locanda Verde"
+        }
+      ],
+      "website": "https://www.locandaverdenyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.locandaverdenyc.com/"
+        ]
+      }
+    }
+  ],
+  "dance": [
+    {
+      "id": "house-of-yes",
+      "name": "House of Yes",
+      "area": "Bushwick",
+      "vibe": "Circus, burlesque, a dance floor that wants costumes. Bushwick’s late room with a show in it.",
+      "images": [
+        {
+          "url": "/assets/stock/dance/smiling_dancer/01.jpg",
+          "alt": "House of Yes"
+        },
+        {
+          "url": "/stock/nyc/people-dancing-nightclub-lights-01.jpg",
+          "alt": "House of Yes"
+        }
+      ],
+      "website": "https://houseofyes.org/",
+      "instagram": "https://www.instagram.com/houseofyesnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": false,
+        "notes": "Official site. Replaced raw OSM dump. No gentlemen’s clubs. Handle check: official site (header + schema sameAs) links @houseofyesnyc; profile display name is House of Yes. Dropped @houseofyes (Kimberly Dow).",
+        "sources": [
+          "https://houseofyes.org/",
+          "https://www.instagram.com/houseofyesnyc/"
+        ]
+      },
+      "instagram_followers": 206000
+    },
+    {
+      "id": "nowadays",
+      "name": "Nowadays",
+      "area": "Ridgewood",
+      "vibe": "Outdoor floor, house and techno, a garden club at the Queens edge. Dress for the field.",
+      "images": [
+        {
+          "url": "/assets/stock/dance/smiling_dancer/02.jpg",
+          "alt": "Nowadays"
+        },
+        {
+          "url": "/stock/nyc/friends-dancing-party-03.jpg",
+          "alt": "Nowadays"
+        }
+      ],
+      "website": "https://nowadays.nyc/",
+      "instagram": "https://www.instagram.com/nowadaysnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://nowadays.nyc/"
+        ]
+      },
+      "instagram_followers": 132000
+    },
+    {
+      "id": "avant-gardner",
+      "name": "Brooklyn Mirage",
+      "area": "East Williamsburg",
+      "vibe": "The open-air warehouse yard at Avant Gardner. Festival-scale nights when the Mirage is on.",
+      "images": [
+        {
+          "url": "/assets/stock/dance/neon_crowd_dancing/01.jpg",
+          "alt": "Brooklyn Mirage"
+        },
+        {
+          "url": "/stock/nyc/neon-dancefloor-energy-04.jpg",
+          "alt": "Brooklyn Mirage"
+        }
+      ],
+      "website": "https://avant-gardner.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official Avant Gardner. Replaced raw OSM dump.",
+        "sources": [
+          "https://avant-gardner.com/"
+        ]
+      }
+    },
+    {
+      "id": "webster-hall",
+      "name": "Webster Hall",
+      "area": "East Village",
+      "vibe": "The grand ballroom on 11th Street. Live first, then the late room when the bill says so.",
+      "images": [
+        {
+          "url": "/assets/stock/dance/neon_crowd_dancing/02.jpg",
+          "alt": "Webster Hall"
+        },
+        {
+          "url": "/stock/nyc/dj-booth-lights-05.jpg",
+          "alt": "Webster Hall"
+        }
+      ],
+      "website": "https://www.websterhall.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.websterhall.com/"
+        ]
+      }
+    },
+    {
+      "id": "public-records",
+      "name": "Public Records",
+      "area": "Gowanus",
+      "vibe": "Sound system first. The club, the garden, a Gowanus night that cares about the record.",
+      "images": [
+        {
+          "url": "/assets/stock/dance/laser_dancefloor/01.jpg",
+          "alt": "Public Records"
+        },
+        {
+          "url": "/stock/nyc/people-dancing-nightclub-lights-01.jpg",
+          "alt": "Public Records"
+        }
+      ],
+      "website": "https://www.publicrecords.nyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": false,
+        "notes": "Official site. Replaced raw OSM dump. Handle check: homepage, calendar, food-and-beverage, and theme files have no Instagram URL. Removed @publicrecords (Tees And Bows). No substitute stamped.",
+        "sources": [
+          "https://www.publicrecords.nyc/",
+          "https://publicrecords.nyc/"
+        ]
+      }
+    },
+    {
+      "id": "good-room",
+      "name": "Good Room",
+      "area": "Greenpoint",
+      "vibe": "Greenpoint basement. House, disco, the kind of floor you find at 2am and stay.",
+      "images": [
+        {
+          "url": "/assets/stock/dance/laser_dancefloor/02.jpg",
+          "alt": "Good Room"
+        },
+        {
+          "url": "/stock/nyc/friends-dancing-party-03.jpg",
+          "alt": "Good Room"
+        }
+      ],
+      "website": "https://goodroombk.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://goodroombk.com/"
+        ]
+      }
+    },
+    {
+      "id": "le-bain",
+      "name": "Le Bain",
+      "area": "Meatpacking",
+      "vibe": "The Standard, High Line. Roof, disco, the city under you. A late room with a view.",
+      "images": [
+        {
+          "url": "/assets/stock/dance/dj_lights/01.jpg",
+          "alt": "Le Bain"
+        },
+        {
+          "url": "/stock/nyc/neon-dancefloor-energy-04.jpg",
+          "alt": "Le Bain"
+        }
+      ],
+      "website": "https://www.standardhotels.com/new-york/eat-drink/le-bain",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official Standard page. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.standardhotels.com/new-york/eat-drink/le-bain"
+        ]
+      }
+    },
+    {
+      "id": "brooklyn-bowl",
+      "name": "Brooklyn Bowl",
+      "area": "Williamsburg",
+      "vibe": "Bowling, a live band, then the floor. Williamsburg’s room that does both.",
+      "images": [
+        {
+          "url": "/assets/stock/dance/dj_lights/02.jpg",
+          "alt": "Brooklyn Bowl"
+        },
+        {
+          "url": "/stock/nyc/dj-booth-lights-05.jpg",
+          "alt": "Brooklyn Bowl"
+        }
+      ],
+      "website": "https://www.brooklynbowl.com/brooklyn",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official Brooklyn page. Replaced raw OSM dump.",
+        "sources": [
+          "https://www.brooklynbowl.com/brooklyn"
+        ]
+      }
+    },
+    {
+      "id": "elsewhere",
+      "name": "Elsewhere",
+      "area": "Bushwick",
+      "vibe": "Zone, Hall, Rooftop. A Bushwick complex — live, then dance, then air.",
+      "images": [
+        {
+          "url": "/assets/stock/dance/outdoor_festival_dance/01.jpg",
+          "alt": "Elsewhere"
+        },
+        {
+          "url": "/stock/nyc/people-dancing-nightclub-lights-01.jpg",
+          "alt": "Elsewhere"
+        }
+      ],
+      "website": "https://elsewherebrooklyn.com/",
+      "instagram": "https://www.instagram.com/elsewherespace/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": false,
+        "notes": "Official site. Replaced raw OSM dump. Handle check: official footer Follow link is @elsewherespace; profile display name is Elsewhere. Dropped empty @elsewherebrooklyn.",
+        "sources": [
+          "https://elsewherebrooklyn.com/",
+          "https://www.instagram.com/elsewherespace/"
+        ]
+      },
+      "instagram_followers": 210000
+    },
+    {
+      "id": "knockdown-center",
+      "name": "Knockdown Center",
+      "area": "Maspeth",
+      "vibe": "A former glass factory in Queens. Warehouse rooms, a courtyard, nights that run long.",
+      "images": [
+        {
+          "url": "/assets/stock/dance/outdoor_festival_dance/02.jpg",
+          "alt": "Knockdown Center"
+        },
+        {
+          "url": "/stock/nyc/friends-dancing-party-03.jpg",
+          "alt": "Knockdown Center"
+        }
+      ],
+      "website": "https://knockdown.center/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official site. Replaced raw OSM dump.",
+        "sources": [
+          "https://knockdown.center/"
+        ]
+      }
+    }
+  ]
+}

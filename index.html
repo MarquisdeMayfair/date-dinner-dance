@@ -6,59 +6,59 @@
       name="viewport"
       content="width=device-width, initial-scale=1, viewport-fit=cover"
     />
-    <meta name="theme-color" content="#07080d" />
+    <meta name="theme-color" content="#171312" />
     <meta name="color-scheme" content="dark" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <meta name="apple-mobile-web-app-title" content="Date Dinner Dance" />
+    <meta name="apple-mobile-web-app-title" content="date dinner dance" />
     <meta name="mobile-web-app-capable" content="yes" />
-    <title>Date · Dinner · Dance</title>
+    <title>date dinner dance</title>
     <meta
       name="description"
-      content="Spin your night. Three reels — a date spot, a dinner, a dancefloor. Share it in a DM or Story."
+      content="Plan your perfect day then tell somebody special. Three reels — a date spot, a dinner, a dancefloor."
     />
     <link rel="canonical" href="https://datedinnerdance.com/" />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Date · Dinner · Dance" />
-    <meta property="og:title" content="Date · Dinner · Dance" />
+    <meta property="og:site_name" content="date dinner dance" />
+    <meta property="og:title" content="date dinner dance" />
     <meta
       property="og:description"
-      content="Spin three reels: date, dinner, dance. Share the night in a DM or Story."
+      content="Plan your perfect day then tell somebody special."
     />
     <meta property="og:url" content="https://datedinnerdance.com/" />
     <meta property="og:image" content="https://datedinnerdance.com/og.png" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
+    <meta property="fb:app_id" content="2325553588248802" />
     <meta property="og:locale" content="en_GB" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Date · Dinner · Dance" />
+    <meta name="twitter:title" content="date dinner dance" />
     <meta
       name="twitter:description"
-      content="Spin your night. Date, dinner, dance — then share the link."
+      content="Plan your perfect day then tell somebody special."
     />
     <meta name="twitter:image" content="https://datedinnerdance.com/og.png" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <link rel="preload" href="/cities.json" as="fetch" crossorigin />
-    <link rel="preload" href="/data/ibiza.json" as="fetch" crossorigin />
+    <link rel="preload" href="/cities.json?v=20260921a" as="fetch" crossorigin />
+    <link rel="preload" href="/data/ibiza.json?v=20260921a" as="fetch" crossorigin />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Outfit:wght@400;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,800&family=Jost:wght@400;500;600&display=swap"
       rel="stylesheet"
       media="print"
       onload="this.media='all'"
     />
     <noscript>
       <link
-        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Outfit:wght@400;600;700&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,800&family=Jost:wght@400;500;600&display=swap"
         rel="stylesheet"
       />
     </noscript>
     <link rel="stylesheet" href="/src/style.css" />
   </head>
   <body>
-    <div class="grain" aria-hidden="true"></div>
     <div class="app">
       <header class="hero">
         <div class="city-wrap">
@@ -71,14 +71,21 @@
           </button>
         </div>
         <div id="city-dots" class="city-dots" aria-hidden="true"></div>
-        <h1>Date · Dinner · Dance</h1>
-        <p class="tagline">Spin your night. Nudge until it feels right.</p>
+        <h1 class="wordmark">
+          <span class="dots" aria-hidden="true">
+            <span class="dot dot-date"></span>
+            <span class="dot dot-dinner"></span>
+            <span class="dot dot-dance"></span>
+          </span>
+          <span class="wordmark-text">date dinner dance</span>
+        </h1>
+        <p class="tagline">Plan your perfect day then tell somebody special.</p>
       </header>
 
       <main id="reels" class="reels"></main>
 
       <footer class="dock">
-        <button type="button" id="share" class="share-btn" aria-label="Share this night">
+        <button type="button" id="share" class="share-btn" hidden aria-label="Share this itinerary">
           Share
         </button>
         <button type="button" id="spin" class="spin">
@@ -90,9 +97,10 @@
     <div id="share-sheet" class="sheet" hidden>
       <div class="sheet-card">
         <button type="button" class="sheet-close" data-close-sheet aria-label="Close">×</button>
-        <p class="sheet-kicker">Share this night</p>
-        <h2 id="share-title">Date · Dinner · Dance</h2>
+        <p class="sheet-kicker">Share this itinerary</p>
+        <h2 id="share-title">date dinner dance</h2>
         <p id="share-picks" class="sheet-picks"></p>
+        <img id="share-story-preview" class="story-preview" alt="Story card preview" hidden />
         <div class="share-actions">
           <button type="button" id="share-native" class="share-action">Share</button>
           <button type="button" id="share-copy" class="share-action">Copy link</button>

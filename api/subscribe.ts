@@ -4,6 +4,7 @@ type Body = {
   email?: string;
   handle?: string;
   city?: string;
+  action?: string;
 };
 
 function isEmail(value: string): boolean {
@@ -47,9 +48,10 @@ export default async function handler(request: Request): Promise<Response> {
     });
   }
 
+  const action = (body.action || "subscribe").toLowerCase() === "delete" ? "delete" : "subscribe";
   console.log(
     JSON.stringify({
-      event: "subscribe",
+      event: action,
       email,
       handle,
       city,

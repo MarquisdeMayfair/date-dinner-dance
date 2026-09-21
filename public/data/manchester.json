@@ -16,7 +16,8 @@
         }
       ],
       "website": "https://20stories.co.uk/",
-      "instagram": "https://www.instagram.com/20storiesmcr/"
+      "instagram": "https://www.instagram.com/20storiesmcr/",
+      "instagram_followers": 96000
     },
     {
       "id": "castlefield-viaduct",
@@ -34,7 +35,8 @@
         }
       ],
       "website": "https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/castlefield-viaduct",
-      "instagram": "https://www.instagram.com/ntcastlefieldviaduct/"
+      "instagram": "https://www.instagram.com/ntcastlefieldviaduct/",
+      "instagram_followers": 11000
     },
     {
       "id": "castlefield-canals",
@@ -65,7 +67,8 @@
         }
       ],
       "website": "https://www.cloud23bar.com/",
-      "instagram": "https://www.instagram.com/cloud23bar/"
+      "instagram": "https://www.instagram.com/cloud23bar/",
+      "instagram_followers": 30000
     },
     {
       "id": "john-rylands-library",
@@ -83,7 +86,8 @@
         }
       ],
       "website": "https://www.library.manchester.ac.uk/rylands/",
-      "instagram": "https://www.instagram.com/uomlibrary/"
+      "instagram": "https://www.instagram.com/uomlibrary/",
+      "instagram_followers": 5372
     },
     {
       "id": "chetham-s-library",
@@ -101,7 +105,8 @@
         }
       ],
       "website": "https://library.chethams.com/",
-      "instagram": "https://www.instagram.com/chethamslibrary/"
+      "instagram": "https://www.instagram.com/chethamslibrary/",
+      "instagram_followers": 20000
     },
     {
       "id": "salford-quays",
@@ -119,7 +124,8 @@
         }
       ],
       "website": "https://www.visitsalford.com/",
-      "instagram": "https://www.instagram.com/visitsalford/"
+      "instagram": "https://www.instagram.com/visitsalford/",
+      "instagram_followers": 5391
     },
     {
       "id": "the-whitworth",
@@ -137,7 +143,8 @@
         }
       ],
       "website": "https://www.whitworth.manchester.ac.uk/",
-      "instagram": "https://www.instagram.com/whitworthart/"
+      "instagram": "https://www.instagram.com/whitworthart/",
+      "instagram_followers": 67000
     },
     {
       "id": "fletcher-moss-botanical-garden",
@@ -181,7 +188,8 @@
         }
       ],
       "website": "https://www.mackiemayor.co.uk/",
-      "instagram": "https://www.instagram.com/mackiemayor/"
+      "instagram": "https://www.instagram.com/mackiemayor/",
+      "instagram_followers": 86000
     },
     {
       "id": "manchester-art-gallery",
@@ -225,7 +233,8 @@
         }
       ],
       "website": "https://www.museum.manchester.ac.uk/",
-      "instagram": "https://www.instagram.com/mcrmuseum/"
+      "instagram": "https://www.instagram.com/mcrmuseum/",
+      "instagram_followers": 42000
     },
     {
       "id": "matt-and-phreds",
@@ -243,7 +252,8 @@
         }
       ],
       "website": "https://www.mattandphreds.com/",
-      "instagram": "https://www.instagram.com/mattandphreds/"
+      "instagram": "https://www.instagram.com/mattandphreds/",
+      "instagram_followers": 21000
     },
     {
       "id": "home",
@@ -257,7 +267,8 @@
         }
       ],
       "website": "https://homemcr.org/",
-      "instagram": "https://www.instagram.com/homemcr/"
+      "instagram": "https://www.instagram.com/homemcr/",
+      "instagram_followers": 63000
     },
     {
       "id": "royal-exchange-theatre",
@@ -275,7 +286,8 @@
         }
       ],
       "website": "https://royalexchange.co.uk/",
-      "instagram": "https://www.instagram.com/rxtheatre/"
+      "instagram": "https://www.instagram.com/rxtheatre/",
+      "instagram_followers": 42000
     },
     {
       "id": "victoria-baths",
@@ -293,7 +305,8 @@
         }
       ],
       "website": "https://www.victoriabaths.org.uk/",
-      "instagram": "https://www.instagram.com/victoriabaths/"
+      "instagram": "https://www.instagram.com/victoriabaths/",
+      "instagram_followers": 21000
     },
     {
       "id": "whitworth-park",
@@ -354,7 +367,8 @@
         }
       ],
       "website": "https://nq64.co.uk/",
-      "instagram": "https://www.instagram.com/nq64arcadebars/"
+      "instagram": "https://www.instagram.com/nq64arcadebars/",
+      "instagram_followers": 96000
     },
     {
       "id": "junkyard-golf-club-manchester",
@@ -372,7 +386,8 @@
         }
       ],
       "website": "https://junkyardgolfclub.co.uk/manchester/",
-      "instagram": "https://www.instagram.com/junkyardgolfclub/"
+      "instagram": "https://www.instagram.com/junkyardgolfclub/",
+      "instagram_followers": 62000
     }
   ],
   "dinner": [
@@ -392,25 +407,27 @@
         }
       ],
       "website": "https://20stories.co.uk/",
-      "instagram": "https://www.instagram.com/20storiesmcr/"
+      "instagram": "https://www.instagram.com/20storiesmcr/",
+      "instagram_followers": 96000
     },
     {
       "id": "adam-reid-at-the-french",
       "name": "Adam Reid at The French",
       "area": "Manchester",
       "vibe": "Intricate tasting-menu dining at the Midland Hotel with a distinctly English approach.",
-      "images": [
-        {
-          "url": "https://www.themidlandhotel.co.uk/image/fit/593x400/cms/midland/images/new/themidlanddouble_double_02.jpg",
-          "alt": "Bedroom at The Midland"
-        },
-        {
-          "url": "https://www.themidlandhotel.co.uk/image/fit/593x400/cms/midland/images/new/lobby_02_1500x845.jpg",
-          "alt": "Find directions to The Midland"
-        }
-      ],
+      "images": [],
       "website": "https://www.themidlandhotel.co.uk/food-drink/the-french",
-      "instagram": "https://www.instagram.com/themidlandmanchester/"
+      "instagram": "https://www.instagram.com/themidlandmanchester/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Dropped Midland hotel bedroom and lobby photos. They are not The French dining room.",
+        "sources": [
+          "https://www.themidlandhotel.co.uk/food-drink/the-french"
+        ]
+      },
+      "instagram_followers": 32000
     },
     {
       "id": "mana",
@@ -428,7 +445,8 @@
         }
       ],
       "website": "https://manarestaurant.co.uk/",
-      "instagram": "https://www.instagram.com/restaurant.mana/"
+      "instagram": "https://www.instagram.com/restaurant.mana/",
+      "instagram_followers": 35000
     },
     {
       "id": "tattu",
@@ -439,14 +457,20 @@
         {
           "url": "https://tattu.co.uk/wp-content/uploads/2022/10/Tattu-Overall-FB-Social-Card-1.jpg",
           "alt": "Tattu"
-        },
-        {
-          "url": "https://tattu.co.uk/wp-content/themes/tattu/dist/img/bg.png",
-          "alt": "Hero background"
         }
       ],
       "website": "https://tattu.co.uk/manchester/",
-      "instagram": "https://www.instagram.com/tatturestaurant/"
+      "instagram": "https://www.instagram.com/tatturestaurant/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Dropped theme texture bg.png. Kept tattu.co.uk cocktail card.",
+        "sources": [
+          "https://tattu.co.uk/manchester/"
+        ]
+      },
+      "instagram_followers": 203000
     },
     {
       "id": "hawksmoor-manchester",
@@ -464,7 +488,8 @@
         }
       ],
       "website": "https://www.thehawksmoor.com/locations/manchester",
-      "instagram": "https://www.instagram.com/hawksmoorrestaurants/"
+      "instagram": "https://www.instagram.com/hawksmoorrestaurants/",
+      "instagram_followers": 187000
     },
     {
       "id": "higher-ground",
@@ -482,7 +507,8 @@
         }
       ],
       "website": "https://highergroundmcr.co.uk/",
-      "instagram": "https://www.instagram.com/highergroundmcr/"
+      "instagram": "https://www.instagram.com/highergroundmcr/",
+      "instagram_followers": 34000
     },
     {
       "id": "the-refuge-by-volta",
@@ -518,7 +544,8 @@
         }
       ],
       "website": "https://wtlgi.co",
-      "instagram": "https://www.instagram.com/arestaurantwherethelightgetsin/"
+      "instagram": "https://www.instagram.com/arestaurantwherethelightgetsin/",
+      "instagram_followers": 40000
     },
     {
       "id": "winsome",
@@ -536,7 +563,8 @@
         }
       ],
       "website": "https://www.winsomemcr.co.uk/",
-      "instagram": "https://www.instagram.com/winsome_mcr/"
+      "instagram": "https://www.instagram.com/winsome_mcr/",
+      "instagram_followers": 22000
     },
     {
       "id": "la-bandera",
@@ -554,7 +582,8 @@
         }
       ],
       "website": "https://labandera.co.uk/",
-      "instagram": "https://www.instagram.com/labanderauk/"
+      "instagram": "https://www.instagram.com/labanderauk/",
+      "instagram_followers": 14000
     },
     {
       "id": "erst",
@@ -576,26 +605,32 @@
     {
       "id": "dishoom",
       "name": "Dishoom",
-      "area": "Deansgate",
-      "vibe": "Listed on OpenStreetMap as serving indian cuisine.",
+      "area": "Bridge Street",
+      "vibe": "Bombay café in the old Freemasons’ Hall. Stained glass, bacon naan rolls, house black daal — walk in for breakfast or a late feast; most tables stay unreserved.",
       "images": [
         {
           "url": "https://cdn.sanity.io/images/daku84np/production/d1c6e4f438138db8570c5aa1a41029428c3011eb-1200x794.jpg",
           "alt": "Dishoom"
-        },
-        {
-          "url": "https://www.dishoom.com/_next/image/",
-          "alt": "Dishoom"
         }
       ],
       "website": "https://www.dishoom.com/manchester/",
-      "instagram": "https://www.instagram.com/dishoom/"
+      "instagram": "https://www.instagram.com/dishoom/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Manchester page. Dropped broken _next/image URL.",
+        "sources": [
+          "https://www.dishoom.com/manchester/"
+        ]
+      },
+      "instagram_followers": 375000
     },
     {
       "id": "el-gato-negro-tapas",
       "name": "El Gato Negro Tapas",
-      "area": "City Centre",
-      "vibe": "Listed on OpenStreetMap as serving spanish, tapas cuisine.",
+      "area": "King Street",
+      "vibe": "Three-storey townhouse on King Street: pavement tables, an open kitchen with a chef’s table, and a rooftop terrace under a retractable roof. Spanish tapas since 2016.",
       "images": [
         {
           "url": "https://www.elgatonegrotapas.com/wp-content/uploads/2019/07/booking_page_locations-v2_mcr.jpg",
@@ -607,48 +642,65 @@
         }
       ],
       "website": "https://www.elgatonegrotapas.com/manchester/",
-      "instagram": "https://www.instagram.com/elgatonegrotapas/"
+      "instagram": "https://www.instagram.com/elgatonegrotapas/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Manchester page.",
+        "sources": [
+          "https://www.elgatonegrotapas.com/manchester/"
+        ]
+      },
+      "instagram_followers": 41000
     },
     {
       "id": "australasia",
       "name": "Australasia",
-      "area": "Manchester",
-      "vibe": "Listed on OpenStreetMap as serving international cuisine.",
+      "area": "Spinningfields",
+      "vibe": "You go downstairs. A glass entrance on The Avenue drops into a subterranean dining room with a shareable global menu and late DJ nights.",
       "images": [
         {
           "url": "https://static.wixstatic.com/media/79e2e3_8c5e33aa16bb4485b2adb7ad194364fa~mv2.png/v1/fill/w_1500,h_750,al_c/79e2e3_8c5e33aa16bb4485b2adb7ad194364fa~mv2.png",
           "alt": "Australasia"
-        },
-        {
-          "url": "https://static.wixstatic.com/media/79e2e3_2df155aeb2ff4110aba8abdbb9111544~mv2.png/v1/fill/w_70,h_17,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/aus-fire-2.png",
-          "alt": "aus-fire-2.png"
         }
       ],
-      "website": "https://australasia.uk.com/",
-      "instagram": "https://www.instagram.com/australasia_mcr/"
+      "website": "https://www.australasiamcr.co.uk/",
+      "instagram": "https://www.instagram.com/australasia_mcr/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official australasiamcr.co.uk. Dropped 70px fire logo; kept branded Australasia table photo.",
+        "sources": [
+          "https://www.australasiamcr.co.uk/",
+          "https://www.spinningfields.co.uk/eat_drink/australasia/"
+        ]
+      },
+      "instagram_followers": 36000
     },
     {
       "id": "san-carlo",
       "name": "San Carlo",
-      "area": "City Centre",
-      "vibe": "Listed on OpenStreetMap as serving italian cuisine.",
-      "images": [
-        {
-          "url": "https://assets.live.dxp.maginfrastructure.com/f/73114/1000x429/35055976bf/san-carlo_hero-image.jpg",
-          "alt": "San Carlo"
-        },
-        {
-          "url": "https://assets.live.dxp.maginfrastructure.com/f/73114/4096x2731/4cdf0f540f/man_san-carlo-hero.jpg",
-          "alt": "San Carlo"
-        }
-      ],
-      "website": "https://www.manchesterairport.co.uk/at-the-airport/restaurants/san-carlo/"
+      "area": "King Street West",
+      "vibe": "Long-running Italian on King Street West — regional plates, seafood and a big, dressed dining room in the middle of town.",
+      "images": [],
+      "website": "https://sancarlo.co.uk/restaurants/manchester/san-carlo-manchester/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official King Street page. Removed MAG airport-cdn photos that were not this room.",
+        "sources": [
+          "https://sancarlo.co.uk/restaurants/manchester/san-carlo-manchester/"
+        ]
+      }
     },
     {
       "id": "bundobust",
       "name": "Bundobust",
-      "area": "City Centre",
-      "vibe": "Listed on OpenStreetMap as serving indian cuisine.",
+      "area": "Piccadilly",
+      "vibe": "Indian street food and craft beer at communal tables — a canteen-taproom hybrid, open late. Manchester has this Piccadilly hall plus a separate brewery.",
       "images": [
         {
           "url": "https://bundobust.com/wp-content/uploads/2026/04/2026-02-11_Bundobust_NewMenu_lifestyle-49-scaled.jpg",
@@ -659,14 +711,24 @@
           "alt": "Photograph of the interior at Bundobust Manchester Piccadilly"
         }
       ],
-      "website": "http://bundobust.com/Manchester/",
-      "instagram": "https://www.instagram.com/bundobust"
+      "website": "https://bundobust.com/Manchester/",
+      "instagram": "https://www.instagram.com/bundobust",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Bundobust Manchester page. Photos from bundobust.com.",
+        "sources": [
+          "https://bundobust.com/Manchester/"
+        ]
+      },
+      "instagram_followers": 75000
     },
     {
       "id": "rudy-s-pizza",
       "name": "Rudy's Pizza",
-      "area": "Northern Quarter",
-      "vibe": "Listed on OpenStreetMap as serving pizza cuisine.",
+      "area": "Ancoats",
+      "vibe": "The first Rudy’s. Neapolitan dough fermented up to 24 hours, San Marzano and fior di latte, fired hot on Cotton Street — where the chain began.",
       "images": [
         {
           "url": "https://assets.rudyspizza.co.uk/content/uploads/2024/04/Ancoats-Header-1-1400x788.jpg",
@@ -678,48 +740,72 @@
         }
       ],
       "website": "https://www.rudyspizza.co.uk/location/ancoats/",
-      "instagram": "https://www.instagram.com/wearerudyspizza/"
+      "instagram": "https://www.instagram.com/wearerudyspizza/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Ancoats page. Photos from assets.rudyspizza.co.uk.",
+        "sources": [
+          "https://www.rudyspizza.co.uk/location/ancoats/"
+        ]
+      },
+      "instagram_followers": 156000
     },
     {
       "id": "fazenda",
-      "name": "Fazenda",
-      "area": "Manchester",
-      "vibe": "Listed on OpenStreetMap as serving brazilian, argentinian cuisine.",
+      "name": "Fogo de Chão",
+      "area": "Spinningfields",
+      "vibe": "Brazilian rodizio on The Avenue: gaucho chefs carve grilled cuts at the table, then the market table of salads and sides. This is the old Fazenda, now Fogo de Chão.",
       "images": [
         {
           "url": "https://media.fogodechao.uk/wp-content/uploads/2026/04/04095626/Fogo-de-Chao-Manchester-Hero-Banner.webp",
-          "alt": "Fazenda"
-        },
-        {
-          "url": "https://media.fogodechao.uk/wp-content/uploads/2026/03/23120632/FB.png",
-          "alt": "Facebook Icon"
+          "alt": "Fogo de Chão Manchester on The Avenue, Spinningfields"
         }
       ],
-      "website": "https://fazenda.co.uk/manchester/"
+      "website": "https://fogodechao.uk/location/manchester/",
+      "instagram": "https://www.instagram.com/fogodechaouk/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site states formerly Fazenda. Image is the named Fogo facade, not a swapped venue.",
+        "sources": [
+          "https://fogodechao.uk/location/manchester/",
+          "https://fazenda.co.uk/manchester/"
+        ]
+      },
+      "instagram_followers": 18000
     },
     {
       "id": "the-alchemist",
       "name": "The Alchemist",
-      "area": "Salford",
-      "vibe": "Listed on OpenStreetMap as serving european cuisine.",
+      "area": "MediaCityUK",
+      "vibe": "Gold-clad cocktail theatre on the Quays. Mixologists build drinks with a bit of staging; terrace sits over the ship canal beside the Lowry.",
       "images": [
-        {
-          "url": "https://a.storyblok.com/f/321600/1200x630/08808c1c3c/og_image.jpg",
-          "alt": "The Alchemist"
-        },
         {
           "url": "https://a.storyblok.com/f/321600/2048x1365/2db3acceb8/alchemist-bottomless-weekend-brunch.jpg/m/1920x0/filters:quality(40)",
           "alt": "https://a.storyblok.com/f/321600/2048x1365/2db3acceb8/alchemist-bottomless-weekend-brunch.jpg"
         }
       ],
-      "website": "https://thealchemistbars.com/",
-      "instagram": "https://www.instagram.com/thealchemistuk/"
+      "website": "https://thealchemistbars.com/venues/manchester/mediacity-uk/",
+      "instagram": "https://www.instagram.com/thealchemistuk/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official MediaCity page. Dropped geometric brand logo; kept Alchemist brunch photo.",
+        "sources": [
+          "https://thealchemistbars.com/venues/manchester/mediacity-uk/"
+        ]
+      },
+      "instagram_followers": 144000
     },
     {
       "id": "mowgli-street-food",
       "name": "Mowgli Street Food",
-      "area": "Manchester",
-      "vibe": "Listed on OpenStreetMap as serving indian cuisine.",
+      "area": "Corn Exchange",
+      "vibe": "Indian street food under the Corn Exchange glass: indoor swings, fairy lights, tiffin-style sharing plates. Second Mowgli to open, still the Manchester one.",
       "images": [
         {
           "url": "https://mowglistreetfood.com/wp-content/uploads/2026/06/Manchester-Main-Image.jpg",
@@ -731,31 +817,42 @@
         }
       ],
       "website": "https://www.mowglistreetfood.com/restaurants/manchester/",
-      "instagram": "https://www.instagram.com/mowglistreetfood/"
+      "instagram": "https://www.instagram.com/mowglistreetfood/",
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official Corn Exchange page. Photos from mowglistreetfood.com.",
+        "sources": [
+          "https://www.mowglistreetfood.com/restaurants/manchester/"
+        ]
+      },
+      "instagram_followers": 252000
     },
     {
       "id": "indian-tiffin-room",
       "name": "Indian Tiffin Room",
-      "area": "Manchester",
-      "vibe": "Listed on OpenStreetMap as serving indian cuisine.",
-      "images": [
-        {
-          "url": "https://indiantiffinroom.com/wp-content/uploads/2023/10/WE-ARE-10-2.webp",
-          "alt": "Indian Tiffin Room"
-        },
-        {
-          "url": "https://indiantiffinroom.com/wp-content/uploads/2023/08/white-itr-stamp.png",
-          "alt": "Indian Tiffin Room"
-        }
-      ],
-      "website": "https://www.indiantiffinroom.com/manchester-restaurant/",
-      "instagram": "https://www.instagram.com/Indiantiffinroom/"
+      "area": "First Street",
+      "vibe": "Indian street food and a cocktail bar on First Street. Regional plates, light on chilli-heat theatre — they say no chilli ratings, just spice.",
+      "images": [],
+      "website": "https://indiantiffinroom.com/manchester/",
+      "instagram": "https://www.instagram.com/Indiantiffinroom/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": false,
+        "notes": "Official First Street page. Dropped WE-ARE-10 and ITR stamp graphics; neither is this room.",
+        "sources": [
+          "https://indiantiffinroom.com/manchester/"
+        ]
+      },
+      "instagram_followers": 16000
     },
     {
       "id": "elnecot",
       "name": "Elnecot",
       "area": "Ancoats",
-      "vibe": "Restaurant listed on OpenStreetMap in Greater Manchester.",
+      "vibe": "Neighbourhood bar and kitchen on Cutting Room Square. Seasonal daytime plates, then evening service looking onto Blossom Street.",
       "images": [
         {
           "url": "http://static1.squarespace.com/static/58f9f3ae6a49637db3f9b4f9/t/59b9838a7f0cf52b021e9501/1617287273969/Screen+Shot+2017-09-13+at+8.14.06+pm.png",
@@ -766,8 +863,18 @@
           "alt": "Elnecot Gallery Image 4.jpg"
         }
       ],
-      "website": "https://elnecot.com",
-      "instagram": "https://www.instagram.com/elnecot/"
+      "website": "https://elnecot.com/",
+      "instagram": "https://www.instagram.com/elnecot/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-20",
+        "image_ok": true,
+        "notes": "Official site only claims neighbourhood bar & kitchen + address. No cuisine invented.",
+        "sources": [
+          "https://elnecot.com/"
+        ]
+      },
+      "instagram_followers": 25000
     }
   ],
   "dance": [
@@ -787,7 +894,8 @@
         }
       ],
       "website": "https://alberthallmanchester.com/",
-      "instagram": "https://www.instagram.com/alberthallmcr/"
+      "instagram": "https://www.instagram.com/alberthallmcr/",
+      "instagram_followers": 54000
     },
     {
       "id": "band-on-the-wall",
@@ -805,7 +913,8 @@
         }
       ],
       "website": "https://bandonthewall.org/",
-      "instagram": "https://www.instagram.com/bandonthewall/"
+      "instagram": "https://www.instagram.com/bandonthewall/",
+      "instagram_followers": 51000
     },
     {
       "id": "depot-mayfield",
@@ -823,7 +932,8 @@
         }
       ],
       "website": "https://depotmayfield.com/",
-      "instagram": "https://www.instagram.com/depotmayfield/"
+      "instagram": "https://www.instagram.com/depotmayfield/",
+      "instagram_followers": 16000
     },
     {
       "id": "gorilla",
@@ -841,7 +951,8 @@
         }
       ],
       "website": "https://www.thisisgorilla.com/",
-      "instagram": "https://www.instagram.com/thisisgorilla/"
+      "instagram": "https://www.instagram.com/thisisgorilla/",
+      "instagram_followers": 37000
     },
     {
       "id": "hidden",
@@ -859,7 +970,8 @@
         }
       ],
       "website": "http://hidden.club",
-      "instagram": "https://www.instagram.com/hiddenclubmcr/"
+      "instagram": "https://www.instagram.com/hiddenclubmcr/",
+      "instagram_followers": 61000
     },
     {
       "id": "yes",
@@ -877,7 +989,8 @@
         }
       ],
       "website": "https://yes-manchester.com",
-      "instagram": "https://www.instagram.com/yes_mcr/"
+      "instagram": "https://www.instagram.com/yes_mcr/",
+      "instagram_followers": 57000
     },
     {
       "id": "the-white-hotel",
@@ -891,7 +1004,8 @@
         }
       ],
       "website": "https://www.thewhitehotel.co.uk/",
-      "instagram": "https://www.instagram.com/m3_7lw/"
+      "instagram": "https://www.instagram.com/m3_7lw/",
+      "instagram_followers": 42000
     },
     {
       "id": "soup",
@@ -905,7 +1019,8 @@
         }
       ],
       "website": "https://soupmanchester.com/",
-      "instagram": "https://www.instagram.com/soup_manchester/"
+      "instagram": "https://www.instagram.com/soup_manchester/",
+      "instagram_followers": 13000
     },
     {
       "id": "mnky-hse-manchester",
@@ -936,7 +1051,8 @@
           "alt": "Jay DUNCAN - East Row Dub (12\")"
         }
       ],
-      "instagram": "https://www.instagram.com/easternbloc_/"
+      "instagram": "https://www.instagram.com/easternbloc_/",
+      "instagram_followers": 17000
     },
     {
       "id": "joshua-brooks",
@@ -954,7 +1070,8 @@
         }
       ],
       "website": "https://joshuabrooks.co.uk/",
-      "instagram": "https://www.instagram.com/joshuabrooksmcr/"
+      "instagram": "https://www.instagram.com/joshuabrooksmcr/",
+      "instagram_followers": 48000
     },
     {
       "id": "night-and-day-cafe",
@@ -971,7 +1088,8 @@
           "alt": "Night and Day Cafe"
         }
       ],
-      "instagram": "https://www.instagram.com/nightanddaycafe/"
+      "instagram": "https://www.instagram.com/nightanddaycafe/",
+      "instagram_followers": 29000
     },
     {
       "id": "the-deaf-institute",
@@ -988,7 +1106,8 @@
           "alt": "The Deaf Institute"
         }
       ],
-      "instagram": "https://www.instagram.com/deafinstitute/"
+      "instagram": "https://www.instagram.com/deafinstitute/",
+      "instagram_followers": 36000
     },
     {
       "id": "via",
@@ -1006,7 +1125,8 @@
         }
       ],
       "website": "https://www.viamanchester.co.uk/manchester",
-      "instagram": "https://www.instagram.com/via_canal_street/"
+      "instagram": "https://www.instagram.com/via_canal_street/",
+      "instagram_followers": 16000
     },
     {
       "id": "rebellion",
@@ -1024,7 +1144,8 @@
         }
       ],
       "website": "https://www.rebellion.club/",
-      "instagram": "https://www.instagram.com/rebellionmanchester/"
+      "instagram": "https://www.instagram.com/rebellionmanchester/",
+      "instagram_followers": 14000
     }
   ]
 }

@@ -1,6 +1,16 @@
+import { renderStoryCard, storyFile } from "./story";
+
 type VenueImage = {
   url: string;
   alt?: string;
+};
+
+type VenueVerify = {
+  confidence: number;
+  checked_at: string;
+  image_ok?: boolean;
+  notes?: string;
+  sources?: string[];
 };
 
 type Venue = {
@@ -10,7 +20,12 @@ type Venue = {
   vibe: string;
   website?: string;
   instagram?: string;
+  instagram_followers?: number;
+  tripadvisor?: string;
+  tripadvisor_rating?: number;
+  tripadvisor_reviews?: number;
   images: VenueImage[];
+  verified?: VenueVerify;
 };
 
 type Catalog = {
@@ -63,14 +78,62 @@ function cardHeight(windowEl: HTMLElement): number {
   return windowEl.getBoundingClientRect().height;
 }
 
-function linkChip(href: string, label: string): string {
-  return `<a href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">${label}</a>`;
+const iconGlobe = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.8 2.7 4.2 5.8 4.2 9s-1.4 6.3-4.2 9c-2.8-2.7-4.2-5.8-4.2-9s1.4-6.3 4.2-9Z"/></svg>`;
+const iconInstagram = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3.2" y="3.2" width="17.6" height="17.6" rx="5"/><circle cx="12" cy="12" r="3.7"/><circle cx="17.3" cy="6.7" r="1.05" fill="currentColor" stroke="none"/></svg>`;
+
+function linkIcon(href: string, label: string, icon: string, proof = ""): string {
+  const extra = proof ? `<span class="proof">${escapeHtml(proof)}</span>` : "";
+  const cls = proof ? ' class="has-proof"' : "";
+  return `<a href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer"${cls} aria-label="${escapeHtml(label)}" title="${escapeHtml(label)}">${icon}${extra}</a>`;
 }
+
+function compactCount(value: number): string {
+  if (!Number.isFinite(value) || value <= 0) return "";
+  if (value >= 1_000_000) {
+    const scaled = value / 1_000_000;
+    return `${scaled >= 10 ? Math.round(scaled) : scaled.toFixed(1).replace(/\.0$/, "")}m`;
+  }
+  if (value >= 1000) {
+    const scaled = value / 1000;
+    return `${scaled >= 100 ? Math.round(scaled) : scaled.toFixed(1).replace(/\.0$/, "")}k`;
+  }
+  return String(Math.round(value));
+}
+
+function instagramProof(venue: Venue): string {
+  return compactCount(venue.instagram_followers || 0);
+}
+
+function tripadvisorProof(venue: Venue): string {
+  const rating = venue.tripadvisor_rating;
+  if (typeof rating !== "number" || rating < 1 || rating > 5) return "";
+  const score = rating.toFixed(1);
+  const reviews = compactCount(venue.tripadvisor_reviews || 0);
+  return reviews ? `${score} · ${reviews}` : score;
+}
+
+const iconStar = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 3.6 14.5 9l6 .6-4.6 4 1.4 5.8L12 16.8 6.7 19.4 8.1 13.6 3.5 9.6l6-.6L12 3.6Z"/></svg>`;
 
 function renderReveal(venue: Venue): string {
   const links: string[] = [];
-  if (venue.website) links.push(linkChip(venue.website, "Website"));
-  if (venue.instagram) links.push(linkChip(venue.instagram, "Instagram"));
+  if (venue.website) links.push(linkIcon(venue.website, `${venue.name} website`, iconGlobe));
+  if (venue.instagram) {
+    const followers = instagramProof(venue);
+    links.push(
+      linkIcon(
+        venue.instagram,
+        followers ? `${venue.name} Instagram, ${followers} followers` : `${venue.name} Instagram`,
+        iconInstagram,
+        followers,
+      ),
+    );
+  }
+  if (venue.tripadvisor) {
+    const score = tripadvisorProof(venue);
+    if (score) {
+      links.push(linkIcon(venue.tripadvisor, `${venue.name} Tripadvisor ${score}`, iconStar, score));
+    }
+  }
   return `
     <h3>${escapeHtml(venue.name)}</h3>
     ${venue.area ? `<p class="area">${escapeHtml(venue.area)}</p>` : ""}
@@ -102,6 +165,47 @@ function nightURL(cityId: string, reels: Reel[]): string {
   const url = new URL(window.location.origin + window.location.pathname);
   nightParams(cityId, reels).forEach((value, key) => url.searchParams.set(key, value));
   return url.toString();
+}
+
+function planURL(cityId: string): string {
+  const url = new URL(window.location.origin + window.location.pathname);
+  url.searchParams.set("c", cityId);
+  return url.toString();
+}
+
+function setMeta(key: string, content: string, attr: "property" | "name" = "property") {
+  let el = document.querySelector<HTMLMetaElement>(`meta[${attr}="${key}"]`);
+  if (!el) {
+    el = document.createElement("meta");
+    el.setAttribute(attr, key);
+    document.head.append(el);
+  }
+  el.content = content;
+}
+
+function writeShareMeta(url: string, title: string, description: string, photo?: string) {
+  const image = photo
+    ? /^https?:/i.test(photo)
+      ? photo
+      : `${window.location.origin}${photo.startsWith("/") ? photo : `/${photo}`}`
+    : `${window.location.origin}/og.png`;
+  setMeta("og:url", url);
+  setMeta("og:title", title);
+  setMeta("og:description", description);
+  setMeta("og:image", image);
+  setMeta("twitter:title", title, "name");
+  setMeta("twitter:description", description, "name");
+  setMeta("twitter:image", image, "name");
+  const canonical = document.querySelector<HTMLLinkElement>('link[rel="canonical"]');
+  if (canonical) canonical.href = url;
+}
+
+function itineraryLine(city: string): string {
+  return `My perfect ${city} day`;
+}
+
+function itineraryText(city: string, reels: Reel[]): string {
+  return `${itineraryLine(city)}\n${reels.map((reel) => reel.current.name).join(" · ")}\nPlan yours →`;
 }
 
 async function copyText(value: string): Promise<boolean> {
@@ -266,6 +370,7 @@ class Reel {
     this.syncOffset();
     this.hydrateImages();
     this.showReveal();
+    this.root.dispatchEvent(new CustomEvent("ddd-pick", { bubbles: true }));
     if ("vibrate" in navigator) navigator.vibrate(8);
   }
 
@@ -324,8 +429,33 @@ class Reel {
   }
 }
 
+const DATA_VER = "20260921a";
+
+function isOsmLeftover(vibe: string): boolean {
+  const text = vibe.trim();
+  if (!text) return true;
+  const words = text.replace(/\.$/, "").split(/\s+/);
+  if (/^[A-Za-z][A-Za-z /]*\.?$/.test(text) && words.length <= 3) return true;
+  if (/^(adult )?nightclub\b/i.test(text) && words.length <= 6) return true;
+  if (
+    /\bin (Manhattan|Brooklyn|Queens|The Bronx|Bronx|Staten Island|London|Manchester|Ibiza)\s*\.?$/i.test(text) &&
+    words.length <= 6
+  ) {
+    return true;
+  }
+  return false;
+}
+
+function scrubCatalog(catalog: Catalog): Catalog {
+  const next = {} as Catalog;
+  (Object.keys(catalog) as ReelKey[]).forEach((key) => {
+    next[key] = (catalog[key] || []).filter((venue) => venue.name && !isOsmLeftover(venue.vibe || ""));
+  });
+  return next;
+}
+
 async function loadCities(): Promise<City[]> {
-  const response = await fetch("/cities.json", { cache: "force-cache" });
+  const response = await fetch(`/cities.json?v=${DATA_VER}`, { cache: "reload" });
   if (!response.ok) throw new Error("Could not load cities");
   const cities = (await response.json()) as City[];
   return cities.filter((city) => city.id && city.name);
@@ -334,9 +464,9 @@ async function loadCities(): Promise<City[]> {
 async function loadCatalog(cityId: string): Promise<Catalog> {
   const cached = catalogCache.get(cityId);
   if (cached) return cached;
-  const response = await fetch(`/data/${encodeURIComponent(cityId)}.json`, { cache: "force-cache" });
+  const response = await fetch(`/data/${encodeURIComponent(cityId)}.json?v=${DATA_VER}`, { cache: "reload" });
   if (!response.ok) throw new Error(`Could not load ${cityId} venues`);
-  const catalog = (await response.json()) as Catalog;
+  const catalog = scrubCatalog((await response.json()) as Catalog);
   catalogCache.set(cityId, catalog);
   return catalog;
 }
@@ -366,13 +496,6 @@ function cityFromLocation(cities: City[]): string {
     /* ignore */
   }
   return cities[0]?.id || "ibiza";
-}
-
-function startIndexFor(catalog: Catalog, key: ReelKey): number | undefined {
-  const id = new URLSearchParams(window.location.search).get(key);
-  if (!id) return undefined;
-  const index = catalog[key].findIndex((item) => item.id === id);
-  return index >= 0 ? index : undefined;
 }
 
 function paintCityPicker(cities: City[], activeId: string): void {
@@ -426,6 +549,11 @@ async function boot(): Promise<void> {
   let cityId = cityFromLocation(cities);
   let switching = false;
   let ignoreScroll = false;
+  const shareBtn = document.querySelector<HTMLButtonElement>("#share");
+  const setShareVisible = (visible: boolean) => {
+    if (!shareBtn) return;
+    shareBtn.hidden = !visible;
+  };
 
   const setDots = (id: string) => {
     document.querySelectorAll(".city-dot").forEach((dot) => {
@@ -454,21 +582,36 @@ async function boot(): Promise<void> {
     } catch {
       /* ignore */
     }
+    const changingCity = reels.length > 0;
+    const startIds = Object.fromEntries(
+      (Object.keys(LABELS) as ReelKey[]).map((key) => [key, new URLSearchParams(window.location.search).get(key)]),
+    ) as Record<ReelKey, string | null>;
     const nextURL = new URL(window.location.href);
     nextURL.searchParams.set("c", id);
-    (["date", "dinner", "dance"] as ReelKey[]).forEach((key) => nextURL.searchParams.delete(key));
+    if (changingCity) {
+      (["date", "dinner", "dance"] as ReelKey[]).forEach((key) => nextURL.searchParams.delete(key));
+    }
     nextURL.hash = "";
     history.replaceState(null, "", `${nextURL.pathname}?${nextURL.searchParams.toString()}`);
-    document.title = `Date · Dinner · Dance — ${city.name}`;
+    document.title = `date dinner dance — ${city.name}`;
 
     try {
       const catalog = await loadCatalog(id);
       validate(catalog);
       reels.forEach((reel) => reel.destroy());
       mount.innerHTML = "";
+      const starts = (Object.keys(LABELS) as ReelKey[]).map((key) => {
+        if (changingCity) return undefined;
+        const venueId = startIds[key];
+        if (!venueId) return undefined;
+        const index = catalog[key].findIndex((item) => item.id === venueId);
+        return index >= 0 ? index : undefined;
+      });
       reels = (Object.keys(LABELS) as ReelKey[]).map(
-        (key) => new Reel(key, catalog[key], mount, startIndexFor(catalog, key)),
+        (key, i) => new Reel(key, catalog[key], mount, starts[i]),
       );
+      setShareVisible(starts.some((index) => index !== undefined));
+      if (starts.every((index) => index !== undefined)) queueMicrotask(() => trackOpenOnce());
       cities.forEach((item) => prefetchCatalog(item.id));
     } finally {
       switching = false;
@@ -514,9 +657,52 @@ async function boot(): Promise<void> {
     void loadCity(slide.dataset.city, true);
   });
 
+  const cityName = () => cities.find((city) => city.id === cityId)?.name || cityId;
+
+  const trackNight = (kind: "open" | "share", channel?: string) => {
+    if (reels.length < 3) return;
+    const payload = {
+      kind,
+      channel,
+      city: cityId,
+      date: reels.find((reel) => reel.key === "date")?.current.id,
+      dinner: reels.find((reel) => reel.key === "dinner")?.current.id,
+      dance: reels.find((reel) => reel.key === "dance")?.current.id,
+    };
+    try {
+      navigator.sendBeacon("/api/hit", new Blob([JSON.stringify(payload)], { type: "application/json" }));
+    } catch {
+      void fetch("/api/hit", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify(payload),
+        keepalive: true,
+      }).catch(() => undefined);
+    }
+  };
+
+  const trackOpenOnce = () => {
+    if (reels.length < 3) return;
+    const key = `ddd-open:${cityId}|${reels.map((reel) => reel.current.id).join("|")}`;
+    try {
+      if (sessionStorage.getItem(key)) return;
+      sessionStorage.setItem(key, "1");
+    } catch {
+      /* still count this open */
+    }
+    trackNight("open");
+  };
+
   const writeNightURL = () => {
     if (!reels.length) return;
-    history.replaceState(null, "", nightURL(cityId, reels).replace(window.location.origin, ""));
+    const url = nightURL(cityId, reels);
+    history.replaceState(null, "", url.replace(window.location.origin, ""));
+    writeShareMeta(
+      url,
+      itineraryLine(cityName()),
+      `${reels.map((reel) => reel.current.name).join(" · ")} — Plan yours →`,
+      reels.find((reel) => reel.key === "dinner")?.current.images[0]?.url || reels[0]?.current.images[0]?.url,
+    );
   };
 
   spin.addEventListener("click", async () => {
@@ -533,32 +719,83 @@ async function boot(): Promise<void> {
     spin.disabled = false;
     spin.classList.remove("is-spinning");
     writeNightURL();
+    setShareVisible(true);
     if ("vibrate" in navigator) navigator.vibrate([12, 30, 18]);
   });
 
   const sheet = document.querySelector<HTMLElement>("#share-sheet");
-  const shareBtn = document.querySelector<HTMLButtonElement>("#share");
   const shareTitle = document.querySelector("#share-title");
   const sharePicks = document.querySelector("#share-picks");
   const shareStatus = document.querySelector("#share-status");
-  const cityName = () => cities.find((city) => city.id === cityId)?.name || cityId;
 
   const setStatus = (text: string) => {
     if (shareStatus) shareStatus.textContent = text;
   };
 
-  const openSheet = () => {
-    if (!sheet || !reels.length) return;
-    writeNightURL();
-    if (shareTitle) {
-      const name = cityName();
-      shareTitle.textContent = /^[aeiou]/i.test(name) ? `An ${name} night` : `A ${name} night`;
+  const storyPreview = document.querySelector<HTMLImageElement>("#share-story-preview");
+  let storyBlob: Blob | null = null;
+  let storyKey = "";
+
+  const picksForStory = () =>
+    reels.map((reel) => ({
+      label: LABELS[reel.key],
+      name: reel.current.name,
+      area: reel.current.area,
+      imageUrl: reel.current.images[0]?.url,
+    }));
+
+  const ensureStoryCard = async (): Promise<File> => {
+    const key = `${cityId}|${reels.map((reel) => reel.current.id).join("|")}`;
+    if (!storyBlob || storyKey !== key) {
+      setStatus("Making your story…");
+      storyBlob = await renderStoryCard(cityName(), picksForStory());
+      storyKey = key;
+      if (storyPreview) {
+        if (storyPreview.src.startsWith("blob:")) URL.revokeObjectURL(storyPreview.src);
+        storyPreview.src = URL.createObjectURL(storyBlob);
+        storyPreview.hidden = false;
+      }
     }
+    return storyFile(storyBlob, cityName());
+  };
+
+  const downloadStory = (file: File) => {
+    const link = document.createElement("a");
+    link.href = URL.createObjectURL(file);
+    link.download = file.name;
+    link.click();
+    setTimeout(() => URL.revokeObjectURL(link.href), 4000);
+  };
+
+  const shareStoryImage = async (): Promise<boolean> => {
+    const file = await ensureStoryCard();
+    const url = planURL(cityId);
+    const text = `${itineraryLine(cityName())} — Plan yours →\n${url}`;
+    try {
+      const payload: ShareData = { files: [file], title: "date dinner dance", text };
+      if (navigator.canShare?.(payload)) {
+        await navigator.share(payload);
+        return true;
+      }
+    } catch (error) {
+      if ((error as { name?: string }).name === "AbortError") return false;
+    }
+    downloadStory(file);
+    return false;
+  };
+
+  const openSheet = () => {
+    if (!sheet || !reels.length || shareBtn?.hidden) return;
+    writeNightURL();
+    if (shareTitle) shareTitle.textContent = itineraryLine(cityName());
     if (sharePicks) {
       sharePicks.textContent = reels.map((reel) => reel.current.name).join(" · ");
     }
     setStatus("");
     sheet.hidden = false;
+    void ensureStoryCard().then(() => setStatus("")).catch(() => {
+      setStatus("Could not make the story image. Share the link instead.");
+    });
   };
 
   const closeSheet = () => {
@@ -566,6 +803,10 @@ async function boot(): Promise<void> {
   };
 
   shareBtn?.addEventListener("click", openSheet);
+  mount.addEventListener("ddd-pick", () => {
+    setShareVisible(true);
+    writeNightURL();
+  });
   sheet?.addEventListener("click", (event) => {
     if (event.target === sheet || (event.target as HTMLElement).closest("[data-close-sheet]")) {
       closeSheet();
@@ -573,48 +814,44 @@ async function boot(): Promise<void> {
   });
 
   document.querySelector("#share-native")?.addEventListener("click", async () => {
-    const url = nightURL(cityId, reels);
-    const text = `Date · Dinner · Dance — ${cityName()}\n${reels.map((reel) => reel.current.name).join(" · ")}`;
-    try {
-      if (navigator.share) {
-        await navigator.share({ title: "Date · Dinner · Dance", text, url });
-        setStatus("Shared.");
-        return;
-      }
-    } catch {
-      /* user cancelled or share failed */
+    const shared = await shareStoryImage();
+    if (shared) {
+      trackNight("share", "native");
+      setStatus("Shared. Pick Instagram → Story.");
+      return;
     }
-    const ok = await copyText(`${text}\n${url}`);
-    setStatus(ok ? "Link copied — paste it in a DM or Story." : "Could not share. Copy the URL from the address bar.");
+    const ok = await copyText(`${itineraryText(cityName(), reels)}\n${nightURL(cityId, reels)}`);
+    trackNight("share", "native");
+    setStatus(ok ? "Image saved and your night’s link copied." : "Image downloaded. Add it to your Story.");
   });
 
   document.querySelector("#share-copy")?.addEventListener("click", async () => {
     const ok = await copyText(nightURL(cityId, reels));
-    setStatus(ok ? "Link copied." : "Copy failed.");
+    if (ok) trackNight("share", "copy");
+    setStatus(ok ? "Your night’s link copied." : "Copy failed.");
   });
 
   document.querySelector("#share-dm")?.addEventListener("click", async () => {
     const url = nightURL(cityId, reels);
-    const ok = await copyText(`Tonight: ${reels.map((reel) => reel.current.name).join(" · ")}\n${url}`);
+    const ok = await copyText(`${itineraryText(cityName(), reels)}\n${url}`);
+    if (ok) trackNight("share", "dm");
     window.open("https://www.instagram.com/direct/new/", "_blank", "noopener,noreferrer");
-    setStatus(ok ? "Link copied. Paste it in the DM." : "Open Instagram and paste the page URL.");
+    setStatus(ok ? "Link copied. Paste it in the DM — the preview is your night." : "Open Instagram and paste the page URL.");
   });
 
   document.querySelector("#share-story")?.addEventListener("click", async () => {
-    const url = nightURL(cityId, reels);
-    const text = `${cityName()} night: ${reels.map((reel) => reel.current.name).join(" · ")}`;
-    try {
-      if (navigator.share) {
-        await navigator.share({ title: "Date · Dinner · Dance", text, url });
-        setStatus("Pick Instagram in the share sheet, then Story.");
-        return;
-      }
-    } catch {
-      /* cancelled */
-    }
+    const url = planURL(cityId);
+    const shared = await shareStoryImage();
     const ok = await copyText(url);
-    window.open("https://www.instagram.com/", "_blank", "noopener,noreferrer");
-    setStatus(ok ? "Link copied. Add it as a Story link sticker." : "Copy the URL, then add a link sticker in Instagram.");
+    if (shared || ok) trackNight("share", "story");
+    if (!shared) window.open("https://www.instagram.com/", "_blank", "noopener,noreferrer");
+    setStatus(
+      shared
+        ? "Pick Instagram → Story. The city link is copied so they can spin their own."
+        : ok
+          ? "Story image saved and city link copied. Post the image, then add the link sticker."
+          : "Story image downloaded. Post it, then add datedinnerdance.com.",
+    );
   });
 
   document.querySelector("#subscribe-form")?.addEventListener("submit", async (event) => {

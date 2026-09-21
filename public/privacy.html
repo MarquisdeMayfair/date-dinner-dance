@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Privacy — date dinner dance</title>
+    <meta
+      name="description"
+      content="How Date · Dinner · Dance uses a little data so you can plan a day and share it."
+    />
+    <link rel="canonical" href="https://datedinnerdance.com/privacy.html" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content="#fff6ec" />
+    <link rel="stylesheet" href="/legal.css" />
+  </head>
+  <body>
+    <main>
+      <p class="kicker">date dinner dance</p>
+      <h1>Privacy</h1>
+      <p>
+        Date · Dinner · Dance is a public night planner. You spin a place to go, a place to eat,
+        and a dancefloor, then share the itinerary. It is not a dating app, not a matchmaker,
+        and not a drinks shop. “Date” here means a day out.
+      </p>
+
+      <h2>What we do not do</h2>
+      <ul>
+        <li>No user profiles, likes, matches, or in-app chat.</li>
+        <li>No Facebook Login or Instagram Login for the planner.</li>
+        <li>No selling of drinks, tickets, or table bookings.</li>
+        <li>No tracking people across other sites for ads.</li>
+      </ul>
+
+      <h2>What we collect</h2>
+      <p>
+        The planner works without an account. Venue pages, photos, and Instagram links are
+        public listings.
+      </p>
+      <p>
+        If you tap Notify me, we keep the email (and optional Instagram handle) you type so we
+        can tell you when a new city goes live. That list is not sold.
+      </p>
+      <p>
+        If you open or share a night, we count the city and the three places, and which share
+        button you used. We do this so we know which nights people actually pick, even when
+        nobody signs up. We drop known bots and crawlers. We do not store your name, and we
+        do not post to Instagram for you.
+      </p>
+      <p>
+        Write to us at
+        <a href="mailto:hello@datedinnerdance.com">hello@datedinnerdance.com</a>.
+      </p>
+
+      <h2 id="deletion">Delete your details</h2>
+      <p>
+        There is no account. If you joined the city-alert list, type that email below and we
+        will drop it.
+      </p>
+      <form id="delete-form">
+        <label for="delete-email">Email to remove</label><br />
+        <input id="delete-email" name="email" type="email" required autocomplete="email" />
+        <button type="submit">Remove me</button>
+        <p id="delete-status"></p>
+      </form>
+      <script>
+        document.getElementById("delete-form").addEventListener("submit", async (event) => {
+          event.preventDefault();
+          const email = document.getElementById("delete-email").value.trim();
+          const status = document.getElementById("delete-status");
+          try {
+            const response = await fetch("/api/subscribe", {
+              method: "POST",
+              headers: { "content-type": "application/json" },
+              body: JSON.stringify({ email, action: "delete" }),
+            });
+            status.textContent = response.ok
+              ? "Removed from the city-alert list."
+              : "Could not remove that email. Try again.";
+          } catch {
+            status.textContent = "Could not reach the list. Try again.";
+          }
+        });
+      </script>
+
+      <p class="links">
+        <a href="/">Planner</a>
+        · <a href="/contact.html">Contact</a>
+        · <a href="/terms.html">Terms</a>
+      </p>
+      <p class="entity">
+        Operated by Moxon AI Group Ltd, Moxon House, Moxon Street, London W1U 4EY.
+      </p>
+    </main>
+  </body>
+</html>
