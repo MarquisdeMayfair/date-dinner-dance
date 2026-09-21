@@ -419,6 +419,146 @@
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-carbo/"
+    },
+    {
+      "id": "cala-de-boix",
+      "name": "Cala Boix",
+      "area": "Santa Eulalia",
+      "vibe": "Dark sand and shingle beach beneath cliffs near San Carlos — quiet and unspoiled.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-de-boix/01.webp",
+          "alt": "Cala Boix dark-sand cove beneath cliffs",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-boix-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-boix/"
+    },
+    {
+      "id": "cala-llonga",
+      "name": "Cala Llonga",
+      "area": "Santa Eulalia",
+      "vibe": "Sheltered, deeply indented east-coast bay between Santa Eulalia and Ibiza Town — calm water, ideal for families.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-llonga/01.webp",
+          "alt": "Sheltered bay of Cala Llonga between wooded hills",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-llonga-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-llonga/"
+    },
+    {
+      "id": "cala-codolar",
+      "name": "Cala Codolar",
+      "area": "Sant Josep",
+      "vibe": "Small sheltered cove west of Cala Comte with clear water.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-codolar/01.webp",
+          "alt": "Cala Codolar sheltered cove",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-codolar-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-codolar/"
+    },
+    {
+      "id": "cala-gració",
+      "name": "Cala Gració",
+      "area": "San Antonio",
+      "vibe": "Sheltered sandy bay near San Antonio with clear, shallow water.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-gració/01.webp",
+          "alt": "Cala Gració sandy bay",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-gracio-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-gracio/"
+    },
+    {
+      "id": "cala-sant-vicent",
+      "name": "Cala Sant Vicent",
+      "area": "Sant Joan",
+      "vibe": "Wide sandy bay in the northeast with hotels, mountain scenery and calm sea.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-sant-vicent/01.webp",
+          "alt": "Cala de Sant Vicent sandy bay",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-de-sant-vicent-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-de-sant-vicent/"
+    },
+    {
+      "id": "cala-nova",
+      "name": "Cala Nova",
+      "area": "Santa Eulalia",
+      "vibe": "Wide east-coast beach next to Es Canar with some waves and a natural backdrop.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-nova/01.webp",
+          "alt": "Cala Nova beach",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-nova-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-nova/"
+    },
+    {
+      "id": "figueretas",
+      "name": "Figueretas",
+      "area": "Ibiza Town",
+      "vibe": "Town beach with a palm-lined promenade right by Ibiza Town.",
+      "images": [
+        {
+          "url": "/assets/opt/date/figueretas/01.webp",
+          "alt": "Figueretas town beach",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/figueretas-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/figueretas/"
+    },
+    {
+      "id": "playa-den-bossa",
+      "name": "Playa d'en Bossa",
+      "area": "Playa d'en Bossa",
+      "vibe": "Ibiza's longest sandy beach at around 3 km — beach clubs and hotels right on the water.",
+      "images": [
+        {
+          "url": "/assets/opt/date/playa-den-bossa/01.webp",
+          "alt": "Playa d'en Bossa long sandy beach",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/playa-den-bossa-strand-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/playa-den-bossa/"
+    },
+    {
+      "id": "arenal-gran-portinatx",
+      "name": "Arenal Gran Portinatx",
+      "area": "Portinatx",
+      "vibe": "Main beach of the resort town Portinatx in the north — shallow water, family-friendly.",
+      "images": [
+        {
+          "url": "/assets/opt/date/arenal-gran-portinatx/01.webp",
+          "alt": "Arenal Gran Portinatx main beach",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/portinatx-arenal-gran-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/portinatx-arenal-gran/"
+    },
+    {
+      "id": "cala-den-serra",
+      "name": "Cala d'en Serra",
+      "area": "Sant Joan",
+      "vibe": "Secluded, undeveloped natural cove near Portinatx with turquoise water — a tip for peace and quiet.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-den-serra/01.webp",
+          "alt": "Cala d'en Serra secluded cove",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-den-serra-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-den-serra/"
     }
   ],
   "dinner": [
@@ -1090,6 +1230,114 @@
       ],
       "website": "https://canasofia.com/",
       "instagram": "https://www.instagram.com/restaurantecanasofia",
+      "instagram_followers": 0
+    },
+    {
+      "id": "es-ventall",
+      "name": "Es Ventall",
+      "area": "Sant Antoni",
+      "vibe": "More than 35 years of tradition and innovation in Ibizan cuisine, where respect for the roots merges with creativity — seasonal garden produce over a wood fire.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/es-ventall/01.webp",
+          "alt": "Es Ventall plated dish",
+          "remote_url": "https://www.restauranteesventall.com/img/galeria_fotos/55.jpg"
+        }
+      ],
+      "website": "https://www.restauranteesventall.com/en/index.html",
+      "instagram": "https://www.instagram.com/es_ventall",
+      "instagram_followers": 0
+    },
+    {
+      "id": "almar",
+      "name": "Almar",
+      "area": "Talamanca",
+      "vibe": "On Talamanca beach — a cult of the Mediterranean with local produce and some of the island’s best rice dishes, front-line sea dining from sunbeds or the restaurant.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/almar/01.webp",
+          "alt": "Almar beachfront restaurant on Talamanca",
+          "remote_url": "https://almaribiza.es/wp-content/uploads/2025/04/Almar.jpg"
+        }
+      ],
+      "website": "https://almaribiza.es/",
+      "instagram": "https://www.instagram.com/almaribiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "stevie-alla-bottega-il-buco",
+      "name": "Stevie alla Bottega Il Buco",
+      "area": "Santa Gertrudis",
+      "vibe": "Santa Gertrudis neighbourhood Italian restaurant and focacceria — house-made focaccia, farm-fresh vegetables, crudos, pastas, meat and fish.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/stevie-alla-bottega-il-buco/01.webp",
+          "alt": "Stevie alla Bottega pasta dish",
+          "remote_url": "https://images.squarespace-cdn.com/content/v1/688f353bb7bc684d61d5fc67/68017df8-cc96-4389-aadd-436809d69c9c/_DSC2030_websize.jpg"
+        }
+      ],
+      "website": "https://www.stevieallabottega.com/",
+      "instagram": "https://www.instagram.com/stevieallabottega",
+      "instagram_followers": 0
+    },
+    {
+      "id": "casa-club",
+      "name": "Casa Club",
+      "area": "Santa Eulalia",
+      "vibe": "A relaxed destination for good breakfasts, long lunches and peaceful afternoons — tucked away in one of the island’s most beautiful settings, space to breathe.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/casa-club/01.webp",
+          "alt": "Casa Club sunlit interior lounge",
+          "remote_url": "https://framerusercontent.com/images/kIYugYBW3YXQqf4Kk0BPTs5UhA.jpg"
+        }
+      ],
+      "website": "https://www.casaclub-ibiza.com/en/"
+    },
+    {
+      "id": "tigre-morado",
+      "name": "Tigre Morado",
+      "area": "San Antonio Bay",
+      "vibe": "Nikkei restaurant and beach club on Port des Torrent — Mediterranean produce with Pacific technique, midday with feet in the sand and dinners against the sunset.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/tigre-morado/01.webp",
+          "alt": "Tigre Morado beach entrance sign",
+          "remote_url": "https://tigreibiza.com/assets/images/lugar-entrada-bambu.jpg"
+        }
+      ],
+      "website": "https://tigreibiza.com/",
+      "instagram": "https://www.instagram.com/tigreibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "chi-kee-wun",
+      "name": "Chi Kee Wun",
+      "area": "San Antonio",
+      "vibe": "Modern Chinese fusion dining in a secret oriental garden in San Antonio — traditional eastern flavours with contemporary touches.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/chi-kee-wun/01.webp",
+          "alt": "Chi Kee Wun dumpling dish",
+          "remote_url": "https://chikeewun.com/wp-content/uploads/2025/02/venue-4b.jpg"
+        }
+      ],
+      "website": "https://www.chikeewun.com/"
+    },
+    {
+      "id": "ciento80",
+      "name": "Ciento80",
+      "area": "Ibiza Town",
+      "vibe": "On Ibiza’s quiet coast — a soulful refuge where sea breeze, family hospitality and coherent Mediterranean cooking meet honest plates; relaxed elegant dining with sea views.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/ciento80/01.webp",
+          "alt": "Ciento80 sea-view terrace",
+          "remote_url": "https://ciento80ibiza.com/wp-content/uploads/2025/04/Vista-mar2.jpg"
+        }
+      ],
+      "website": "https://ciento80ibiza.com/",
+      "instagram": "https://www.instagram.com/ciento80ibiza",
       "instagram_followers": 0
     }
   ],
