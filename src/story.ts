@@ -184,7 +184,7 @@ export async function renderStoryCard(city: string, picks: StoryPick[]): Promise
   ctx.textBaseline = "middle";
   ctx.font = "600 40px Jost, system-ui, sans-serif";
   ctx.letterSpacing = "0";
-  const cta = "Plan yours →";
+  const cta = "Hey let's go";
   const ctaW = ctx.measureText(cta).width + 124;
   const ctaH = 100;
   const ctaX = (W - ctaW) / 2;

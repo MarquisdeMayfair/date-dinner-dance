@@ -85,8 +85,8 @@
       <main id="reels" class="reels"></main>
 
       <footer class="dock">
-        <button type="button" id="share" class="share-btn" hidden aria-label="Share this itinerary">
-          Share
+        <button type="button" id="share" class="share-btn" hidden aria-label="Hey let's go">
+          Hey let's go
         </button>
         <button type="button" id="spin" class="spin">
           <span class="spin-label">Spin</span>
@@ -97,26 +97,10 @@
     <div id="share-sheet" class="sheet" hidden>
       <div class="sheet-card">
         <button type="button" class="sheet-close" data-close-sheet aria-label="Close">×</button>
-        <p class="sheet-kicker">Share this itinerary</p>
-        <h2 id="share-title">date dinner dance</h2>
+        <h2 id="share-title">Hey let's go</h2>
         <p id="share-picks" class="sheet-picks"></p>
-        <img id="share-story-preview" class="story-preview" alt="Story card preview" hidden />
-        <div class="share-actions">
-          <button type="button" id="share-native" class="share-action">Share</button>
-          <button type="button" id="share-copy" class="share-action">Copy link</button>
-          <button type="button" id="share-dm" class="share-action">Instagram DM</button>
-          <button type="button" id="share-story" class="share-action">Add to Story</button>
-        </div>
+        <img id="share-story-preview" class="story-preview" alt="Story card to save" hidden />
         <p id="share-status" class="sheet-status" aria-live="polite"></p>
-        <form id="subscribe-form" class="subscribe">
-          <p class="sheet-kicker">Get new cities first</p>
-          <label class="sr-only" for="subscribe-email">Email</label>
-          <input id="subscribe-email" name="email" type="email" autocomplete="email" inputmode="email" placeholder="you@email.com" required />
-          <label class="sr-only" for="subscribe-handle">Instagram handle</label>
-          <input id="subscribe-handle" name="handle" type="text" autocomplete="username" placeholder="@yourhandle (optional)" />
-          <button type="submit" class="subscribe-btn">Notify me</button>
-          <p class="subscribe-note">No spam. We’ll send nights and new cities — not ads.</p>
-        </form>
       </div>
     </div>
     <script type="module" src="/src/main.ts"></script>

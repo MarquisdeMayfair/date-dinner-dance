@@ -204,8 +204,9 @@ function itineraryLine(city: string): string {
   return `My perfect ${city} day`;
 }
 
-function itineraryText(city: string, reels: Reel[]): string {
-  return `${itineraryLine(city)}\n${reels.map((reel) => reel.current.name).join(" · ")}\nPlan yours →`;
+function dareLine(cityId: string, reels: Reel[]): string {
+  const names = reels.map((reel) => reel.current.name).join(" · ");
+  return `Hey let's go\n${names}\nYour day → ${planURL(cityId)}`;
 }
 
 async function copyText(value: string): Promise<boolean> {
@@ -579,9 +580,11 @@ async function boot(): Promise<void> {
   let settleTimer = 0;
   let programTimer = 0;
   const shareBtn = document.querySelector<HTMLButtonElement>("#share");
+  const dock = document.querySelector<HTMLElement>(".dock");
   const setShareVisible = (visible: boolean) => {
     if (!shareBtn) return;
     shareBtn.hidden = !visible;
+    dock?.classList.toggle("has-night", visible);
   };
 
   const setDots = (id: string) => {
@@ -789,7 +792,7 @@ async function boot(): Promise<void> {
     writeShareMeta(
       url,
       itineraryLine(cityName()),
-      `${reels.map((reel) => reel.current.name).join(" · ")} — Plan yours →`,
+      `${reels.map((reel) => reel.current.name).join(" · ")} — Hey let's go`,
       reels.find((reel) => reel.key === "dinner")?.current.images[0]?.url || reels[0]?.current.images[0]?.url,
     );
   };
@@ -856,42 +859,60 @@ async function boot(): Promise<void> {
     setTimeout(() => URL.revokeObjectURL(link.href), 4000);
   };
 
-  const shareStoryImage = async (): Promise<boolean> => {
-    const file = await ensureStoryCard();
-    const url = planURL(cityId);
-    const text = `${itineraryLine(cityName())} — Plan yours →\n${url}`;
-    try {
-      const payload: ShareData = { files: [file], title: "date dinner dance", text };
-      if (navigator.canShare?.(payload)) {
-        await navigator.share(payload);
-        return true;
-      }
-    } catch (error) {
-      if ((error as { name?: string }).name === "AbortError") return false;
-    }
-    downloadStory(file);
-    return false;
-  };
+  const inInstagram = () => /Instagram/i.test(navigator.userAgent);
 
-  const openSheet = () => {
-    if (!sheet || !reels.length || shareBtn?.hidden) return;
-    writeNightURL();
-    if (shareTitle) shareTitle.textContent = itineraryLine(cityName());
-    if (sharePicks) {
-      sharePicks.textContent = reels.map((reel) => reel.current.name).join(" · ");
-    }
-    setStatus("");
-    sheet.hidden = false;
-    void ensureStoryCard().then(() => setStatus("")).catch(() => {
-      setStatus("Could not make the story image. Share the link instead.");
-    });
+  const showStorySheet = (status: string) => {
+    if (shareTitle) shareTitle.textContent = "Hey let's go";
+    if (sharePicks) sharePicks.textContent = reels.map((reel) => reel.current.name).join(" · ");
+    setStatus(status);
+    if (sheet) sheet.hidden = false;
   };
 
   const closeSheet = () => {
     if (sheet) sheet.hidden = true;
   };
 
-  shareBtn?.addEventListener("click", openSheet);
+  const heyLetsGo = async () => {
+    if (!shareBtn || shareBtn.hidden || !reels.length || reels.some((reel) => reel.busy)) return;
+    shareBtn.disabled = true;
+    const line = dareLine(cityId, reels);
+    const copied = await copyText(line);
+    try {
+      const file = await ensureStoryCard();
+      if (inInstagram()) {
+        trackNight("share", "instagram");
+        showStorySheet(
+          copied
+            ? "Copied. Hold the picture, add it to your story, then paste."
+            : "Hold the picture and add it to your story.",
+        );
+        return;
+      }
+      const payload: ShareData = { files: [file], title: "Hey let's go", text: line };
+      if (navigator.canShare?.(payload)) {
+        await navigator.share(payload);
+        trackNight("share", "native");
+        return;
+      }
+      downloadStory(file);
+      trackNight("share", "copy");
+      showStorySheet(
+        copied
+          ? "Copied. Send that line. Save the picture if you want it on a story."
+          : "Picture saved. Send datedinnerdance.com with the three names.",
+      );
+    } catch (error) {
+      if ((error as { name?: string }).name === "AbortError") return;
+      trackNight("share", "copy");
+      showStorySheet(copied ? "Copied. Send that line." : "Could not copy. Send datedinnerdance.com.");
+    } finally {
+      shareBtn.disabled = false;
+    }
+  };
+
+  shareBtn?.addEventListener("click", () => {
+    void heyLetsGo();
+  });
   mount.addEventListener("ddd-pick", () => {
     setShareVisible(true);
     writeNightURL();
@@ -899,76 +920,6 @@ async function boot(): Promise<void> {
   sheet?.addEventListener("click", (event) => {
     if (event.target === sheet || (event.target as HTMLElement).closest("[data-close-sheet]")) {
       closeSheet();
-    }
-  });
-
-  document.querySelector("#share-native")?.addEventListener("click", async () => {
-    const shared = await shareStoryImage();
-    if (shared) {
-      trackNight("share", "native");
-      setStatus("Shared. Pick Instagram → Story.");
-      return;
-    }
-    const ok = await copyText(`${itineraryText(cityName(), reels)}\n${nightURL(cityId, reels)}`);
-    trackNight("share", "native");
-    setStatus(ok ? "Image saved and your night’s link copied." : "Image downloaded. Add it to your Story.");
-  });
-
-  document.querySelector("#share-copy")?.addEventListener("click", async () => {
-    const ok = await copyText(nightURL(cityId, reels));
-    if (ok) trackNight("share", "copy");
-    setStatus(ok ? "Your night’s link copied." : "Copy failed.");
-  });
-
-  document.querySelector("#share-dm")?.addEventListener("click", async () => {
-    const url = nightURL(cityId, reels);
-    const ok = await copyText(`${itineraryText(cityName(), reels)}\n${url}`);
-    if (ok) trackNight("share", "dm");
-    window.open("https://www.instagram.com/direct/new/", "_blank", "noopener,noreferrer");
-    setStatus(ok ? "Link copied. Paste it in the DM — the preview is your night." : "Open Instagram and paste the page URL.");
-  });
-
-  document.querySelector("#share-story")?.addEventListener("click", async () => {
-    const url = planURL(cityId);
-    const shared = await shareStoryImage();
-    const ok = await copyText(url);
-    if (shared || ok) trackNight("share", "story");
-    if (!shared) window.open("https://www.instagram.com/", "_blank", "noopener,noreferrer");
-    setStatus(
-      shared
-        ? "Pick Instagram → Story. The city link is copied so they can spin their own."
-        : ok
-          ? "Story image saved and city link copied. Post the image, then add the link sticker."
-          : "Story image downloaded. Post it, then add datedinnerdance.com.",
-    );
-  });
-
-  document.querySelector("#subscribe-form")?.addEventListener("submit", async (event) => {
-    event.preventDefault();
-    const email = (document.querySelector("#subscribe-email") as HTMLInputElement | null)?.value.trim() || "";
-    const handle = (document.querySelector("#subscribe-handle") as HTMLInputElement | null)?.value.trim() || "";
-    if (!email) return;
-    const payload = { email, handle, city: cityId, at: new Date().toISOString() };
-    try {
-      localStorage.setItem("ddd-subscribe", JSON.stringify(payload));
-    } catch {
-      /* ignore */
-    }
-    setStatus("You’re on the list.");
-    const controller = new AbortController();
-    const timer = window.setTimeout(() => controller.abort(), 4000);
-    try {
-      const response = await fetch("/api/subscribe", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
-        signal: controller.signal,
-      });
-      if (!response.ok) throw new Error("subscribe failed");
-    } catch {
-      setStatus("Saved on this phone. We’ll sync the list in a moment.");
-    } finally {
-      window.clearTimeout(timer);
     }
   });
 }

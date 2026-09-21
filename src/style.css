@@ -549,6 +549,20 @@ a {
   background: var(--cream);
 }
 
+.dock.has-night .spin {
+  flex: 0 0 88px;
+  background: var(--cream);
+  color: var(--ink);
+}
+
+.dock.has-night .share-btn {
+  flex: 1 1 auto;
+  background: var(--coral);
+  color: var(--cream);
+  border: 2px solid var(--ink);
+  font-size: 1.05rem;
+}
+
 .share-btn:active {
   background: rgba(23, 19, 18, 0.06);
 }
