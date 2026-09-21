@@ -1307,6 +1307,160 @@
         }
       ],
       "website": "https://www.santjosep.net/en/what-to-see/heritage/sa-canal-pier/"
+    },
+    {
+      "id": "sant-josep-church",
+      "name": "Sant Josep Church",
+      "area": "Sant Josep",
+      "vibe": "Imposing whitewashed fortified church in the heart of Sant Josep village — the so-called cathedral of rural Ibiza.",
+      "images": [
+        {
+          "url": "/assets/opt/date/sant-josep-church/01.webp",
+          "alt": "Whitewashed Sant Josep fortified church and plaza under blue sky",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2018/05/iglesiasanjosep.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/sant-josep-church/"
+    },
+    {
+      "id": "sant-jordi-church",
+      "name": "Sant Jordi Church",
+      "area": "Sant Jordi",
+      "vibe": "Fortified white village church on Plaça de l'Església in Sant Jordi, with battlements and a single-bell gable.",
+      "images": [
+        {
+          "url": "/assets/opt/date/sant-jordi-church/01.webp",
+          "alt": "Sant Jordi fortified church facade with bell gable and palm shadow",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2020/01/santjordi_IMG_1127.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/sant-jordi-church/"
+    },
+    {
+      "id": "sant-francesc-de-sestany-church",
+      "name": "Sant Francesc de s'Estany Church",
+      "area": "Ses Salines",
+      "vibe": "White parish church of Sant Francesc beside the Ses Salines salt flats — the village gateway to the salt landscape.",
+      "images": [
+        {
+          "url": "/assets/opt/date/sant-francesc-de-sestany-church/01.webp",
+          "alt": "Sant Francesc de s'Estany white church near the salt flats",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2022/01/0007_P1010307.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/sant-francesc-de-sestany-church/"
+    },
+    {
+      "id": "ancient-salt-docks-la-xanga",
+      "name": "Ancient salt docks of la Xanga",
+      "area": "Ibiza Town",
+      "vibe": "Stone salt-trading docks at la Xanga — centuries of Phoenician-to-modern salt commerce stepping into clear water.",
+      "images": [
+        {
+          "url": "/assets/opt/date/ancient-salt-docks-la-xanga/01.webp",
+          "alt": "Ancient stone salt docks of la Xanga stretching into clear sea",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2022/01/web1600-00168.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/ancient-salt-docks-of-la-xanga/"
+    },
+    {
+      "id": "monument-to-the-salt-worker",
+      "name": "Monument to the Salt Worker",
+      "area": "Sant Francesc",
+      "vibe": "Bronze salt worker at Sant Francesc de s'Estany — dusk silhouette against the Ses Salines pans.",
+      "images": [
+        {
+          "url": "/assets/opt/date/monument-to-the-salt-worker/01.webp",
+          "alt": "Monument to the Salt Worker at sunset over the salt pans",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2022/01/IMG_0068-1.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/monument-to-the-salt-worker/"
+    },
+    {
+      "id": "torre-des-carregador-de-sa-sal",
+      "name": "Torre des Carregador de sa Sal",
+      "area": "Ses Salines",
+      "vibe": "16th-century coastal watchtower above Sa Sal Rossa — built to guard the salt pans and the fishermen's huts below.",
+      "images": [
+        {
+          "url": "/assets/opt/date/torre-des-carregador-de-sa-sal/01.webp",
+          "alt": "Torre des Carregador de sa Sal above fishermen's huts and turquoise water",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2022/01/web-00082.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/torre-des-carregador-de-sa-sal/"
+    },
+    {
+      "id": "font-des-verger",
+      "name": "Font des Verger",
+      "area": "Sant Josep",
+      "vibe": "Woodland spring and dry-stone clearing at Font des Verger — a quiet historic water source in the pines.",
+      "images": [
+        {
+          "url": "/assets/opt/date/font-des-verger/01.webp",
+          "alt": "Font des Verger white arched spring and stone wall in pine forest",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2020/01/fontdesverger_P1020572.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/font-des-verger/"
+    },
+    {
+      "id": "former-salt-loading-bay",
+      "name": "Former salt loading bay",
+      "area": "Ses Salines",
+      "vibe": "Abandoned salt-loading pier and rusted rails at Sa Canal — industrial heritage on the Ses Salines shore.",
+      "images": [
+        {
+          "url": "/assets/opt/date/former-salt-loading-bay/01.webp",
+          "alt": "Former salt loading bay pier and rusted rails at Sa Canal",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2022/01/web-01089.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/former-salt-loading-bay/"
+    },
+    {
+      "id": "punta-des-cavallet",
+      "name": "Punta des Cavallet",
+      "area": "Ses Salines",
+      "vibe": "Eastern salt dock point at Punta des Cavallet — rocky headland between Es Cavallet and the Freus channel.",
+      "images": [
+        {
+          "url": "/assets/opt/date/punta-des-cavallet/01.webp",
+          "alt": "Rocky Punta des Cavallet eastern dock headland and clear water",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2022/01/P1085539.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/punta-des-cavallet-the-eastern-dock/"
+    },
+    {
+      "id": "espacio-micus",
+      "name": "Espacio Micus",
+      "area": "Jesús",
+      "vibe": "Small abstract gallery near Jesús founded and designed in the late 1980s by German painter Eduard Micus.",
+      "images": [
+        {
+          "url": "/assets/opt/date/espacio-micus/01.webp",
+          "alt": "Espacio Micus white gallery interior with large abstract paintings",
+          "remote_url": "https://www.visitsantaeulalia.com/media/yootheme/cache/a0/espacio%20micus%20%201-a0f318e9.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/pueblos-y-patrimonio/museos-y-arte"
+    },
+    {
+      "id": "centro-cultural-can-curt",
+      "name": "Centro Cultural Can Curt",
+      "area": "Sant Josep",
+      "vibe": "Village cultural centre in Sant Josep hosting exhibitions in a restored Ibicenco house.",
+      "images": [
+        {
+          "url": "/assets/opt/date/centro-cultural-can-curt/01.webp",
+          "alt": "Centro Cultural Can Curt whitewashed village cultural house",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2014/04/cancurt_IMG_2597.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/centro-cultural-can-curt/"
     }
   ],
   "dinner": [
@@ -2583,6 +2737,76 @@
         }
       ],
       "website": "https://canyucas.com/en/"
+    },
+    {
+      "id": "hambre",
+      "name": "Hämbre",
+      "area": "Santa Eulària",
+      "vibe": "Seasonal local plates, natural wines, and soulful hospitality in a mid-century Santa Eulària dining room a few minutes from Es Mercat.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/hambre/01.webp",
+          "alt": "Hämbre dining room with marble table, banquette and warm pendant light",
+          "remote_url": "https://www.hambrerestaurant.com/img/hero.jpg"
+        }
+      ],
+      "website": "https://www.hambrerestaurant.com/"
+    },
+    {
+      "id": "el-carmen-cala-dhort",
+      "name": "El Carmen Cala d'Hort",
+      "area": "Cala d'Hort",
+      "vibe": "Mediterranean and Ibicenco classics on a Cala d'Hort terrace with privileged views toward Es Vedrà.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/el-carmen-cala-dhort/01.webp",
+          "alt": "El Carmen terrace table set for dinner overlooking Es Vedrà",
+          "remote_url": "https://elcarmencaladhort.com/wp-content/uploads/2025/02/RTE_EL_CARMEN_CALA_DHORT-0905-2.jpg"
+        }
+      ],
+      "website": "https://elcarmencaladhort.com/en/home/"
+    },
+    {
+      "id": "nudo",
+      "name": "NUDO",
+      "area": "Es Figueral",
+      "vibe": "Pine-path beach kitchen at Es Figueral serving bold Mediterranean plates and Balearic natural wines from a former modest beach bar.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/nudo/01.webp",
+          "alt": "NUDO beachfront terrace tables facing turquoise Es Figueral water",
+          "remote_url": "https://images.squarespace-cdn.com/content/v1/63f0a0c855332b46215bd972/d86b344b-715a-4358-8c63-48c454efe418/NUDO_Sofia-Gomez-Fonzo_2025-84.jpg"
+        }
+      ],
+      "website": "https://www.nudoibiza.com/"
+    },
+    {
+      "id": "bonabrasa",
+      "name": "Bonabrasa",
+      "area": "Figueretas",
+      "vibe": "Spanish grill house in Figueretas where the brasas fire shapes the room and a rotating Spanish wine list sits at the heart of the meal.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bonabrasa/01.webp",
+          "alt": "Bonabrasa two-level dining room with bar, floral installation and wine wall",
+          "remote_url": "https://static.wixstatic.com/media/f5f931_592388febbfc4589821d8e7453998027~mv2.jpeg"
+        }
+      ],
+      "website": "https://bonabrasaibiza.com/"
+    },
+    {
+      "id": "corsario",
+      "name": "Corsario",
+      "area": "Dalt Vila",
+      "vibe": "Dalt Vila restaurant and terrace by Lázaro Rosa-Violán — tasting menus of honest Ibizan-Mediterranean cooking under the stars.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/corsario/01.webp",
+          "alt": "Corsario lounge interior with neon sign, red velvet curtain and disco ball",
+          "remote_url": "https://www.corsarioibiza.com/wp-content/uploads/2026/06/CORSARIO-RESTAURANT-TERRACE-IBIZA-DSC_0573.jpg"
+        }
+      ],
+      "website": "https://www.corsarioibiza.com/en/"
     }
   ],
   "dance": [
