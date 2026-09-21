@@ -1,3 +1,4 @@
+import { trackMeta } from "./pixel";
 import { renderStoryCard, storyFile } from "./story";
 
 type VenueImage = {
@@ -587,6 +588,19 @@ async function boot(): Promise<void> {
     dock?.classList.toggle("has-night", visible);
   };
 
+  const sendHit = (payload: Record<string, string | undefined>) => {
+    try {
+      navigator.sendBeacon("/api/hit", new Blob([JSON.stringify(payload)], { type: "application/json" }));
+    } catch {
+      void fetch("/api/hit", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify(payload),
+        keepalive: true,
+      }).catch(() => undefined);
+    }
+  };
+
   const setDots = (id: string) => {
     document.querySelectorAll(".city-dot").forEach((dot) => {
       dot.classList.toggle("is-on", dot.getAttribute("data-city") === id);
@@ -664,6 +678,12 @@ async function boot(): Promise<void> {
       setShareVisible(starts.some((index) => index !== undefined));
       if (starts.every((index) => index !== undefined)) queueMicrotask(() => trackOpenOnce());
       cities.forEach((item) => prefetchCatalog(item.id));
+      trackMeta("ViewContent", {
+        content_name: city.name,
+        content_category: "city",
+        content_ids: id,
+      });
+      sendHit({ kind: "city", city: id });
     } finally {
       switching = false;
       const queued = pendingCity;
@@ -751,26 +771,16 @@ async function boot(): Promise<void> {
 
   const cityName = () => cities.find((city) => city.id === cityId)?.name || cityId;
 
-  const trackNight = (kind: "open" | "share", channel?: string) => {
+  const trackNight = (kind: "open" | "share" | "spin", channel?: string) => {
     if (reels.length < 3) return;
-    const payload = {
+    sendHit({
       kind,
       channel,
       city: cityId,
       date: reels.find((reel) => reel.key === "date")?.current.id,
       dinner: reels.find((reel) => reel.key === "dinner")?.current.id,
       dance: reels.find((reel) => reel.key === "dance")?.current.id,
-    };
-    try {
-      navigator.sendBeacon("/api/hit", new Blob([JSON.stringify(payload)], { type: "application/json" }));
-    } catch {
-      void fetch("/api/hit", {
-        method: "POST",
-        headers: { "content-type": "application/json" },
-        body: JSON.stringify(payload),
-        keepalive: true,
-      }).catch(() => undefined);
-    }
+    });
   };
 
   const trackOpenOnce = () => {
@@ -812,6 +822,8 @@ async function boot(): Promise<void> {
     spin.classList.remove("is-spinning");
     writeNightURL();
     setShareVisible(true);
+    trackNight("spin");
+    trackMeta("Spin", { city: cityId, content_category: "city" }, true);
     if ("vibrate" in navigator) navigator.vibrate([12, 30, 18]);
   });
 
@@ -877,6 +889,14 @@ async function boot(): Promise<void> {
     shareBtn.disabled = true;
     const line = dareLine(cityId, reels);
     const copied = await copyText(line);
+    trackMeta(
+      "HeyLetsGo",
+      {
+        city: cityId,
+        content_name: reels.map((reel) => reel.current.name).join(" · "),
+      },
+      true,
+    );
     try {
       const file = await ensureStoryCard();
       if (inInstagram()) {

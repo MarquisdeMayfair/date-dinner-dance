@@ -41,6 +41,23 @@ The link is the city, so the next person spins. The three names are the senderâ€
 
 Facebook app `2325553588248802` stays on the page for link previews. It is not a login.
 
+## Audiences, no email
+
+The thing advertisers can buy is a Meta custom audience, not a mailing list.
+
+Events, once the pixel id from Events Manager is set in `src/pixel.ts`:
+
+- PageView on the planner.
+- ViewContent with the city name, so Ibiza, London, Manchester, and New York are separate audiences.
+- Spin.
+- HeyLetsGo.
+
+In Ads Manager, build a website audience from each event, then layer the country Meta already infers. The city on the event is the day they planned. The country is where they were.
+
+Our own hit log stores the same city plus the country Vercel sees. It does not store an IP address or a name. That log is ours. The pixel is what makes the audience usable in Meta.
+
+The pixel stays off until `META_PIXEL_ID` is the numeric id from Events Manager. Do not invent one.
+
 ## What we are not building now
 
 - An iOS or Android app.
