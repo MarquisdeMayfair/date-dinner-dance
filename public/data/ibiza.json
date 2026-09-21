@@ -1125,6 +1125,188 @@
         }
       ],
       "website": "https://www.ibizkus.com/"
+    },
+    {
+      "id": "puig-de-missa",
+      "name": "Puig de Missa",
+      "area": "Santa Eulària",
+      "vibe": "Fortified 16th-century church on the hill above Santa Eulària, with views over the port and neighbouring countryside.",
+      "images": [
+        {
+          "url": "/assets/opt/date/puig-de-missa/01.webp",
+          "alt": "Aerial view of the white fortified church on Puig de Missa overlooking Santa Eulària",
+          "remote_url": "https://spaindmsmedia.newmindmedia.com/dmsimgs/ibiza%2FIglesia%20Santa%20Eularia%20Puig%20de%20Missa.jpeg"
+        }
+      ],
+      "website": "https://en.ibiza.travel/listing/church-of-santa-eularia-des-riu-at-puig-de-missa/30832101/"
+    },
+    {
+      "id": "iglesia-sant-carles",
+      "name": "Iglesia de Sant Carles",
+      "area": "Sant Carles",
+      "vibe": "Austere white parish church that seeded the village of Sant Carles — one of Santa Eulària’s traditional defensive island temples.",
+      "images": [
+        {
+          "url": "/assets/opt/date/iglesia-sant-carles/01.webp",
+          "alt": "Whitewashed Sant Carles parish church with arched porch and bell gable",
+          "remote_url": "https://www.visitsantaeulalia.com/images/galerias/iglesias/sant-carles/iglesia-san-carles-01.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/pueblos-y-patrimonio/iglesias"
+    },
+    {
+      "id": "iglesia-santa-gertrudis",
+      "name": "Iglesia de Santa Gertrudis",
+      "area": "Santa Gertrudis",
+      "vibe": "White, unadorned parish church at the heart of Santa Gertrudis — built in the island’s defensive, peasant-funded tradition.",
+      "images": [
+        {
+          "url": "/assets/opt/date/iglesia-santa-gertrudis/01.webp",
+          "alt": "Santa Gertrudis white village church under a clear blue sky",
+          "remote_url": "https://www.visitsantaeulalia.com/images/galerias/iglesias/santa-gertrudis/iglesia-santa-gertrudis-01.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/pueblos-y-patrimonio/iglesias"
+    },
+    {
+      "id": "iglesia-jesus",
+      "name": "Iglesia de Jesús",
+      "area": "Jesús",
+      "vibe": "Simple white parish church of Jesús, one of the five traditional temples that gave rise to Santa Eulària’s villages.",
+      "images": [
+        {
+          "url": "/assets/opt/date/iglesia-jesus/01.webp",
+          "alt": "Iglesia de Jesús white facade with arched door and bell gable",
+          "remote_url": "https://www.visitsantaeulalia.com/images/galerias/iglesias/jesus/iglesia-jesus-01.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/pueblos-y-patrimonio/iglesias"
+    },
+    {
+      "id": "can-ros",
+      "name": "Can Ros",
+      "area": "Santa Eulària",
+      "vibe": "Ethnographic Museum of Ibiza in a 300-year-old farmhouse on Puig de Missa — rural architecture, costume, and island traditions.",
+      "images": [
+        {
+          "url": "/assets/opt/date/can-ros/01.webp",
+          "alt": "Can Ros ethnographic museum arched entrance with Museu Etnogràfic plaque",
+          "remote_url": "https://www.visitsantaeulalia.com/images/galerias/Museos-arte/can-ros/can-ros-01.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/pueblos-y-patrimonio/museos-y-arte/can-ros-museo-de-etnografia-de-ibiza"
+    },
+    {
+      "id": "ca-nandreu-des-trull",
+      "name": "Ca n’Andreu des Trull",
+      "area": "Sant Carles",
+      "vibe": "18th-century farmhouse museum outside Sant Carles, showing rural Ibicenco life, rooms, and tools from another era.",
+      "images": [
+        {
+          "url": "/assets/opt/date/ca-nandreu-des-trull/01.webp",
+          "alt": "Ca n’Andreu des Trull white farmhouse with balcony and bougainvillea",
+          "remote_url": "https://www.visitsantaeulalia.com/media/yootheme/cache/89/trull-can-andreu-01-8999938d.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/pueblos-y-patrimonio/museos-y-arte/ca-nandreu-des-trull"
+    },
+    {
+      "id": "can-planetes",
+      "name": "Can Planetes",
+      "area": "Santa Eulària",
+      "vibe": "River interpretation centre in a farmhouse by Puig de Missa, with a restored water mill on the only river in the Balearics.",
+      "images": [
+        {
+          "url": "/assets/opt/date/can-planetes/01.webp",
+          "alt": "Can Planetes white Ibicenco house and garden beside the river path",
+          "remote_url": "https://www.visitsantaeulalia.com/media/yootheme/cache/79/can-planetes-7908db5a.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/pueblos-y-patrimonio/museos-y-arte/centro-de-interpretacion-del-rio-can-planetes"
+    },
+    {
+      "id": "ses-portes-watchtower",
+      "name": "Ses Portes Watchtower",
+      "area": "Ses Salines",
+      "vibe": "Sixteenth-century coastal defence tower at Punta de Ses Portes, watching the channels between Ibiza and Formentera.",
+      "images": [
+        {
+          "url": "/assets/opt/date/ses-portes-watchtower/01.webp",
+          "alt": "Ses Portes stone watchtower against the sea and coastal scrub",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2022/01/RR_01016.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/ses-portes-watchtower/"
+    },
+    {
+      "id": "es-cubells-church",
+      "name": "Es Cubells Church",
+      "area": "Es Cubells",
+      "vibe": "White cliff-top parish church whose origins go back to Father Palau’s 19th-century oratory for the remote south-west coast.",
+      "images": [
+        {
+          "url": "/assets/opt/date/es-cubells-church/01.webp",
+          "alt": "Es Cubells white church facade with buttresses and bell gable",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2020/01/escubells_IMG_5504.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/es-cubells-church/"
+    },
+    {
+      "id": "sant-agusti-church",
+      "name": "Sant Agustí Church",
+      "area": "Sant Agustí",
+      "vibe": "Elongated early-19th-century parish church in Sant Agustí, blessed before it was fully finished and later given side chapels.",
+      "images": [
+        {
+          "url": "/assets/opt/date/sant-agusti-church/01.webp",
+          "alt": "Sant Agustí church white facade with arched door and bell tower",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2022/01/iglesiasantagusti_-scaled.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/sant-agusti-church/"
+    },
+    {
+      "id": "torre-de-comte",
+      "name": "Torre de Comte",
+      "area": "Sant Agustí",
+      "vibe": "First-class 1763 coastal defence tower at Punta d’en Rovira, built to protect the west between Sant Antoni and Cap des Savinar.",
+      "images": [
+        {
+          "url": "/assets/opt/date/torre-de-comte/01.webp",
+          "alt": "Torre de Comte stone defence tower on the west-coast headland",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2020/01/torrerovira_P1140092.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/torre-de-comte-o-den-rovira/"
+    },
+    {
+      "id": "ses-paisses-cala-dhort",
+      "name": "Ses Païsses de Cala d’Hort",
+      "area": "Cala d’Hort",
+      "vibe": "Rural Punic-to-Late-Antique settlement on the plains between Cala d’Hort and Cala Truja — agrarian colonisation of ancient Ibiza.",
+      "images": [
+        {
+          "url": "/assets/opt/date/ses-paisses-cala-dhort/01.webp",
+          "alt": "Ses Païsses de Cala d’Hort archaeological stone walls in dry scrub",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2020/01/sespaissescaladhort_IMG_0251.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/ses-paisses-de-cala-dhort-settlement/"
+    },
+    {
+      "id": "sa-canal-pier",
+      "name": "Sa Canal Pier",
+      "area": "Ses Salines",
+      "vibe": "Working salt pier in Ses Salines — conveyor belts and a hundred metres of dock shipping Ibiza’s white gold.",
+      "images": [
+        {
+          "url": "/assets/opt/date/sa-canal-pier/01.webp",
+          "alt": "Sa Canal salt pier stretching into the sea beside the salt flats",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2022/01/RR_00740-1024x683.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/heritage/sa-canal-pier/"
     }
   ],
   "dinner": [
@@ -2331,6 +2513,76 @@
         }
       ],
       "website": "https://www.villamercedesibiza.com/"
+    },
+    {
+      "id": "cas-pages",
+      "name": "Ca’s Pagès",
+      "area": "Santa Eulària",
+      "vibe": "Historic typical Ibicenco restaurant on the Sant Carles road since 1973 — wood-fired meats, arròs de matances, and a family house table.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cas-pages/01.webp",
+          "alt": "Ca’s Pagès shaded garden terrace with set wooden dining tables",
+          "remote_url": "https://caspages.es/wp-content/uploads/2023/10/Cas_Pages_LA-TERRAZA.jpg"
+        }
+      ],
+      "website": "https://caspages.es/en/"
+    },
+    {
+      "id": "nagai",
+      "name": "Nagai",
+      "area": "Santa Eulària",
+      "vibe": "Award-winning Japanese fine dining and omakase, evenings only, on a garden terrace under an old finca tree.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/nagai/01.webp",
+          "alt": "Nagai evening garden terrace with round tables under hanging lanterns",
+          "remote_url": "https://nagairestaurant.com/wp-content/uploads/2025/08/terrazza_Nagai.png"
+        }
+      ],
+      "website": "https://nagairestaurant.com/"
+    },
+    {
+      "id": "sa-nansa",
+      "name": "Sa Nansa",
+      "area": "Ibiza Town",
+      "vibe": "Ibicenco sea cooking in Ibiza Town — fresh seafood, rice dishes, and Mediterranean plates from the house kitchen.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sa-nansa/01.webp",
+          "alt": "Sa Nansa candlelit outdoor terrace with white linens and palm trees",
+          "remote_url": "https://www.restaurantesanansa.com/_misc/c1.jpg"
+        }
+      ],
+      "website": "https://www.restaurantesanansa.com/es/index.php"
+    },
+    {
+      "id": "sunset-cala-conta",
+      "name": "Sunset Cala Conta",
+      "area": "Cala Conta",
+      "vibe": "Cliffside Cala Conta restaurant claiming the best sunset in Ibiza — beach bar energy with Mediterranean evening tables.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sunset-cala-conta/01.webp",
+          "alt": "Sunset Cala Conta cliff terrace glowing at dusk over the sea",
+          "remote_url": "https://sunsetcalaconta.com/wp-content/uploads/2026/04/cala-conta-restaurante-sunset.jpg"
+        }
+      ],
+      "website": "https://sunsetcalaconta.com/"
+    },
+    {
+      "id": "can-yucas",
+      "name": "Can Yucas",
+      "area": "Cala Tarida",
+      "vibe": "Beachfront Cala Tarida table with produce from its own garden, sunbeds by the water, and open kitchen hours into the evening.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/can-yucas/01.webp",
+          "alt": "View from Can Yucas terrace over Cala Tarida bay and beach",
+          "remote_url": "https://canyucas.com/img/vista-cala-terraza.jpg"
+        }
+      ],
+      "website": "https://canyucas.com/en/"
     }
   ],
   "dance": [
