@@ -7,7 +7,7 @@
       "vibe": "Fifth Avenue. The Great Hall, the Temple of Dendur, European paintings. Give it an afternoon — then out onto the steps.",
       "images": [
         {
-          "url": "/stock/nyc/museum-gallery-01.jpg",
+          "url": "/assets/opt/date/met/01.webp",
           "alt": "The Met"
         }
       ],
@@ -31,7 +31,7 @@
       "vibe": "53rd Street. Starry Night, the sculpture garden, modern work that still startles. A midtown date that earns dinner after.",
       "images": [
         {
-          "url": "/stock/nyc/museum-gallery-02.jpg",
+          "url": "/assets/opt/date/moma/01.webp",
           "alt": "MoMA"
         }
       ],
@@ -55,7 +55,7 @@
       "vibe": "An old freight rail, now a garden in the sky from Gansevoort to Hudson Yards. Plantings, the city at your shoulder.",
       "images": [
         {
-          "url": "/stock/nyc/couple-photographing-landmark-01.jpg",
+          "url": "/assets/opt/date/high-line/01.webp",
           "alt": "The High Line"
         }
       ],
@@ -79,12 +79,8 @@
       "vibe": "Bow Bridge, Bethesda Fountain, the Reservoir loop. 843 acres in the middle of the city — walk until it feels like a date.",
       "images": [
         {
-          "url": "/stock/nyc/central-park-lifestyle-04.jpg",
+          "url": "/assets/opt/date/central-park/01.webp",
           "alt": "Central Park"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Central_Park_New_York_City_New_York_23.jpg",
-          "alt": "Central Park — Wikimedia"
         }
       ],
       "website": "https://www.centralparknyc.org/",
@@ -105,12 +101,8 @@
       "vibe": "Walk the wooden promenade from Brooklyn to Manhattan. The skyline is the date.",
       "images": [
         {
-          "url": "/stock/nyc/bridge-landmark-01.jpg",
+          "url": "/assets/opt/date/brooklyn-bridge/01.webp",
           "alt": "Brooklyn Bridge"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brooklyn_Bridge_Manhattan.jpg",
-          "alt": "Brooklyn Bridge — Wikimedia"
         }
       ],
       "website": "https://www.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml",
@@ -131,12 +123,8 @@
       "vibe": "Wright’s spiral on Fifth Avenue. Walk the ramp, look down the rotunda, then the park across the street.",
       "images": [
         {
-          "url": "/stock/nyc/museum-gallery-02.jpg",
+          "url": "/assets/opt/date/guggenheim/01.webp",
           "alt": "Guggenheim"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/NYC_-_Guggenheim_Museum.jpg",
-          "alt": "Guggenheim — Wikimedia"
         }
       ],
       "website": "https://www.guggenheim.org/",
@@ -159,7 +147,7 @@
       "vibe": "Three decks on 30 Rock, the Empire State in frame. Go at dusk and stay for the lights.",
       "images": [
         {
-          "url": "/stock/nyc/nyc-skyline-viewpoint-03.jpg",
+          "url": "/assets/opt/date/top-of-the-rock/01.webp",
           "alt": "Top of the Rock"
         }
       ],
@@ -181,7 +169,7 @@
       "vibe": "Medieval cloisters and gardens at the top of Manhattan. Tapestries, herb gardens, the Hudson below.",
       "images": [
         {
-          "url": "/stock/nyc/botanical-garden-04.jpg",
+          "url": "/assets/opt/date/cloisters/01.webp",
           "alt": "The Met Cloisters"
         }
       ],
@@ -203,7 +191,7 @@
       "vibe": "The twin pools on the footprints. Quiet first — the museum if you want to go further.",
       "images": [
         {
-          "url": "/stock/nyc/outdoor-plaza-02.jpg",
+          "url": "/assets/opt/date/911-memorial/01.webp",
           "alt": "9/11 Memorial"
         }
       ],
@@ -225,7 +213,7 @@
       "vibe": "Free. The harbor, the Statue, Manhattan from the water. Stand on the deck, not in the cabin.",
       "images": [
         {
-          "url": "/stock/nyc/waterfront-pier-04.jpg",
+          "url": "/assets/opt/date/staten-island-ferry/01.webp",
           "alt": "Staten Island Ferry"
         }
       ],
@@ -249,7 +237,7 @@
       "vibe": "Houston Street. Pastrami on rye since 1888. Take a ticket, watch the cutters, don’t lose the ticket.",
       "images": [
         {
-          "url": "/stock/nyc/american-01.jpg",
+          "url": "/assets/opt/dinner/katzs/01.webp",
           "alt": "Katz's Delicatessen"
         }
       ],
@@ -273,7 +261,7 @@
       "vibe": "Porterhouse for two, the steak they built the name on. A Brooklyn room that has not chased trends.",
       "images": [
         {
-          "url": "/stock/nyc/steak-and-chips-03.jpg",
+          "url": "/assets/opt/dinner/peter-luger/01.webp",
           "alt": "Peter Luger"
         }
       ],
@@ -295,7 +283,7 @@
       "vibe": "Mutton chop, the pipe collection, a steakhouse since 1885. Dark wood, serious beef.",
       "images": [
         {
-          "url": "/stock/nyc/steak-and-chips-01.jpg",
+          "url": "/assets/opt/dinner/keens/01.webp",
           "alt": "Keens Steakhouse"
         }
       ],
@@ -317,7 +305,7 @@
       "vibe": "Under the whispering gallery. Oysters, chowder, the vaulted Guastavino ceiling. Lunch here feels like the city.",
       "images": [
         {
-          "url": "/stock/nyc/seafood-04.jpg",
+          "url": "/assets/opt/dinner/oyster-bar/01.webp",
           "alt": "Grand Central Oyster Bar"
         }
       ],
@@ -339,7 +327,7 @@
       "vibe": "Smoked fish, bagels, the appetizing counter made into a room. Classic New York on a plate.",
       "images": [
         {
-          "url": "/stock/nyc/bakery-dessert-01.jpg",
+          "url": "/assets/opt/dinner/russ-and-daughters-cafe/01.webp",
           "alt": "Russ & Daughters Cafe"
         }
       ],
@@ -361,7 +349,7 @@
       "vibe": "Missy Robbins in an old garage. Pasta first — the kind of room you book for, then linger.",
       "images": [
         {
-          "url": "/stock/nyc/italian-pasta-02.jpg",
+          "url": "/assets/opt/dinner/lilia/01.webp",
           "alt": "Lilia"
         }
       ],
@@ -385,7 +373,7 @@
       "vibe": "Hand-ripped noodles, cumin lamb, the spicy cumin burger. Fast, loud, the real thing from Xi’an.",
       "images": [
         {
-          "url": "/stock/nyc/chinese-03.jpg",
+          "url": "/assets/opt/dinner/xian-famous-foods/01.webp",
           "alt": "Xi'an Famous Foods"
         }
       ],
@@ -407,7 +395,7 @@
       "vibe": "Thompson Street. Red-sauce theatre, spicy rigatoni, tuxedoed service. Book it or hunt a walk-in.",
       "images": [
         {
-          "url": "/stock/nyc/italian-pasta-04.jpg",
+          "url": "/assets/opt/dinner/carbone/01.webp",
           "alt": "Carbone"
         }
       ],
@@ -429,7 +417,7 @@
       "vibe": "Coal-oven pizza since 1929. No slices, whole pies, the char you came for.",
       "images": [
         {
-          "url": "/stock/nyc/pizza-01.jpg",
+          "url": "/assets/opt/dinner/johns-of-bleecker/01.webp",
           "alt": "John's of Bleecker Street"
         }
       ],
@@ -451,7 +439,7 @@
       "vibe": "Andrew Carmellini’s Greenwich Hotel room. Sheep’s milk ricotta, the kind of Italian you stay for.",
       "images": [
         {
-          "url": "/stock/nyc/italian-pasta-02.jpg",
+          "url": "/assets/opt/dinner/locanda-verde/01.webp",
           "alt": "Locanda Verde"
         }
       ],
@@ -475,11 +463,7 @@
       "vibe": "Circus, burlesque, a dance floor that wants costumes. Bushwick’s late room with a show in it.",
       "images": [
         {
-          "url": "/assets/stock/dance/smiling_dancer/01.jpg",
-          "alt": "House of Yes"
-        },
-        {
-          "url": "/stock/nyc/people-dancing-nightclub-lights-01.jpg",
+          "url": "/assets/opt/dance/house-of-yes/01.webp",
           "alt": "House of Yes"
         }
       ],
@@ -504,11 +488,7 @@
       "vibe": "Outdoor floor, house and techno, a garden club at the Queens edge. Dress for the field.",
       "images": [
         {
-          "url": "/assets/stock/dance/smiling_dancer/02.jpg",
-          "alt": "Nowadays"
-        },
-        {
-          "url": "/stock/nyc/friends-dancing-party-03.jpg",
+          "url": "/assets/opt/dance/nowadays/01.webp",
           "alt": "Nowadays"
         }
       ],
@@ -532,11 +512,7 @@
       "vibe": "The open-air warehouse yard at Avant Gardner. Festival-scale nights when the Mirage is on.",
       "images": [
         {
-          "url": "/assets/stock/dance/neon_crowd_dancing/01.jpg",
-          "alt": "Brooklyn Mirage"
-        },
-        {
-          "url": "/stock/nyc/neon-dancefloor-energy-04.jpg",
+          "url": "/assets/opt/dance/avant-gardner/01.webp",
           "alt": "Brooklyn Mirage"
         }
       ],
@@ -558,11 +534,7 @@
       "vibe": "The grand ballroom on 11th Street. Live first, then the late room when the bill says so.",
       "images": [
         {
-          "url": "/assets/stock/dance/neon_crowd_dancing/02.jpg",
-          "alt": "Webster Hall"
-        },
-        {
-          "url": "/stock/nyc/dj-booth-lights-05.jpg",
+          "url": "/assets/opt/dance/webster-hall/01.webp",
           "alt": "Webster Hall"
         }
       ],
@@ -584,11 +556,7 @@
       "vibe": "Sound system first. The club, the garden, a Gowanus night that cares about the record.",
       "images": [
         {
-          "url": "/assets/stock/dance/laser_dancefloor/01.jpg",
-          "alt": "Public Records"
-        },
-        {
-          "url": "/stock/nyc/people-dancing-nightclub-lights-01.jpg",
+          "url": "/assets/opt/dance/public-records/01.webp",
           "alt": "Public Records"
         }
       ],
@@ -611,11 +579,7 @@
       "vibe": "Greenpoint basement. House, disco, the kind of floor you find at 2am and stay.",
       "images": [
         {
-          "url": "/assets/stock/dance/laser_dancefloor/02.jpg",
-          "alt": "Good Room"
-        },
-        {
-          "url": "/stock/nyc/friends-dancing-party-03.jpg",
+          "url": "/assets/opt/dance/good-room/01.webp",
           "alt": "Good Room"
         }
       ],
@@ -637,11 +601,7 @@
       "vibe": "The Standard, High Line. Roof, disco, the city under you. A late room with a view.",
       "images": [
         {
-          "url": "/assets/stock/dance/dj_lights/01.jpg",
-          "alt": "Le Bain"
-        },
-        {
-          "url": "/stock/nyc/neon-dancefloor-energy-04.jpg",
+          "url": "/assets/opt/dance/le-bain/01.webp",
           "alt": "Le Bain"
         }
       ],
@@ -663,11 +623,7 @@
       "vibe": "Bowling, a live band, then the floor. Williamsburg’s room that does both.",
       "images": [
         {
-          "url": "/assets/stock/dance/dj_lights/02.jpg",
-          "alt": "Brooklyn Bowl"
-        },
-        {
-          "url": "/stock/nyc/dj-booth-lights-05.jpg",
+          "url": "/assets/opt/dance/brooklyn-bowl/01.webp",
           "alt": "Brooklyn Bowl"
         }
       ],
@@ -689,11 +645,7 @@
       "vibe": "Zone, Hall, Rooftop. A Bushwick complex — live, then dance, then air.",
       "images": [
         {
-          "url": "/assets/stock/dance/outdoor_festival_dance/01.jpg",
-          "alt": "Elsewhere"
-        },
-        {
-          "url": "/stock/nyc/people-dancing-nightclub-lights-01.jpg",
+          "url": "/assets/opt/dance/elsewhere/01.webp",
           "alt": "Elsewhere"
         }
       ],
@@ -718,11 +670,7 @@
       "vibe": "A former glass factory in Queens. Warehouse rooms, a courtyard, nights that run long.",
       "images": [
         {
-          "url": "/assets/stock/dance/outdoor_festival_dance/02.jpg",
-          "alt": "Knockdown Center"
-        },
-        {
-          "url": "/stock/nyc/friends-dancing-party-03.jpg",
+          "url": "/assets/opt/dance/knockdown-center/01.webp",
           "alt": "Knockdown Center"
         }
       ],
