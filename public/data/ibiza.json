@@ -853,6 +853,152 @@
         }
       ],
       "website": "https://lasdalias.es/en/markets"
+    },
+    {
+      "id": "bodegas-can-rich",
+      "name": "Bodegas Can Rich",
+      "area": "San Antonio",
+      "vibe": "Organic Ibiza winery visits — vineyards, cellar and tasting of white, rosé, red and Hierbas Ibicencas with local appetizers.",
+      "images": [
+        {
+          "url": "/assets/opt/date/bodegas-can-rich/01.webp",
+          "alt": "Can Rich vineyard entrance",
+          "remote_url": "https://bodegascanrich.com/wp-content/uploads/2025/06/ENTRADA-FINCA-r.webp"
+        }
+      ],
+      "website": "https://bodegascanrich.com/en/visits/",
+      "instagram": "https://www.instagram.com/bodegascanrich",
+      "instagram_followers": 0
+    },
+    {
+      "id": "can-maymo",
+      "name": "Can Maymó",
+      "area": "Sant Mateu",
+      "vibe": "Family winery in Sant Mateu since 1995 — red, white and rosé wines plus olive oil from the north of the island.",
+      "images": [
+        {
+          "url": "/assets/opt/date/can-maymo/01.webp",
+          "alt": "Can Maymó finca",
+          "remote_url": "https://bodegascanmaymo.com/wp-content/uploads/2023/07/Casa-Payesa-Can-Maymo.jpg"
+        }
+      ],
+      "website": "https://bodegascanmaymo.com/en/",
+      "instagram": "https://www.instagram.com/bodegascanmaymo",
+      "instagram_followers": 0
+    },
+    {
+      "id": "bibo-park",
+      "name": "BIBO Park",
+      "area": "Sant Rafel",
+      "vibe": "Botanical-biotech park in the heart of Sant Rafel — habitats, trails and nature experiences in a unique green space.",
+      "images": [
+        {
+          "url": "/assets/opt/date/bibo-park/01.webp",
+          "alt": "BIBO Park wooden bridge",
+          "remote_url": "https://ibizabotanicobiotecnologico.com/wp-content/uploads/2021/06/ibiza-botanico-biotecnologico-lago-3.jpg"
+        }
+      ],
+      "website": "https://ibizabotanicobiotecnologico.com/",
+      "instagram": "https://www.instagram.com/biboparkibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "cala-martina",
+      "name": "Cala Martina",
+      "area": "Santa Eulalia",
+      "vibe": "Sandy, family-friendly beach near Es Canar.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-martina/01.webp",
+          "alt": "Cala Martina beach",
+          "remote_url": "https://www.visitsantaeulalia.com/images/recursos/playas/cala-martina.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/playas-y-calas/cala-martina-es"
+    },
+    {
+      "id": "cala-olivera",
+      "name": "Cala Olivera",
+      "area": "Santa Eulalia",
+      "vibe": "Small, little-frequented cove surrounded by forest with very clear water.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-olivera/01.webp",
+          "alt": "Cala Olivera cove",
+          "remote_url": "https://www.visitsantaeulalia.com/images/recursos/playas/cala-olivera.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/playas-y-calas/cala-olivera-es"
+    },
+    {
+      "id": "canal-den-marti",
+      "name": "Canal d'en Martí",
+      "area": "Santa Eulalia",
+      "vibe": "Small natural harbour by Punta d'en Valls — a quiet coastal pocket on the Santa Eulària shore.",
+      "images": [
+        {
+          "url": "/assets/opt/date/canal-den-marti/01.webp",
+          "alt": "Canal d'en Martí",
+          "remote_url": "https://www.visitsantaeulalia.com/images/recursos/playas/canal-den-marti.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/playas-y-calas/canal-den-marti-es"
+    },
+    {
+      "id": "es-calo-de-salga",
+      "name": "Es Caló de s'Alga",
+      "area": "Santa Eulalia",
+      "vibe": "Quiet sandy corner in the Siesta area for relaxed beach time and snorkelling, with cliff views toward Cala Llonga.",
+      "images": [
+        {
+          "url": "/assets/opt/date/es-calo-de-salga/01.webp",
+          "alt": "Es Caló de s'Alga",
+          "remote_url": "https://www.visitsantaeulalia.com/images/recursos/playas/es-calo-de-salga.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/playas-y-calas/es-calo-de-salga-es"
+    },
+    {
+      "id": "es-figueral",
+      "name": "Es Figueral",
+      "area": "Santa Eulalia",
+      "vibe": "One of the island's most beautiful beaches — named for the fig orchards nearby.",
+      "images": [
+        {
+          "url": "/assets/opt/date/es-figueral/01.webp",
+          "alt": "Es Figueral beach",
+          "remote_url": "https://www.visitsantaeulalia.com/images/recursos/playas/es-figueral.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/playas-y-calas/es-figueral-es"
+    },
+    {
+      "id": "s-estanyol",
+      "name": "S'Estanyol",
+      "area": "Jesús",
+      "vibe": "Sheltered pebble beach five minutes from Jesús, edged by pines — quiet walks, snorkelling and a wooden boardwalk to the shore.",
+      "images": [
+        {
+          "url": "/assets/opt/date/s-estanyol/01.webp",
+          "alt": "S'Estanyol beach",
+          "remote_url": "https://www.visitsantaeulalia.com/images/recursos/playas/sestanyol.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/playas-y-calas/sestanyol-es"
+    },
+    {
+      "id": "hippy-market-punta-arabi",
+      "name": "Hippy Market Punta Arabí",
+      "area": "Es Canar",
+      "vibe": "Ibiza's largest hippy market — opened 1973 in Es Canar, 500+ stalls under the pines every Wednesday from April to October.",
+      "images": [
+        {
+          "url": "/assets/opt/date/hippy-market-punta-arabi/01.webp",
+          "alt": "Punta Arabí hippy market",
+          "remote_url": "https://www.visitsantaeulalia.com/media/yootheme/cache/d6/hippy-market-punta-arabi-01-d6fa7993.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/hippy-market-y-comercio-local/hippy-market-punta-arabi"
     }
   ],
   "dinner": [
@@ -1832,6 +1978,134 @@
       ],
       "website": "https://palomaibiza.com/",
       "instagram": "https://www.instagram.com/lapalomaibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "sa-talassa",
+      "name": "Sa Talassa",
+      "area": "Santa Eulalia",
+      "vibe": "Mediterranean-roots cuisine by Álvaro Sanz — MICHELIN-selected cooking rooted in Ibiza sea and land produce.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sa-talassa/01.webp",
+          "alt": "Sa Talassa Mediterranean brand imagery",
+          "remote_url": "https://www.satalassa.com/wp-content/uploads/2024/05/inicio-img-slider.jpg"
+        }
+      ],
+      "website": "https://www.satalassa.com/en/",
+      "instagram": "https://www.instagram.com/satalassa",
+      "instagram_followers": 0
+    },
+    {
+      "id": "blavos",
+      "name": "Blavós Ibiza",
+      "area": "Figueretas",
+      "vibe": "Modern Mediterranean by the sea at the end of the Figueretas promenade — Josper meats and fish, rice and Formentera views.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/blavos/01.webp",
+          "alt": "Blavós terrace overlooking the sea",
+          "remote_url": "https://blavosibiza.com/wp-content/uploads/Blavos-eventos-restaurante-ibiza.jpg"
+        }
+      ],
+      "website": "https://blavosibiza.com/",
+      "instagram": "https://www.instagram.com/blavosibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "can-caus",
+      "name": "Can Caus",
+      "area": "Santa Gertrudis",
+      "vibe": "Year-round Ibicencan grill near Santa Gertrudis — farm meats, island rice dishes and house-made embutidos on garden terraces.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/can-caus/01.webp",
+          "alt": "Can Caus rustic dining room",
+          "remote_url": "https://www.cancaus.com/system/images/restaurant/galeria/restaurante.jpg"
+        }
+      ],
+      "website": "https://www.cancaus.com/",
+      "instagram": "https://www.instagram.com/cancausibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "ses-escoles",
+      "name": "Ses Escoles",
+      "area": "Santa Eulalia",
+      "vibe": "Market cuisine with Ibizan soul beside the Can Miquel Guasch olive mill — local produce and a modern countryside touch.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/ses-escoles/01.webp",
+          "alt": "Ses Escoles oleoteca facade",
+          "remote_url": "https://www.sesescoles.com/wp-content/uploads/2023/05/fachadasesescoles_P1015376-1900x1250.webp"
+        }
+      ],
+      "website": "https://www.sesescoles.com/en/",
+      "instagram": "https://www.instagram.com/sesescoles",
+      "instagram_followers": 0
+    },
+    {
+      "id": "es-fumeral",
+      "name": "Es Fumeral",
+      "area": "Santa Eulalia",
+      "vibe": "Simple, honest Mediterranean cooking — grill, raw and fried dishes at a beachfront stretch-tent terrace in Santa Eulària.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/es-fumeral/01.webp",
+          "alt": "Es Fumeral beachfront terrace",
+          "remote_url": "https://images.squarespace-cdn.com/content/v1/678fa69db62f9e7296ab0f3d/1d56198a-9704-490f-a8a2-cf5fc9fb91af/DSC_0363EF_SEPT41.jpg"
+        }
+      ],
+      "website": "https://www.esfumeral.com/",
+      "instagram": "https://www.instagram.com/esfumeral",
+      "instagram_followers": 0
+    },
+    {
+      "id": "can-secret",
+      "name": "Can Secret",
+      "area": "Sant Llorenç",
+      "vibe": "Nature-wrapped Mediterranean tables for sharing without hurry — local produce and house olive oil in Sant Llorenç de Balàfia.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/can-secret/01.webp",
+          "alt": "Can Secret dining room with garden views",
+          "remote_url": "https://www.cansecret.com/wp-content/uploads/2026/04/fondo-restaurante-can-secret.jpg"
+        }
+      ],
+      "website": "https://www.cansecret.com/",
+      "instagram": "https://www.instagram.com/cansecretibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "the-amorous-project",
+      "name": "The Amorous Project",
+      "area": "Ibiza Town",
+      "vibe": "Italian restaurant inspired by old New York — retro-vintage rooms, linen and candlelight, made for slow shared tables.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-amorous-project/01.webp",
+          "alt": "The Amorous Project Ibiza terrace at night",
+          "remote_url": "https://theamorousproject.com/wp-content/uploads/2025/09/amorous-ibiza-4-868x1024.jpg"
+        }
+      ],
+      "website": "https://theamorousproject.com/ibiza/",
+      "instagram": "https://www.instagram.com/theamorousproject",
+      "instagram_followers": 0
+    },
+    {
+      "id": "es-xarcu",
+      "name": "Es Xarcu",
+      "area": "Sant Josep",
+      "vibe": "Family beach restaurant on Cala Es Xarco for over 40 years — fresh island fish, seafood and a terrace by the Mediterranean.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/es-xarcu/01.webp",
+          "alt": "Es Xarcu terrace with sea view",
+          "remote_url": "https://www.esxarcurestaurante.com/wp-content/uploads/2026/05/es-xarcu-comida-terraza-vista-mar-scaled.jpg"
+        }
+      ],
+      "website": "https://www.esxarcurestaurante.com/",
+      "instagram": "https://www.instagram.com/esxarcu",
       "instagram_followers": 0
     }
   ],
