@@ -532,6 +532,110 @@
         }
       ],
       "website": "https://www.manchester.gov.uk/"
+    },
+    {
+      "id": "portico-library",
+      "name": "The Portico Library",
+      "area": "Mosley Street",
+      "vibe": "Free-to-enter 1806 library and newsroom — exhibitions, archive treasures and a quiet escape from the city bustle above Mosley Street.",
+      "images": [
+        {
+          "url": "/assets/opt/date/portico-library/01.webp",
+          "alt": "Interior of The Portico Library Manchester with historic bookshelves"
+        }
+      ],
+      "website": "https://www.theportico.org.uk/"
+    },
+    {
+      "id": "ordsall-hall",
+      "name": "Ordsall Hall",
+      "area": "Salford",
+      "vibe": "Grade I listed Tudor manor house — free to visit, close to Salford Quays, with historic rooms and gardens to explore.",
+      "images": [
+        {
+          "url": "/assets/opt/date/ordsall-hall/01.webp",
+          "alt": "Great Hall interior at Ordsall Hall Tudor manor Salford"
+        }
+      ],
+      "website": "https://ordsallhall.com/"
+    },
+    {
+      "id": "pankhurst-museum",
+      "name": "Pankhurst Museum",
+      "area": "Oxford Road",
+      "vibe": "Emmeline Pankhurst’s former home — the only museum dedicated to the suffragette fight for the vote, open Thursdays and Sundays.",
+      "images": [
+        {
+          "url": "/assets/opt/date/pankhurst-museum/01.webp",
+          "alt": "Exterior of the Pankhurst Museum on Nelson Street Manchester"
+        }
+      ],
+      "website": "https://www.pankhurstmuseum.com/"
+    },
+    {
+      "id": "esea-contemporary",
+      "name": "esea contemporary",
+      "area": "Northern Quarter",
+      "vibe": "The UK’s only non-profit gallery specialising in East and Southeast Asian art practices — free admission on Thomas Street.",
+      "images": [
+        {
+          "url": "/assets/opt/date/esea-contemporary/01.webp",
+          "alt": "Exterior of esea contemporary gallery in Manchester Northern Quarter"
+        }
+      ],
+      "website": "https://www.eseacontemporary.org/"
+    },
+    {
+      "id": "rncm",
+      "name": "Royal Northern College of Music",
+      "area": "Oxford Road",
+      "vibe": "World-renowned conservatoire on Oxford Road — concerts, opera and chamber music in landmark performance spaces.",
+      "images": [
+        {
+          "url": "/assets/opt/date/rncm/01.webp",
+          "alt": "Concert hall at the Royal Northern College of Music Manchester"
+        }
+      ],
+      "website": "https://www.rncm.ac.uk/"
+    },
+    {
+      "id": "palace-theatre",
+      "name": "Palace Theatre",
+      "area": "Oxford Street",
+      "vibe": "Historic Oxford Street theatre opposite Oxford Road station — West End tours and major shows in a classic auditorium.",
+      "images": [
+        {
+          "url": "/assets/opt/date/palace-theatre/01.webp",
+          "alt": "Exterior of the Palace Theatre Manchester on Oxford Street"
+        }
+      ],
+      "website": "https://www.atgtickets.com/venues/palace-theatre-manchester/"
+    },
+    {
+      "id": "schofields-bar",
+      "name": "Schofield's Bar",
+      "area": "Spinningfields",
+      "vibe": "Art deco corner of Sunlight House — brothers Joe and Daniel Schofield’s walk-in cocktail bar channeling 1930s hospitality.",
+      "images": [
+        {
+          "url": "/assets/opt/date/schofields-bar/01.webp",
+          "alt": "Interior of Schofield's Bar at Sunlight House Manchester"
+        }
+      ],
+      "website": "https://www.schofieldsbar.com/"
+    },
+    {
+      "id": "manchester-craft-and-design-centre",
+      "name": "Manchester Craft and Design Centre",
+      "area": "Northern Quarter",
+      "vibe": "Northern Quarter haven of independent makers — 20 studios, free craft exhibitions and workshops in a historic building on Oak Street.",
+      "images": [
+        {
+          "url": "/assets/opt/date/manchester-craft-and-design-centre/01.webp",
+          "alt": "Manchester Craft and Design Centre studios and galleries"
+        }
+      ],
+      "website": "https://www.craftanddesign.com/"
     }
   ],
   "dinner": [
@@ -1003,6 +1107,162 @@
       ],
       "website": "https://www.winsomemcr.co.uk/",
       "instagram": "https://www.instagram.com/winsome_mcr/"
+    },
+    {
+      "id": "the-sparrows",
+      "name": "The Spärrows",
+      "area": "Green Quarter",
+      "vibe": "Hidden Green Quarter arch restaurant — ring the bell for Central European hospitality, handmade dumplings, pasta and spätzle with a small-producer wine list.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-sparrows/01.webp",
+          "alt": "Interior of The Spärrows restaurant under Manchester railway arches"
+        }
+      ],
+      "website": "https://thesparrows.me/"
+    },
+    {
+      "id": "canto",
+      "name": "Canto",
+      "area": "Ancoats",
+      "vibe": "Mediterranean tapas in Ancoats’ Cutting Room Square — sharing plates and drinks in a neighbourhood setting.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/canto/01.webp",
+          "alt": "Exterior of Canto restaurant in Ancoats, Manchester"
+        }
+      ],
+      "website": "https://www.cantorestaurant.com/"
+    },
+    {
+      "id": "bar-shrimp",
+      "name": "Bar Shrimp",
+      "area": "City Centre",
+      "vibe": "Cocktail and seafood bar on New York Street — drinks, seafood and snacks with considered cocktails, plush-red banquettes and floor-to-ceiling drapes; from the team behind Higher Ground and Flawd.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bar-shrimp/01.webp",
+          "alt": "Bar Shrimp Manchester dining room with curtain backdrop"
+        }
+      ],
+      "website": "https://www.barshrimpmcr.co.uk/"
+    },
+    {
+      "id": "bab-nq",
+      "name": "BAB NQ",
+      "area": "Northern Quarter",
+      "vibe": "Fiercely independent Northern Quarter restaurant for babs and meze — open theatre kitchen, fresh flatbreads and a serious cocktail list.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bab-nq/01.webp",
+          "alt": "BAB NQ restaurant interior and open kitchen in Manchester Northern Quarter"
+        }
+      ],
+      "website": "https://babnq.co.uk/"
+    },
+    {
+      "id": "the-oast-house",
+      "name": "The Oast House",
+      "area": "Spinningfields",
+      "vibe": "Spinningfields courtyard bar and restaurant with free live music every day — food, roasts and cocktails in The Avenue.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-oast-house/01.webp",
+          "alt": "The Oast House Spinningfields exterior at dusk"
+        }
+      ],
+      "website": "https://theoasthouse.uk.com/"
+    },
+    {
+      "id": "asmara-bella",
+      "name": "Asmara Bella",
+      "area": "Northern Quarter",
+      "vibe": "Authentic Eritrean and Ethiopian dining in the Northern Quarter — shared injera platters, slow-cooked stews and a traditional coffee ceremony.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/asmara-bella/01.webp",
+          "alt": "Interior dining room at Asmara Bella Manchester"
+        }
+      ],
+      "website": "https://asmarabella.co.uk/"
+    },
+    {
+      "id": "don-giovanni",
+      "name": "Don Giovanni",
+      "area": "Oxford Road",
+      "vibe": "Manchester’s oldest independent Italian restaurant — fresh pasta daily, double-fermented pizzas and warm Italian hospitality near the theatres.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/don-giovanni/01.webp",
+          "alt": "Dining room at Don Giovanni Italian restaurant Manchester"
+        }
+      ],
+      "website": "https://www.dongiovannimcr.co.uk/"
+    },
+    {
+      "id": "noi-quattro",
+      "name": "Noi Quattro",
+      "area": "Northern Quarter",
+      "vibe": "Independent Italian pizzeria on High Street owned and run by Italians — wood-fired pies in the Northern Quarter.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/noi-quattro/01.webp",
+          "alt": "Noi Quattro pizzeria interior in Manchester Northern Quarter"
+        }
+      ],
+      "website": "https://www.noiquattro.co.uk/"
+    },
+    {
+      "id": "bar-san-juan",
+      "name": "Bar San Juan",
+      "area": "Chorlton",
+      "vibe": "Small Chorlton tapas bar capturing the warmth of Spain — classic tapas, Spanish beers, wines, sherries and gins since 2010.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bar-san-juan/01.webp",
+          "alt": "Bar San Juan tapas bar interior in Chorlton Manchester"
+        }
+      ],
+      "website": "https://www.barsanjuan.com/"
+    },
+    {
+      "id": "stow",
+      "name": "stow.",
+      "area": "Deansgate",
+      "vibe": "Open-fire restaurant and cocktail bar on Bridge Street — cooking exclusively over fire with seasonal ingredients and nice people.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/stow/01.webp",
+          "alt": "stow. restaurant Manchester open-fire kitchen and dining room"
+        }
+      ],
+      "website": "https://www.stowmcr.co.uk/"
+    },
+    {
+      "id": "mount-street-dining-room",
+      "name": "Mount Street Dining Room & Bar",
+      "area": "Peter Street",
+      "vibe": "Inside the Midland Hotel — timeless brasserie classics and confident modern cooking where the city comes to dine, drink and linger.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/mount-street-dining-room/01.webp",
+          "alt": "Mount Street Dining Room and Bar at The Midland Hotel Manchester"
+        }
+      ],
+      "website": "https://www.themidlandhotel.co.uk/mount-street"
+    },
+    {
+      "id": "bruco",
+      "name": "Bruco",
+      "area": "City Centre",
+      "vibe": "Italian bar and kitchen in Manchester city centre.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bruco/01.webp",
+          "alt": "Bruco Italian bar and kitchen dining room Manchester"
+        }
+      ],
+      "website": "https://brucomanchester.co.uk/"
     }
   ],
   "dance": [
@@ -1278,6 +1538,32 @@
       ],
       "website": "https://yes-manchester.com",
       "instagram": "https://www.instagram.com/yes_mcr/"
+    },
+    {
+      "id": "new-century-hall",
+      "name": "New Century Hall",
+      "area": "NOMA",
+      "vibe": "Iconic music venue, bar and kitchen at 34 Hanover Street — live gigs plus the new Locker club space under New Century Manchester.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/new-century-hall/01.webp",
+          "alt": "New Century Hall Manchester venue interior during a live show"
+        }
+      ],
+      "website": "https://newcenturymcr.com/"
+    },
+    {
+      "id": "the-fitzgerald",
+      "name": "The Fitzgerald",
+      "area": "Northern Quarter",
+      "vibe": "Hidden Stevenson Square speakeasy — dark moody interior, cocktails and live jazz, blues and soul into the early hours.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/the-fitzgerald/01.webp",
+          "alt": "The Fitzgerald Manchester speakeasy bar interior"
+        }
+      ],
+      "website": "https://www.thefitzgeraldmanchester.com/"
     }
   ]
 }
