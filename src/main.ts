@@ -246,13 +246,15 @@ class Reel {
     this.root.className = "reel";
     this.root.dataset.reel = key;
     this.root.innerHTML = `
-      <div class="nudges">
-        <button type="button" class="nudge" data-dir="-1" aria-label="Previous ${LABELS[key]}">${chevronUp}</button>
-        <button type="button" class="nudge" data-dir="1" aria-label="Next ${LABELS[key]}">${chevronDown}</button>
-      </div>
-      <div class="window-wrap">
-        <div class="window" aria-live="polite">
-          <div class="strip"></div>
+      <div class="media">
+        <div class="nudges">
+          <button type="button" class="nudge" data-dir="-1" aria-label="Previous ${LABELS[key]}">${chevronUp}</button>
+          <button type="button" class="nudge" data-dir="1" aria-label="Next ${LABELS[key]}">${chevronDown}</button>
+        </div>
+        <div class="window-wrap">
+          <div class="window" aria-live="polite">
+            <div class="strip"></div>
+          </div>
         </div>
       </div>
       <div class="copy">
