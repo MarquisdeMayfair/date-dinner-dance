@@ -412,7 +412,7 @@
       "id": "aubergine-by-atzaró",
       "name": "Aubergine by Atzaró",
       "area": "San Miguel",
-      "vibe": "Aubergine is a charming and relaxed countryside restaurant…",
+      "vibe": "Restaurant on the Atzaró country estate, in the rural centre of Ibiza.",
       "images": [
         {
           "url": "https://atzaro.com/wp-content/uploads/2024/02/Atzaro-Agroturismo-Hotel-Luxury-Hotel-Ibiza-Restaurants-and-Dining.webp",
@@ -425,13 +425,22 @@
       ],
       "website": "https://www.atzaro.com/",
       "instagram": "https://www.instagram.com/atzaro_hotel",
-      "instagram_followers": 126000
+      "instagram_followers": 126000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://www.atzaro.com/"
+        ]
+      }
     },
     {
       "id": "bambuddha",
       "name": "Bambuddha",
       "area": "Santa Eulalia",
-      "vibe": "One of Ibiza's true dining institutions - celebrating the…",
+      "vibe": "MediterrAsian cooking in Santa Eulalia. The room is part of the meal.",
       "images": [
         {
           "url": "https://cdn.cms.boooooooooost.com/cmr0n48190000j90a8saxash2/uploads/1782827620829-l9jcwf4nwg8.webp",
@@ -444,13 +453,22 @@
       ],
       "website": "https://bambuddha.com/",
       "instagram": "https://www.instagram.com/bambuddhaibiza",
-      "instagram_followers": 138000
+      "instagram_followers": 138000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://bambuddha.com/"
+        ]
+      }
     },
     {
       "id": "beso-beach",
       "name": "Beso Beach",
       "area": "Sant Jordi",
-      "vibe": "Book a sunbed or enjoy a leisurely lunch in the boho-chic…",
+      "vibe": "Beach restaurant at Ses Salines. Mediterranean cooking in a wild cove, with the afternoon if you want it.",
       "images": [
         {
           "url": "https://besobeach.com/wp-content/uploads/2022/06/Beso-Beach-Ibiza-Foto-Quique-Rico-Mayo-2018.png",
@@ -463,13 +481,22 @@
       ],
       "website": "https://www.besobeach.com/ibiza",
       "instagram": "https://www.instagram.com/besobeachibiza",
-      "instagram_followers": 71200
+      "instagram_followers": 71200,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://www.besobeach.com/ibiza"
+        ]
+      }
     },
     {
       "id": "beachouse-ibiza",
       "name": "Beachouse Ibiza",
       "area": "Playa d'en Bossa",
-      "vibe": "A legendary boho haven for feasts, shared experiences,…",
+      "vibe": "Beach club and Mediterranean restaurant on Playa d'en Bossa. Dining, beach days, and music by the sea.",
       "images": [
         {
           "url": "https://static1.squarespace.com/static/603399664a2da747346d11c7/t/645c10eae275f672ef60e074/1683755242175/Beachouse-Ibiza_by_Georg-Roske_+354_LowRes.jpg",
@@ -478,13 +505,22 @@
       ],
       "website": "https://beachouseibiza.com/",
       "instagram": "https://instagram.com/beachouse_ibiza",
-      "instagram_followers": 60000
+      "instagram_followers": 60000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://beachouseibiza.com/"
+        ]
+      }
     },
     {
       "id": "café-mambo",
       "name": "Café Mambo",
       "area": "San Antonio",
-      "vibe": "Serving up cool beats, tasty food and cocktails, all set to…",
+      "vibe": "Sunset cocktails on the San Antonio rocks since 1994. Open from late morning until 3am.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/119847/slideshow-1643824639_17.jpg",
@@ -497,13 +533,22 @@
       ],
       "website": "https://www.cafemamboibiza.com/",
       "instagram": "https://www.instagram.com/mamboibiza",
-      "instagram_followers": 546000
+      "instagram_followers": 546000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://www.cafemamboibiza.com/"
+        ]
+      }
     },
     {
       "id": "casa-jondal",
       "name": "Casa Jondal",
       "area": "San José",
-      "vibe": "A winning combination of exceptional food quality and a…",
+      "vibe": "Restaurant at Jondal.",
       "images": [
         {
           "url": "https://c-p.rmcdn.net/5d57db5b612c9b58cc12ed39/1991492/Screenshot-85ab5d9c-973e-4218-91be-c05365c57be0_readyscr_1024.jpg",
@@ -512,7 +557,16 @@
       ],
       "website": "https://www.casajondal.es/",
       "instagram": "https://www.instagram.com/casajondal",
-      "instagram_followers": 200000
+      "instagram_followers": 200000,
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Official page only titles itself as the Jondal restaurant.",
+        "sources": [
+          "https://www.casajondal.es/"
+        ]
+      }
     },
     {
       "id": "cotton-beach-club",
@@ -537,7 +591,7 @@
       "id": "el-chiringuito-es-cavallet",
       "name": "El Chiringuito Es Cavallet",
       "area": "Sant Jordi",
-      "vibe": "An elegant yet relaxed seaside restaurant that offers…",
+      "vibe": "On the shore at Es Cavallet. Long lunches in the shade, and food made to share.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137527/slideshow-1645175302.jpg",
@@ -546,7 +600,16 @@
       ],
       "website": "https://elchiringuitoibiza.com/",
       "instagram": "https://www.instagram.com/elchiringuitoibiza_",
-      "instagram_followers": 95000
+      "instagram_followers": 95000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://elchiringuitoibiza.com/"
+        ]
+      }
     },
     {
       "id": "es-boldado",
@@ -571,7 +634,7 @@
       "id": "hostal-la-torre",
       "name": "Hostal La Torre",
       "area": "San Antonio",
-      "vibe": "Bohemian chic, romantic cocktail bar and restaurant…",
+      "vibe": "Cliff restaurant above San Antonio. Mediterranean cooking, and the sunset toward Conejera.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137539/slideshow-1668519218_8.jpg",
@@ -584,13 +647,22 @@
       ],
       "website": "https://www.latorreibiza.com/en/restaurant-terrace",
       "instagram": "https://www.instagram.com/latorreibiza",
-      "instagram_followers": 80000
+      "instagram_followers": 80000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://www.latorreibiza.com/en/restaurant-terrace"
+        ]
+      }
     },
     {
       "id": "sa-capella-restaurant",
       "name": "Sa Capella Restaurant",
       "area": "San Antonio",
-      "vibe": "A uniquely atmospheric dining experience, exuding class and…",
+      "vibe": "",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/75278/slideshow-1704712884.jpg",
@@ -603,13 +675,22 @@
       ],
       "website": "https://sacapellaibiza.com/en/",
       "instagram": "https://www.instagram.com/sacapellaibiza",
-      "instagram_followers": 58000
+      "instagram_followers": 58000,
+      "verified": {
+        "confidence": 1,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Official page only showed booking rules, so the cut line was removed.",
+        "sources": [
+          "https://sacapellaibiza.com/en/"
+        ]
+      }
     },
     {
       "id": "sa-trinxa",
       "name": "Sa Trinxa",
       "area": "Sant Jordi",
-      "vibe": "The classic beachfront restaurant on the sand of Las…",
+      "vibe": "Chiringuito on the sand at Ses Salines since 1980. Mediterranean cooking, with the beach in front.",
       "images": [
         {
           "url": "https://satrinxa.com/wp-content/uploads/2026/06/sa-trinxa-restaurante-chiringuito-salinas.jpg",
@@ -622,13 +703,22 @@
       ],
       "website": "https://satrinxa.com/",
       "instagram": "https://www.instagram.com/satrinxaibiza",
-      "instagram_followers": 47000
+      "instagram_followers": 47000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://satrinxa.com/"
+        ]
+      }
     },
     {
       "id": "nobu-ibiza-bay",
       "name": "Nobu Ibiza Bay",
       "area": "Talamanca",
-      "vibe": "Precision-made Japanese fusion cuisine to be enjoyed on the…",
+      "vibe": "New-style Japanese cooking at Nobu Ibiza Bay, on the water at Talamanca.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/132633/slideshow-1747217028_8.jpg",
@@ -641,13 +731,22 @@
       ],
       "website": "https://www.nobuhotelibizabay.com/dining-drinks/nobu/nobu-menu",
       "instagram": "https://www.instagram.com/ibizabay",
-      "instagram_followers": 125000
+      "instagram_followers": 125000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://www.nobuhotelibizabay.com/dining-drinks/nobu/nobu-menu"
+        ]
+      }
     },
     {
       "id": "experimental-beach",
       "name": "Experimental Beach",
       "area": "Sant Jordi",
-      "vibe": "Mediterranean cuisine with a magical ambience, occupying…",
+      "vibe": "Beach club in Las Salinas.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137519/slideshow-1689513197_3.jpg",
@@ -659,13 +758,23 @@
         }
       ],
       "instagram": "https://www.instagram.com/experimentalbeachibiza",
-      "instagram_followers": 29800
+      "instagram_followers": 29800,
+      "website": "https://www.experimentalgroup.com/ibiza/experimental-beach-ibiza",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Official page titles it as a beach club in Las Salinas.",
+        "sources": [
+          "https://www.experimentalgroup.com/ibiza/experimental-beach-ibiza"
+        ]
+      }
     },
     {
       "id": "nassau-beach-club",
       "name": "Nassau Beach Club",
       "area": "Playa d'en Bossa",
-      "vibe": "A luxurious VIP experience and fine dining on the sands of…",
+      "vibe": "Beach club on the sand at Playa d'en Bossa. Mediterranean cooking, cocktails, and music on the seafront.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/130341/slideshow-1679332789.jpg",
@@ -678,13 +787,22 @@
       ],
       "website": "https://www.nassaubeachclub.com/",
       "instagram": "https://www.instagram.com/nassaubeachclub",
-      "instagram_followers": 100000
+      "instagram_followers": 100000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://www.nassaubeachclub.com/"
+        ]
+      }
     },
     {
       "id": "cala-gracioneta",
       "name": "Cala Gracioneta",
       "area": "San Antonio",
-      "vibe": "Dine on the shaded terraces overlooking the picturesque bay…",
+      "vibe": "Beach restaurant on a small west-coast cove. Fresh fish and open flames.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/75255/slideshow-1749237720.jpg",
@@ -697,20 +815,38 @@
       ],
       "website": "http://calagracioneta.com/en/",
       "instagram": "https://instagram.com/calagracioneta",
-      "instagram_followers": 146000
+      "instagram_followers": 146000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "http://calagracioneta.com/en/"
+        ]
+      }
     },
     {
       "id": "can-berri-vell",
       "name": "Can Berri Vell",
       "area": "San Agustín",
-      "vibe": "Traditional Ibizan cuisine with a touch of class in this…",
+      "vibe": "In the middle of Sant Agustí, facing the church. Mediterranean cooking in a 17th-century Ibizan house.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/127165/slideshow-1540288359.jpg",
           "alt": "Can Berri Vell"
         }
       ],
-      "website": "https://www.canberrivell.es/"
+      "website": "https://www.canberrivell.es/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://www.canberrivell.es/"
+        ]
+      }
     },
     {
       "id": "la-gaia",
@@ -735,7 +871,7 @@
       "id": "luum-ibiza",
       "name": "LU·UM Ibiza",
       "area": "San Carlos",
-      "vibe": "Signature cocktails, tapas and dishes from a wood-fired…",
+      "vibe": "Wood-fire dining in San Carlos. Tapas and cocktails, cooked over the flame.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/143627/slideshow-1747913889.JPG",
@@ -748,7 +884,16 @@
       ],
       "website": "https://luumibiza.com/",
       "instagram": "https://www.instagram.com/luum_ibiza",
-      "instagram_followers": 27000
+      "instagram_followers": 27000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://luumibiza.com/"
+        ]
+      }
     },
     {
       "id": "unic",
@@ -773,7 +918,7 @@
       "id": "yemanjá",
       "name": "Yemanjá",
       "area": "San José",
-      "vibe": "Authentic Mediterranean food with picturesque views, this…",
+      "vibe": "Spanish cooking on the water for more than 40 years. Bullit de peix, and sweet rice with lobster.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137542/slideshow-1645180653.jpg",
@@ -786,13 +931,22 @@
       ],
       "website": "https://yemanjaibiza.com/en/",
       "instagram": "https://www.instagram.com/yemanjaibiza",
-      "instagram_followers": 24000
+      "instagram_followers": 24000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://yemanjaibiza.com/en/"
+        ]
+      }
     },
     {
       "id": "zazú-ibiza",
       "name": "Zazú Ibiza",
       "area": "Playa d'en Bossa",
-      "vibe": "Great food, delicious cocktails, eclectic music and…",
+      "vibe": "On the beach at Playa d'en Bossa. A cocktail first, then dinner with the sunset.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/139390/slideshow-1687171648.jpg",
@@ -805,13 +959,22 @@
       ],
       "website": "https://zazuibiza.com/",
       "instagram": "https://www.instagram.com/zazu.ibiza",
-      "instagram_followers": 65000
+      "instagram_followers": 65000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://zazuibiza.com/"
+        ]
+      }
     },
     {
       "id": "coco-beach",
       "name": "Coco Beach",
       "area": "Playa d'en Bossa",
-      "vibe": "Fine dining in classy surroundings at the tranquil far end…",
+      "vibe": "Beach club and restaurant on the sea. Mediterranean cooking, and a long wine list.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/138329/slideshow-1741953365_6.jpg",
@@ -824,13 +987,22 @@
       ],
       "website": "https://www.cocobeachibiza.com/en",
       "instagram": "https://www.instagram.com/cocobeachibiza",
-      "instagram_followers": 41000
+      "instagram_followers": 41000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://www.cocobeachibiza.com/en"
+        ]
+      }
     },
     {
       "id": "eden-hacienda-na-xamena",
       "name": "Eden Hacienda Na Xamena",
       "area": "Puerto de San Miguel",
-      "vibe": "One-of-a-kind fine dining experience in a spectacular…",
+      "vibe": "At Hacienda Na Xamena. Seasonal cooking from their own garden, with the north-coast view.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/141707/slideshow-1722420575.jpg",
@@ -843,13 +1015,22 @@
       ],
       "website": "https://www.haciendanaxamena-ibiza.com/en/gastronomy/eden-restaurant/",
       "instagram": "https://www.instagram.com/edengastronomia",
-      "instagram_followers": 6631
+      "instagram_followers": 6631,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://www.haciendanaxamena-ibiza.com/en/gastronomy/eden-restaurant/"
+        ]
+      }
     },
     {
       "id": "finca-la-plaza-ibiza",
       "name": "Finca La Plaza Ibiza",
       "area": "Santa Gertrudis",
-      "vibe": "Exquisite fine dining at the heart of Santa Gertrudis'…",
+      "vibe": "Santa Gertrudis’ oldest house, still a country dining room. Local flavours, cooked in the old building.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/133101/slideshow-1778671042_1.jpeg",
@@ -862,13 +1043,22 @@
       ],
       "website": "https://www.fincalaplaza.com/",
       "instagram": "https://www.instagram.com/fincalaplaza",
-      "instagram_followers": 17000
+      "instagram_followers": 17000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://www.fincalaplaza.com/"
+        ]
+      }
     },
     {
       "id": "juntos-house",
       "name": "Juntos House",
       "area": "San Mateo",
-      "vibe": "Combining farm, restaurant and boutique, Juntos House is a…",
+      "vibe": "A farm, a restaurant, and a deli. Food from their land to the table.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/138984/slideshow-1688141026_13.jpg",
@@ -880,13 +1070,23 @@
         }
       ],
       "instagram": "https://www.instagram.com/juntos.house",
-      "instagram_followers": 33000
+      "instagram_followers": 33000,
+      "website": "https://www.juntosibiza.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://www.juntosibiza.com/"
+        ]
+      }
     },
     {
       "id": "nūn-ibiza",
       "name": "Nūn Ibiza",
       "area": "Cala Llonga",
-      "vibe": "Wood-fired delicacies and relaxed dining overlooking the…",
+      "vibe": "Wood-fire grill on the shore at Cala Llonga. Breakfast, lunch, and dinner from May to October.",
       "images": [
         {
           "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/144867/slideshow-1779970258.jpg",
@@ -899,7 +1099,16 @@
       ],
       "website": "https://nunibiza.com/",
       "instagram": "https://www.instagram.com/nun_ibiza",
-      "instagram_followers": 5447
+      "instagram_followers": 5447,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Finished the cut hook from the official page so the phone card can show a full line.",
+        "sources": [
+          "https://nunibiza.com/"
+        ]
+      }
     }
   ],
   "dance": [
