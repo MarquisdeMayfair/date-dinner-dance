@@ -999,6 +999,132 @@
         }
       ],
       "website": "https://www.visitsantaeulalia.com/es/hippy-market-y-comercio-local/hippy-market-punta-arabi"
+    },
+    {
+      "id": "es-bol-nou",
+      "name": "Es Bol Nou",
+      "area": "Sa Caleta",
+      "vibe": "Reddish cliffs and a historic atmosphere beside the Phoenician archaeological site of Sa Caleta.",
+      "images": [
+        {
+          "url": "/assets/opt/date/es-bol-nou/01.webp",
+          "alt": "Es Bol Nou cove with reddish cliffs and turquoise water",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2020/01/EsBolNou_DJI_0076.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/beaches/es-bol-nou-beach/"
+    },
+    {
+      "id": "cala-llentrisca",
+      "name": "Cala Llentrisca",
+      "area": "Es Cubells",
+      "vibe": "One of the most secluded and unspoilt coves in southern Ibiza, quiet and picturesque beneath Es Cubells.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-llentrisca/01.webp",
+          "alt": "Secluded Cala Llentrisca pebble cove with turquoise water",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2025/09/DSC02688.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/beaches/cala-llentrisca/"
+    },
+    {
+      "id": "es-cubells",
+      "name": "Es Cubells",
+      "area": "Es Cubells",
+      "vibe": "Small coves nestled beneath the cliffs of Es Cubells, with spectacular scenery and crystal-clear waters.",
+      "images": [
+        {
+          "url": "/assets/opt/date/es-cubells/01.webp",
+          "alt": "Es Cubells pebble beach beneath cliffs with clear water",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2017/12/P1160152.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/beaches/es-cubells-beach/"
+    },
+    {
+      "id": "es-xarco",
+      "name": "Es Xarco",
+      "area": "Sant Josep",
+      "vibe": "A sandy-and-rocky cove with a local atmosphere, traditional fishermen’s boat shelters, and crystal-clear waters.",
+      "images": [
+        {
+          "url": "/assets/opt/date/es-xarco/01.webp",
+          "alt": "Es Xarco cove with fishermen’s boathouses and clear water",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2025/09/IMG_2442.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/beaches/es-xarco/"
+    },
+    {
+      "id": "ses-boques",
+      "name": "Ses Boques",
+      "area": "Sant Josep",
+      "vibe": "A charming pebble cove with crystal-clear waters, featuring a traditional seaside restaurant.",
+      "images": [
+        {
+          "url": "/assets/opt/date/ses-boques/01.webp",
+          "alt": "Ses Boques pebble cove with crystal-clear turquoise water",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2017/12/P1170162.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/beaches/ses-boques/"
+    },
+    {
+      "id": "es-pujolets",
+      "name": "Es Pujolets",
+      "area": "Cala Tarida",
+      "vibe": "A small, peaceful rocky cove tucked away in Cala Tarida.",
+      "images": [
+        {
+          "url": "/assets/opt/date/es-pujolets/01.webp",
+          "alt": "Es Pujolets rocky cove with turquoise bay and boats",
+          "remote_url": "https://www.santjosep.net/wp-content/uploads/2025/09/DSC00111.jpg"
+        }
+      ],
+      "website": "https://www.santjosep.net/en/what-to-see/beaches/es-pujolets/"
+    },
+    {
+      "id": "playa-des-riu",
+      "name": "Playa des Riu",
+      "area": "Santa Eulària",
+      "vibe": "Family-friendly beach between the Balearics’ only river mouth and Santa Eulària beach, with gentle depths and ISO 14001 environmental certification.",
+      "images": [
+        {
+          "url": "/assets/opt/date/playa-des-riu/01.webp",
+          "alt": "Playa des Riu shallow clear water and pine-backed shore",
+          "remote_url": "https://www.visitsantaeulalia.com/images/recursos/playas/playa-des-riu-de-santa-eularia.jpg"
+        }
+      ],
+      "website": "https://www.visitsantaeulalia.com/es/playas-y-calas/playa-des-riu-de-santa-eularia-es"
+    },
+    {
+      "id": "museu-sa-caleta",
+      "name": "Museu Sa Caleta",
+      "area": "Sa Caleta",
+      "vibe": "Interpretation centre for the Phoenician settlement and 1940s anti-aircraft batteries, with exterior itineraries on the Sa Caleta peninsula.",
+      "images": [
+        {
+          "url": "/assets/opt/date/museu-sa-caleta/01.webp",
+          "alt": "Traditional Sa Caleta cove boathouses near the interpretation centre",
+          "remote_url": "https://www.museusacaleta.es/wp-content/uploads/2025/04/view-of-sa-caleta-cove-joan-ramon-torres.jpg"
+        }
+      ],
+      "website": "https://www.museusacaleta.es/en/the-museum/"
+    },
+    {
+      "id": "ibizkus",
+      "name": "Ibizkus",
+      "area": "Santa Eulària",
+      "vibe": "Premium rosé, red and white wines produced 100% from Ibiza grapes, with a tasting room and vineyard setting.",
+      "images": [
+        {
+          "url": "/assets/opt/date/ibizkus/01.webp",
+          "alt": "Ibizkus vineyard tasting gathering at golden hour",
+          "remote_url": "https://ibizkus.com/img_external/revolution-slider/back-14.jpg"
+        }
+      ],
+      "website": "https://www.ibizkus.com/"
     }
   ],
   "dinner": [
@@ -2107,6 +2233,104 @@
       "website": "https://www.esxarcurestaurante.com/",
       "instagram": "https://www.instagram.com/esxarcu",
       "instagram_followers": 0
+    },
+    {
+      "id": "amalur",
+      "name": "Amalur",
+      "area": "Santa Gertrudis",
+      "vibe": "Iconic fine dining in a sophisticated blue-hued finca on the road to Santa Gertrudis, at the heart of Ibiza’s gastronomic scene since 1981.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/amalur/01.webp",
+          "alt": "Amalur blue-hued finca facade with arched white porch",
+          "remote_url": "https://amaluribiza.com/wp-content/uploads/2022/03/AMALUR-Ibiza-front-2.jpg"
+        }
+      ],
+      "website": "https://amaluribiza.com/"
+    },
+    {
+      "id": "las-dos-lunas",
+      "name": "Las Dos Lunas",
+      "area": "Ibiza",
+      "vibe": "Since 1981, an oasis of easy rhythm behind payesa stone walls, with a garden terrace where style and Ibiza magic converge.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/las-dos-lunas/01.webp",
+          "alt": "Las Dos Lunas bougainvillea terrace dining at twilight",
+          "remote_url": "https://lasdoslunas.com/wp-content/uploads/2021/05/IMG_0608-1030x686.jpg"
+        }
+      ],
+      "website": "https://lasdoslunas.com/es/"
+    },
+    {
+      "id": "can-domingo",
+      "name": "Can Domingo",
+      "area": "Sant Josep",
+      "vibe": "Italian fine dining in supremely romantic surrounds, created by three friends with a passion for good food and excellent wines since 2012.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/can-domingo/01.webp",
+          "alt": "Can Domingo garden table set for dinner under palms at dusk",
+          "remote_url": "https://candomingoibiza.com/wp-content/uploads/2015/04/17751492410_3dc1fa383e_k.jpg"
+        }
+      ],
+      "website": "https://candomingoibiza.com/"
+    },
+    {
+      "id": "el-olivo-mio",
+      "name": "El Olivo Mio",
+      "area": "Dalt Vila",
+      "vibe": "Romantic Boho-chic restaurant in the heart of Dalt Vila, serving Mediterranean cuisine with top-quality products.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/el-olivo-mio/01.webp",
+          "alt": "El Olivo Mio terrace tables on Plaza de Vila at dusk",
+          "remote_url": "https://images.squarespace-cdn.com/content/v1/56b34ef137013be54f5ae4b6/1623083175139-0C8GGHDPEW90U6WUWZHR/DSC_5352.jpg"
+        }
+      ],
+      "website": "https://www.elolivoibiza.com/english"
+    },
+    {
+      "id": "room-service",
+      "name": "Room Service",
+      "area": "Ibiza Town",
+      "vibe": "Restaurant and cocktail bar where delicious meals and genuine hospitality come together in a cozy, home-away-from-home atmosphere.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/room-service/01.webp",
+          "alt": "Room Service intimate table for two in a dim art-lined dining nook",
+          "remote_url": "https://images.squarespace-cdn.com/content/v1/692e9646e126b011e5f832d1/46db4562-37f2-4f4b-8b75-f3a2c18d172a/5K3A5735.jpg"
+        }
+      ],
+      "website": "https://roomserviceibiza.com/"
+    },
+    {
+      "id": "can-alfredo",
+      "name": "Ca n'Alfredo",
+      "area": "Ibiza Town",
+      "vibe": "One of the island’s oldest traditional family restaurants, focused on Ibizan and Mediterranean cuisine with the best local products since 1934.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/can-alfredo/01.webp",
+          "alt": "Ca n'Alfredo entrance with outdoor tables set under a green umbrella",
+          "remote_url": "http://www.canalfredo.com/wp-content/uploads/2015/07/IMG-20150624-WA0004.jpg"
+        }
+      ],
+      "website": "http://www.canalfredo.com/en/origins-and-tradition/"
+    },
+    {
+      "id": "villa-mercedes",
+      "name": "Villa Mercedes",
+      "area": "Sant Antoni",
+      "vibe": "A 1901 seaside villa with garden on Sant Antoni’s promenade — Mediterranean flavours, harbour views, and a place to toast and linger.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/villa-mercedes/01.webp",
+          "alt": "Villa Mercedes harbour-view terrace tables at twilight",
+          "remote_url": "https://www.villamercedesibiza.com/media/yootheme/cache/8f/terraza-villa-mercedes-con-vistas-8fc5c808.jpg"
+        }
+      ],
+      "website": "https://www.villamercedesibiza.com/"
     }
   ],
   "dance": [
