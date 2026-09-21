@@ -990,6 +990,190 @@
           "https://grandcentralterminal.com/wp-content/uploads/2023/07/GrandCentralTerminal-NicholasKnight-3207.jpg"
         ]
       }
+    },
+    {
+      "id": "jewish-museum",
+      "name": "The Jewish Museum",
+      "area": "Upper East Side",
+      "vibe": "An art museum illuminating the complexity and vibrancy of the global Jewish experience for all audiences.",
+      "images": [
+        {
+          "url": "/assets/opt/date/jewish-museum/01.webp",
+          "alt": "The Jewish Museum"
+        }
+      ],
+      "website": "https://thejewishmuseum.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official hero photo. Official site verified.",
+        "sources": [
+          "https://thejewishmuseum.org/",
+          "https://thejewishmuseum.org/wp-content/uploads/2025/05/hero-1.webp"
+        ]
+      }
+    },
+    {
+      "id": "new-york-historical",
+      "name": "New-York Historical Society",
+      "area": "Upper West Side",
+      "vibe": "Four hundred years of history — exhibitions, collections, immersive films, and conversations at New York’s oldest museum.",
+      "images": [
+        {
+          "url": "/assets/opt/date/new-york-historical/01.webp",
+          "alt": "New-York Historical Society"
+        }
+      ],
+      "website": "https://www.nyhistory.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official building photo. Official site verified.",
+        "sources": [
+          "https://www.nyhistory.org/",
+          "https://images.prismic.io/nyhs-prod/622f239d-dbd0-4967-82df-269e4f1c00b4_building.jpg?auto=compress,format"
+        ]
+      }
+    },
+    {
+      "id": "asia-society",
+      "name": "Asia Society",
+      "area": "Upper East Side",
+      "vibe": "Policy, arts and culture, education — visit the museum, Leo Café, and AsiaStore on Park Avenue.",
+      "images": [
+        {
+          "url": "/assets/opt/date/asia-society/01.webp",
+          "alt": "Asia Society"
+        }
+      ],
+      "website": "https://asiasociety.org/new-york",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official carousel photo. Official site verified.",
+        "sources": [
+          "https://asiasociety.org/new-york",
+          "https://asiasociety.org/sites/default/files/styles/1920x880/public/2026-02/70Years_2880x1320px_globalcarousel.jpg"
+        ]
+      }
+    },
+    {
+      "id": "statue-of-liberty",
+      "name": "Statue of Liberty",
+      "area": "New York Harbor",
+      "vibe": "National Monument since 1924 — the patina green that stands out on a cloudy day, cared for by the National Park Service.",
+      "images": [
+        {
+          "url": "/assets/opt/date/statue-of-liberty/01.webp",
+          "alt": "Statue of Liberty"
+        }
+      ],
+      "website": "https://www.nps.gov/stli/index.htm",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official NPS banner. Official site verified.",
+        "sources": [
+          "https://www.nps.gov/stli/index.htm",
+          "https://www.nps.gov/common/uploads/banner_image/ner/homepage/F1719CBE-1DD8-B71B-0B93EA7C972FAAB2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "ellis-island",
+      "name": "Ellis Island",
+      "area": "New York Harbor",
+      "vibe": "A memorial to those who pursued the American dream — over 12 million immigrants processed here at its peak.",
+      "images": [
+        {
+          "url": "/assets/opt/date/ellis-island/01.webp",
+          "alt": "Ellis Island"
+        }
+      ],
+      "website": "https://www.nps.gov/elis/index.htm",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official NPS banner. Official site verified.",
+        "sources": [
+          "https://www.nps.gov/elis/index.htm",
+          "https://www.nps.gov/common/uploads/banner_image/ner/homepage/F226C0FF-1DD8-B71B-0BB2BF5D8876B15C.jpg"
+        ]
+      }
+    },
+    {
+      "id": "vessel",
+      "name": "Vessel",
+      "area": "Hudson Yards",
+      "vibe": "Thomas Heatherwick’s climbable landmark — entered and explored for new perspectives on the city and the Hudson.",
+      "images": [
+        {
+          "url": "/assets/opt/date/vessel/01.webp",
+          "alt": "Vessel"
+        }
+      ],
+      "website": "https://www.hudsonyardsnewyork.com/discover/vessel",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official Hudson Yards see-and-do Vessel photo. Official site verified.",
+        "sources": [
+          "https://www.hudsonyardsnewyork.com/discover/vessel",
+          "https://www.hudsonyardsnewyork.com/sites/default/files/2018-12/see-and-do-vessel-image3.jpg"
+        ]
+      }
+    },
+    {
+      "id": "rockefeller-center",
+      "name": "Rockefeller Center",
+      "area": "Midtown",
+      "vibe": "Must-see Midtown attractions — Top of the Rock, shopping, and dining in the heart of Manhattan.",
+      "images": [
+        {
+          "url": "/assets/opt/date/rockefeller-center/01.webp",
+          "alt": "Rockefeller Center"
+        }
+      ],
+      "website": "https://www.rockefellercenter.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official Sanity CDN photo. Official site verified.",
+        "sources": [
+          "https://www.rockefellercenter.com/",
+          "https://cdn.sanity.io/images/bs9rmafh/ecomm-main/4825f9ca8b1c82de133fa6c3b9ffd42950b3fcef-3648x4864.jpg"
+        ]
+      }
+    },
+    {
+      "id": "socrates",
+      "name": "Socrates Sculpture Park",
+      "area": "Long Island City",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/socrates/01.webp",
+          "alt": "Socrates Sculpture Park"
+        }
+      ],
+      "website": "https://socratessculpturepark.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official park photo from about page. Official site verified.",
+        "sources": [
+          "https://socratessculpturepark.org/",
+          "https://socratessculpturepark.org/wp-content/uploads/2026/06/header-links-1.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -1951,6 +2135,213 @@
         "sources": [
           "https://www.le-bernardin.com/",
           "http://www.le-bernardin.com/dist/fb-share.jpg"
+        ]
+      }
+    },
+    {
+      "id": "daniel",
+      "name": "Daniel",
+      "area": "Upper East Side",
+      "vibe": "Chef Daniel Boulud’s flagship — a modern French dining experience in New York.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/daniel/01.webp",
+          "alt": "Daniel"
+        }
+      ],
+      "website": "https://www.danielnyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official Prismic site photo. Official site verified.",
+        "sources": [
+          "https://www.danielnyc.com/",
+          "https://images.prismic.io/daniel-nyc/aeAG7Z1ZCF7ETOtg_db65uh13252-2.jpg?auto=format,compress"
+        ]
+      }
+    },
+    {
+      "id": "per-se",
+      "name": "Per Se",
+      "area": "Columbus Circle",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/per-se/01.webp",
+          "alt": "Per Se"
+        }
+      ],
+      "website": "https://www.thomaskeller.com/perseny",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official Thomas Keller site homepage photo. Official site verified.",
+        "sources": [
+          "https://www.thomaskeller.com/perseny",
+          "https://thomaskeller.com/sites/default/files/styles/homepage_height_620px/public/media/tk.com_per.se_homepage_1a_0.jpg"
+        ]
+      }
+    },
+    {
+      "id": "atomix",
+      "name": "Atomix",
+      "area": "NoMad",
+      "vibe": "A follow-up to Atoboy — guests dive into Chef Park’s 10-course tasting menu highlighting new Korean cuisine.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/atomix/01.webp",
+          "alt": "Atomix"
+        }
+      ],
+      "website": "https://www.atomixnyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official Squarespace dining photo. Official site verified.",
+        "sources": [
+          "https://www.atomixnyc.com/",
+          "https://images.squarespace-cdn.com/content/v1/5ac3bec4aa49a18caab02bf4/1648580412075-5P22YY93JUD4GPIHSG5Y/220202_Atomix_8184.jpg"
+        ]
+      }
+    },
+    {
+      "id": "semma",
+      "name": "Semma",
+      "area": "Greenwich Village",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/semma/01.webp",
+          "alt": "Semma"
+        }
+      ],
+      "website": "https://www.semma.nyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official exterior photo. Official site verified.",
+        "sources": [
+          "https://www.semma.nyc/",
+          "https://images.squarespace-cdn.com/content/v1/615bedc264a4c3392b97d4d8/0d509d24-3600-4972-8049-e474685e9aed/Semma_Exterior+2_Will+Ellis.jpg"
+        ]
+      }
+    },
+    {
+      "id": "dhamaka",
+      "name": "Dhamaka",
+      "area": "Lower East Side",
+      "vibe": "At Essex Market — bold provincial Indian cooking rarely seen outside homes and roadside stalls.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/dhamaka/01.webp",
+          "alt": "Dhamaka"
+        }
+      ],
+      "website": "https://www.dhamaka.nyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official site dining photo. Official site verified.",
+        "sources": [
+          "https://www.dhamaka.nyc/",
+          "https://images.squarespace-cdn.com/content/v1/5fc8f9afc1e8e65dddbbeb7f/6b00fc77-fe17-4845-8e25-aa26362991bd/Dhamaka_WEB-14.jpg"
+        ]
+      }
+    },
+    {
+      "id": "torrisi",
+      "name": "Torrisi",
+      "area": "Nolita",
+      "vibe": "Vaulted ceilings, artwork, and Garrett Singer Architecture — a grand New York stage for Italian dining from Major Food Group.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/torrisi/01.webp",
+          "alt": "Torrisi"
+        }
+      ],
+      "website": "https://www.torrisinyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official Sanity CDN dining photo. Official site verified.",
+        "sources": [
+          "https://www.torrisinyc.com/",
+          "https://cdn.sanity.io/images/gb1p0gbj/production/e362e19431eb7029a9bafd88be788d7189f4d4e6-5568x2784.jpg"
+        ]
+      }
+    },
+    {
+      "id": "barbuto",
+      "name": "Barbuto",
+      "area": "West Village",
+      "vibe": "Jonathan Waxman’s West Village neighborhood restaurant — simple seasonal cooking with Italian and Californian influences.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/barbuto/01.webp",
+          "alt": "Barbuto"
+        }
+      ],
+      "website": "https://www.barbutonyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official dining-room photo. Official site verified.",
+        "sources": [
+          "https://www.barbutonyc.com/",
+          "https://images.getbento.com/accounts/559289120d236fdaafe03fc33a71685f/media/images/74536Barbuto_DiningRoom-v3-11.jpeg?w=2000&fit=max&auto=compress,format"
+        ]
+      }
+    },
+    {
+      "id": "commerce-inn",
+      "name": "The Commerce Inn",
+      "area": "West Village",
+      "vibe": "Early American tavern and cookery from Rita Sodi and Jody Williams — Shaker craft, community, and heirloom recipes on Commerce and Barrow.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/commerce-inn/01.webp",
+          "alt": "The Commerce Inn"
+        }
+      ],
+      "website": "https://www.thecommerceinn.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official site interior photo. Official site verified.",
+        "sources": [
+          "https://www.thecommerceinn.com/",
+          "https://images.squarespace-cdn.com/content/v1/5f63798a017b5306a35ea1ba/1626193348019-FGSJTH7DM6Y5MFMITD64/IMG_0002%2Bcopy.jpg"
+        ]
+      }
+    },
+    {
+      "id": "cervos",
+      "name": "Cervo's",
+      "area": "Lower East Side",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cervos/01.webp",
+          "alt": "Cervo's"
+        }
+      ],
+      "website": "https://www.cervosnyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch2 2026-09-21. Official site photo. Official site verified.",
+        "sources": [
+          "https://www.cervosnyc.com/",
+          "https://images.squarespace-cdn.com/content/v1/65b9a8caa67cf220bc4d2ac0/a2a4dfb6-73a0-4def-b0ae-435400852b2c/20221218_Cervos_40.jpg"
         ]
       }
     }
