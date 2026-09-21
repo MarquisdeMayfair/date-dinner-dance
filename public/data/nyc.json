@@ -806,6 +806,190 @@
           "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/MoMA_PS1.jpg/1920px-MoMA_PS1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
         ]
       }
+    },
+    {
+      "id": "tenement-museum",
+      "name": "Tenement Museum",
+      "area": "Lower East Side",
+      "vibe": "Guided tours through two historic tenements — the immigrant and migrant story of the Lower East Side.",
+      "images": [
+        {
+          "url": "/assets/opt/date/tenement-museum/01.webp",
+          "alt": "Tenement Museum"
+        }
+      ],
+      "website": "https://www.tenement.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official og:image visitor center. Official site verified.",
+        "sources": [
+          "https://www.tenement.org/",
+          "https://www.tenement.org/wp-content/uploads/2018/11/Tenement-Museum_VisitorCenter_103Orchard-e1541496589202.jpg"
+        ]
+      }
+    },
+    {
+      "id": "summit-one-vanderbilt",
+      "name": "SUMMIT One Vanderbilt",
+      "area": "Midtown",
+      "vibe": "Art, technology, architecture, and thrill — observation atop Midtown’s tallest skyscraper, taken further than a deck.",
+      "images": [
+        {
+          "url": "/assets/opt/date/summit-one-vanderbilt/01.webp",
+          "alt": "SUMMIT One Vanderbilt"
+        }
+      ],
+      "website": "https://summitov.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official og:image. Official site verified.",
+        "sources": [
+          "https://summitov.com/",
+          "https://summitov.com/wp-content/uploads/2024/01/210910_SHOT49_13381-Edit-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "mcny",
+      "name": "Museum of the City of New York",
+      "area": "Upper East Side",
+      "vibe": "Celebrates and interprets the city — its heritage of diversity, opportunity, and perpetual transformation.",
+      "images": [
+        {
+          "url": "/assets/opt/date/mcny/01.webp",
+          "alt": "Museum of the City of New York"
+        }
+      ],
+      "website": "https://www.mcny.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site photo. Official site verified.",
+        "sources": [
+          "https://www.mcny.org/",
+          "https://mcny.org/sites/default/files/styles/675x450/public/FilipWolak_TourEtc_0010_4926.jpg"
+        ]
+      }
+    },
+    {
+      "id": "neue-galerie",
+      "name": "Neue Galerie",
+      "area": "Upper East Side",
+      "vibe": "Austrian and German art and design from the early 20th century — Fifth Avenue at 86th Street.",
+      "images": [
+        {
+          "url": "/assets/opt/date/neue-galerie/01.webp",
+          "alt": "Neue Galerie"
+        }
+      ],
+      "website": "https://www.neuegalerie.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official CDN building/image. Official site verified.",
+        "sources": [
+          "https://www.neuegalerie.org/",
+          "https://neue-gallery-images.b-cdn.net/c2275b9012e8eb38ea81c4df3825cd1c5341e72a-3442x2300.png"
+        ]
+      }
+    },
+    {
+      "id": "nybg",
+      "name": "New York Botanical Garden",
+      "area": "Bronx",
+      "vibe": "New York’s iconic living museum — garden, education, and cultural attraction in the Bronx.",
+      "images": [
+        {
+          "url": "/assets/opt/date/nybg/01.webp",
+          "alt": "New York Botanical Garden"
+        }
+      ],
+      "website": "https://www.nybg.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site garden photo. Official site verified.",
+        "sources": [
+          "https://www.nybg.org/",
+          "https://www.nybg.org/content/uploads/2019/08/Ben_Hider_BH_06016_3.1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "green-wood",
+      "name": "Green-Wood Cemetery",
+      "area": "Greenwood Heights",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/green-wood/01.webp",
+          "alt": "Green-Wood Cemetery"
+        }
+      ],
+      "website": "https://www.green-wood.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official og:image The Arch. Official site verified.",
+        "sources": [
+          "https://www.green-wood.com/",
+          "https://www.green-wood.com/wp-content/uploads/2026/06/The-Arch-Green-Wood-Staff-scaled.jpg"
+        ]
+      }
+    },
+    {
+      "id": "the-battery",
+      "name": "The Battery",
+      "area": "Financial District",
+      "vibe": "Harbor views, perennial gardens, grand lawns, an urban farm, and the SeaGlass carousel at Manhattan’s tip.",
+      "images": [
+        {
+          "url": "/assets/opt/date/the-battery/01.webp",
+          "alt": "The Battery"
+        }
+      ],
+      "website": "https://www.thebattery.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site photo. Official site verified.",
+        "sources": [
+          "https://www.thebattery.org/",
+          "https://www.thebattery.org/wp-content/uploads/2017/12/IMG_8132.jpg"
+        ]
+      }
+    },
+    {
+      "id": "grand-central",
+      "name": "Grand Central Terminal",
+      "area": "Midtown",
+      "vibe": "A globally recognized landmark — transit, architecture, shopping, and dining in the optimistic spirit of NYC.",
+      "images": [
+        {
+          "url": "/assets/opt/date/grand-central/01.webp",
+          "alt": "Grand Central Terminal"
+        }
+      ],
+      "website": "https://www.grandcentralterminal.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site photo. Official site verified.",
+        "sources": [
+          "https://www.grandcentralterminal.com/",
+          "https://grandcentralterminal.com/wp-content/uploads/2023/07/GrandCentralTerminal-NicholasKnight-3207.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -1493,6 +1677,282 @@
           "https://upload.wikimedia.org/wikipedia/commons/f/f6/Union_Square_Cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
         ]
       }
+    },
+    {
+      "id": "balthazar",
+      "name": "Balthazar",
+      "area": "SoHo",
+      "vibe": "Opened in SoHo in 1997. A bustling, romantic brasserie — traditional French fare from breakfast through supper.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/balthazar/01.webp",
+          "alt": "Balthazar"
+        }
+      ],
+      "website": "https://balthazarny.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site dining-room still. Official site verified.",
+        "sources": [
+          "https://balthazarny.com/",
+          "https://balthazarny.com/wp-content/uploads/2013/09/01_BALTHAZAR-EATER-SCENES-Daniel-Krieger-1010_CROP1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "minetta-tavern",
+      "name": "Minetta Tavern",
+      "area": "Greenwich Village",
+      "vibe": "Parisian steakhouse meets classic New York City tavern — the room after its renovation, as the house describes it.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/minetta-tavern/01.webp",
+          "alt": "Minetta Tavern"
+        }
+      ],
+      "website": "https://www.minettatavernny.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site slideshow. Official site verified.",
+        "sources": [
+          "https://www.minettatavernny.com/",
+          "https://www.minettatavernny.com/content/home/slideshow/km_01.jpg"
+        ]
+      }
+    },
+    {
+      "id": "don-angie",
+      "name": "Don Angie",
+      "area": "West Village",
+      "vibe": "Critically acclaimed Italian-American restaurant from Angie Rito and Scott Tacinelli on Greenwich Avenue.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/don-angie/01.webp",
+          "alt": "Don Angie"
+        }
+      ],
+      "website": "https://www.donangie.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official getbento press/dining photo. Official site verified.",
+        "sources": [
+          "https://www.donangie.com/",
+          "https://images.getbento.com/accounts/d704d1f12e9025a5303f862eeb87f5c0/media/images/31406DonAngie_AlexStaniloff_111225-306.jpg?w=1600&fit=crop&auto=compress,format"
+        ]
+      }
+    },
+    {
+      "id": "cosme",
+      "name": "Cosme",
+      "area": "Flatiron",
+      "vibe": "Enrique Olvera’s Flatiron restaurant — contemporary cuisine rooted in Mexican flavors, celebrating local and seasonal ingredients.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cosme/01.webp",
+          "alt": "Cosme"
+        }
+      ],
+      "website": "https://cosmenyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site gallery. Official site verified.",
+        "sources": [
+          "https://cosmenyc.com/",
+          "https://cosmenyc.com/wp-content/uploads/2025/07/DSF0094-2-scaled.webp"
+        ]
+      }
+    },
+    {
+      "id": "the-modern",
+      "name": "The Modern",
+      "area": "Midtown",
+      "vibe": "Michelin-starred contemporary American beside MoMA — Bentel & Bentel’s design as a welcome escape from Midtown bustle.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-modern/01.webp",
+          "alt": "The Modern"
+        }
+      ],
+      "website": "https://www.themodernnyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official getbento dining photo. Official site verified.",
+        "sources": [
+          "https://www.themodernnyc.com/",
+          "https://images.getbento.com/accounts/24a4eb5e9d52fd8be0301c47f96ceec4/media/images/89579YA102563.jpg?w=1600&fit=crop&auto=compress,format"
+        ]
+      }
+    },
+    {
+      "id": "eleven-madison-park",
+      "name": "Eleven Madison Park",
+      "area": "Flatiron",
+      "vibe": "Daniel Humm’s fine dining room overlooking Madison Square Park, at the base of a historic Art Deco building.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/eleven-madison-park/01.webp",
+          "alt": "Eleven Madison Park"
+        }
+      ],
+      "website": "https://www.elevenmadisonpark.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official Squarespace dining-room photo. Official site verified.",
+        "sources": [
+          "https://www.elevenmadisonpark.com/",
+          "https://images.squarespace-cdn.com/content/v1/661d75b635d9930903bb9d39/b47bd8d8-0f90-45c1-b272-1b2a63225ae9/The+dining+room+team+meeting+before+service.jpg"
+        ]
+      }
+    },
+    {
+      "id": "i-sodi",
+      "name": "I Sodi",
+      "area": "West Village",
+      "vibe": "Ristorante Toscano from Rita Sodi since 2008 — tradition, time-honored methods, and a flagstone garden off Grove Street.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/i-sodi/01.webp",
+          "alt": "I Sodi"
+        }
+      ],
+      "website": "https://www.isodinyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official La Tavola dining-room still. Official site verified.",
+        "sources": [
+          "https://www.isodinyc.com/",
+          "https://images.squarespace-cdn.com/content/v1/56e9548fab48de7b7fc48949/1615128682280-VG20WXZXR47YEQUDP7N4/Credit-I+Sodi_La+Tavola.jpg"
+        ]
+      }
+    },
+    {
+      "id": "4-charles-prime-rib",
+      "name": "4 Charles Prime Rib",
+      "area": "West Village",
+      "vibe": "Crystal chandeliers, plush leather, paintings on dark wood — a late-night dining den that winks at a lost era.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/4-charles-prime-rib/01.webp",
+          "alt": "4 Charles Prime Rib"
+        }
+      ],
+      "website": "https://www.nycprimerib.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site interior. Official site verified.",
+        "sources": [
+          "https://www.nycprimerib.com/",
+          "https://images.squarespace-cdn.com/content/v1/670e7e21f4dfa31258e4df3b/985070c9-e961-4c1a-a1fe-bb77256a32cd/DSC_7876-2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "tatiana",
+      "name": "Tatiana",
+      "area": "Lincoln Center",
+      "vibe": "Afro-Caribbean-inspired dining with NYC influences from Chef Kwame Onwuachi, at Lincoln Center.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/tatiana/01.webp",
+          "alt": "Tatiana"
+        }
+      ],
+      "website": "https://www.tatiananyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site photo. Official site verified.",
+        "sources": [
+          "https://www.tatiananyc.com/",
+          "https://images.getbento.com/accounts/d3c5b78fc5241c068da0bd3c6be5d228/media/images/82384main_room.jpg?w=1600&fit=crop&auto=compress,format"
+        ]
+      }
+    },
+    {
+      "id": "king",
+      "name": "King",
+      "area": "SoHo",
+      "vibe": "Muted tones, white tablecloths, a daily-changing menu — neighborhood restaurant and celebration room on King Street.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/king/01.webp",
+          "alt": "King"
+        }
+      ],
+      "website": "https://kingrestaurant.nyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site photo. Official site verified.",
+        "sources": [
+          "https://kingrestaurant.nyc/",
+          "https://images.squarespace-cdn.com/content/v1/57a0c0ac6b8f5bcfaa1327bb/1672158518105-PDAQMG9FBP5M4W98DPJ6/King+Dining+Room+5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "red-hook-tavern",
+      "name": "Red Hook Tavern",
+      "area": "Red Hook",
+      "vibe": "Menus that pay tribute to classic old-school taverns and legendary New York food establishments.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/red-hook-tavern/01.webp",
+          "alt": "Red Hook Tavern"
+        }
+      ],
+      "website": "https://www.redhooktavern.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site patio/oysters. Official site verified.",
+        "sources": [
+          "https://www.redhooktavern.com/",
+          "https://images.squarespace-cdn.com/content/v1/6442aec9db47706856d7d156/eb4fa724-9049-4ca6-b437-422e3bd36a34/Redhook-Tavern-photoshoot-NYStrip.jpg"
+        ]
+      }
+    },
+    {
+      "id": "le-bernardin",
+      "name": "Le Bernardin",
+      "area": "Midtown",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/le-bernardin/01.webp",
+          "alt": "Le Bernardin"
+        }
+      ],
+      "website": "https://www.le-bernardin.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site share image. Official site verified.",
+        "sources": [
+          "https://www.le-bernardin.com/",
+          "http://www.le-bernardin.com/dist/fb-share.jpg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -2159,6 +2619,52 @@
         "sources": [
           "https://www.bluenotejazz.com/newyork",
           "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_Note_%28New_York%29.jpg/1920px-Blue_Note_%28New_York%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "babys-all-right",
+      "name": "Baby's All Right",
+      "area": "Williamsburg",
+      "vibe": "Good drinks and good music on Broadway in Williamsburg — live room, front lounge, and Alligator Lounge.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/babys-all-right/01.webp",
+          "alt": "Baby's All Right"
+        }
+      ],
+      "website": "https://babysallright.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official parties-page dance-floor photo. Official site verified.",
+        "sources": [
+          "https://babysallright.com/",
+          "https://images.squarespace-cdn.com/content/v1/5248d4ece4b0bae68e5c1c11/1424464018546-E465DR1PESJR2N5TT87R/image-4.jpg"
+        ]
+      }
+    },
+    {
+      "id": "tv-eye",
+      "name": "TV Eye",
+      "area": "Ridgewood",
+      "vibe": "A funhaus on the Ridgewood/Bushwick border — bar, music venue, dance club, gallery, and eatery under one roof.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/tv-eye/01.webp",
+          "alt": "TV Eye"
+        }
+      ],
+      "website": "https://tveyenyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch1 2026-09-21. Official site photo. Official site verified.",
+        "sources": [
+          "https://tveyenyc.com/",
+          "https://tveyenyc.com/wp-content/uploads/slider/cache/1fc811bc69004f87af2c0e6fb59cdd90/TV-EYE-Peacock-Room-1.jpg"
         ]
       }
     }
