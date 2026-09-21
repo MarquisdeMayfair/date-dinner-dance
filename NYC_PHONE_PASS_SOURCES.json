@@ -1,0 +1,38 @@
+{
+  "date": {
+    "met": "https://commons.wikimedia.org/wiki/File:Metropolitan_Museum_of_Art_entrance_NYC.JPG",
+    "moma": "https://commons.wikimedia.org/wiki/File:The_Museum_of_Modern_Art,_Manhattan,_New_York_-_panoramio.jpg",
+    "high-line": "https://commons.wikimedia.org/wiki/File:New_York%27s_High_Line_in_March_2025_28_seating_and_planting.jpg",
+    "central-park": "https://commons.wikimedia.org/wiki/File:Bethesda_Fountain_(81527).jpg",
+    "brooklyn-bridge": "OK kept live (already identifiable Brooklyn Bridge)",
+    "guggenheim": "https://commons.wikimedia.org/wiki/File:Solomon_R._Guggenheim_Museum_01.JPG",
+    "top-of-the-rock": "https://commons.wikimedia.org/wiki/File:GE_Building,_Observation_deck,_Top_of_the_Rock_06.JPG",
+    "cloisters": "https://commons.wikimedia.org/wiki/File:The_Cloisters_in_New_York.jpg",
+    "911-memorial": "https://commons.wikimedia.org/wiki/File:National_September_11_Memorial,_World_Trade_Center,_New_York,_New_York_-_Flickr_id_46803181184.jpg",
+    "staten-island-ferry": "https://commons.wikimedia.org/wiki/File:Statue_of_liberty_from_staten_island_ferry.jpg"
+  },
+  "dinner": {
+    "katzs": "https://commons.wikimedia.org/wiki/File:Katz%27s_Deli_Exterior_Night.jpg",
+    "peter-luger": "https://commons.wikimedia.org/wiki/File:Peter_Luger_Steak_House_(Brooklyn,_New_York)_001.jpg",
+    "keens": "https://commons.wikimedia.org/wiki/File:Keens_Steakhouse_(Manhattan,_New_York)_001.jpg",
+    "oyster-bar": "https://commons.wikimedia.org/wiki/File:Grand_Central_Oyster_Bar_%26_Restaurant_(Manhattan,_New_York)_001.jpg",
+    "russ-and-daughters-cafe": "https://commons.wikimedia.org/wiki/File:NYC_-_Russ_%26_Daughters_Cafe_(Oct_2015)_-_01.jpg",
+    "lilia": "STILL WRONG \u2014 no free reusable real photo found",
+    "xian-famous-foods": "STILL WRONG \u2014 Commons only has generic food plates, not storefront/interior ID",
+    "carbone": "https://commons.wikimedia.org/wiki/File:Carbone_Restaurant_Sign.jpg",
+    "johns-of-bleecker": "https://commons.wikimedia.org/wiki/File:John%27s_of_Bleecker_Street_exterior_(01525).jpg",
+    "locanda-verde": "STILL WRONG \u2014 no free reusable identifiable photo found"
+  },
+  "dance": {
+    "house-of-yes": "https://commons.wikimedia.org/wiki/File:A_performance_at_the_House_of_Yes_in_Bushwick,_Brooklyn.jpg",
+    "nowadays": "STILL WRONG \u2014 no free reusable real photo found",
+    "avant-gardner": "https://commons.wikimedia.org/wiki/File:Glass_Animals_-_Brooklyn_Mirage_2022_05.jpg",
+    "webster-hall": "https://commons.wikimedia.org/wiki/File:NYC,_Webster_Hall.jpg",
+    "public-records": "https://commons.wikimedia.org/wiki/File:The_Westerlies_at_Public_Records,_June_2025.jpg",
+    "good-room": "STILL WRONG \u2014 no free reusable real photo found",
+    "le-bain": "STILL WRONG \u2014 no free reusable Le Bain / Standard rooftop club photo found",
+    "brooklyn-bowl": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bowl_bar_61_Wythe_Av_jeh.jpg",
+    "elsewhere": "https://commons.wikimedia.org/wiki/File:Rebecca_Black_Elsewhere_01.jpg",
+    "knockdown-center": "https://commons.wikimedia.org/wiki/File:KdC_main_interior.jpg"
+  }
+}

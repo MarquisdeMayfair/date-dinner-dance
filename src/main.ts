@@ -397,7 +397,7 @@ class Reel {
       const cap = next ? Math.floor(next.top - boxTop) : Math.floor(lines * stride);
       vibe.style.maxHeight = `${Math.max(Math.floor(stride), cap)}px`;
       vibe.style.setProperty("-webkit-line-clamp", String(lines));
-      vibe.style.lineClamp = String(lines);
+      vibe.style.setProperty("line-clamp", String(lines));
     });
   }
 
