@@ -391,6 +391,34 @@
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/platges-de-comte/"
+    },
+    {
+      "id": "cala-mastella",
+      "name": "Cala Mastella",
+      "area": "Santa Eulària",
+      "vibe": "Small, secluded east-coast cove framed by pines and rocks near Sant Carles.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-mastella/01.webp",
+          "alt": "Cala Mastella cove",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-mastella-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-mastella/"
+    },
+    {
+      "id": "cala-carbó",
+      "name": "Cala Carbó",
+      "area": "Sant Josep",
+      "vibe": "Quiet southwest pebble bay near Cala d’Hort with views toward Es Vedrà.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-carbó/01.webp",
+          "alt": "Cala Carbó cove",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-carbo-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-carbo/"
     }
   ],
   "dinner": [
@@ -953,6 +981,116 @@
       "website": "https://nunibiza.com/",
       "instagram": "https://www.instagram.com/nun_ibiza",
       "instagram_followers": 5447
+    },
+    {
+      "id": "es-terral",
+      "name": "Es Terral",
+      "area": "Santa Eulària",
+      "vibe": "Mediterranean ingredients with refined French technique — joy in the simplest things.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/es-terral/01.webp",
+          "alt": "Es Terral cuisine",
+          "remote_url": "https://www.esterral.com/wp-content/uploads/2025/06/2-683x1024.jpg"
+        }
+      ],
+      "website": "https://www.esterral.com/en/",
+      "instagram": "https://www.instagram.com/es_terral_ibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "cas-milà",
+      "name": "Ca's Milà",
+      "area": "Cala Tarida",
+      "vibe": "Beachfront Mediterranean seafood and rice dishes with Cala Tarida sunset views.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cas-milà/01.webp",
+          "alt": "Ca's Milà terrace overlooking Cala Tarida",
+          "remote_url": "https://www.restaurantecasmila.com/upload/ibiza-restaurant-1.jpg"
+        }
+      ],
+      "website": "https://www.restaurantecasmila.com/"
+    },
+    {
+      "id": "juls",
+      "name": "Jul's",
+      "area": "San José",
+      "vibe": "Indoor–outdoor restaurant grounded in produce from its own organic farm on Ibiza.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/juls/01.webp",
+          "alt": "Jul's dining room",
+          "remote_url": "https://julsrestaurant.com/wp-content/uploads/2025/08/Juls25-PX-Mob-new-625x1000.jpg"
+        }
+      ],
+      "website": "https://julsrestaurant.com/",
+      "instagram": "https://www.instagram.com/julsibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "bambino-ibiza",
+      "name": "Bambino Ibiza",
+      "area": "San Antonio",
+      "vibe": "Italian fine dining on the Sunset Strip, with fresh pasta and sunset views over the bay.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bambino-ibiza/01.webp",
+          "alt": "Bambino Ibiza terrace",
+          "remote_url": "https://bambinoibiza.com/wp-content/uploads/2026/06/DSC09080-683x1024.jpg"
+        }
+      ],
+      "website": "https://bambinoibiza.com/",
+      "instagram": "https://www.instagram.com/bambino_ibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "tropicana-ibiza-beach-club",
+      "name": "Tropicana Ibiza Beach Club",
+      "area": "Cala Jondal",
+      "vibe": "Cala Jondal beach club since 1988 serving traditional Ibizan and seafood cuisine.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/tropicana-ibiza-beach-club/01.webp",
+          "alt": "Tropicana Ibiza Beach Club table",
+          "remote_url": "https://www.tropicanaibiza.com/wp-content/uploads/2024/06/DSC01026-683x1024.webp"
+        }
+      ],
+      "website": "https://www.tropicanaibiza.com/en/",
+      "instagram": "https://www.instagram.com/tropicanaibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "el-clo",
+      "name": "El Clo",
+      "area": "San Rafael",
+      "vibe": "A centuries-old house in San Rafael, felt before it is understood — garden dining in a new chapter.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/el-clo/01.webp",
+          "alt": "El Clo garden terrace",
+          "remote_url": "https://elcloibiza.com/wp-content/themes/el-clo-ibiza/assets/images/gallery-garden-terrace.jpg"
+        }
+      ],
+      "website": "https://elcloibiza.com/",
+      "instagram": "https://www.instagram.com/elcloibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "cana-sofía",
+      "name": "Cana Sofía",
+      "area": "Cala Vadella",
+      "vibe": "Traditional Ibizan flavours with haute cuisine at the foot of Cala Vadella since 2002.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cana-sofía/01.webp",
+          "alt": "Cana Sofía dish",
+          "remote_url": "https://canasofia.com/wp-content/uploads/2021/01/cap2.jpg"
+        }
+      ],
+      "website": "https://canasofia.com/",
+      "instagram": "https://www.instagram.com/restaurantecanasofia",
+      "instagram_followers": 0
     }
   ],
   "dance": [
@@ -1249,7 +1387,8 @@
           "license": "unsplash",
           "attribution": "Photo on Unsplash"
         }
-      ]
+      ],
+      "instagram_followers": 0
     },
     {
       "id": "o-beach-ibiza",
@@ -1390,6 +1529,22 @@
       "website": "https://www.theushuaiaexperience.com/club/en",
       "instagram": "https://www.instagram.com/ushuaiaibiza",
       "instagram_followers": 2000000
+    },
+    {
+      "id": "eden-ibiza",
+      "name": "Eden Ibiza",
+      "area": "San Antonio",
+      "vibe": "San Antonio Bay club with Void sound — a global electronic music icon closest to Ibiza’s legendary sunsets.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/eden-ibiza/01.webp",
+          "alt": "Eden Ibiza dancefloor",
+          "remote_url": "https://www.edenibiza.com/wp-content/uploads/2025/02/ryspencephotography-kaluki-eden-388.jpg"
+        }
+      ],
+      "website": "https://www.edenibiza.com/",
+      "instagram": "https://www.instagram.com/eden_ibiza",
+      "instagram_followers": 0
     }
   ]
 }
