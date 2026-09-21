@@ -2807,6 +2807,66 @@
         }
       ],
       "website": "https://www.corsarioibiza.com/en/"
+    },
+    {
+      "id": "sa-caleta",
+      "name": "Restaurant Sa Caleta",
+      "area": "Es Bol Nou",
+      "vibe": "Family-run seaside kitchen at Es Bol Nou since 1988 — traditional seafood, rice dishes and Café Caleta facing the red cliffs.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sa-caleta/01.webp",
+          "alt": "Sa Caleta dining room with diners and seafood service at night",
+          "remote_url": "https://sacaleta.es/wp-content/uploads/2026/07/sacaleta-terraza-noche-2026.webp"
+        }
+      ],
+      "website": "https://sacaleta.es/en/",
+      "instagram": "https://www.instagram.com/sacaletarestaurant"
+    },
+    {
+      "id": "seventeen",
+      "name": "Seventeen Siesta",
+      "area": "Siesta, Santa Eulària",
+      "vibe": "Garden restaurant in the heart of Siesta blending authentic Italian flavours with fusion cooking under lush greenery.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/seventeen/01.webp",
+          "alt": "Seventeen garden terrace table set for two under palms at dusk",
+          "remote_url": "https://seventeen-ibiza.com/wp-content/uploads/2019/06/restaurant_Seventeen_siesta_night_2019-1135-1.jpg"
+        }
+      ],
+      "website": "https://seventeen-ibiza.com/",
+      "instagram": "https://www.instagram.com/seventeen.restaurant.ibiza"
+    },
+    {
+      "id": "higo",
+      "name": "Restaurant Higo",
+      "area": "Santa Eulària",
+      "vibe": "MediterrAsian BBQ in Santa Eulària — Japanese–Peruvian flavours, charcoal table barbecues, yakitori, ceviche and sushi.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/higo/01.webp",
+          "alt": "Higo dining room with cherry blossom tree, marble table and leather chairs",
+          "remote_url": "https://static.wixstatic.com/media/1ae557_3882772661bf46a3ba63aadd23a4a70b~mv2.jpg"
+        }
+      ],
+      "website": "https://www.restauranthigo.com/",
+      "instagram": "https://www.instagram.com/higoibiza"
+    },
+    {
+      "id": "space-eat-and-dance",
+      "name": "Space Eat & Dance",
+      "area": "Sant Antoni Sunset Strip",
+      "vibe": "Mediterranean restaurant, cocktails and live music on Sant Antoni's Sunset Strip with a sea-facing terrace.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/space-eat-and-dance/01.webp",
+          "alt": "Space Eat & Dance waterfront terrace through arched doorway overlooking the bay",
+          "remote_url": "https://www.spaceeatanddance.com/wp-content/uploads/2026/04/foto-de-la-terraza.jpg"
+        }
+      ],
+      "website": "https://www.spaceeatanddance.com/en/",
+      "instagram": "https://www.instagram.com/spaceeatanddance"
     }
   ],
   "dance": [
