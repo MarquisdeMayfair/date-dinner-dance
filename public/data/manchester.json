@@ -831,6 +831,110 @@
         }
       ],
       "website": "https://frogandbucket.com/"
+    },
+    {
+      "id": "stoller-hall",
+      "name": "Stoller Hall",
+      "area": "City Centre",
+      "vibe": "The RIBA award-winning Stoller Hall is a spectacular performance space in the heart of Manchester, hosting a year-round programme of live concerts across a diverse range of genres.",
+      "images": [
+        {
+          "url": "/assets/opt/date/stoller-hall/01.webp",
+          "alt": "Stoller Hall Manchester"
+        }
+      ],
+      "website": "https://stollerhall.com/"
+    },
+    {
+      "id": "halle-st-peters",
+      "name": "Hallé St Peter's",
+      "area": "Ancoats",
+      "vibe": "Situated at the heart of resurgent Ancoats, Hallé St Peter’s is home for the Hallé’s rehearsals and recordings, its choirs and Youth Orchestra — a restored church space for music.",
+      "images": [
+        {
+          "url": "/assets/opt/date/halle-st-peters/01.webp",
+          "alt": "Hallé St Peter's Ancoats"
+        }
+      ],
+      "website": "https://halle.co.uk/venues/halle-st-peters/"
+    },
+    {
+      "id": "halle-at-st-michaels",
+      "name": "Hallé at St Michael's",
+      "area": "Ancoats",
+      "vibe": "A second Ancoats space for the Hallé’s artistic and education activities and community events — historic St Michael’s with a Little Italy heritage plaque.",
+      "images": [
+        {
+          "url": "/assets/opt/date/halle-at-st-michaels/01.webp",
+          "alt": "Hallé at St Michael's Ancoats"
+        }
+      ],
+      "website": "https://halle.co.uk/venues/halle-at-st-michaels/"
+    },
+    {
+      "id": "clayton-hall",
+      "name": "Clayton Hall",
+      "area": "Clayton",
+      "vibe": "Clayton Hall Living History Museum — step back in time with hands-on rooms, winding staircases and costumed Victorians in every corner.",
+      "images": [
+        {
+          "url": "/assets/opt/date/clayton-hall/01.webp",
+          "alt": "Clayton Hall Living History Museum"
+        }
+      ],
+      "website": "https://claytonhall.org/"
+    },
+    {
+      "id": "rhs-garden-bridgewater",
+      "name": "RHS Garden Bridgewater",
+      "area": "Worsley",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/rhs-garden-bridgewater/01.webp",
+          "alt": "RHS Garden Bridgewater Worsley"
+        }
+      ],
+      "website": "https://www.rhs.org.uk/gardens/bridgewater"
+    },
+    {
+      "id": "peel-park",
+      "name": "Peel Park",
+      "area": "Salford",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/peel-park/01.webp",
+          "alt": "Peel Park Salford"
+        }
+      ],
+      "website": "https://www.salford.gov.uk/parks-and-open-spaces/salford-parks/peel-park-salford/"
+    },
+    {
+      "id": "king-street-townhouse",
+      "name": "King Street Townhouse",
+      "area": "City Centre",
+      "vibe": "An iconic Grade II-listed boutique hotel in the heart of Manchester — drawn from the spirit of Italian townhouses, with terrace dining and skyline views.",
+      "images": [
+        {
+          "url": "/assets/opt/date/king-street-townhouse/01.webp",
+          "alt": "King Street Townhouse terrace Manchester"
+        }
+      ],
+      "website": "https://www.kingstreettownhouse.co.uk/"
+    },
+    {
+      "id": "emirates-old-trafford",
+      "name": "Emirates Old Trafford",
+      "area": "Old Trafford",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/emirates-old-trafford/01.webp",
+          "alt": "Emirates Old Trafford cricket ground"
+        }
+      ],
+      "website": "https://www.lancashirecricket.co.uk/"
     }
   ],
   "dinner": [
@@ -1809,6 +1913,162 @@
         }
       ],
       "website": "https://www.offthegridmcr.com/"
+    },
+    {
+      "id": "posie",
+      "name": "Posie",
+      "area": "City Centre",
+      "vibe": "Discover Bar Posie in Manchester offering delicious oysters and sharing plates. Classic and contemporary drinks lead the way with a vibrant atmosphere.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/posie/01.webp",
+          "alt": "Posie Manchester"
+        }
+      ],
+      "website": "https://www.barposie.com/"
+    },
+    {
+      "id": "evoden",
+      "name": "Evoden",
+      "area": "Chorlton",
+      "vibe": "Where soul food and Caribbean dishes collide — Miss Dee’s culinary haven on Beech Road, Chorlton.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/evoden/01.webp",
+          "alt": "Evoden Bar and Kitchen Chorlton"
+        }
+      ],
+      "website": "https://evoden.co.uk/"
+    },
+    {
+      "id": "no4-dine-and-wine",
+      "name": "No.4 Dine & Wine",
+      "area": "Didsbury",
+      "vibe": "No fuss, no hype — we just love food and people. Small, intimate neighbourhood restaurant serving modern English food on cobbled Warburton Street, Didsbury, since 2005.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/no4-dine-and-wine/01.webp",
+          "alt": "No.4 Dine and Wine Didsbury"
+        }
+      ],
+      "website": "https://no4dineandwine.com/"
+    },
+    {
+      "id": "the-trof",
+      "name": "Trof",
+      "area": "Northern Quarter",
+      "vibe": "Since 2003, 8 Thomas Street has been home to Trof — a Northern Quarter staple and independent pub and dining room for seasonal British dishes and evening drinks.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-trof/01.webp",
+          "alt": "Trof Northern Quarter Manchester"
+        }
+      ],
+      "website": "https://www.trof.co.uk/"
+    },
+    {
+      "id": "great-kathmandu",
+      "name": "Great Kathmandu",
+      "area": "West Didsbury",
+      "vibe": "West Didsbury’s award-winning Nepalese and Indian restaurant — family-run since 1986 with forty years of momo, tandoor cooking and hospitality on Burton Road.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/great-kathmandu/01.webp",
+          "alt": "Great Kathmandu West Didsbury"
+        }
+      ],
+      "website": "https://www.greatkathmandu.com/"
+    },
+    {
+      "id": "pasta-factory",
+      "name": "The Pasta Factory",
+      "area": "Northern Quarter",
+      "vibe": "Fresh pasta is simply a return to our basics — authentic Italian piatti di pasta made with the freshest, all-natural ingredients on Shudehill.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/pasta-factory/01.webp",
+          "alt": "The Pasta Factory Manchester"
+        }
+      ],
+      "website": "https://pastafactory.co.uk/"
+    },
+    {
+      "id": "thai-kitchen-no-6",
+      "name": "Thai Kitchen No.6",
+      "area": "City Centre",
+      "vibe": "Freshly cooked, authentic Thai food, simply and professionally served in Manchester city centre.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/thai-kitchen-no-6/01.webp",
+          "alt": "Thai Kitchen No.6 Manchester"
+        }
+      ],
+      "website": "https://www.thaikitchenno6.co.uk/"
+    },
+    {
+      "id": "beeswing",
+      "name": "The Beeswing",
+      "area": "Kampus",
+      "vibe": "Tapas and wine bar in Manchester’s garden neighbourhood — Spanish cuisine and sharing plates at Kampus near Piccadilly.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/beeswing/01.webp",
+          "alt": "The Beeswing Kampus Manchester"
+        }
+      ],
+      "website": "https://www.beeswingwine.co.uk/"
+    },
+    {
+      "id": "mary-and-archie",
+      "name": "Mary & Archie",
+      "area": "Chorlton",
+      "vibe": "Your local independent — brunch to dinner dining with locally brewed beers and cocktails. Family-owned in Chorlton since 2016.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/mary-and-archie/01.webp",
+          "alt": "Mary and Archie Chorlton"
+        }
+      ],
+      "website": "https://maryandarchie.co.uk/"
+    },
+    {
+      "id": "try-thai",
+      "name": "Try Thai",
+      "area": "Chinatown",
+      "vibe": "Authentic Thai restaurant on Faulkner Street in Manchester’s Chinatown — a relaxing, unpretentious meal with outstanding atmosphere.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/try-thai/01.webp",
+          "alt": "Try Thai Chinatown Manchester"
+        }
+      ],
+      "website": "https://trythai.com/"
+    },
+    {
+      "id": "tariff-and-dale",
+      "name": "Tariff & Dale",
+      "area": "Northern Quarter",
+      "vibe": "Established 2015 — bar and restaurant on Tariff Street serving classic cocktails, British beers, modern British food from the grill and sourdough pizza from a wood oven.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/tariff-and-dale/01.webp",
+          "alt": "Tariff and Dale Northern Quarter"
+        }
+      ],
+      "website": "http://tariffanddale.com/"
+    },
+    {
+      "id": "lead-station",
+      "name": "The Lead Station",
+      "area": "Chorlton",
+      "vibe": "A Chorlton institution since 1995 — restaurant and bar serving honest classic and innovative food and drink to fiercely loyal locals on Beech Road.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/lead-station/01.webp",
+          "alt": "The Lead Station Chorlton"
+        }
+      ],
+      "website": "http://theleadstation.co.uk/"
     }
   ],
   "dance": [
