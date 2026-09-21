@@ -1174,6 +1174,1202 @@
           "https://socratessculpturepark.org/wp-content/uploads/2026/06/header-links-1.jpg"
         ]
       }
+    },
+    {
+      "id": "museum-of-arts-design",
+      "name": "Museum of Arts and Design",
+      "area": "Columbus Circle",
+      "vibe": "On Columbus Circle — new ways of experiencing and telling stories about craft, art, and design.",
+      "images": [
+        {
+          "url": "/assets/opt/date/museum-of-arts-design/01.webp",
+          "alt": "Museum of Arts and Design"
+        }
+      ],
+      "website": "https://madmuseum.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official hero. Official site verified.",
+        "sources": [
+          "https://madmuseum.org/",
+          "https://madmuseum.org/sites/default/files/styles/page_hero/public/2019/11/0K7A9820.jpg"
+        ]
+      }
+    },
+    {
+      "id": "museum-of-sex",
+      "name": "Museum of Sex",
+      "area": "Flatiron",
+      "vibe": "The world’s foremost museum of the cultural significance of human sexuality — exhibitions and Super Funland.",
+      "images": [
+        {
+          "url": "/assets/opt/date/museum-of-sex/01.webp",
+          "alt": "Museum of Sex"
+        }
+      ],
+      "website": "https://www.museumofsex.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official visit photo. Official site verified.",
+        "sources": [
+          "https://www.museumofsex.com/",
+          "https://www.museumofsex.com/wp-content/uploads/2022/10/visit-museum-of-sex-nyc.jpg"
+        ]
+      }
+    },
+    {
+      "id": "museum-moving-image",
+      "name": "Museum of the Moving Image",
+      "area": "Astoria",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/museum-moving-image/01.webp",
+          "alt": "Museum of the Moving Image"
+        }
+      ],
+      "website": "https://movingimage.us/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official social/og. Official site verified.",
+        "sources": [
+          "https://movingimage.us/",
+          "https://movingimage.org/wp-content/uploads/2021/04/momi_socialb4.jpg"
+        ]
+      }
+    },
+    {
+      "id": "spyscape",
+      "name": "SPYSCAPE",
+      "area": "Midtown",
+      "vibe": "Interactive spy experiences — test real spy skills developed with intelligence experts.",
+      "images": [
+        {
+          "url": "/assets/opt/date/spyscape/01.webp",
+          "alt": "SPYSCAPE"
+        }
+      ],
+      "website": "https://spyscape.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official briefing room. Official site verified.",
+        "sources": [
+          "https://spyscape.com/",
+          "https://asset-cache.spyscape.com/5c0e988989879695ede9d753/682489ef5e9db67f706b1ea4_Spyscapehomebriefingroom-051325-ezgif.com-gif-to-webp-converter.webp"
+        ]
+      }
+    },
+    {
+      "id": "madison-square-park",
+      "name": "Madison Square Park",
+      "area": "Flatiron",
+      "vibe": "Madison Square Park is both an intimate public park and international destination, operated and funded by Madison Square Park",
+      "images": [
+        {
+          "url": "/assets/opt/date/madison-square-park/01.webp",
+          "alt": "Madison Square Park"
+        }
+      ],
+      "website": "https://www.madisonsquarepark.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official park wideshot. Official site verified.",
+        "sources": [
+          "https://www.madisonsquarepark.org/",
+          "https://madisonsquarepark.org/wp-content/uploads/2021/04/wideshot_flatiron_may_2020-1-e1617310212705.jpg"
+        ]
+      }
+    },
+    {
+      "id": "hudson-river-park",
+      "name": "Hudson River Park",
+      "area": "West Side",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/hudson-river-park/01.webp",
+          "alt": "Hudson River Park"
+        }
+      ],
+      "website": "https://hudsonriverpark.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official park photo. Official site verified.",
+        "sources": [
+          "https://hudsonriverpark.org/",
+          "https://hudsonriverpark.org/app/uploads/2026/09/IMG_1559_DxO-2-1440x960.jpg"
+        ]
+      }
+    },
+    {
+      "id": "pier-57",
+      "name": "Pier 57",
+      "area": "Hudson River Park",
+      "vibe": "Located in Hudson River Park, Pier 57 is a culinary, recreational, and educational destination that celebrates the vitality of New York City and its diverse local",
+      "images": [
+        {
+          "url": "/assets/opt/date/pier-57/01.webp",
+          "alt": "Pier 57"
+        }
+      ],
+      "website": "https://pier57nyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official Pier 57 photo. Official site verified.",
+        "sources": [
+          "https://pier57nyc.com/",
+          "https://pier57nyc.com/wp-content/uploads/2023/10/Pier-57-20230921-01.jpg"
+        ]
+      }
+    },
+    {
+      "id": "fort-tryon",
+      "name": "Fort Tryon Park",
+      "area": "Washington Heights",
+      "vibe": "The Fort Tryon Park Conservancy’s mission is to restore, preserve, and enhance this historic and scenic landmark for the benefit and use of the surrounding community and all…",
+      "images": [
+        {
+          "url": "/assets/opt/date/fort-tryon/01.webp",
+          "alt": "Fort Tryon Park"
+        }
+      ],
+      "website": "https://www.forttryonparktrust.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official park view. Official site verified.",
+        "sources": [
+          "https://www.forttryonparktrust.org/",
+          "https://forttryonpark.org/wp-content/uploads/2020/02/Palisades-view_Palma-1920.jpg"
+        ]
+      }
+    },
+    {
+      "id": "riverside-park",
+      "name": "Riverside Park",
+      "area": "Upper West Side",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/riverside-park/01.webp",
+          "alt": "Riverside Park"
+        }
+      ],
+      "website": "https://riversideparknyc.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official slider. Official site verified.",
+        "sources": [
+          "https://riversideparknyc.org/",
+          "https://riversideparknyc.org/wp-content/uploads/2024/12/slider1-image-back.jpg"
+        ]
+      }
+    },
+    {
+      "id": "washington-square",
+      "name": "Washington Square Park",
+      "area": "Greenwich Village",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/washington-square/01.webp",
+          "alt": "Washington Square Park"
+        }
+      ],
+      "website": "https://www.nycgovparks.org/parks/washington-square-park",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Wikimedia Commons arch. Official site verified.",
+        "sources": [
+          "https://www.nycgovparks.org/parks/washington-square-park",
+          "https://upload.wikimedia.org/wikipedia/commons/b/bf/Washington_Square_Arch%2C_New_York.jpg"
+        ]
+      }
+    },
+    {
+      "id": "the-strand",
+      "name": "The Strand",
+      "area": "East Village",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/the-strand/01.webp",
+          "alt": "The Strand"
+        }
+      ],
+      "website": "https://www.strandbooks.com/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Wikimedia Commons storefront. Official site verified.",
+        "sources": [
+          "https://www.strandbooks.com/",
+          "https://upload.wikimedia.org/wikipedia/commons/f/fb/Strand_Bookstore.jpg"
+        ]
+      }
+    },
+    {
+      "id": "apollo",
+      "name": "Apollo Theater",
+      "area": "Harlem",
+      "vibe": "Welcome to the Apollo Theater and join us to celebrate 90 years of music, art and theater at the Soul of American Culture on 125th Street of Harlem,",
+      "images": [
+        {
+          "url": "/assets/opt/date/apollo/01.webp",
+          "alt": "Apollo Theater"
+        }
+      ],
+      "website": "https://www.apollotheater.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official opengraph. Official site verified.",
+        "sources": [
+          "https://www.apollotheater.org/",
+          "https://cdn.prod.website-files.com/66149f879619e045e04cf320/664cc953b3dd734274ec1d37_Opengraph.jpg"
+        ]
+      }
+    },
+    {
+      "id": "beacon",
+      "name": "Beacon Theatre",
+      "area": "Upper West Side",
+      "vibe": "The Beacon Theatre in NYC offers historic surroundings. Enjoy unparalleled experiences at the Beacon Theatre a landmark venue on the Upper West",
+      "images": [
+        {
+          "url": "/assets/opt/date/beacon/01.webp",
+          "alt": "Beacon Theatre"
+        }
+      ],
+      "website": "https://www.msg.com/beacon-theatre",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official MSG venue photo. Official site verified.",
+        "sources": [
+          "https://www.msg.com/beacon-theatre",
+          "https://assets.msg.com/vlp/images/Beacon-Theatre.jpg"
+        ]
+      }
+    },
+    {
+      "id": "radio-city",
+      "name": "Radio City Music Hall",
+      "area": "Midtown",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/radio-city/01.webp",
+          "alt": "Radio City Music Hall"
+        }
+      ],
+      "website": "https://www.msg.com/radio-city-music-hall",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official MSG venue photo. Official site verified.",
+        "sources": [
+          "https://www.msg.com/radio-city-music-hall",
+          "https://assets.msg.com/vlp/images/Radio-City-Music-Hall.jpg"
+        ]
+      }
+    },
+    {
+      "id": "alice-austen",
+      "name": "Alice Austen House",
+      "area": "Staten Island",
+      "vibe": "Welcome to The Alice Austen House The Alice Austen House fosters creative expression, explores personal identity, and educates and inspires the public through the…",
+      "images": [
+        {
+          "url": "/assets/opt/date/alice-austen/01.webp",
+          "alt": "Alice Austen House"
+        }
+      ],
+      "website": "https://aliceausten.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official site photo. Official site verified.",
+        "sources": [
+          "https://aliceausten.org/",
+          "https://i0.wp.com/aliceausten.org/wp-content/uploads/2024/04/Screen-Shot-2024-04-12-at-12.51.24-PM.png?fit=1200%2C964&ssl=1"
+        ]
+      }
+    },
+    {
+      "id": "studio-museum",
+      "name": "Studio Museum in Harlem",
+      "area": "Harlem",
+      "vibe": "The nexus for artists of African descent — locally, nationally, and internationally.",
+      "images": [
+        {
+          "url": "/assets/opt/date/studio-museum/01.webp",
+          "alt": "Studio Museum in Harlem"
+        }
+      ],
+      "website": "https://studiomuseum.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official og image. Official site verified.",
+        "sources": [
+          "https://studiomuseum.org/",
+          "https://studiomuseum.imgix.net/images/DreamsofThisFuture_InstallationView_2.jpg?auto=format,compress&fit=max&w=2000"
+        ]
+      }
+    },
+    {
+      "id": "el-museo",
+      "name": "El Museo del Barrio",
+      "area": "East Harlem",
+      "vibe": "El Museo del Barrio, founded in 1969, is the nation's leading Latine/o cultural institution created to present and preserve the art and culture of Puerto Ricans and all",
+      "images": [
+        {
+          "url": "/assets/opt/date/el-museo/01.webp",
+          "alt": "El Museo del Barrio"
+        }
+      ],
+      "website": "https://www.elmuseo.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.elmuseo.org/",
+          "https://elmuseo.org/wp-content/uploads/2023/02/el-museo-del-barrio-1969.jpg"
+        ]
+      }
+    },
+    {
+      "id": "nysci",
+      "name": "New York Hall of Science",
+      "area": "Flushing",
+      "vibe": "New Yorkers have a way of never being satisfied with the status quo. For us, science is about re-thinking, re-inventing, questioning everything and chasing",
+      "images": [
+        {
+          "url": "/assets/opt/date/nysci/01.webp",
+          "alt": "New York Hall of Science"
+        }
+      ],
+      "website": "https://nysci.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://nysci.org/",
+          "https://nysci.org/media/Home.jpg"
+        ]
+      }
+    },
+    {
+      "id": "snug-harbor",
+      "name": "Snug Harbor Cultural Center & Botanical Garden",
+      "area": "Staten Island",
+      "vibe": "Snug Harbor Cultural Center & Botanical Garden — an 83-acre campus on Staten Island featuring museums, gardens, arts education,",
+      "images": [
+        {
+          "url": "/assets/opt/date/snug-harbor/01.webp",
+          "alt": "Snug Harbor Cultural Center & Botanical Garden"
+        }
+      ],
+      "website": "https://snug-harbor.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://snug-harbor.org/",
+          "https://snug-harbor.org/wp-content/uploads/2025/11/image-107.png"
+        ]
+      }
+    },
+    {
+      "id": "new-york-aquarium",
+      "name": "New York Aquarium",
+      "area": "Coney Island",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/new-york-aquarium/01.webp",
+          "alt": "New York Aquarium"
+        }
+      ],
+      "website": "https://nyaquarium.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://nyaquarium.com/",
+          "https://cdn.wcs.org/2022/05/23/158ytm0u1j_Julie_Larsen_Maher_8737_Giant_Pacific_Octopus_SPI_AQ_02_04_20_2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "central-park-zoo",
+      "name": "Central Park Zoo",
+      "area": "Central Park",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/central-park-zoo/01.webp",
+          "alt": "Central Park Zoo"
+        }
+      ],
+      "website": "https://centralparkzoo.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://centralparkzoo.com/",
+          "https://cdn.wcs.org/2022/05/23/5s4dgabnts_Julie_Larsen_Maher_7386_California_Sea_Lions_with_Visitors_CPZ_08_15_19_2x.jpg"
+        ]
+      }
+    },
+    {
+      "id": "prospect-park-zoo",
+      "name": "Prospect Park Zoo",
+      "area": "Prospect Park",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/prospect-park-zoo/01.webp",
+          "alt": "Prospect Park Zoo"
+        }
+      ],
+      "website": "https://prospectparkzoo.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://prospectparkzoo.com/",
+          "https://cdn.wcs.org/2022/05/23/7pyaa684xo_Julie_Larsen_Maher_2297_North_American_River_Otters_PPZ_04_07_21_1_2x.jpg"
+        ]
+      }
+    },
+    {
+      "id": "brooklyn-childrens",
+      "name": "Brooklyn Children's Museum",
+      "area": "Crown Heights",
+      "vibe": "A place of firsts—providing formative cultural experiences",
+      "images": [
+        {
+          "url": "/assets/opt/date/brooklyn-childrens/01.webp",
+          "alt": "Brooklyn Children's Museum"
+        }
+      ],
+      "website": "https://www.brooklynkids.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.brooklynkids.org/",
+          "https://www.brooklynkids.org/wp-content/uploads/2026/01/Used-6.2025_Animal-Encounters-2023-web-res-photo-credit-Winston-Williams-Brooklyn-Childrens-Museum-004-1400x934.jpg"
+        ]
+      }
+    },
+    {
+      "id": "transit-museum",
+      "name": "New York Transit Museum",
+      "area": "Downtown Brooklyn",
+      "vibe": "Founded in 1976, the New York Transit Museum is dedicated to preserving and sharing the stories of New York’s",
+      "images": [
+        {
+          "url": "/assets/opt/date/transit-museum/01.webp",
+          "alt": "New York Transit Museum"
+        }
+      ],
+      "website": "https://www.nytransitmuseum.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.nytransitmuseum.org/",
+          "https://www.nytransitmuseum.org/wp-content/uploads/2025/10/menu-experience-1.webp"
+        ]
+      }
+    },
+    {
+      "id": "skyscraper-museum",
+      "name": "The Skyscraper Museum",
+      "area": "Battery Park City",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/skyscraper-museum/01.webp",
+          "alt": "The Skyscraper Museum"
+        }
+      ],
+      "website": "https://www.skyscraper.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.skyscraper.org/",
+          "https://skyscraper.org/wordpress/wp-content/uploads/2019/07/Skyscraper-Museum-Gallery-Interior-View.jpg"
+        ]
+      }
+    },
+    {
+      "id": "seaport-museum",
+      "name": "South Street Seaport Museum",
+      "area": "South Street Seaport",
+      "vibe": "A cultural institution located in South Street Seaport Historic District. Dedicated to telling the story of Where New",
+      "images": [
+        {
+          "url": "/assets/opt/date/seaport-museum/01.webp",
+          "alt": "South Street Seaport Museum"
+        }
+      ],
+      "website": "https://southstreetseaportmuseum.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://southstreetseaportmuseum.org/",
+          "https://southstreetseaportmuseum.org/wp-content/uploads/2026/05/POL_digitalimages_20260420_v5_4to5-819x1024.jpg"
+        ]
+      }
+    },
+    {
+      "id": "museum-jewish-heritage",
+      "name": "Museum of Jewish Heritage",
+      "area": "Battery Park City",
+      "vibe": "The Museum of Jewish Heritage – A Living Memorial to the Holocaust is New York's Holocaust Museum. It focuses on Jewish life before, during, and after",
+      "images": [
+        {
+          "url": "/assets/opt/date/museum-jewish-heritage/01.webp",
+          "alt": "Museum of Jewish Heritage"
+        }
+      ],
+      "website": "https://mjhnyc.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://mjhnyc.org/",
+          "https://d3k74ww17vqc8e.cloudfront.net/app/uploads/2022/01/10113252/MG_6177_MuseumExterior_Sprng-2017_hi-res.jpg"
+        ]
+      }
+    },
+    {
+      "id": "nmai-ny",
+      "name": "National Museum of the American Indian",
+      "area": "Bowling Green",
+      "vibe": "The NMAI fosters a richer shared human experience through a more informed understanding of",
+      "images": [
+        {
+          "url": "/assets/opt/date/nmai-ny/01.webp",
+          "alt": "National Museum of the American Indian"
+        }
+      ],
+      "website": "https://americanindian.si.edu/visit/newyork",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://americanindian.si.edu/visit/newyork",
+          "https://americanindian.si.edu/img/visit/newyork/NMAI-NY-Museum-Exterior-1400x500-005.jpg"
+        ]
+      }
+    },
+    {
+      "id": "federal-hall",
+      "name": "Federal Hall National Memorial",
+      "area": "Financial District",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/federal-hall/01.webp",
+          "alt": "Federal Hall National Memorial"
+        }
+      ],
+      "website": "https://www.nps.gov/feha/index.htm",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.nps.gov/feha/index.htm",
+          "https://www.nps.gov/common/uploads/structured_data/3C855D19-1DD8-B71B-0B2AF1FAF9721319.jpg?width=990&height=742&mode=crop&quality=90"
+        ]
+      }
+    },
+    {
+      "id": "st-patricks",
+      "name": "St. Patrick's Cathedral",
+      "area": "Midtown",
+      "vibe": "St. Patrick's Cathedral, known as \"America's Parish Church\", is the largest Roman Catholic cathedral in the United States! This Neo-Gothic-style cathedral graces the",
+      "images": [
+        {
+          "url": "/assets/opt/date/st-patricks/01.webp",
+          "alt": "St. Patrick's Cathedral"
+        }
+      ],
+      "website": "https://saintpatrickscathedral.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://saintpatrickscathedral.org/",
+          "https://files.ecatholic.com/6783/pictures/2026/2/Photo%201.jpg?t=1770436819000"
+        ]
+      }
+    },
+    {
+      "id": "flushing-meadows",
+      "name": "Flushing Meadows Corona Park",
+      "area": "Queens",
+      "vibe": "Home of the Unisphere — a vast Queens park of lakes, museums, and open",
+      "images": [
+        {
+          "url": "/assets/opt/date/flushing-meadows/01.webp",
+          "alt": "Flushing Meadows Corona Park"
+        }
+      ],
+      "website": "https://www.nycgovparks.org/parks/flushing-meadows-corona-park",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.nycgovparks.org/parks/flushing-meadows-corona-park",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Flushing_Meadows_Corona_Park_Unisphere_001.jpg/1920px-Flushing_Meadows_Corona_Park_Unisphere_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "queens-museum",
+      "name": "Queens Museum",
+      "area": "Flushing",
+      "vibe": "Located in Flushing Meadows Corona Park, the Queens Museum is a home for the production and presentation of great art, intimately connected to our community and to the",
+      "images": [
+        {
+          "url": "/assets/opt/date/queens-museum/01.webp",
+          "alt": "Queens Museum"
+        }
+      ],
+      "website": "https://queensmuseum.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://queensmuseum.org/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Flushing_Meadows_Fair_Grounds_td_%282018-05-26%29_005_-_Queens_Museum.jpg/1920px-Flushing_Meadows_Fair_Grounds_td_%282018-05-26%29_005_-_Queens_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "bronx-zoo",
+      "name": "Bronx Zoo",
+      "area": "Bronx",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/bronx-zoo/01.webp",
+          "alt": "Bronx Zoo"
+        }
+      ],
+      "website": "https://bronxzoo.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://bronxzoo.com/",
+          "https://cdn.wcs.org/2022/05/23/2439zohzq4_76768945_200ee080_6772_11ea_99f1_23346ee95a58.jpg"
+        ]
+      }
+    },
+    {
+      "id": "bronx-museum",
+      "name": "Bronx Museum of the Arts",
+      "area": "South Bronx",
+      "vibe": "The Bronx Museum of the Arts is a contemporary art museum that connects diverse audiences to the urban experience through its permanent collection, special exhibitions,",
+      "images": [
+        {
+          "url": "/assets/opt/date/bronx-museum/01.webp",
+          "alt": "Bronx Museum of the Arts"
+        }
+      ],
+      "website": "https://www.bronxmuseum.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.bronxmuseum.org/",
+          "https://bronxmuseum.org/wp-content/uploads/2024/06/Bronx-Museum-of-the-Arts-05-C-Norman-McGrath-copy-scaled.jpg"
+        ]
+      }
+    },
+    {
+      "id": "louis-armstrong-house",
+      "name": "Louis Armstrong House Museum",
+      "area": "Corona",
+      "vibe": "Celebrating the life and work of jazz legend Louis Armstrong. Located in his historic Queens, New York City home. Daily tours, outdoor concerts, group tours,",
+      "images": [
+        {
+          "url": "/assets/opt/date/louis-armstrong-house/01.webp",
+          "alt": "Louis Armstrong House Museum"
+        }
+      ],
+      "website": "https://www.louisarmstronghouse.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.louisarmstronghouse.org/",
+          "https://lahm.sfo3.digitaloceanspaces.com/wp-content/uploads/2025/12/31160947/1987_14_3690.jpg"
+        ]
+      }
+    },
+    {
+      "id": "city-center",
+      "name": "New York City Center",
+      "area": "Midtown",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/city-center/01.webp",
+          "alt": "New York City Center"
+        }
+      ],
+      "website": "https://www.nycitycenter.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.nycitycenter.org/",
+          "https://images.baskercdn.com/nycitycenter/media/Building%20Front-Crop.jpg"
+        ]
+      }
+    },
+    {
+      "id": "town-hall",
+      "name": "The Town Hall",
+      "area": "Midtown",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/town-hall/01.webp",
+          "alt": "The Town Hall"
+        }
+      ],
+      "website": "https://www.thetownhall.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.thetownhall.org/",
+          "https://townhall-assets.nyc3.digitaloceanspaces.com/wp-content/uploads/2024/04/20240203_087_heresthething_by_sachynmital_web.jpg"
+        ]
+      }
+    },
+    {
+      "id": "st-anns-warehouse",
+      "name": "St. Ann's Warehouse",
+      "area": "Dumbo",
+      "vibe": "St. Ann's Warehouse is where theater meets rock 'n roll. Located on the Brooklyn waterfront, St. Ann's is a leader in",
+      "images": [
+        {
+          "url": "/assets/opt/date/st-anns-warehouse/01.webp",
+          "alt": "St. Ann's Warehouse"
+        }
+      ],
+      "website": "https://stannswarehouse.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://stannswarehouse.org/",
+          "https://stannswarehouse.org/wp-content/uploads/2026/02/saw_yoast.png"
+        ]
+      }
+    },
+    {
+      "id": "merchants-house",
+      "name": "Merchant's House Museum",
+      "area": "NoHo",
+      "vibe": "Life at Home in Mid-19th Century New",
+      "images": [
+        {
+          "url": "/assets/opt/date/merchants-house/01.webp",
+          "alt": "Merchant's House Museum"
+        }
+      ],
+      "website": "https://merchantshouse.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://merchantshouse.org/",
+          "https://merchantshouse.org/wp-content/uploads/2026/03/Website-Cover-Touhey-Passage.jpg"
+        ]
+      }
+    },
+    {
+      "id": "grants-tomb",
+      "name": "General Grant National Memorial",
+      "area": "Morningside Heights",
+      "vibe": "The final resting place of President Ulysses S. Grant and his wife, Julia, is the largest mausoleum in North America. It testifies to a people’s gratitude for the man who",
+      "images": [
+        {
+          "url": "/assets/opt/date/grants-tomb/01.webp",
+          "alt": "General Grant National Memorial"
+        }
+      ],
+      "website": "https://www.nps.gov/gegr/index.htm",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.nps.gov/gegr/index.htm",
+          "https://www.nps.gov/common/uploads/banner_image/ner/homepage/2E54A636-1DD8-B71B-0B57FF3E4BCE76A5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "hamilton-grange",
+      "name": "Hamilton Grange National Memorial",
+      "area": "Hamilton Heights",
+      "vibe": "Merchant’s clerk, Revolutionary War soldier, first Secretary Treasury of the United States: Alexander Hamilton’s life is memorialized at The Grange, the home he built on",
+      "images": [
+        {
+          "url": "/assets/opt/date/hamilton-grange/01.webp",
+          "alt": "Hamilton Grange National Memorial"
+        }
+      ],
+      "website": "https://www.nps.gov/hagr/index.htm",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.nps.gov/hagr/index.htm",
+          "https://www.nps.gov/common/uploads/banner_image/ner/homepage/5963FD39-1DD8-B71B-0B3A510B44184717.jpg"
+        ]
+      }
+    },
+    {
+      "id": "morris-jumel",
+      "name": "Morris-Jumel Mansion",
+      "area": "Washington Heights",
+      "vibe": "The Morris-Jumel Mansion is one of the nation’s foremost historic house museums and Manhattan’s oldest",
+      "images": [
+        {
+          "url": "/assets/opt/date/morris-jumel/01.webp",
+          "alt": "Morris-Jumel Mansion"
+        }
+      ],
+      "website": "https://www.morrisjumel.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.morrisjumel.org/",
+          "https://morrisjumel.org/wp-content/uploads/homepages//mjm-drone-0940-2048x1145.jpg"
+        ]
+      }
+    },
+    {
+      "id": "african-burial-ground",
+      "name": "African Burial Ground National Monument",
+      "area": "Civic Center",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/african-burial-ground/01.webp",
+          "alt": "African Burial Ground National Monument"
+        }
+      ],
+      "website": "https://www.nps.gov/afbg/index.htm",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.nps.gov/afbg/index.htm",
+          "https://www.nps.gov/common/uploads/banner_image/ner/homepage/88D87D8C-1DD8-B71B-0B492C15143C61B7.jpg"
+        ]
+      }
+    },
+    {
+      "id": "four-freedoms",
+      "name": "Franklin D. Roosevelt Four Freedoms Park",
+      "area": "Roosevelt Island",
+      "vibe": "Four Freedoms Park Conservancy is a non-profit organization that programs Franklin D. Roosevelt Four Freedoms State Park on",
+      "images": [
+        {
+          "url": "/assets/opt/date/four-freedoms/01.webp",
+          "alt": "Franklin D. Roosevelt Four Freedoms Park"
+        }
+      ],
+      "website": "https://www.fdrfourfreedomspark.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.fdrfourfreedomspark.org/",
+          "https://www.fdrfourfreedomspark.org/wp-content/uploads/2021/11/FFPC-Social-Image-1024x538.jpg"
+        ]
+      }
+    },
+    {
+      "id": "gantry-plaza",
+      "name": "Gantry Plaza State Park",
+      "area": "Long Island City",
+      "vibe": "Brace yourself for the views of mid-town Manhattan! This riverfront park sits front and center across the water from the United Nations. Enjoy",
+      "images": [
+        {
+          "url": "/assets/opt/date/gantry-plaza/01.webp",
+          "alt": "Gantry Plaza State Park"
+        }
+      ],
+      "website": "https://parks.ny.gov/parks/gantryplaza",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://parks.ny.gov/parks/gantryplaza",
+          "https://parks.ny.gov/sites/default/files/styles/large/public/2025-10/Gantry_081524-38.jpg.webp?itok=ModK8hdt"
+        ]
+      }
+    },
+    {
+      "id": "hall-des-lumieres",
+      "name": "Hall des Lumières",
+      "area": "Financial District",
+      "vibe": "Host an unforgettable private event at Hall des Lumières, a luxury event venue in New York City offering immersive spaces for",
+      "images": [
+        {
+          "url": "/assets/opt/date/hall-des-lumieres/01.webp",
+          "alt": "Hall des Lumières"
+        }
+      ],
+      "website": "https://www.halldeslumieres.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.halldeslumieres.com/",
+          "https://www.halldeslumieres.com/sites/hall-lumieres/files/styles/ce_key_figures_mobile/public/2026-06/couper_event_klimt.jpg.avif?itok=uisEImxN"
+        ]
+      }
+    },
+    {
+      "id": "dyckman-farmhouse",
+      "name": "Dyckman Farmhouse Museum",
+      "area": "Inwood",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/dyckman-farmhouse/01.webp",
+          "alt": "Dyckman Farmhouse Museum"
+        }
+      ],
+      "website": "https://dyckmanfarmhouse.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://dyckmanfarmhouse.org/",
+          "https://dyckmanfarmhouse.org/wp-content/uploads/2026/08/July-Sept.jpg"
+        ]
+      }
+    },
+    {
+      "id": "tompkins-square",
+      "name": "Tompkins Square Park",
+      "area": "East Village",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/tompkins-square/01.webp",
+          "alt": "Tompkins Square Park"
+        }
+      ],
+      "website": "https://www.nycgovparks.org/parks/tompkins-square-park",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.nycgovparks.org/parks/tompkins-square-park",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/%27Temperance%27_--_Henry_Cogswell_Temperance_Monument_in_Tompkins_Square_New_York_%28NY%29_April_2016_%2826586511682%29.jpg/1920px-%27Temperance%27_--_Henry_Cogswell_Temperance_Monument_in_Tompkins_Square_New_York_%28NY%29_April_2016_%2826586511682%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "inwood-hill",
+      "name": "Inwood Hill Park",
+      "area": "Inwood",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/inwood-hill/01.webp",
+          "alt": "Inwood Hill Park"
+        }
+      ],
+      "website": "https://www.nycgovparks.org/parks/inwood-hill-park",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.nycgovparks.org/parks/inwood-hill-park",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Inwood_Hill_Park_td_%282019-04-27%29_011.jpg/1920px-Inwood_Hill_Park_td_%282019-04-27%29_011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "bam",
+      "name": "BAM",
+      "area": "Fort Greene",
+      "vibe": "BAM (Brooklyn Academy of Music) is a multi-arts center located in Brooklyn, New York.  For more than 150 years, BAM has been the home for adventurous artists, audiences,",
+      "images": [
+        {
+          "url": "/assets/opt/date/bam/01.webp",
+          "alt": "BAM"
+        }
+      ],
+      "website": "https://www.bam.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch6 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.bam.org/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/BAM_Peter_Jay_Sharp_Building.jpg/1920px-BAM_Peter_Jay_Sharp_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "joyce-theater",
+      "name": "The Joyce Theater",
+      "area": "Chelsea",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/joyce-theater/01.webp",
+          "alt": "The Joyce Theater"
+        }
+      ],
+      "website": "https://www.joyce.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch6 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.joyce.org/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Eighth_Avenue_Night_%2850512948052%29.jpg/1920px-Eighth_Avenue_Night_%2850512948052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "mccarren-park",
+      "name": "McCarren Park",
+      "area": "Williamsburg",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/mccarren-park/01.webp",
+          "alt": "McCarren Park"
+        }
+      ],
+      "website": "https://www.nycgovparks.org/parks/mccarren-park",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch6 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.nycgovparks.org/parks/mccarren-park",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/McCarren_Play_Ctr_entry_jeh.jpg/1920px-McCarren_Play_Ctr_entry_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -2344,6 +3540,1225 @@
           "https://images.squarespace-cdn.com/content/v1/65b9a8caa67cf220bc4d2ac0/a2a4dfb6-73a0-4def-b0ae-435400852b2c/20221218_Cervos_40.jpg"
         ]
       }
+    },
+    {
+      "id": "the-grill",
+      "name": "The Grill",
+      "area": "Midtown",
+      "vibe": "A Mid-Century New York chophouse by Mario Carbone, Rich Torrisi and Jeff Zalaznick in the Seagram Building.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-grill/01.webp",
+          "alt": "The Grill"
+        }
+      ],
+      "website": "https://www.thegrillnewyork.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official Sanity dining photo. Official site verified.",
+        "sources": [
+          "https://www.thegrillnewyork.com/",
+          "https://cdn.sanity.io/images/gb1p0gbj/production/50f44fef3f5533952f6376e0d26957c427c8bfdb-2054x1210.png"
+        ]
+      }
+    },
+    {
+      "id": "the-pool",
+      "name": "The Pool",
+      "area": "Midtown",
+      "vibe": "Iconic Midtown seafood room — fresh seafood, exceptional service, luxurious dining ambiance.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-pool/01.webp",
+          "alt": "The Pool"
+        }
+      ],
+      "website": "https://www.thepoolnewyork.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official Sanity dining photo. Official site verified.",
+        "sources": [
+          "https://www.thepoolnewyork.com/",
+          "https://cdn.sanity.io/images/gb1p0gbj/production/6ed120743a79a2d4d73c204c0d42019ba3f084d6-2048x1027.png"
+        ]
+      }
+    },
+    {
+      "id": "abc-kitchen",
+      "name": "ABC Kitchen",
+      "area": "Flatiron",
+      "vibe": "Since 2010 near Union Square Greenmarket — seasonal American with Jean-Georges’ touch, set amidst rich natural woods.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/abc-kitchen/01.webp",
+          "alt": "ABC Kitchen"
+        }
+      ],
+      "website": "https://www.abckitchen.nyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official getbento dining photo. Official site verified.",
+        "sources": [
+          "https://www.abckitchen.nyc/",
+          "https://images.getbento.com/accounts/ec5aa33091fea39f625403ebba67d9a9/media/images/3407020230323_ABC_KITCHEN_172.jpg?w=1600&fit=crop&auto=compress,format"
+        ]
+      }
+    },
+    {
+      "id": "balaboosta",
+      "name": "Balaboosta",
+      "area": "Nolita",
+      "vibe": "A Yiddish term for the perfect housewife and mother — the fearless emotional center who makes sure the table is full.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/balaboosta/01.webp",
+          "alt": "Balaboosta"
+        }
+      ],
+      "website": "https://www.balaboostanyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official Wix og image. Official site verified.",
+        "sources": [
+          "https://www.balaboostanyc.com/",
+          "https://static.wixstatic.com/media/3e0ad6_1ea1b33cb6c041f2b814d6eaabbfd03b~mv2_d_5550_4419_s_4_2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "diner-bk",
+      "name": "Diner",
+      "area": "Williamsburg",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/diner-bk/01.webp",
+          "alt": "Diner"
+        }
+      ],
+      "website": "https://www.dinernyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official exterior. Official site verified.",
+        "sources": [
+          "https://www.dinernyc.com/",
+          "https://images.getbento.com/accounts/ded52d79832218f313843dbd37f0252e/media/images/Diner_exteriors8_lrg.jpg?w=1600&fit=crop&auto=compress,format"
+        ]
+      }
+    },
+    {
+      "id": "al-di-la",
+      "name": "Al Di Là",
+      "area": "Park Slope",
+      "vibe": "Northern Italian mainstay with an intimate, old-world-inspired dining room and an attached wine bar.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/al-di-la/01.webp",
+          "alt": "Al Di Là"
+        }
+      ],
+      "website": "https://www.aldilatrattoria.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official dining photo. Official site verified.",
+        "sources": [
+          "https://www.aldilatrattoria.com/",
+          "https://images.getbento.com/accounts/7c05fa28acfd347260c6836ed47d65ff/media/images/90777DSCF1436.jpg?w=1600&fit=crop&auto=compress,format"
+        ]
+      }
+    },
+    {
+      "id": "sushi-nakazawa",
+      "name": "Sushi Nakazawa",
+      "area": "West Village",
+      "vibe": "The omakase of Chef Daisuke Nakazawa — a twenty-course meal from the sushi counter.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sushi-nakazawa/01.webp",
+          "alt": "Sushi Nakazawa"
+        }
+      ],
+      "website": "https://www.sushinakazawa.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official share image. Official site verified.",
+        "sources": [
+          "https://www.sushinakazawa.com/",
+          "https://s3.amazonaws.com/sushinakazawa/matashare-1568932312439.png"
+        ]
+      }
+    },
+    {
+      "id": "roberta",
+      "name": "Roberta's",
+      "area": "Bushwick",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/roberta/01.webp",
+          "alt": "Roberta's"
+        }
+      ],
+      "website": "https://www.robertaspizza.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official pizza photo. Official site verified.",
+        "sources": [
+          "https://www.robertaspizza.com/",
+          "https://cdn.prod.website-files.com/6961151f948d582975f7ae7a/69616c482e46a3159828c0a4_f919bd81690cd0be10bf27d328b6d083_Pizza-1-p-500.png"
+        ]
+      }
+    },
+    {
+      "id": "le-coucou",
+      "name": "Le Coucou",
+      "area": "SoHo",
+      "vibe": "Experience authentic French cuisine at Le Coucou, a modern restaurant in New York City. Chef Daniel Rose brings his passion for seasonal ingredients and classical techniques",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/le-coucou/01.webp",
+          "alt": "Le Coucou"
+        }
+      ],
+      "website": "https://www.lecoucou.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.lecoucou.com/",
+          "https://lecoucou.com/wp-content/uploads/2026/04/Le_Coucou_Hero_Image_Desktop-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "pasquale-jones",
+      "name": "Pasquale Jones",
+      "area": "Nolita",
+      "vibe": "Italian restaurant in Little Italy NYC by the Charlie Bird team for wood-fired pizza pies, meats and fish from the",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/pasquale-jones/01.webp",
+          "alt": "Pasquale Jones"
+        }
+      ],
+      "website": "https://www.pasqualejones.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.pasqualejones.com/",
+          "https://images.getbento.com/accounts/8b42a7401fa52b5001b301220c126396/media/images/53063Pasquale_Jones_neon_sign_800x.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5"
+        ]
+      }
+    },
+    {
+      "id": "speedy-romeo",
+      "name": "Speedy Romeo",
+      "area": "Clinton Hill",
+      "vibe": "Speedy Romeo is cooking with fire. All our dishes are prepared in a hardwood fired Italian",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/speedy-romeo/01.webp",
+          "alt": "Speedy Romeo"
+        }
+      ],
+      "website": "https://www.speedyromeo.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.speedyromeo.com/",
+          "https://images.getbento.com/accounts/b9d271aa06021661c13cb69f61ca9db0/media/images/38245sparkvalley_2.jpg?w=1800\\u0026fit=max\\u0026auto=compress,format\\u0026cs=origin\\u0026h=1800"
+        ]
+      }
+    },
+    {
+      "id": "aquavit",
+      "name": "Aquavit",
+      "area": "Midtown East",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/aquavit/01.webp",
+          "alt": "Aquavit"
+        }
+      ],
+      "website": "https://www.aquavit.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.aquavit.org/",
+          "https://images.squarespace-cdn.com/content/v1/54288085e4b0461906627747/1667524082272-ZF6RLC7WR5MZROBE7A5H/Aquavit-10.22.22-01.jpg"
+        ]
+      }
+    },
+    {
+      "id": "pastis",
+      "name": "Pastis",
+      "area": "Meatpacking",
+      "vibe": "Experience the charm of a classic French bistro at Pastis NYC in the Meatpacking District. Enjoy traditional dishes with a modern twist in a warm,",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/pastis/01.webp",
+          "alt": "Pastis"
+        }
+      ],
+      "website": "https://www.pastisnyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.pastisnyc.com/",
+          "https://pastisnyc.com/wp-content/uploads/2026/05/Pastis___NYC_Hero_Image_Desktop.jpg"
+        ]
+      }
+    },
+    {
+      "id": "miss-ada",
+      "name": "Miss Ada",
+      "area": "Fort Greene",
+      "vibe": "Miss Ada is an inviting Mediterranean restaurant located in the heart of the Fort Greene neighborhood of Brooklyn led by Chef/Owner Tomer Blechman.  The wine program",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/miss-ada/01.webp",
+          "alt": "Miss Ada"
+        }
+      ],
+      "website": "https://www.missadanyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.missadanyc.com/",
+          "https://images.squarespace-cdn.com/content/v1/58ed384edb29d654c6cc8032/1494880544876-KZE07ETUPL6XDI8OCR6L/Miss+Ada+Shakshuka+by+Michael+Tulipan.JPG"
+        ]
+      }
+    },
+    {
+      "id": "sacs",
+      "name": "Sac's Place",
+      "area": "Astoria",
+      "vibe": "Authentic Italian restaurant in Astoria,",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sacs/01.webp",
+          "alt": "Sac's Place"
+        }
+      ],
+      "website": "https://www.sacsplace.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.sacsplace.com/",
+          "https://static.spotapps.co/website_images/ab_websites/6754_website_v1/reservations_right2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "lucali",
+      "name": "Lucali",
+      "area": "Carroll Gardens",
+      "vibe": "Popular neighborhood eatery serves thin-crust pizza; guests bring their own wine & beer; cash",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/lucali/01.webp",
+          "alt": "Lucali"
+        }
+      ],
+      "website": "https://www.lucali.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.lucali.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Lucali_Pizza.jpg/1920px-Lucali_Pizza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "the-dutch",
+      "name": "The Dutch",
+      "area": "SoHo",
+      "vibe": "Chef Andrew Carmellini’s American restaurant in",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-dutch/01.webp",
+          "alt": "The Dutch"
+        }
+      ],
+      "website": "https://www.thedutchnyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.thedutchnyc.com/",
+          "https://images.getbento.com/accounts/35aeb01e46538353d993d3a286385546/media/V1s9LskZQOKot4ZLWXF0_TheDutch_EvanSung.jpg?w=1200&fit=max&auto=compress,format&cs=origin"
+        ]
+      }
+    },
+    {
+      "id": "joseph-leonard",
+      "name": "Joseph Leonard",
+      "area": "West Village",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/joseph-leonard/01.webp",
+          "alt": "Joseph Leonard"
+        }
+      ],
+      "website": "https://www.josephleonard.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.josephleonard.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/05.Night.WestVillage.NYC.28June2019_%2848270505517%29.jpg/1920px-05.Night.WestVillage.NYC.28June2019_%2848270505517%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "cote",
+      "name": "Cote",
+      "area": "Flatiron",
+      "vibe": "COTE is America’s first and only Michelin-starred Korean Steakhouse. COTE blends the conviviality of Korean barbeque together with the hallmarks of a classic",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cote/01.webp",
+          "alt": "Cote"
+        }
+      ],
+      "website": "https://www.cotenyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.cotenyc.com/",
+          "https://cdn.prod.website-files.com/6502dd8f6ae3d69baf0b5b12/6a553a17cd0003a39c9f73b6_COTE20Dining20x20Red%2520Eye.webp"
+        ]
+      }
+    },
+    {
+      "id": "oiji-mi",
+      "name": "Oiji Mi",
+      "area": "Flatiron",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/oiji-mi/01.webp",
+          "alt": "Oiji Mi"
+        }
+      ],
+      "website": "https://www.oijimi.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.oijimi.com/",
+          "https://images.squarespace-cdn.com/content/v1/6260a7240a625a12010e445b/85bb96f1-88c7-42fc-8c56-fd27322020c0/CH_Oiji_Mi_NYC_ROUND_2_040.jpg"
+        ]
+      }
+    },
+    {
+      "id": "manhatta",
+      "name": "Manhatta",
+      "area": "Financial District",
+      "vibe": "Perched sixty stories above Lower Manhattan, Manhatta is a restaurant from Danny Meyer’s Union Square Hospitality Group, combining sky-high views with the down-to-earth",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/manhatta/01.webp",
+          "alt": "Manhatta"
+        }
+      ],
+      "website": "https://www.manhattarestaurant.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.manhattarestaurant.com/",
+          "https://images.getbento.com/accounts/1cf2b7830837af2c4dafd105dc16b240/media/images/813442026-06-04_Manhatta-68.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5"
+        ]
+      }
+    },
+    {
+      "id": "le-rock",
+      "name": "Le Rock",
+      "area": "Midtown",
+      "vibe": "An elevated brasserie from the award-winning chefs behind Frenchette and Le",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/le-rock/01.webp",
+          "alt": "Le Rock"
+        }
+      ],
+      "website": "https://www.lerocknyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.lerocknyc.com/",
+          "https://images.getbento.com/accounts/5458db2fceac51adcc955accb8f9b201/media/images/14265G5A4690.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5"
+        ]
+      }
+    },
+    {
+      "id": "ernestos",
+      "name": "Ernesto's",
+      "area": "Lower East Side",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/ernestos/01.webp",
+          "alt": "Ernesto's"
+        }
+      ],
+      "website": "https://www.ernestosnyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.ernestosnyc.com/",
+          "http://static1.squarespace.com/static/57eaabb09de4bb5a6ac80644/t/5e0b9b81014e1a25d2b9b39a/1741197238392/191125_Mona_Ernestos_0117_1.JPG?format=1500w"
+        ]
+      }
+    },
+    {
+      "id": "vinegar-hill-house",
+      "name": "Vinegar Hill House",
+      "area": "Vinegar Hill",
+      "vibe": "Seasonal New American cooking served in a cozy, salvaged-decor setting with",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/vinegar-hill-house/01.webp",
+          "alt": "Vinegar Hill House"
+        }
+      ],
+      "website": "https://www.vinegarhillhouse.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.vinegarhillhouse.com/",
+          "https://media-cdn.getbento.com/accounts/d11333a380f22ab53365ec947501aae4/media/images/22094Screen_Shot_2024-01-22_at_2.01.04_PM.png"
+        ]
+      }
+    },
+    {
+      "id": "maison-premiere",
+      "name": "Maison Premiere",
+      "area": "Williamsburg",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/maison-premiere/01.webp",
+          "alt": "Maison Premiere"
+        }
+      ],
+      "website": "https://www.maisonpremiere.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.maisonpremiere.com/",
+          "https://maisonpremiere.com/wp-content/media-versions/2026/07/900w_x1400h__q_90_c_Brunch_poster-scaled.jpg"
+        ]
+      }
+    },
+    {
+      "id": "tanoreen",
+      "name": "Tanoreen",
+      "area": "Bay Ridge",
+      "vibe": "Tanoreen brings Palestinian cooking to the table with warmth and intention—rooted in tradition, shaped by experience, and always made",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/tanoreen/01.webp",
+          "alt": "Tanoreen"
+        }
+      ],
+      "website": "https://www.tanoreen.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.tanoreen.com/",
+          "https://images.getbento.com/accounts/6085c8bf168148a925d825ed4469ce8a/media/images/35428mezze.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5"
+        ]
+      }
+    },
+    {
+      "id": "fish-cheeks",
+      "name": "Fish Cheeks",
+      "area": "Nolita",
+      "vibe": "Fish Cheeks offers authentic Thai seafood and family-style cuisine in New",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/fish-cheeks/01.webp",
+          "alt": "Fish Cheeks"
+        }
+      ],
+      "website": "https://www.fishcheeksnyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.fishcheeksnyc.com/",
+          "https://images.getbento.com/accounts/5981f31f3c2c7dd28e008bad3408d3d0/media/images/73879FISHCHEEKS26-09-11_credit_Dan_Ahn_149.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5"
+        ]
+      }
+    },
+    {
+      "id": "jeju-noodle-bar",
+      "name": "Jeju Noodle Bar",
+      "area": "West Village",
+      "vibe": "Menu ABOUT At Jeju Noodle Bar, we celebrate the art of Korean comfort food.The word Jeju in Korean means “skill,” “talent,” or “ability”—qualities that inspire everything",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/jeju-noodle-bar/01.webp",
+          "alt": "Jeju Noodle Bar"
+        }
+      ],
+      "website": "https://www.jejunoodlebar.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.jejunoodlebar.com/",
+          "https://jejunoodlebar.com/wp-content/uploads/2026/02/JJNB-Food-Menu-2.13.png"
+        ]
+      }
+    },
+    {
+      "id": "red-rooster",
+      "name": "Red Rooster",
+      "area": "Harlem",
+      "vibe": "Red Rooster Harlem serves comfort food rooted",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/red-rooster/01.webp",
+          "alt": "Red Rooster"
+        }
+      ],
+      "website": "https://www.redroosterharlem.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.redroosterharlem.com/",
+          "http://static1.squarespace.com/static/6422f920489f047ea7ddce55/t/65c3e71238db9b7b9e82d65d/1707337490217/01-Marcus-RRInterior.jpg?format=1500w"
+        ]
+      }
+    },
+    {
+      "id": "sylvias",
+      "name": "Sylvia's",
+      "area": "Harlem",
+      "vibe": "For more than 60 years, Sylvia’s Restaurant has been serving up more than just food. We’ve been serving love, legacy, and Harlem hospitality.  When Sylvia Woods opened",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sylvias/01.webp",
+          "alt": "Sylvia's"
+        }
+      ],
+      "website": "https://www.sylviasrestaurant.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.sylviasrestaurant.com/",
+          "https://static.spotapps.co/website_images/ab_websites/10649_website_v1/social_share.jpg"
+        ]
+      }
+    },
+    {
+      "id": "jean-georges",
+      "name": "Jean-Georges",
+      "area": "Columbus Circle",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/jean-georges/01.webp",
+          "alt": "Jean-Georges"
+        }
+      ],
+      "website": "https://www.jean-georgesrestaurant.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.jean-georgesrestaurant.com/",
+          "https://www.jean-georgesrestaurant.com/content/slides/JGR.jpg"
+        ]
+      }
+    },
+    {
+      "id": "sushi-noz",
+      "name": "Sushi Noz",
+      "area": "Upper East Side",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sushi-noz/01.webp",
+          "alt": "Sushi Noz"
+        }
+      ],
+      "website": "https://www.sushinoz.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.sushinoz.com/",
+          "https://cdn.prod.website-files.com/5b2992896677a549f3f7ff99/5bd4d89ef290442a04a55644_4.jpg.jpeg"
+        ]
+      }
+    },
+    {
+      "id": "askka",
+      "name": "Aska",
+      "area": "Williamsburg",
+      "vibe": "Chef Fredrik Berselius brings his love of nature to his urban surroundings through food",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/askka/01.webp",
+          "alt": "Aska"
+        }
+      ],
+      "website": "https://www.askanyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.askanyc.com/",
+          "https://static.wixstatic.com/media/c7e2f3_16e01760ec9940b4a48d9a7357d84258%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/c7e2f3_16e01760ec9940b4a48d9a7357d84258%7Emv2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "charlie-bird",
+      "name": "Charlie Bird",
+      "area": "SoHo",
+      "vibe": "Experience the best of modern Italian-American cuisine at Charlie Bird in the heart of Soho, Manhattan. Enjoy seasonal dishes, curated wines, and an inviting atmosphere",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/charlie-bird/01.webp",
+          "alt": "Charlie Bird"
+        }
+      ],
+      "website": "https://www.charliebirdnyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.charliebirdnyc.com/",
+          "https://images.getbento.com/accounts/b34f660831b1f19ce1a204f9332e2311/media/Fu6KcbUR7iEVkGgFulMR_C_Bird_II_044.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.47&fp-y=0.51"
+        ]
+      }
+    },
+    {
+      "id": "jeffreys-grocery",
+      "name": "Jeffrey's Grocery",
+      "area": "West Village",
+      "vibe": "A West Village neighborhood seafood restaurant and oyster bar located at 172",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/jeffreys-grocery/01.webp",
+          "alt": "Jeffrey's Grocery"
+        }
+      ],
+      "website": "https://www.jeffreysgrocery.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.jeffreysgrocery.com/",
+          "https://images.getbento.com/accounts/754065ebb71ded92579bcc019dd6afba/media/images/27646Medsker_HappyCooking_September_278.jpg?w=1200&fit=max&auto=compress,format&cs=origin"
+        ]
+      }
+    },
+    {
+      "id": "haenyeo",
+      "name": "Haenyeo",
+      "area": "Park Slope",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/haenyeo/01.webp",
+          "alt": "Haenyeo"
+        }
+      ],
+      "website": "https://www.haenyeonyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.haenyeonyc.com/",
+          "https://images.squarespace-cdn.com/content/v1/5a24b7cd9f07f525344c2e9b/1533435131996-40K912HKUF9R4HZ34M74/IMG_9630.JPG"
+        ]
+      }
+    },
+    {
+      "id": "meadowsweet",
+      "name": "Meadowsweet",
+      "area": "Williamsburg",
+      "vibe": "Meadowsweet is a Michelin star rated american restaurant in Williamsburg Brooklyn opened in 2014 by chef and owner Polo Dobkin along with Stephanie Lempert his partner",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/meadowsweet/01.webp",
+          "alt": "Meadowsweet"
+        }
+      ],
+      "website": "https://www.meadowsweetnyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.meadowsweetnyc.com/",
+          "http://static1.squarespace.com/static/53b849c0e4b0afc035d1b252/t/560c0913e4b018278c81c6ca/1443629335715/meadowsweet_flower.png?format=1500w"
+        ]
+      }
+    },
+    {
+      "id": "saga",
+      "name": "Saga",
+      "area": "Financial District",
+      "vibe": "Saga is a 2-Michelin Starred fine-dining restaurant in New York City offering a seasonal",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/saga/01.webp",
+          "alt": "Saga"
+        }
+      ],
+      "website": "https://www.saga-nyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch6 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.saga-nyc.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/70_Pine_Street_Entrance.jpg/1920px-70_Pine_Street_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "nom-wah",
+      "name": "Nom Wah Tea Parlor",
+      "area": "Chinatown",
+      "vibe": "Freshly made dim sum and dumplings, made in the heart of New York City. Open since 1920—now with locations in Chinatown, Nolita, Chelsea,",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/nom-wah/01.webp",
+          "alt": "Nom Wah Tea Parlor"
+        }
+      ],
+      "website": "https://nomwah.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch6 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://nomwah.com/",
+          "http://static1.squarespace.com/static/685f0b9455de2873870167ed/t/68770f759b661f566ea056ad/1752633205056/dumplings-assorted-barbara-leung.jpg?format=1500w"
+        ]
+      }
+    },
+    {
+      "id": "paulie-gees-greenpoint",
+      "name": "Paulie Gee's",
+      "area": "Greenpoint",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/paulie-gees-greenpoint/01.webp",
+          "alt": "Paulie Gee's"
+        }
+      ],
+      "website": "https://pauliegee.com/greenpoint/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch6 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://pauliegee.com/greenpoint/",
+          "https://pauliegee.com/wp-content/uploads/2023/11/uuid00000000-0000-0000-0000-000000015E3Elibrary1type1mode1loctruecaptrue.jpeg"
+        ]
+      }
+    },
+    {
+      "id": "dante",
+      "name": "Dante",
+      "area": "Greenwich Village",
+      "vibe": "Dante NYC is a legendary circa-1915 cafe serving small plates & cocktails in an updated",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/dante/01.webp",
+          "alt": "Dante"
+        }
+      ],
+      "website": "https://www.dante-nyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch6 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.dante-nyc.com/",
+          "https://images.getbento.com/accounts/e8eee6aef7c2e8242e267a82a199ac35/media/images/37253OLD_FASHIONED_WHISKEY_COCKTAIL.jpg?w=1200&fit=max&auto=compress,format&cs=origin"
+        ]
+      }
+    },
+    {
+      "id": "altro-paradiso",
+      "name": "Altro Paradiso",
+      "area": "SoHo",
+      "vibe": "The restaurant’s menu draws inspiration from several Italian regions, celebrating timeless craftsmanship throughout, while the room’s high ceilings and glimmering brass bar…",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/altro-paradiso/01.webp",
+          "alt": "Altro Paradiso"
+        }
+      ],
+      "website": "https://altroparadiso.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch7 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://altroparadiso.com/",
+          "https://altroparadiso.com/cdn/shop/files/Cafe_Altro_Paradiso_Photographs_by_Daniel_Krieger_2017-1227_0cd931a1-2008-4c8c-abc7-6b30dbc9516e_1800x900_crop_center.jpg"
+        ]
+      }
+    },
+    {
+      "id": "freemans",
+      "name": "Freemans",
+      "area": "Lower East Side",
+      "vibe": "The cuisine was also imagined to early American: Simple, Rustic, and inspired by Old World",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/freemans/01.webp",
+          "alt": "Freemans"
+        }
+      ],
+      "website": "https://www.freemansrestaurant.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch7 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.freemansrestaurant.com/",
+          "https://images.squarespace-cdn.com/content/v1/55c8d2a4e4b0168e0edc0b4b/1439233610463-HUD7AZF89OLWILVFE657/Outside-hero-shot.jpg"
+        ]
+      }
+    },
+    {
+      "id": "lafayette",
+      "name": "Lafayette",
+      "area": "NoHo",
+      "vibe": "A French grand café and bakery from Chef Andrew Carmellini on the corner of Lafayette Street and Great Jones in",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/lafayette/01.webp",
+          "alt": "Lafayette"
+        }
+      ],
+      "website": "https://www.lafayetteny.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch7 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.lafayetteny.com/",
+          "https://images.getbento.com/accounts/229072ec86f44588c6e94cd077743323/media/images/48396AG1328_RWLafayette_Final5_1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "the-odeon",
+      "name": "The Odeon",
+      "area": "Tribeca",
+      "vibe": "This timeless American brasserie with outdoor seating serves a classic menu with a nod to French cuisine. Located in Tribeca, NY. A New York icon since 1980. The bustling bar…",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-odeon/01.webp",
+          "alt": "The Odeon"
+        }
+      ],
+      "website": "https://www.theodeonrestaurant.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch7 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.theodeonrestaurant.com/",
+          "https://images.getbento.com/accounts/c56d5aadfcedc97890b8152624add26b/media/images/34833IMG_4443.jpeg"
+        ]
+      }
+    },
+    {
+      "id": "one-if-by-land",
+      "name": "One if by Land, Two if by Sea",
+      "area": "West Village",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/one-if-by-land/01.webp",
+          "alt": "One if by Land, Two if by Sea"
+        }
+      ],
+      "website": "https://www.oneifbyland.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch7 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.oneifbyland.com/",
+          "https://cdn.prod.website-files.com/64c4f400e3ffa0d067735d78/6911ef54286f46190fa58aad_dining_room_web.jpg"
+        ]
+      }
+    },
+    {
+      "id": "indochine",
+      "name": "Indochine",
+      "area": "NoHo",
+      "vibe": "French-Vietnamese fare is served amid exotic decor of palm fronds & low light at this 80s-era",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/indochine/01.webp",
+          "alt": "Indochine"
+        }
+      ],
+      "website": "https://www.indochinenyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch7 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.indochinenyc.com/",
+          "https://images.getbento.com/accounts/e6ebd61446b034928068b3d88ea5b1ca/mediausers/custom_fields_galleries/images/ILXhy47dQ4yZAwEJI56k_Home%20page%20Indo.jpg"
+        ]
+      }
+    },
+    {
+      "id": "rule-of-thirds",
+      "name": "Rule of Thirds",
+      "area": "Gowanus",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/rule-of-thirds/01.webp",
+          "alt": "Rule of Thirds"
+        }
+      ],
+      "website": "https://thirdsbk.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch7 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://thirdsbk.com/",
+          "https://images.getbento.com/accounts/5be7bbac9776ecdf3893d09b1701a482/media/images/66442Medsker_RuleOfThirds_R01_082.jpg"
+        ]
+      }
+    },
+    {
+      "id": "shuka",
+      "name": "Shuka",
+      "area": "SoHo",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/shuka/01.webp",
+          "alt": "Shuka"
+        }
+      ],
+      "website": "https://www.shukanewyork.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch7 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.shukanewyork.com/",
+          "https://static.wixstatic.com/media/3a1223_ffe372e3fc764ce08c7039d250f2d587~mv2_d_1813_1208_s_2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "yellow-rose",
+      "name": "Yellow Rose",
+      "area": "East Village",
+      "vibe": "Texans in NYC serving up tacos on house-made tortillas, margaritas, cold beer, creative cocktails & seasonal dishes. Located in New York,",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/yellow-rose/01.webp",
+          "alt": "Yellow Rose"
+        }
+      ],
+      "website": "https://www.yellowrosenyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch7 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.yellowrosenyc.com/",
+          "https://images.getbento.com/accounts/82fc99c20710b825519b93b0a7662787/media/images/81760006.jpg"
+        ]
+      }
+    },
+    {
+      "id": "cafe-luxembourg",
+      "name": "Café Luxembourg",
+      "area": "Upper West Side",
+      "vibe": "Legendary Upper West Side American brasserie in NYC since 1983. This is a neighborhood staple and a popular destination. The menu serves American classics with a nod to French…",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cafe-luxembourg/01.webp",
+          "alt": "Café Luxembourg"
+        }
+      ],
+      "website": "https://www.cafeluxembourg.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch7 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.cafeluxembourg.com/",
+          "https://images.getbento.com/accounts/547d21b79b49b32f22febef3c3b02a10/media/images/64599IMG_4010.JPG"
+        ]
+      }
+    },
+    {
+      "id": "dirty-french",
+      "name": "Dirty French",
+      "area": "Lower East Side",
+      "vibe": "Major Food Group's iconic French bistro in New York features cuisine crafted by Chef Rich",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/dirty-french/01.webp",
+          "alt": "Dirty French"
+        }
+      ],
+      "website": "https://www.dirtyfrench.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch7 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.dirtyfrench.com/",
+          "https://cdn.sanity.io/images/gb1p0gbj/production/b2ddf5ae2ef8727f56490e081a66d3e7306d9821-750x547.jpg"
+        ]
+      }
+    },
+    {
+      "id": "sparks-steakhouse",
+      "name": "Sparks Steak House",
+      "area": "Midtown East",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sparks-steakhouse/01.webp",
+          "alt": "Sparks Steak House"
+        }
+      ],
+      "website": "https://sparkssteakhouse.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch7 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://sparkssteakhouse.com/",
+          "https://sparkssteakhouse.com/wp-content/uploads/2025/01/SparksSteakhouse_Nov20-22.jpg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -3056,6 +5471,351 @@
         "sources": [
           "https://tveyenyc.com/",
           "https://tveyenyc.com/wp-content/uploads/slider/cache/1fc811bc69004f87af2c0e6fb59cdd90/TV-EYE-Peacock-Room-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "village-vanguard",
+      "name": "Village Vanguard",
+      "area": "West Village",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/village-vanguard/01.webp",
+          "alt": "Village Vanguard"
+        }
+      ],
+      "website": "https://villagevanguard.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official site Vanguard sign photo. Official site verified.",
+        "sources": [
+          "https://villagevanguard.com/",
+          "https://villagevanguard.com/wp-content/uploads/2024/11/IMG_2727-scaled.jpg"
+        ]
+      }
+    },
+    {
+      "id": "birdland",
+      "name": "Birdland",
+      "area": "Theater District",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/birdland/01.webp",
+          "alt": "Birdland"
+        }
+      ],
+      "website": "https://www.birdlandjazz.com/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Wikimedia Commons of venue. Official site verified.",
+        "sources": [
+          "https://www.birdlandjazz.com/",
+          "https://upload.wikimedia.org/wikipedia/commons/f/f1/Birdland_New_York.jpg"
+        ]
+      }
+    },
+    {
+      "id": "kings-theatre",
+      "name": "Kings Theatre",
+      "area": "Flatbush",
+      "vibe": "Discover upcoming events at Kings Theatre in Brooklyn, NY. From live music to comedy and beyond - browse our full schedule and book your tickets",
+      "images": [
+        {
+          "url": "/assets/opt/dance/kings-theatre/01.webp",
+          "alt": "Kings Theatre"
+        }
+      ],
+      "website": "https://www.kingstheatre.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official Cloudinary venue photo. Official site verified.",
+        "sources": [
+          "https://www.kingstheatre.com/",
+          "https://res.cloudinary.com/dwzhqvxaz/image/upload/w_1000,q_auto,f_auto/umbraco-prod/k4rb4tnj/kings-theatre-1-1900x1070.png"
+        ]
+      }
+    },
+    {
+      "id": "dizzys",
+      "name": "Dizzy's Club",
+      "area": "Columbus Circle",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/dizzys/01.webp",
+          "alt": "Dizzy's Club"
+        }
+      ],
+      "website": "https://www.jazz.org/dizzys/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch3 2026-09-21. Official Dizzy's performance photo. Official site verified.",
+        "sources": [
+          "https://www.jazz.org/dizzys/",
+          "https://jazz.org/wp-content/uploads/2026/07/02032025-Ted-Nash-Big-Band-at-Dizzys-_-FINAL-_-Tracy-Yang-Photography_1920x1280_Web-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "irving-plaza",
+      "name": "Irving Plaza",
+      "area": "Union Square",
+      "vibe": "Irving Plaza Powered By Verizon 5G information and upcoming 2026 events. Find details on the official Irving Plaza Powered By Verizon 5G website including tickets,",
+      "images": [
+        {
+          "url": "/assets/opt/dance/irving-plaza/01.webp",
+          "alt": "Irving Plaza"
+        }
+      ],
+      "website": "https://www.irvingplaza.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.irvingplaza.com/",
+          "https://assets.livenationcdn.com/uploads/a51838af-f2ee-4737-9a15-594c65e2dd3e.png"
+        ]
+      }
+    },
+    {
+      "id": "sony-hall",
+      "name": "Sony Hall",
+      "area": "Times Square",
+      "vibe": "Sony Hall is one of the premier live concert venues in Midtown NYC. We hold shows from different music genres and offer",
+      "images": [
+        {
+          "url": "/assets/opt/dance/sony-hall/01.webp",
+          "alt": "Sony Hall"
+        }
+      ],
+      "website": "https://sonyhall.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://sonyhall.com/",
+          "https://sonyhall.com/wp-content/uploads/2025/03/Sony-Hall_Yoast_fallback-scaled.jpg"
+        ]
+      }
+    },
+    {
+      "id": "smoke-jazz",
+      "name": "Smoke Jazz Club",
+      "area": "Upper West Side",
+      "vibe": "Smoke Jazz Club is a world-famous music venue located on Manhattan’s Upper West Side presenting live performances by beloved living legends and sensational new",
+      "images": [
+        {
+          "url": "/assets/opt/dance/smoke-jazz/01.webp",
+          "alt": "Smoke Jazz Club"
+        }
+      ],
+      "website": "https://www.smokejazz.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.smokejazz.com/",
+          "https://smokejazz.com/wp-content/uploads/2023/05/Smoke-Press-Night_KAT3572_2022-2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "roulette",
+      "name": "Roulette",
+      "area": "Downtown Brooklyn",
+      "vibe": "New York City's premier home for experimental music, movement, and media since 1978. Discover something new",
+      "images": [
+        {
+          "url": "/assets/opt/dance/roulette/01.webp",
+          "alt": "Roulette"
+        }
+      ],
+      "website": "https://roulette.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://roulette.org/",
+          "https://roulette.org/assets/tristan-perich-surface-image-roulette-21913_8491749349_o-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "the-django",
+      "name": "The Django",
+      "area": "Tribeca",
+      "vibe": "Descend into The Django Jazz Cub in NYC for fine food, live jazz, and spirited cocktails on the border of SoHo",
+      "images": [
+        {
+          "url": "/assets/opt/dance/the-django/01.webp",
+          "alt": "The Django"
+        }
+      ],
+      "website": "https://www.thedjangonyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "sources": [
+          "https://www.thedjangonyc.com/",
+          "https://djmzubtjl6upi.cloudfront.net/wp-content/uploads/sites/6/2026/03/Django-Jumanne-Smith-Square-768x768.jpg"
+        ]
+      }
+    },
+    {
+      "id": "terminal-5",
+      "name": "Terminal 5",
+      "area": "Hell's Kitchen",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/terminal-5/01.webp",
+          "alt": "Terminal 5"
+        }
+      ],
+      "website": "https://www.terminal5nyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch6 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.terminal5nyc.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Fever_Ray_at_Terminal_5_1.jpg/1920px-Fever_Ray_at_Terminal_5_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "cutting-room",
+      "name": "The Cutting Room",
+      "area": "Murray Hill",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/cutting-room/01.webp",
+          "alt": "The Cutting Room"
+        }
+      ],
+      "website": "https://thecuttingroomnyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch6 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://thecuttingroomnyc.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Entrance_of_The_Cutting_Room.jpg/1920px-Entrance_of_The_Cutting_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "ginnys-supper-club",
+      "name": "Ginny's Supper Club",
+      "area": "Harlem",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/ginnys-supper-club/01.webp",
+          "alt": "Ginny's Supper Club"
+        }
+      ],
+      "website": "https://www.ginnyssupperclub.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch8 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.ginnyssupperclub.com/",
+          "https://images.squarespace-cdn.com/content/v1/6091fac0f02d5f148336bb9c/1666227272857-9V9BFWG29DBWY18GG8WM/20200121_184840.jpg"
+        ]
+      }
+    },
+    {
+      "id": "issue-project-room",
+      "name": "ISSUE Project Room",
+      "area": "Downtown Brooklyn",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/issue-project-room/01.webp",
+          "alt": "ISSUE Project Room"
+        }
+      ],
+      "website": "https://issueprojectroom.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch8 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://issueprojectroom.org/",
+          "https://issueprojectroom.org/sites/default/files/styles/slideshow_lg/public/2026-04/1.png.webp"
+        ]
+      }
+    },
+    {
+      "id": "cellar-dog",
+      "name": "Cellar Dog",
+      "area": "West Village",
+      "vibe": "Experience live jazz, billiards, and drinks at Cellar Dog in the West Village, NYC. Join us for a night of music and",
+      "images": [
+        {
+          "url": "/assets/opt/dance/cellar-dog/01.webp",
+          "alt": "Cellar Dog"
+        }
+      ],
+      "website": "https://www.cellardog.net/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch8 2026-09-21. Visual QA passed. Official site verified.",
+        "sources": [
+          "https://www.cellardog.net/",
+          "https://images.squarespace-cdn.com/content/v1/601c3491da799d0ee81fef3d/173ed557-30ca-4073-addc-071b1364f3be/tempImage9mGmvh.jpg"
+        ]
+      }
+    },
+    {
+      "id": "petes-candy-store",
+      "name": "Pete's Candy Store",
+      "area": "Williamsburg",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/petes-candy-store/01.webp",
+          "alt": "Pete's Candy Store"
+        }
+      ],
+      "website": "https://www.petescandystore.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Batch9 2026-09-21. Visual QA passed exterior. Official site verified.",
+        "sources": [
+          "https://www.petescandystore.com/",
+          "https://www.petescandystore.com/images/outside.jpeg"
         ]
       }
     }
