@@ -559,6 +559,174 @@
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-den-serra/"
+    },
+    {
+      "id": "arenal-petit-portinatx",
+      "name": "Arenal Petit Portinatx",
+      "area": "Portinatx",
+      "vibe": "Smaller sandy bay right next to Portinatx’s main beach — together they form a sheltered northern swimming spot.",
+      "images": [
+        {
+          "url": "/assets/opt/date/arenal-petit-portinatx/01.webp",
+          "alt": "Arenal Petit Portinatx sandy bay",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/portinatx-arenal-petit-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/portinatx-arenal-petit/"
+    },
+    {
+      "id": "cala-corral",
+      "name": "Cala Corral",
+      "area": "Sant Josep",
+      "vibe": "Small rocky southwest cove near San José with a few houses and boathouses — quieter than the big west beaches.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-corral/01.webp",
+          "alt": "Cala Corral rocky cove",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-corral-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-corral/"
+    },
+    {
+      "id": "cala-des-torrent",
+      "name": "Cala d'Es Torrent",
+      "area": "Sant Josep",
+      "vibe": "Secluded south-coast cove near Sant Jordi — a quieter bay appreciated by guests looking for a more private swim.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-des-torrent/01.webp",
+          "alt": "Cala d'Es Torrent secluded cove",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/es-torrent-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/es-torrent/"
+    },
+    {
+      "id": "cala-escondida",
+      "name": "Cala Escondida",
+      "area": "Sant Josep",
+      "vibe": "Quiet, sheltered west-coast cove in the Cala Comte area — more protected than the main beach.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-escondida/01.webp",
+          "alt": "Cala Escondida sheltered cove",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-escondida-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-escondida/"
+    },
+    {
+      "id": "cala-llentia",
+      "name": "Cala Llentia",
+      "area": "Sant Josep",
+      "vibe": "Quiet, rather remote rocky coastline near Sant Josep — known as a tranquil swimming spot.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-llentia/01.webp",
+          "alt": "Cala Llentia rocky coastline",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-llentia-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-llentia/"
+    },
+    {
+      "id": "cala-pada",
+      "name": "Cala Pada",
+      "area": "Santa Eulalia",
+      "vibe": "Small east-coast bay south of Santa Eulalia — comparatively quiet coastal stretch with hotels nearby.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-pada/01.webp",
+          "alt": "Cala Pada east-coast bay",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-pada-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-pada/"
+    },
+    {
+      "id": "cala-xuclar",
+      "name": "Cala Xuclar",
+      "area": "Portinatx",
+      "vibe": "Very small sheltered northern bay near Sant Joan — feels more secluded than many island beaches.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-xuclar/01.webp",
+          "alt": "Cala Xuclar northern cove",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-xuclar-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-xuclar/"
+    },
+    {
+      "id": "es-codolar",
+      "name": "Es Codolar",
+      "area": "Sant Josep",
+      "vibe": "Long natural pebble stretch near Sant Jordi and the airport — an open southern bay coastline.",
+      "images": [
+        {
+          "url": "/assets/opt/date/es-codolar/01.webp",
+          "alt": "Es Codolar pebble beach",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/es-codolar-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/es-codolar/"
+    },
+    {
+      "id": "playa-de-es-niu-blau",
+      "name": "Playa de Es Niu Blau",
+      "area": "Santa Eulalia",
+      "vibe": "Relatively quiet east-coast beach south of Santa Eulària — coastal path and a calmer stretch of shore.",
+      "images": [
+        {
+          "url": "/assets/opt/date/playa-de-es-niu-blau/01.webp",
+          "alt": "Playa de Es Niu Blau",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/niu-blau-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/niu-blau/"
+    },
+    {
+      "id": "playa-de-santa-eulària",
+      "name": "Playa de Santa Eulària",
+      "area": "Santa Eulalia",
+      "vibe": "Town beach right in the center of Santa Eulalia — promenade, cafés and shops a short walk away.",
+      "images": [
+        {
+          "url": "/assets/opt/date/playa-de-santa-eulària/01.webp",
+          "alt": "Playa de Santa Eulària town beach",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/riu-de-santa-eulalia-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/riu-de-santa-eulalia/"
+    },
+    {
+      "id": "port-des-torrent",
+      "name": "Port des Torrent",
+      "area": "San Antonio Bay",
+      "vibe": "Sheltered west-coast bay south of Sant Antoni — a relatively small beach framed by low rocks.",
+      "images": [
+        {
+          "url": "/assets/opt/date/port-des-torrent/01.webp",
+          "alt": "Port des Torrent bay beach",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/port-des-torrent-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/port-des-torrent/"
+    },
+    {
+      "id": "sargamassa",
+      "name": "S'Argamassa",
+      "area": "Santa Eulalia",
+      "vibe": "Small compact east-coast beach in a quiet hotel and residential area north of Santa Eulalia.",
+      "images": [
+        {
+          "url": "/assets/opt/date/sargamassa/01.webp",
+          "alt": "S'Argamassa beach",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/s-argamassa-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/s-argamassa/"
     }
   ],
   "dinner": [
@@ -1338,6 +1506,112 @@
       ],
       "website": "https://ciento80ibiza.com/",
       "instagram": "https://www.instagram.com/ciento80ibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "es-torrent",
+      "name": "Es Torrent",
+      "area": "San José",
+      "vibe": "A restaurant with the soul of a beach bar — or a beach bar with the soul of a restaurant; passion for sea produce and gastro-happiness on Platja d'Es Torrent.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/es-torrent/01.webp",
+          "alt": "Es Torrent beachfront dining at dusk",
+          "remote_url": "https://www.estorrent.net/wp-content/uploads/2019/05/DSC09847.jpg"
+        }
+      ],
+      "website": "https://www.estorrent.net/"
+    },
+    {
+      "id": "sespartar",
+      "name": "S'Espartar",
+      "area": "San José",
+      "vibe": "Authentic Mediterranean cooking on a hillside with panoramic sea views — traditional Ibizan rice, fish and seafood in a cozy rustic-modern setting.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sespartar/01.webp",
+          "alt": "S'Espartar garden terrace dining",
+          "remote_url": "https://restaurantsespartar.com/wp-content/uploads/2024/07/Ambiente-24-4.jpg"
+        }
+      ],
+      "website": "https://restaurantsespartar.com/en/"
+    },
+    {
+      "id": "sa-punta-restaurant",
+      "name": "Sa Punta Restaurant",
+      "area": "Talamanca",
+      "vibe": "Chic, relaxed Mediterranean fine dining on Talamanca bay — crystal-clear water and spectacular views toward Dalt Vila.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sa-punta-restaurant/01.webp",
+          "alt": "Sa Punta seaside terrace at dusk",
+          "remote_url": "https://static.wixstatic.com/media/7d2a12_32f236b773f64f3ca165dc9add5ff8d1~mv2.jpg"
+        }
+      ],
+      "website": "https://www.sapuntaibiza.com/en",
+      "instagram": "https://www.instagram.com/sapuntaibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "ohana-ibiza",
+      "name": "OHANA Ibiza",
+      "area": "Playa d'en Bossa",
+      "vibe": "Where Mediterranean meets tropical flavours by the sea — cozy beachside dining with poke, artisanal sushi and Mediterranean seafood.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/ohana-ibiza/01.webp",
+          "alt": "OHANA Ibiza sea-view terrace",
+          "remote_url": "https://ohanaibizarestaurant.com/wp-content/uploads/2025/04/ohana-ibiza-restaurant-ambient-02.jpg"
+        }
+      ],
+      "website": "https://ohanaibizarestaurant.com/ibiza/",
+      "instagram": "https://www.instagram.com/ohana_ibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "cala-bassa-beach-club",
+      "name": "Cala Bassa Beach Club",
+      "area": "San José",
+      "vibe": "Surrounded by crystal-clear waters and Mediterranean nature — gastronomy, atmosphere and beach energy where CBbC began more than a decade ago.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cala-bassa-beach-club/01.webp",
+          "alt": "Cala Bassa Beach Club terrace overlooking the bay",
+          "remote_url": "https://cbbcgroup.com/cbbc-cala-bassa-beach-club/wp-content/uploads/sites/2/2026/06/cala_bassa_beach_club_119_1_2x.webp"
+        }
+      ],
+      "website": "https://cbbcgroup.com/cbbc-cala-bassa-beach-club/en/",
+      "instagram": "https://www.instagram.com/calabassabeachclub",
+      "instagram_followers": 0
+    },
+    {
+      "id": "feel",
+      "name": "Feel",
+      "area": "Es Figueral",
+      "vibe": "Italian restaurant and lounge on Platja d'Es Figueral — homemade pasta, wood-fired pizza and a sun-drenched terrace setting.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/feel/01.webp",
+          "alt": "Feel Ibiza outdoor terrace",
+          "remote_url": "https://feelrestaurantibiza.es/wp-content/uploads/2019/05/feel-ibiza.jpeg"
+        }
+      ],
+      "website": "https://feelrestaurantibiza.es/"
+    },
+    {
+      "id": "noho-beach-club",
+      "name": "NoHo Beach Club",
+      "area": "Sant Jordi",
+      "vibe": "A temple of enjoyment overlooking Ibiza’s coast — rice dishes and fideuás led by Toni Boix; cooking as an act of pleasure designed for sharing.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/noho-beach-club/01.webp",
+          "alt": "NoHo Beach Club beach umbrellas and turquoise sea",
+          "remote_url": "https://nohobeachclub.com/wp-content/uploads/bg-addicted-to-pleasure-sun.jpg"
+        }
+      ],
+      "website": "https://nohobeachclub.com/en/gastronomia-en/",
+      "instagram": "https://www.instagram.com/noho.beach",
       "instagram_followers": 0
     }
   ],
