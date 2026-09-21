@@ -1104,6 +1104,230 @@
         }
       ],
       "website": "https://stockportplaza.co.uk/"
+    },
+    {
+      "id": "bramall-hall",
+      "name": "Bramall Hall",
+      "area": "Bramhall",
+      "vibe": "Magnificent black and white timber-framed Tudor manor house set in 70 acres of parkland.",
+      "images": [
+        {
+          "alt": "Bramall Hall in Bramhall",
+          "url": "/assets/opt/date/bramall-hall/01.webp"
+        }
+      ],
+      "website": "https://www.stockport.gov.uk/landing/bramall-hall",
+      "instagram": ""
+    },
+    {
+      "id": "stockport-air-raid-shelters",
+      "name": "Stockport Air Raid Shelters",
+      "area": "Stockport",
+      "vibe": "Carved into natural sandstone cliffs, a nearly mile-long underground tunnel network offering an insight into wartime Britain in the 1940s.",
+      "images": [
+        {
+          "alt": "Stockport Air Raid Shelters in Stockport",
+          "url": "/assets/opt/date/stockport-air-raid-shelters/01.webp"
+        }
+      ],
+      "website": "https://www.stockport.gov.uk/landing/air-raid-shelters",
+      "instagram": ""
+    },
+    {
+      "id": "waterside-arts",
+      "name": "Waterside Arts",
+      "area": "Sale",
+      "vibe": "Award-winning arts venue in the heart of Sale — theatre, contemporary photography galleries, studios and workspaces by the Bridgewater Canal.",
+      "images": [
+        {
+          "alt": "Waterside Arts in Sale",
+          "url": "/assets/opt/date/waterside-arts/01.webp"
+        }
+      ],
+      "website": "https://watersidearts.org/",
+      "instagram": ""
+    },
+    {
+      "id": "dunham-massey",
+      "name": "Dunham Massey",
+      "area": "Altrincham",
+      "vibe": "A garden for all seasons, an ancient deer park and a Georgian house filled with treasures and stories.",
+      "images": [
+        {
+          "alt": "Dunham Massey in Altrincham",
+          "url": "/assets/opt/date/dunham-massey/01.webp"
+        }
+      ],
+      "website": "https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/dunham-massey",
+      "instagram": ""
+    },
+    {
+      "id": "trafford-ecology-park",
+      "name": "Trafford Ecology Park",
+      "area": "Trafford Park",
+      "vibe": "A beautiful and peaceful green space hidden in Trafford Park — short walks, wildlife and a quiet outdoor oasis.",
+      "images": [
+        {
+          "alt": "Trafford Ecology Park in Trafford Park",
+          "url": "/assets/opt/date/trafford-ecology-park/01.webp"
+        }
+      ],
+      "website": "https://traffordecologypark.com/",
+      "instagram": ""
+    },
+    {
+      "id": "the-modernist",
+      "name": "the modernist",
+      "area": "Northern Quarter",
+      "vibe": "Manchester-based independent publisher, specialist bookshop, gallery and cultural organisation dedicated to twentieth-century architecture and design.",
+      "images": [
+        {
+          "alt": "the modernist in Northern Quarter",
+          "url": "/assets/opt/date/the-modernist/01.webp"
+        }
+      ],
+      "website": "https://the-modernist.org/",
+      "instagram": ""
+    },
+    {
+      "id": "wythenshawe-hall",
+      "name": "Wythenshawe Hall",
+      "area": "Wythenshawe",
+      "vibe": "Grade II* timber-framed hall in Wythenshawe Park — home of the Tatton family for over 600 years, now opening for public tours and open days.",
+      "images": [
+        {
+          "alt": "Wythenshawe Hall in Wythenshawe",
+          "url": "/assets/opt/date/wythenshawe-hall/01.webp"
+        }
+      ],
+      "website": "https://www.manchester.gov.uk/parks-leisure-and-the-arts/parks-playgrounds-allotments-and-open-spaces/about-the-park/the-hall",
+      "instagram": ""
+    },
+    {
+      "id": "bolton-museum",
+      "name": "Bolton Museum",
+      "area": "Bolton",
+      "vibe": "Explore Ancient Egypt galleries, Bolton heritage collections and art in the historic museum, library and aquarium complex.",
+      "images": [
+        {
+          "alt": "Bolton Museum in Bolton",
+          "url": "/assets/opt/date/bolton-museum/01.webp"
+        }
+      ],
+      "website": "https://www.boltonlams.co.uk/museum",
+      "instagram": ""
+    },
+    {
+      "id": "oddfellows-on-the-park",
+      "name": "Oddfellows On The Park",
+      "area": "Cheadle",
+      "vibe": "Victorian boutique hotel of the Oddfellows family — design-led rooms, terrace dining and a playful sense of occasion on the park.",
+      "images": [
+        {
+          "alt": "Oddfellows On The Park in Cheadle",
+          "url": "/assets/opt/date/oddfellows-on-the-park/01.webp"
+        }
+      ],
+      "website": "https://oddfellowsonthepark.com/",
+      "instagram": ""
+    },
+    {
+      "id": "east-lancashire-railway",
+      "name": "East Lancashire Railway",
+      "area": "Bury",
+      "vibe": "Heritage steam railway with dining experiences — scenic journeys and Dining with Distinction through the Irwell Valley.",
+      "images": [
+        {
+          "alt": "East Lancashire Railway in Bury",
+          "url": "/assets/opt/date/east-lancashire-railway/01.webp"
+        }
+      ],
+      "website": "https://www.eastlancsrailway.org.uk/",
+      "instagram": ""
+    },
+    {
+      "id": "smithills-hall",
+      "name": "Smithills Hall",
+      "area": "Bolton",
+      "vibe": "One of the oldest and best preserved manor houses in the North West, set on the edge of the West Pennine Moors.",
+      "images": [
+        {
+          "alt": "Smithills Hall in Bolton",
+          "url": "/assets/opt/date/smithills-hall/01.webp"
+        }
+      ],
+      "website": "https://www.boltonlams.co.uk/smithills-hall",
+      "instagram": ""
+    },
+    {
+      "id": "gallery-oldham",
+      "name": "Gallery Oldham",
+      "area": "Oldham",
+      "vibe": "Free gallery of exhibitions, collections and displays in Oldham's Cultural Quarter — open five days a week.",
+      "images": [
+        {
+          "alt": "Gallery Oldham in Oldham",
+          "url": "/assets/opt/date/gallery-oldham/01.webp"
+        }
+      ],
+      "website": "https://hla.oldham.gov.uk/gallery-oldham/",
+      "instagram": ""
+    },
+    {
+      "id": "turton-tower",
+      "name": "Turton Tower",
+      "area": "Turton",
+      "vibe": "Historic house with a pele tower and timber-framed ranges, gardens and seasonal openings in the countryside north of Bolton.",
+      "images": [
+        {
+          "alt": "Turton Tower in Turton",
+          "url": "/assets/opt/date/turton-tower/01.webp"
+        }
+      ],
+      "website": "https://turtontower.com/",
+      "instagram": ""
+    },
+    {
+      "id": "hall-i-th-wood",
+      "name": "Hall i' th' Wood",
+      "area": "Bolton",
+      "vibe": "Originally a 16th-century half-timbered hall later linked with inventor Samuel Crompton — a Grade I listed museum of Bolton heritage.",
+      "images": [
+        {
+          "alt": "Hall i' th' Wood in Bolton",
+          "url": "/assets/opt/date/hall-i-th-wood/01.webp"
+        }
+      ],
+      "website": "https://www.boltonlams.co.uk/hall-i-th-wood-museum",
+      "instagram": ""
+    },
+    {
+      "id": "astley-hall",
+      "name": "Astley Hall",
+      "area": "Chorley",
+      "vibe": "The jewel in Chorley's crown — a historic hall dating from the 1570s with collections, parkland and an enlightening afternoon visit.",
+      "images": [
+        {
+          "alt": "Astley Hall in Chorley",
+          "url": "/assets/opt/date/astley-hall/01.webp"
+        }
+      ],
+      "website": "https://astleypark.co.uk/homepage/2/astley-hall",
+      "instagram": ""
+    },
+    {
+      "id": "stockport-market",
+      "name": "Stockport Market",
+      "area": "Stockport",
+      "vibe": "Stockport Market and Underbanks — historic market place, independent traders and a lively foodie hub in the town centre.",
+      "images": [
+        {
+          "alt": "Stockport Market in Stockport",
+          "url": "/assets/opt/date/stockport-market/01.webp"
+        }
+      ],
+      "website": "https://www.stockport.gov.uk/stockport-market",
+      "instagram": ""
     }
   ],
   "dinner": [
