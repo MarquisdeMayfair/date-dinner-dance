@@ -727,6 +727,132 @@
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/s-argamassa/"
+    },
+    {
+      "id": "playa-de-es-canar",
+      "name": "Playa de Es Canar",
+      "area": "Santa Eulalia",
+      "vibe": "Busy family resort beach on the east coast near the Punta Arabí hippie market.",
+      "images": [
+        {
+          "url": "/assets/opt/date/playa-de-es-canar/01.webp",
+          "alt": "Es Canar sandy beach",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/s-canar-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/s-canar/"
+    },
+    {
+      "id": "port-de-sant-miquel",
+      "name": "Port de Sant Miquel",
+      "area": "Sant Joan",
+      "vibe": "Sheltered northern bay with hotels and calm water — great for a quieter coastal day.",
+      "images": [
+        {
+          "url": "/assets/opt/date/port-de-sant-miquel/01.webp",
+          "alt": "Port de Sant Miquel sheltered bay",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/port-de-sant-miquel-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/port-de-sant-miquel/"
+    },
+    {
+      "id": "s-arenal-san-antonio",
+      "name": "S'Arenal San Antonio",
+      "area": "San Antonio",
+      "vibe": "Main beach promenade of San Antonio with views across the bay.",
+      "images": [
+        {
+          "url": "/assets/opt/date/s-arenal-san-antonio/01.webp",
+          "alt": "S'Arenal San Antonio beach promenade",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/s-arenal-san-antonio-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/s-arenal-san-antonio/"
+    },
+    {
+      "id": "sòl-den-serra",
+      "name": "Sòl d'en Serra",
+      "area": "Santa Eulalia",
+      "vibe": "Quiet pebble bay south of Cala Llonga, home to cliffside sea views.",
+      "images": [
+        {
+          "url": "/assets/opt/date/sòl-den-serra/01.webp",
+          "alt": "Sòl d'en Serra pebble bay",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-llonga-nord-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-llonga-north/"
+    },
+    {
+      "id": "cala-molí",
+      "name": "Cala Molí",
+      "area": "Sant Josep",
+      "vibe": "Small west-coast pebble bay with a restaurant between Cala Tarida and Cala Vadella.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cala-molí/01.webp",
+          "alt": "Cala Molí pebble bay",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-tarida-nord-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-tarida-north/"
+    },
+    {
+      "id": "porroig",
+      "name": "Porroig",
+      "area": "Sant Josep",
+      "vibe": "Quiet small cove near Cala Jondal with boat jetties and clear water.",
+      "images": [
+        {
+          "url": "/assets/opt/date/porroig/01.webp",
+          "alt": "Porroig cove near Cala Jondal",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-yondal-nord-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-yondal-north/"
+    },
+    {
+      "id": "s-illa-des-bosc",
+      "name": "S'Illa des Bosc",
+      "area": "Sant Joan",
+      "vibe": "Natural cove near Benirràs with rocky views toward the offshore islet.",
+      "images": [
+        {
+          "url": "/assets/opt/date/s-illa-des-bosc/01.webp",
+          "alt": "S'Illa des Bosc natural cove",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-benirras-nord-hero.webp"
+        }
+      ],
+      "website": "https://www.ibizabook.com/en/beaches/cala-benirras-north/"
+    },
+    {
+      "id": "aquarium-cap-blanc",
+      "name": "Aquarium Cap Blanc",
+      "area": "San Antonio",
+      "vibe": "Natural cave aquarium and Marine Species Recovery Centre near San Antonio.",
+      "images": [
+        {
+          "url": "/assets/opt/date/aquarium-cap-blanc/01.webp",
+          "alt": "Aquarium Cap Blanc cave interior",
+          "remote_url": "https://aquariumcapblanc.com/wp-content/uploads/2022/07/Aquarium-Cap-Blanc_03-1-scaled.jpg"
+        }
+      ],
+      "website": "https://aquariumcapblanc.com/?lang=en"
+    },
+    {
+      "id": "hippy-market-las-dalias",
+      "name": "Hippy Market Las Dalias",
+      "area": "San Carlos",
+      "vibe": "Ibiza market since 1985 — handmade fashion, accessories and unique objects across 200+ stalls.",
+      "images": [
+        {
+          "url": "/assets/opt/date/hippy-market-las-dalias/01.webp",
+          "alt": "Las Dalias hippy market stalls",
+          "remote_url": "https://lasdalias.es/images/mercadillos/20211011114916-dsc-2394.jpg"
+        }
+      ],
+      "website": "https://lasdalias.es/en/markets"
     }
   ],
   "dinner": [
@@ -1612,6 +1738,100 @@
       ],
       "website": "https://nohobeachclub.com/en/gastronomia-en/",
       "instagram": "https://www.instagram.com/noho.beach",
+      "instagram_followers": 0
+    },
+    {
+      "id": "can-piscolabis",
+      "name": "Can Piscolabis",
+      "area": "Jesús",
+      "vibe": "Intimate contemporary dining in Jesús — Mediterranean produce with Japanese sensibility, served by its owners.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/can-piscolabis/01.webp",
+          "alt": "Can Piscolabis truffle egg dish",
+          "remote_url": "https://www.canpiscolabis.com/images/kitchen-truffle-egg.webp"
+        }
+      ],
+      "website": "https://www.canpiscolabis.com/",
+      "instagram": "https://www.instagram.com/canpiscolabis",
+      "instagram_followers": 0
+    },
+    {
+      "id": "locals-only",
+      "name": "Locals Only",
+      "area": "Ibiza Town",
+      "vibe": "Modern Ibiza Old Town osteria offering farm-to-table Mediterranean cuisine, wines and a vibrant terrace.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/locals-only/01.webp",
+          "alt": "Locals Only Ibiza restaurant interior",
+          "remote_url": "https://www.localsonlyibiza.com/wp-content/uploads/2020/08/locals-only-restaurant-ibiza13.jpg"
+        }
+      ],
+      "website": "https://www.localsonlyibiza.com/",
+      "instagram": "https://www.instagram.com/localsonly_ibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "a-mi-manera",
+      "name": "A Mi Manera",
+      "area": "San Lorenzo",
+      "vibe": "Garden restaurant near San Lorenzo where nature, flavour and atmosphere meet — organic km0 ingredients from the land.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/a-mi-manera/01.webp",
+          "alt": "A Mi Manera garden dining",
+          "remote_url": "https://static.wixstatic.com/media/6220cb_77e0a3bb4b174af3a6224fced47e7a28~mv2.jpg"
+        }
+      ],
+      "website": "https://www.amimaneraibiza.com/"
+    },
+    {
+      "id": "casa-linda",
+      "name": "Casa Linda",
+      "area": "San José",
+      "vibe": "Casa de comidas & coctelería in San José.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/casa-linda/01.webp",
+          "alt": "Casa Linda dining setting",
+          "remote_url": "https://images.squarespace-cdn.com/content/v1/65779333d94bff1e6d96b558/cfd5742e-0a57-485f-98b5-aa89f089641e/%40mariasantosphotography_casaLinda36.jpg"
+        }
+      ],
+      "website": "https://www.casalindaibiza.com/",
+      "instagram": "https://www.instagram.com/casalindaibiza",
+      "instagram_followers": 0
+    },
+    {
+      "id": "la-oliva",
+      "name": "La Oliva",
+      "area": "Ibiza Town",
+      "vibe": "Good food and Dalt Vila atmosphere — dinners meant to be special, remembered, with street musicians nearby.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/la-oliva/01.webp",
+          "alt": "La Oliva prawns with lemon",
+          "remote_url": "https://laolivaibiza.com/templates/yootheme/cache/5e/La-oliva-restauant%205-5e063be9.jpeg"
+        }
+      ],
+      "website": "https://laolivaibiza.com/",
+      "instagram": "https://www.instagram.com/laolivaibizarestaurante",
+      "instagram_followers": 0
+    },
+    {
+      "id": "la-paloma",
+      "name": "La Paloma",
+      "area": "San Lorenzo",
+      "vibe": "Homemade Italian-inspired Mama cuisine by night in a candle-lit citrus garden — family-run since 2004 in Sant Llorenç.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/la-paloma/01.webp",
+          "alt": "La Paloma garden terrace",
+          "remote_url": "https://palomaibiza.com/wp-content/uploads/2024/03/LV_Home_Header03_Mobile_Glossy.jpeg"
+        }
+      ],
+      "website": "https://palomaibiza.com/",
+      "instagram": "https://www.instagram.com/lapalomaibiza",
       "instagram_followers": 0
     }
   ],
