@@ -7,12 +7,9 @@
       "vibe": "Iconic west-coast sunset beach with turquoise water and islet views.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-comte-hero.webp",
-          "alt": "Cala Comte with turquoise water, the offshore islet S"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-comte-2.webp",
-          "alt": "Surf at Cala Comte with a view of the offshore islands"
+          "url": "/assets/opt/date/cala-comte/01.webp",
+          "alt": "Cala Comte with turquoise water, the offshore islet S",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-comte-hero.webp"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-comte/"
@@ -24,12 +21,9 @@
       "vibe": "Southwest beach famous for sunset views toward Es Vedrà and Es Vedranell.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-dhort-hero.webp",
-          "alt": "Bay of Cala d"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-dhort-2.webp",
-          "alt": "Fishing huts and clear water at Cala d"
+          "url": "/assets/opt/date/cala-dhort/01.webp",
+          "alt": "Bay of Cala d",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-dhort-hero.webp"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-dhort/"
@@ -41,12 +35,9 @@
       "vibe": "Southwest cliffs and Cala d'Hort foreshore facing the iconic Es Vedrà islet; the former cliff mirador has been restricted, beach-level views remain.",
       "images": [
         {
-          "url": "https://spainroam.com/wp-content/uploads/2026/02/scenic-lookout-near-Cala-dHort-Es-Vedra-area.webp",
-          "alt": "Es Vedrà viewpoint near Cala d'Hort"
-        },
-        {
-          "url": "https://spainroam.com/wp-content/uploads/2026/02/Cala-dHort-sunset-over-Es-Vedra.webp",
-          "alt": "Sunset over Es Vedrà from Cala d'Hort area"
+          "url": "/assets/opt/date/es-vedrà-viewpoint-area-cala-dhort-cliffs/01.webp",
+          "alt": "Es Vedrà viewpoint near Cala d'Hort",
+          "remote_url": "https://spainroam.com/wp-content/uploads/2026/02/scenic-lookout-near-Cala-dHort-Es-Vedra-area.webp"
         }
       ],
       "website": "https://spainroam.com/beaches/cala-dhort-ibiza/"
@@ -58,12 +49,9 @@
       "vibe": "Northern hippie bay known for Sunday sunset drumming sessions.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-benirras-hero.webp",
-          "alt": "Cala Benirràs with the striking rock Cap Bernat in the cove, sailing boats and rocky cliffs"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-benirras-bucht.webp",
-          "alt": "Crystal-clear turquoise water of Cala Benirràs with wooded hills and fishermen"
+          "url": "/assets/opt/date/cala-benirràs/01.webp",
+          "alt": "Cala Benirràs with the striking rock Cap Bernat in the cove, sailing boats and rocky cliffs",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-benirras-hero.webp"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-benirras/"
@@ -75,12 +63,9 @@
       "vibe": "Pine-backed cove north of San Antonio with clear water.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-salada-hero.webp",
-          "alt": "The bay of Cala Salada with turquoise, clear water, pine-covered hills and the old fishermen’s huts in the red-ochre cliffs"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-salada-2.webp",
-          "alt": "View through the pine trees of the beach and the turquoise bay of Cala Salada with lifeguard tower"
+          "url": "/assets/opt/date/cala-salada/01.webp",
+          "alt": "The bay of Cala Salada with turquoise, clear water, pine-covered hills and the old fishermen’s huts in the red-ochre cliffs",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-salada-hero.webp"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-salada/"
@@ -92,12 +77,9 @@
       "vibe": "Small neighbouring cove to Cala Salada reached by coastal path.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-saladeta-hero.webp",
-          "alt": "The small, untouched Cala Saladeta with light sand, turquoise water and pine trees, seen from above"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-saladeta-2.webp",
-          "alt": "View through the pine trees of the bright turquoise water of Cala Saladeta from the path"
+          "url": "/assets/opt/date/cala-saladeta/01.webp",
+          "alt": "The small, untouched Cala Saladeta with light sand, turquoise water and pine trees, seen from above",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-saladeta-hero.webp"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-saladeta/"
@@ -109,8 +91,9 @@
       "vibe": "Wide sandy west-coast beach near San Antonio with turquoise water and pine trees.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-bassa-2.webp",
-          "alt": "Beach club atmosphere at Cala Bassa"
+          "url": "/assets/opt/date/cala-bassa/01.webp",
+          "alt": "Beach club atmosphere at Cala Bassa",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-bassa-2.webp"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-bassa/"
@@ -122,12 +105,9 @@
       "vibe": "South-coast beach known for beach clubs and clear water.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-jondal-hero.webp",
-          "alt": "Pebble bay Cala Jondal with sophisticated beach clubs"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-jondal-2.webp",
-          "alt": "Beach club atmosphere at Cala Jondal"
+          "url": "/assets/opt/date/cala-jondal/01.webp",
+          "alt": "Pebble bay Cala Jondal with sophisticated beach clubs",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-jondal-hero.webp"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-jondal/"
@@ -139,8 +119,9 @@
       "vibe": "Northern cove known for snorkelling and a cliff swing.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-xarraca-hero.webp",
-          "alt": "Cala Xarraca on Ibiza"
+          "url": "/assets/opt/date/cala-xarraca/01.webp",
+          "alt": "Cala Xarraca on Ibiza",
+          "remote_url": "https://www.ibizabook.com/static/img/straende/cala-xarraca-hero.webp"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-xarraca/"
@@ -152,12 +133,9 @@
       "vibe": "UNESCO-listed fortified old town of Ibiza with rampart and bastion viewpoints over the harbour.",
       "images": [
         {
-          "url": "https://media.illesbalears.travel/experiencia-ibiza-pasear-entre-las--murallas-de-dalt-vila-img1.jpg",
-          "alt": "Dalt Vila walls Ibiza"
-        },
-        {
-          "url": "https://media.illesbalears.travel/experiencia-ibiza-pasear-entre-las--murallas-de-dalt-vila-img0.jpg",
-          "alt": "Walk on Dalt Vila walls"
+          "url": "/assets/opt/date/dalt-vila/01.webp",
+          "alt": "Dalt Vila walls Ibiza",
+          "remote_url": "https://media.illesbalears.travel/experiencia-ibiza-pasear-entre-las--murallas-de-dalt-vila-img1.jpg"
         }
       ],
       "website": "https://www.illesbalears.travel/en/ibiza/a-walk-on-the-wall-of-dalt-vila"
