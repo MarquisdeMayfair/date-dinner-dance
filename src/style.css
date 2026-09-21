@@ -13,7 +13,7 @@
   --shadow: 0 8px 24px rgba(23, 19, 18, 0.12);
   --safe-top: env(safe-area-inset-top, 0px);
   --safe-bottom: env(safe-area-inset-bottom, 0px);
-  --card-h: min(17dvh, 148px);
+  --card-h: min(18dvh, 156px);
   --dock-h: calc(76px + var(--safe-bottom));
   color-scheme: light;
 }
@@ -204,27 +204,27 @@ a {
 .reels {
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 8px;
   flex: 1;
   min-height: 0;
-  overflow-y: auto;
-  padding-bottom: 4px;
+  overflow: hidden;
 }
 
 .reel {
   position: relative;
   display: grid;
   grid-template-columns: 28px auto minmax(0, 1fr);
-  grid-template-rows: auto 1fr;
-  column-gap: 6px;
-  row-gap: 2px;
+  grid-template-rows: auto minmax(0, 1fr);
+  column-gap: 8px;
+  row-gap: 4px;
   align-items: center;
-  padding: 6px 8px 8px;
+  padding: 8px;
   background: var(--cream);
   border: 2px solid var(--ink);
   border-radius: 18px;
   box-shadow: var(--shadow);
-  flex-shrink: 0;
+  flex: 1 1 0;
+  min-height: 0;
 }
 
 .reel[data-reel="date"] {
@@ -241,32 +241,17 @@ a {
 
 .reel-label {
   grid-column: 1 / -1;
-  font-size: 0.65rem;
+  font-size: 0.68rem;
   font-weight: 600;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   text-align: center;
   background: var(--ink);
   color: var(--cream);
-  padding: 4px 12px;
+  padding: 5px 12px;
   border-radius: 999px;
   width: fit-content;
-  margin: 0 auto 2px;
-}
-
-.reel[data-reel="date"] .reel-label {
-  background: var(--cream);
-  color: var(--coral-deep);
-}
-
-.reel[data-reel="dinner"] .reel-label {
-  background: var(--ink);
-  color: var(--yellow);
-}
-
-.reel[data-reel="dance"] .reel-label {
-  background: var(--cream);
-  color: var(--teal);
+  margin: 0 auto;
 }
 
 .nudges {
@@ -318,11 +303,15 @@ a {
   grid-row: 2;
   display: flex;
   justify-content: center;
+  align-self: stretch;
+  height: 100%;
+  min-height: 0;
 }
 
 .window {
   position: relative;
-  height: var(--card-h);
+  container-type: size;
+  height: 100%;
   aspect-ratio: 4 / 5;
   overflow: hidden;
   border-radius: 12px;
@@ -337,6 +326,7 @@ a {
 
 .card {
   height: var(--card-h);
+  height: 100cqh;
   position: relative;
 }
 
@@ -372,10 +362,12 @@ a {
 
 .reveal h3 {
   margin: 0;
-  font-family: Jost, system-ui, sans-serif;
-  font-size: 1rem;
-  font-weight: 600;
-  line-height: 1.15;
+  font-family: "Bricolage Grotesque", system-ui, sans-serif;
+  font-size: 1.12rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.12;
+  overflow-wrap: anywhere;
 }
 
 .reel[data-reel="date"] .reveal h3,
@@ -661,7 +653,7 @@ a {
 .sheet-status {
   min-height: 1.2em;
   margin: 10px 0 0;
-  color: var(--teal);
+  color: var(--coral-deep);
   font-size: 0.78rem;
 }
 
@@ -718,7 +710,7 @@ a {
   }
 
   :root {
-    --card-h: min(16dvh, 130px);
+    --card-h: min(20dvh, 148px);
   }
 
   .hero {
@@ -726,23 +718,17 @@ a {
   }
 
   .reels {
-    gap: 5px;
+    gap: 6px;
   }
 
   .reel {
-    padding: 5px 6px 6px;
-    row-gap: 1px;
-  }
-
-  .reel-label {
-    padding: 3px 10px;
-    font-size: 0.6rem;
+    padding: 6px 7px 7px;
   }
 }
 
 @media (max-height: 680px) {
   :root {
-    --card-h: min(14.5dvh, 115px);
+    --card-h: min(18dvh, 128px);
   }
 
   .city-slide {
