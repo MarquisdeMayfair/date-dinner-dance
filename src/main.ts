@@ -75,7 +75,7 @@ function easeOutExpo(t: number): number {
 }
 
 function cardHeight(windowEl: HTMLElement): number {
-  return windowEl.getBoundingClientRect().height;
+  return Math.round(windowEl.clientHeight);
 }
 
 const iconGlobe = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.8 2.7 4.2 5.8 4.2 9s-1.4 6.3-4.2 9c-2.8-2.7-4.2-5.8-4.2-9s1.4-6.3 4.2-9Z"/></svg>`;
@@ -277,6 +277,7 @@ class Reel {
       this.syncOffset();
     });
     this.resizeObserver.observe(this.windowEl);
+    requestAnimationFrame(() => this.layout());
   }
 
   get current(): Venue {
@@ -334,8 +335,9 @@ class Reel {
   }
 
   private syncCardHeights(): void {
-    const height = Math.round(this.windowEl.clientHeight);
+    const height = cardHeight(this.windowEl);
     if (!height) return;
+    this.windowEl.style.setProperty("--card-h", `${height}px`);
     this.stripEl.querySelectorAll<HTMLElement>(".card").forEach((card) => {
       card.style.height = `${height}px`;
     });

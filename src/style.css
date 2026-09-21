@@ -333,12 +333,18 @@ a {
 }
 
 .strip {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
   will-change: transform;
 }
 
 .card {
+  width: 100%;
   height: var(--card-h);
   position: relative;
+  overflow: hidden;
 }
 
 .card img {
