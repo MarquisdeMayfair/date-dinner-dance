@@ -7,12 +7,8 @@
       "vibe": "Rooftop cocktail terrace with panoramic Spinningfields views (same venue as restaurant).",
       "images": [
         {
-          "url": "https://bunny-wp-pullzone-9sjyosbdw8.b-cdn.net/wp-content/uploads/sites/19/2025/09/JKP_129-scaled-1.jpg",
+          "url": "/assets/opt/date/20-stories-rooftop-bar/01.webp",
           "alt": "A modern rooftop garden lounge with cosy seating, lush plants, metal bird sculptures, and large glass windows offering a"
-        },
-        {
-          "url": "https://bunny-wp-pullzone-9sjyosbdw8.b-cdn.net/wp-content/uploads/sites/19/2026/08/@mooncakepictures-24-1-1895.jpg",
-          "alt": "Four cocktails in short glasses with orange slices sit on a marble bar counter with warm yellow lighting, against a blur"
         }
       ],
       "website": "https://20stories.co.uk/",
@@ -26,12 +22,8 @@
       "vibe": "National Trust elevated park on a disused Victorian railway viaduct above Castlefield.",
       "images": [
         {
-          "url": "https://nt.global.ssl.fastly.net/binaries/content/gallery/website/national/regions/cheshire-greater-manchester/places/castlefield-viaduct/library/built-heritage-history-and-collections/nt22meb6-castlefield-viaduct-view-from-castlefield-bowl.jpg",
+          "url": "/assets/opt/date/castlefield-viaduct/01.webp",
           "alt": "Castlefield Viaduct"
-        },
-        {
-          "url": "https://nt.global.ssl.fastly.net/binaries/content/gallery/website/national/regions/cheshire-greater-manchester/places/castlefield-viaduct/library/built-heritage-history-and-collections/nt22meb6-castlefield-viaduct-view-from-castlefield-bowl.jpg",
-          "alt": "Castlefield Viaduct, Manchester, view from Castlefield Bowl"
         }
       ],
       "website": "https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/castlefield-viaduct",
@@ -45,7 +37,7 @@
       "vibe": "Canal basin walks under Victorian viaducts, lined with bars and warehouses.",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bridgewater_Canal%2C_Castlefield_Basin_%28geograph_6966336%29.jpg",
+          "url": "/assets/opt/date/castlefield-canals/01.webp",
           "alt": "Castlefield Canals"
         }
       ],
@@ -58,12 +50,8 @@
       "vibe": "Skyline cocktail bar on the 23rd floor of the Hilton/Beetham Tower.",
       "images": [
         {
-          "url": "https://images.getbento.com/accounts/d315883b1c1a685b0cf02209627b0095/media/images/63400Simple_Grape_Photo_Email_Header_Banner_1300_Ã_200px.png",
+          "url": "/assets/opt/date/cloud-23/01.webp",
           "alt": "Hospitality Image Item 1"
-        },
-        {
-          "url": "https://images.getbento.com/",
-          "alt": "Cloud 23"
         }
       ],
       "website": "https://www.cloud23bar.com/",
@@ -77,12 +65,8 @@
       "vibe": "Gothic historic library with rare books and a cathedral-like reading room; free to visit.",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/John_Rylands_Library_-_geograph.org.uk_-_5393251.jpg",
+          "url": "/assets/opt/date/john-rylands-library/01.webp",
           "alt": "John Rylands Library - geograph.org.uk - 5393251.jpg"
-        },
-        {
-          "url": "https://www.library.manchester.ac.uk/rylands/rylands-home-banner-apr-2026.jpg",
-          "alt": "The John Rylands Library"
         }
       ],
       "website": "https://www.library.manchester.ac.uk/rylands/",
@@ -96,12 +80,8 @@
       "vibe": "Oldest public library in the English-speaking world; historic reading rooms.",
       "images": [
         {
-          "url": "https://static.chethams.com/app/themes/chethams-child-library/social-banner.jpg",
+          "url": "/assets/opt/date/chetham-s-library/01.webp",
           "alt": "Chetham's Library"
-        },
-        {
-          "url": "https://static.chethams.com/app/uploads/sites/3/2016/07/humphrey-chetham-1.jpg",
-          "alt": "Featured image"
         }
       ],
       "website": "https://library.chethams.com/",
@@ -115,11 +95,7 @@
       "vibe": "Waterfront promenade around MediaCityUK, The Lowry and IWM North — popular sunset walk.",
       "images": [
         {
-          "url": "https://visitsalford.info/media/1580/sc0037.jpg",
-          "alt": "Salford Quays"
-        },
-        {
-          "url": "https://www.visitsalford.info/media/355fo4nx/6708_walking-festival-2026_tw.jpg",
+          "url": "/assets/opt/date/salford-quays/01.webp",
           "alt": "Salford Quays"
         }
       ],
@@ -134,12 +110,8 @@
       "vibe": "University art gallery with a glass wing projecting into Whitworth Park.",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/The_Whitworth_Art_Gallery_in_Manchester_-_50140147328.jpg",
+          "url": "/assets/opt/date/the-whitworth/01.webp",
           "alt": "The Whitworth Art Gallery in Manchester - 50140147328.jpg"
-        },
-        {
-          "url": "https://www.whitworth.manchester.ac.uk/images/pss/thewhitworth.png",
-          "alt": "The Whitworth"
         }
       ],
       "website": "https://www.whitworth.manchester.ac.uk/",
@@ -153,7 +125,7 @@
       "vibe": "Edwardian botanical gardens and rock garden in Didsbury with tea room.",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Fletcher_moss7.jpg",
+          "url": "/assets/opt/date/fletcher-moss-botanical-garden/01.webp",
           "alt": "Fletcher Moss Botanical Garden"
         }
       ],
@@ -166,7 +138,7 @@
       "vibe": "Large municipal park with boating lake, woodland and Heaton Hall; reachable by Metrolink.",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Heaton_Park_2016_035.jpg",
+          "url": "/assets/opt/date/heaton-park/01.webp",
           "alt": "Heaton Park 2016 035.jpg"
         }
       ],
@@ -179,11 +151,7 @@
       "vibe": "Food hall in a restored Victorian market building — shared plates and atmosphere.",
       "images": [
         {
-          "url": "https://mackie-mayor.co.uk/wp-content/uploads/2025/09/Mackie-Mayor.webp",
-          "alt": "Mackie Mayor"
-        },
-        {
-          "url": "https://mackie-mayor.co.uk/wp-content/uploads/2025/09/Mackie-Mayor-1.webp",
+          "url": "/assets/opt/date/mackie-mayor/01.webp",
           "alt": "Mackie Mayor"
         }
       ],
@@ -198,7 +166,7 @@
       "vibe": "City art gallery with Pre-Raphaelite collections and free entry.",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Manchester_Art_Gallery..jpg",
+          "url": "/assets/opt/date/manchester-art-gallery/01.webp",
           "alt": "Manchester Art Gallery..jpg"
         }
       ],
@@ -211,7 +179,7 @@
       "vibe": "Gothic cathedral hosting choral services and concerts.",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Manchester_Cathedral.JPG",
+          "url": "/assets/opt/date/manchester-cathedral/01.webp",
           "alt": "Manchester Cathedral.JPG"
         }
       ],
@@ -224,12 +192,8 @@
       "vibe": "University museum with natural history and world cultures collections; free general entry.",
       "images": [
         {
-          "url": "http://static1.squarespace.com/static/6800d959a14cab232e464f76/t/68246ef78c26eb0facf79ee5/1779789970297/MM+Website+rework+OCT+2023+V1.jpeg",
+          "url": "/assets/opt/date/manchester-museum/01.webp",
           "alt": "Manchester Museum"
-        },
-        {
-          "url": "https://images.squarespace-cdn.com/content/v1/6800d959a14cab232e464f76/fee5d953-e344-4940-a7e9-9e1699ac9d15/Sleepover-Website-Banner-image_Suitcase.jpg",
-          "alt": "A suitcase full of dinosaur-themed children's items, next to the silhouette of a Tyrannosaurus rex, overlaid with the wo"
         }
       ],
       "website": "https://www.museum.manchester.ac.uk/",
@@ -243,11 +207,7 @@
       "vibe": "Northern Quarter live jazz bar with pizza and cocktails.",
       "images": [
         {
-          "url": "http://static1.squarespace.com/static/5d07976fec9fc800013feb27/t/5f8d92c54b54194d13d1ee45/1603113678028/Social+Sharing+Image.jpg",
-          "alt": "Matt and Phreds"
-        },
-        {
-          "url": "https://images.squarespace-cdn.com/content/v1/5d07976fec9fc800013feb27/217658c5-d0f0-4f89-8f9e-82b686a9109c/350497786_1065103901543321_1079354384022379480_n.jpg",
+          "url": "/assets/opt/date/matt-and-phreds/01.webp",
           "alt": "Matt and Phreds"
         }
       ],
@@ -262,7 +222,7 @@
       "vibe": "Independent cinema, theatre and gallery with on-site restaurant — a classic culture date.",
       "images": [
         {
-          "url": "https://img.homemcr.org/0JjF3Ab4KqBgEbL-EirLkdkAGwVBBcCDNUbQD-jMePE/c:1592:899/s:690:390:1/format:png/aHR0cHM6Ly93d3cuaG9tZW1jci5vcmcvL2Ntc19maWxlcy9zeXN0ZW0vaW1hZ2VzL2ltZzQ1MjVfb3JpZy5wbmc",
+          "url": "/assets/opt/date/home/01.webp",
           "alt": "HOME"
         }
       ],
@@ -277,12 +237,8 @@
       "vibe": "Theatre-in-the-round inside the historic Royal Exchange.",
       "images": [
         {
-          "url": "https://www.royalexchange.co.uk/wp-content/uploads/2023/10/01RET-RomeoJuliet-Conor-Glean-Romeo-Shalisha-James-Davis-Juliet-Image-Johan-Persson-low-res.jpg",
+          "url": "/assets/opt/date/royal-exchange-theatre/01.webp",
           "alt": "Royal Exchange Theatre"
-        },
-        {
-          "url": "https://eqdjeazrh5d.exactdn.com/wp-content/uploads/2023/06/Untitled-design-19-640x360.jpg",
-          "alt": "Join our mailing list"
         }
       ],
       "website": "https://royalexchange.co.uk/",
@@ -296,11 +252,7 @@
       "vibe": "Grade II* former swimming baths used for tours and events.",
       "images": [
         {
-          "url": "https://victoriabaths.org.uk/wp-content/uploads/2023/11/visit.png",
-          "alt": "Victoria Baths"
-        },
-        {
-          "url": "https://victoriabaths.org.uk/wp-content/uploads/2026/05/Banner-4.png",
+          "url": "/assets/opt/date/victoria-baths/01.webp",
           "alt": "Victoria Baths"
         }
       ],
@@ -315,7 +267,7 @@
       "vibe": "Park adjoining The Whitworth gallery, popular for walks and cherry blossom.",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Peopleinwhitworthpark.JPG",
+          "url": "/assets/opt/date/whitworth-park/01.webp",
           "alt": "Whitworth Park"
         }
       ],
@@ -328,12 +280,8 @@
       "vibe": "Daniel Libeskind-designed war museum at Salford Quays.",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Imperial_War_Museum_2008cropped.jpg",
+          "url": "/assets/opt/date/imperial-war-museum-north/01.webp",
           "alt": "Imperial War Museum 2008cropped.jpg"
-        },
-        {
-          "url": "https://www.iwm.org.uk/sites/default/files/2020-03/iwmn_hero_mar2020.jpg",
-          "alt": "Imperial War Museum North"
         }
       ],
       "website": "https://www.iwm.org.uk/visits/iwm-north"
@@ -345,7 +293,7 @@
       "vibe": "Major museum of Manchester’s industrial and scientific heritage on Liverpool Road.",
       "images": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Science_and_Industry_Museum.jpg/3840px-Science_and_Industry_Museum.jpg",
+          "url": "/assets/opt/date/science-and-industry-museum/01.webp",
           "alt": "Science and Industry Museum"
         }
       ],
@@ -358,11 +306,7 @@
       "vibe": "Retro arcade and cocktail bar in the Northern Quarter.",
       "images": [
         {
-          "url": "https://nq64.co.uk/wp-content/uploads/2024/07/4V8A2337-Enhanced-NR.jpg",
-          "alt": "NQ64"
-        },
-        {
-          "url": "https://nq64.co.uk/wp-content/uploads/2023/08/nq64-locations-london-soho-sep-2026-700x467.jpg",
+          "url": "/assets/opt/date/nq64/01.webp",
           "alt": "NQ64"
         }
       ],
@@ -377,11 +321,7 @@
       "vibe": "Neon crazy-golf courses with cocktails off Whitworth Street.",
       "images": [
         {
-          "url": "https://www.junkyardgolfclub.co.uk/wp-content/uploads/2026/09/Student-Offer-1-480x480.webp",
-          "alt": "Junkyard Golf Club Manchester"
-        },
-        {
-          "url": "https://www.junkyardgolfclub.co.uk/wp-content/uploads/2026/09/JYGC-XMAS-Carousel-2048-3-480x480.webp",
+          "url": "/assets/opt/date/junkyard-golf-club-manchester/01.webp",
           "alt": "Junkyard Golf Club Manchester"
         }
       ],
@@ -398,12 +338,8 @@
       "vibe": "Rooftop restaurant and cocktail bar in Spinningfields with 360° city views and a modern British menu.",
       "images": [
         {
-          "url": "https://bunny-wp-pullzone-9sjyosbdw8.b-cdn.net/wp-content/uploads/sites/19/2025/09/JKP_129-scaled-1.jpg",
+          "url": "/assets/opt/dinner/20-stories/01.webp",
           "alt": "A modern rooftop garden lounge with cosy seating, lush plants, metal bird sculptures, and large glass windows offering a"
-        },
-        {
-          "url": "https://bunny-wp-pullzone-9sjyosbdw8.b-cdn.net/wp-content/uploads/sites/19/2026/08/@mooncakepictures-24-1-1895.jpg",
-          "alt": "Four cocktails in short glasses with orange slices sit on a marble bar counter with warm yellow lighting, against a blur"
         }
       ],
       "website": "https://20stories.co.uk/",
@@ -436,11 +372,7 @@
       "vibe": "Avant-garde British fine dining in Ancoats; Manchester’s first Michelin star since 1977 when awarded in 2019.",
       "images": [
         {
-          "url": "https://manarestaurant.co.uk/cdn/shop/files/preview_images/060afd53ace44bffb13d08fe2b297e50.thumbnail.0000000000_1920x.jpg",
-          "alt": "Mana"
-        },
-        {
-          "url": "https://manarestaurant.co.uk/cdn/shop/files/preview_images/08a62fdc3bc04d1fa69e22f927aed5e4.thumbnail.0000000000_1080x1920.jpg",
+          "url": "/assets/opt/dinner/mana/01.webp",
           "alt": "Mana"
         }
       ],
@@ -455,7 +387,7 @@
       "vibe": "Pan-Asian restaurant in Spinningfields known for dramatic lighting and a blossoming cherry-tree centrepiece.",
       "images": [
         {
-          "url": "https://tattu.co.uk/wp-content/uploads/2022/10/Tattu-Overall-FB-Social-Card-1.jpg",
+          "url": "/assets/opt/dinner/tattu/01.webp",
           "alt": "Tattu"
         }
       ],
@@ -498,12 +430,8 @@
       "vibe": "Hip city-centre restaurant focused on sustainability, whole animals from local farms and produce from Cinderwood Market Garden.",
       "images": [
         {
-          "url": "https://highergroundmcr.co.uk/wp-content/uploads/2023/07/Full-background1.jpg",
+          "url": "/assets/opt/dinner/higher-ground/01.webp",
           "alt": "A modern and thoughtful Manchester bistro"
-        },
-        {
-          "url": "https://highergroundmcr.co.uk/wp-content/uploads/2025/05/Higher-Ground-Neon-Sign-scaled.jpg",
-          "alt": "Higher Ground"
         }
       ],
       "website": "https://highergroundmcr.co.uk/",
@@ -517,11 +445,7 @@
       "vibe": "Dining and drinking in the tiled Victorian spaces of the Kimpton Clocktower Hotel.",
       "images": [
         {
-          "url": "https://www.refugemcr.co.uk/wp/../content/uploads/Homepage-feature-bar-1600x697.jpg",
-          "alt": "Refuge Public Bar"
-        },
-        {
-          "url": "https://www.refugemcr.co.uk/wp/../content/uploads/Homepage-feature-bar-1024x446.jpg",
+          "url": "/assets/opt/dinner/the-refuge-by-volta/01.webp",
           "alt": "Refuge Public Bar"
         }
       ],
@@ -535,11 +459,7 @@
       "vibe": "Modern tasting-menu restaurant in a restored Victorian coffee warehouse loft in Stockport.",
       "images": [
         {
-          "url": "https://images.squarespace-cdn.com/content/v1/5c61dbfd51f4d43e0bc49587/b508beb7-ebea-4b75-97ba-48a3c06047d3/wtlgi.jpg",
-          "alt": "Where The Light Gets In"
-        },
-        {
-          "url": "https://images.squarespace-cdn.com/content/v1/5c61dbfd51f4d43e0bc49587/c994ed28-a429-4d00-865e-cd6d2f5e7782/Red+mullet.jpg",
+          "url": "/assets/opt/dinner/where-the-light-gets-in/01.webp",
           "alt": "Where The Light Gets In"
         }
       ],
@@ -554,11 +474,7 @@
       "vibe": "Modern British restaurant from chef Shaun Moffat with generous sharing plates and white-tablecloth atmosphere.",
       "images": [
         {
-          "url": "https://winsomemcr.co.uk/images/hero-slideshow/INTERIORS-10.jpg",
-          "alt": "Winsome Restaurant"
-        },
-        {
-          "url": "https://winsomemcr.co.uk/images/hero-slideshow/INTERIORS-25.jpg",
+          "url": "/assets/opt/dinner/winsome/01.webp",
           "alt": "Winsome Restaurant"
         }
       ],
@@ -573,12 +489,8 @@
       "vibe": "Spanish kitchen in Castlefield with hand-cured meats and an intimate candlelit dining room.",
       "images": [
         {
-          "url": "https://labandera.co.uk/wp-content/uploads/2016/03/front_page.jpg",
+          "url": "/assets/opt/dinner/la-bandera/01.webp",
           "alt": "La Bandera"
-        },
-        {
-          "url": "https://i0.wp.com/labandera.co.uk/wp-content/uploads/2016/03/front_page.jpg",
-          "alt": "La Bandera – Best Spanish Restaurant in Manchester"
         }
       ],
       "website": "https://labandera.co.uk/",
@@ -592,11 +504,7 @@
       "vibe": "Stylish natural wine bar and restaurant in Ancoats with an open-flame grill and seasonal small plates.",
       "images": [
         {
-          "url": "https://erst-mcr.co.uk/wp-content/uploads/2026/09/web-1809.png",
-          "alt": "Erst"
-        },
-        {
-          "url": "https://erst-mcr.co.uk/wp-content/uploads/2026/09/Drinks-02.09.png",
+          "url": "/assets/opt/dinner/erst/01.webp",
           "alt": "Erst"
         }
       ],
@@ -609,7 +517,7 @@
       "vibe": "Bombay café in the old Freemasons’ Hall. Stained glass, bacon naan rolls, house black daal — walk in for breakfast or a late feast; most tables stay unreserved.",
       "images": [
         {
-          "url": "https://cdn.sanity.io/images/daku84np/production/d1c6e4f438138db8570c5aa1a41029428c3011eb-1200x794.jpg",
+          "url": "/assets/opt/dinner/dishoom/01.webp",
           "alt": "Dishoom"
         }
       ],
@@ -633,11 +541,7 @@
       "vibe": "Three-storey townhouse on King Street: pavement tables, an open kitchen with a chef’s table, and a rooftop terrace under a retractable roof. Spanish tapas since 2016.",
       "images": [
         {
-          "url": "https://www.elgatonegrotapas.com/wp-content/uploads/2019/07/booking_page_locations-v2_mcr.jpg",
-          "alt": "El Gato Negro Tapas"
-        },
-        {
-          "url": "https://www.elgatonegrotapas.com/wp-content/uploads/2023/08/ElGatoNegro_ManchesterDSC_0832_1500px-1500x630.jpg",
+          "url": "/assets/opt/dinner/el-gato-negro-tapas/01.webp",
           "alt": "El Gato Negro Tapas"
         }
       ],
@@ -661,7 +565,7 @@
       "vibe": "You go downstairs. A glass entrance on The Avenue drops into a subterranean dining room with a shareable global menu and late DJ nights.",
       "images": [
         {
-          "url": "https://static.wixstatic.com/media/79e2e3_8c5e33aa16bb4485b2adb7ad194364fa~mv2.png/v1/fill/w_1500,h_750,al_c/79e2e3_8c5e33aa16bb4485b2adb7ad194364fa~mv2.png",
+          "url": "/assets/opt/dinner/australasia/01.webp",
           "alt": "Australasia"
         }
       ],
@@ -703,12 +607,8 @@
       "vibe": "Indian street food and craft beer at communal tables — a canteen-taproom hybrid, open late. Manchester has this Piccadilly hall plus a separate brewery.",
       "images": [
         {
-          "url": "https://bundobust.com/wp-content/uploads/2026/04/2026-02-11_Bundobust_NewMenu_lifestyle-49-scaled.jpg",
+          "url": "/assets/opt/dinner/bundobust/01.webp",
           "alt": "Photograph of a selection of food from the new Bundobust menu"
-        },
-        {
-          "url": "https://bundobust.com/wp-content/uploads/2019/09/2025-05-28-Bundobust_Piccadilly-35-scaled.jpg",
-          "alt": "Photograph of the interior at Bundobust Manchester Piccadilly"
         }
       ],
       "website": "https://bundobust.com/Manchester/",
@@ -731,12 +631,8 @@
       "vibe": "The first Rudy’s. Neapolitan dough fermented up to 24 hours, San Marzano and fior di latte, fired hot on Cotton Street — where the chain began.",
       "images": [
         {
-          "url": "https://assets.rudyspizza.co.uk/content/uploads/2024/04/Ancoats-Header-1-1400x788.jpg",
+          "url": "/assets/opt/dinner/rudy-s-pizza/01.webp",
           "alt": "authentic rustic italian style restaurant decoration"
-        },
-        {
-          "url": "https://assets.rudyspizza.co.uk/content/uploads/2024/04/Ancoats-mobile-header-480x600.jpg",
-          "alt": "rudy's sign inside restaurant with tables near the wall"
         }
       ],
       "website": "https://www.rudyspizza.co.uk/location/ancoats/",
@@ -759,7 +655,7 @@
       "vibe": "Brazilian rodizio on The Avenue: gaucho chefs carve grilled cuts at the table, then the market table of salads and sides. This is the old Fazenda, now Fogo de Chão.",
       "images": [
         {
-          "url": "https://media.fogodechao.uk/wp-content/uploads/2026/04/04095626/Fogo-de-Chao-Manchester-Hero-Banner.webp",
+          "url": "/assets/opt/dinner/fazenda/01.webp",
           "alt": "Fogo de Chão Manchester on The Avenue, Spinningfields"
         }
       ],
@@ -784,7 +680,7 @@
       "vibe": "Gold-clad cocktail theatre on the Quays. Mixologists build drinks with a bit of staging; terrace sits over the ship canal beside the Lowry.",
       "images": [
         {
-          "url": "https://a.storyblok.com/f/321600/2048x1365/2db3acceb8/alchemist-bottomless-weekend-brunch.jpg/m/1920x0/filters:quality(40)",
+          "url": "/assets/opt/dinner/the-alchemist/01.webp",
           "alt": "https://a.storyblok.com/f/321600/2048x1365/2db3acceb8/alchemist-bottomless-weekend-brunch.jpg"
         }
       ],
@@ -808,11 +704,7 @@
       "vibe": "Indian street food under the Corn Exchange glass: indoor swings, fairy lights, tiffin-style sharing plates. Second Mowgli to open, still the Manchester one.",
       "images": [
         {
-          "url": "https://mowglistreetfood.com/wp-content/uploads/2026/06/Manchester-Main-Image.jpg",
-          "alt": "Mowgli Street Food"
-        },
-        {
-          "url": "https://mowglistreetfood.com/wp-content/uploads/2026/01/Tablescape-lifestyle-Mowgli-Aug-202612294_WebRes.jpg",
+          "url": "/assets/opt/dinner/mowgli-street-food/01.webp",
           "alt": "Mowgli Street Food"
         }
       ],
@@ -855,12 +747,8 @@
       "vibe": "Neighbourhood bar and kitchen on Cutting Room Square. Seasonal daytime plates, then evening service looking onto Blossom Street.",
       "images": [
         {
-          "url": "http://static1.squarespace.com/static/58f9f3ae6a49637db3f9b4f9/t/59b9838a7f0cf52b021e9501/1617287273969/Screen+Shot+2017-09-13+at+8.14.06+pm.png",
+          "url": "/assets/opt/dinner/elnecot/01.webp",
           "alt": "Elnecot"
-        },
-        {
-          "url": "https://images.squarespace-cdn.com/content/v1/58f9f3ae6a49637db3f9b4f9/1640190952760-XO2JG4B25KP15MZJFN34/Elnecot+Gallery+Image+4.jpg",
-          "alt": "Elnecot Gallery Image 4.jpg"
         }
       ],
       "website": "https://elnecot.com/",
@@ -885,11 +773,7 @@
       "vibe": "Converted Wesleyan chapel live music and club-night venue.",
       "images": [
         {
-          "url": "https://static.alberthallmanchester.com/app/uploads/2025/12/0Y8A1500.avif",
-          "alt": "Albert Hall"
-        },
-        {
-          "url": "https://static.alberthallmanchester.com/app/uploads/2026/06/The-Coral-Nov-2025-c-Kev-Power-1920x1080.avif",
+          "url": "/assets/opt/dance/albert-hall/01.webp",
           "alt": "Albert Hall"
         }
       ],
@@ -904,11 +788,7 @@
       "vibe": "Iconic live music venue that also hosts late-night music events.",
       "images": [
         {
-          "url": "https://static.bandonthewall.org/app/uploads/2025/07/AsianDub_April2022_JodyHartley_HiRes-81-scaled-aspect-ratio-1600-900-1600x900.jpg",
-          "alt": "Band on the Wall"
-        },
-        {
-          "url": "https://static.bandonthewall.org/app/uploads/2024/01/BOTW_Winter_Spring_Listings_LearningCollage_Wide_01-1600x900.jpg",
+          "url": "/assets/opt/dance/band-on-the-wall/01.webp",
           "alt": "Band on the Wall"
         }
       ],
@@ -923,11 +803,7 @@
       "vibe": "Large former railway depot hosting immersive club nights and electronic events.",
       "images": [
         {
-          "url": "https://depotmayfield.com/app/uploads/2024/01/depot-freight-island-venues-lab-ltd-henry-woide-web-026-jpg.webp",
-          "alt": "Depot Mayfield"
-        },
-        {
-          "url": "https://depotmayfield.com/app/uploads/2024/01/rectangle-685.png",
+          "url": "/assets/opt/dance/depot-mayfield/01.webp",
           "alt": "Depot Mayfield"
         }
       ],
@@ -942,12 +818,8 @@
       "vibe": "Live music and club venue on Whitworth Street West / Great Bridgewater Street.",
       "images": [
         {
-          "url": "https://wp3-fatsomasites.imgix.net/uploads/sites/1168/2019/07/GORILLA-BAR-AND-RESTAURANT-mint.png",
+          "url": "/assets/opt/dance/gorilla/01.webp",
           "alt": "Gorilla"
-        },
-        {
-          "url": "https://fatsoma.imgix.net/W1siZiIsInB1YmxpYy8yMDI2LzMvMTAvOS8zMi80Ni83NzgvUmFja011bHRpcGFydDIwMjYwMzEwLTczLTFvaHZ1ZjYuanBnIl1d",
-          "alt": "Man/Woman/Chainsaw"
         }
       ],
       "website": "https://www.thisisgorilla.com/",
@@ -961,11 +833,7 @@
       "vibe": "Multi-room club established 2015 with Void Acoustics sound, hosting house, techno, jungle and drum & bass.",
       "images": [
         {
-          "url": "https://static.wixstatic.com/media/1c3a05_304aaae16169405493e38c25ad9375c0~mv2.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1c3a05_304aaae16169405493e38c25ad9375c0~mv2.jpg",
-          "alt": "Hidden"
-        },
-        {
-          "url": "https://static.wixstatic.com/media/1c3a05_ae3a582206cb4a17b03625ec07bcef63f000.jpg/v1/fill/w_103,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1c3a05_ae3a582206cb4a17b03625ec07bcef63f000.jpg",
+          "url": "/assets/opt/dance/hidden/01.webp",
           "alt": "Hidden"
         }
       ],
@@ -980,11 +848,7 @@
       "vibe": "Multi-room venue on Charles Street with club spaces including Pink Room and basement nights.",
       "images": [
         {
-          "url": "https://www.yes-manchester.com/images/yes1600x900.jpg",
-          "alt": "YES"
-        },
-        {
-          "url": "https://www.yes-manchester.com/gfx/menus_3.jpg",
+          "url": "/assets/opt/dance/yes/01.webp",
           "alt": "YES"
         }
       ],
@@ -999,7 +863,7 @@
       "vibe": "Underground Salford garage-turned-club known for DIY ethos, heavy sound and eclectic electronic programming.",
       "images": [
         {
-          "url": "https://d23sy9fe9womrt.cloudfront.net/8/61988_lg.jpg",
+          "url": "/assets/opt/dance/the-white-hotel/01.webp",
           "alt": "news article image asset"
         }
       ],
@@ -1014,7 +878,7 @@
       "vibe": "Intimate Northern Quarter bar and club/gig space (formerly Soup Kitchen) focused on local talent and cult electronic bookings.",
       "images": [
         {
-          "url": "https://dhzjvxyl79yzn.cloudfront.net/6/18076_6_soup.jpg",
+          "url": "/assets/opt/dance/soup/01.webp",
           "alt": "Soup"
         }
       ],
@@ -1029,7 +893,7 @@
       "vibe": "Latin American restaurant with late private-club nightlife on Lloyd Street.",
       "images": [
         {
-          "url": "https://mnkyhse-manchester.com/wp-content/uploads/2024/04/mnky-manchester.png",
+          "url": "/assets/opt/dance/mnky-hse-manchester/01.webp",
           "alt": "mnky manchester"
         }
       ],
@@ -1043,12 +907,8 @@
       "vibe": "Long-running record shop and intimate club space with low ceilings and vinyl-led Open to Close parties.",
       "images": [
         {
-          "url": "http://www.easternblocrecords.com/cdn/shop/files/e_bloc_png_-_horizontal_SMALLER_PNG.jpg",
+          "url": "/assets/opt/dance/eastern-bloc-records/01.webp",
           "alt": "Eastern Bloc Records"
-        },
-        {
-          "url": "https://www.easternblocrecords.com/cdn/shop/files/CS1181113-01A-BIG.jpg",
-          "alt": "Jay DUNCAN - East Row Dub (12\")"
         }
       ],
       "instagram": "https://www.instagram.com/easternbloc_/",
@@ -1061,11 +921,7 @@
       "vibe": "City-centre bar and late venue regularly hosting club nights, listed on Skiddle.",
       "images": [
         {
-          "url": "https://joshuabrooks.co.uk/wp-content/uploads/2024/03/cropped-Screenshot-2024-03-08-at-09.23.21.png",
-          "alt": "Joshua Brooks"
-        },
-        {
-          "url": "https://joshuabrooks.co.uk/wp-content/uploads/2026/09/JB_Beave_18.09.26_1500x1500.jpg",
+          "url": "/assets/opt/dance/joshua-brooks/01.webp",
           "alt": "Joshua Brooks"
         }
       ],
@@ -1080,11 +936,7 @@
       "vibe": "Northern Quarter live music café and late venue.",
       "images": [
         {
-          "url": "https://nightnday.org/wp-content/uploads/2019/11/NandD_Sharing-image.png",
-          "alt": "Night and Day Cafe"
-        },
-        {
-          "url": "https://nightnday.org/wp-content/themes/plot/assets/img/fallbacks/fallback.jpg",
+          "url": "/assets/opt/dance/night-and-day-cafe/01.webp",
           "alt": "Night and Day Cafe"
         }
       ],
@@ -1098,11 +950,7 @@
       "vibe": "Multi-level bar and live venue with late nights, listed on Skiddle.",
       "images": [
         {
-          "url": "https://wp3-fatsomasites.imgix.net/uploads/sites/1630/2023/08/MG_4585.jpg",
-          "alt": "The Deaf Institute"
-        },
-        {
-          "url": "https://wp3-fatsomasites.imgix.net/uploads/sites/1630/2023/08/MG_7425.jpg",
+          "url": "/assets/opt/dance/the-deaf-institute/01.webp",
           "alt": "The Deaf Institute"
         }
       ],
@@ -1116,12 +964,8 @@
       "vibe": "Gay Village late venue listed on Skiddle.",
       "images": [
         {
-          "url": "https://www.spccs1.co.uk/ImageAssets/05803279e8314981be152537b8a688f7.PNG",
+          "url": "/assets/opt/dance/via/01.webp",
           "alt": "Via Manchester Exterior"
-        },
-        {
-          "url": "https://www.spccs1.co.uk/ImageTiles/228/900x450%20-%20Festive%20Food%20&%20241.png",
-          "alt": "25% off Festive Food"
         }
       ],
       "website": "https://www.viamanchester.co.uk/manchester",
@@ -1135,12 +979,8 @@
       "vibe": "Club venue listed on Skiddle Manchester nightlife listings.",
       "images": [
         {
-          "url": "https://fatsoma.imgix.net/W1siZiIsInB1YmxpYy8yMDI2LzkvMTAvMjAvMTAvNDIvMzQwL1JhY2tNdWx0aXBhcnQyMDI2MDkxMC02MC0xMHppNHJwLmpwZWciXV0",
+          "url": "/assets/opt/dance/rebellion/01.webp",
           "alt": "House of Heavy | Nu Metal + Metalcore DJ Night"
-        },
-        {
-          "url": "https://fatsoma.imgix.net/W1siZiIsInB1YmxpYy8yMDI2LzkvMTQvMTEvMTkvNTAvMjUyL1JhY2tNdWx0aXBhcnQyMDI2MDkxNC02NC0xcXRqdHZoLmpwZyJdXQ",
-          "alt": "BIG ASS TRUCK"
         }
       ],
       "website": "https://www.rebellion.club/",

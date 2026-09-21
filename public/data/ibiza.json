@@ -7,12 +7,8 @@
       "vibe": "Iconic west-coast sunset beach with turquoise water and islet views.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-comte-hero.webp",
+          "url": "/assets/opt/date/cala-comte/01.webp",
           "alt": "Cala Comte with turquoise water, the offshore islet S"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-comte-2.webp",
-          "alt": "Surf at Cala Comte with a view of the offshore islands"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-comte/"
@@ -24,12 +20,8 @@
       "vibe": "Southwest beach famous for sunset views toward Es Vedrà and Es Vedranell.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-dhort-hero.webp",
+          "url": "/assets/opt/date/cala-dhort/01.webp",
           "alt": "Bay of Cala d"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-dhort-2.webp",
-          "alt": "Fishing huts and clear water at Cala d"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-dhort/"
@@ -41,12 +33,8 @@
       "vibe": "Southwest cliffs and Cala d'Hort foreshore facing the iconic Es Vedrà islet; the former cliff mirador has been restricted, beach-level views remain.",
       "images": [
         {
-          "url": "https://spainroam.com/wp-content/uploads/2026/02/scenic-lookout-near-Cala-dHort-Es-Vedra-area.webp",
+          "url": "/assets/opt/date/es-vedrà-viewpoint-area-cala-dhort-cliffs/01.webp",
           "alt": "Es Vedrà viewpoint near Cala d'Hort"
-        },
-        {
-          "url": "https://spainroam.com/wp-content/uploads/2026/02/Cala-dHort-sunset-over-Es-Vedra.webp",
-          "alt": "Sunset over Es Vedrà from Cala d'Hort area"
         }
       ],
       "website": "https://spainroam.com/beaches/cala-dhort-ibiza/"
@@ -58,12 +46,8 @@
       "vibe": "Northern hippie bay known for Sunday sunset drumming sessions.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-benirras-hero.webp",
+          "url": "/assets/opt/date/cala-benirràs/01.webp",
           "alt": "Cala Benirràs with the striking rock Cap Bernat in the cove, sailing boats and rocky cliffs"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-benirras-bucht.webp",
-          "alt": "Crystal-clear turquoise water of Cala Benirràs with wooded hills and fishermen"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-benirras/"
@@ -75,12 +59,8 @@
       "vibe": "Pine-backed cove north of San Antonio with clear water.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-salada-hero.webp",
+          "url": "/assets/opt/date/cala-salada/01.webp",
           "alt": "The bay of Cala Salada with turquoise, clear water, pine-covered hills and the old fishermen’s huts in the red-ochre cliffs"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-salada-2.webp",
-          "alt": "View through the pine trees of the beach and the turquoise bay of Cala Salada with lifeguard tower"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-salada/"
@@ -92,12 +72,8 @@
       "vibe": "Small neighbouring cove to Cala Salada reached by coastal path.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-saladeta-hero.webp",
+          "url": "/assets/opt/date/cala-saladeta/01.webp",
           "alt": "The small, untouched Cala Saladeta with light sand, turquoise water and pine trees, seen from above"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-saladeta-2.webp",
-          "alt": "View through the pine trees of the bright turquoise water of Cala Saladeta from the path"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-saladeta/"
@@ -109,7 +85,7 @@
       "vibe": "Wide sandy west-coast beach near San Antonio with turquoise water and pine trees.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-bassa-2.webp",
+          "url": "/assets/opt/date/cala-bassa/01.webp",
           "alt": "Beach club atmosphere at Cala Bassa"
         }
       ],
@@ -122,12 +98,8 @@
       "vibe": "South-coast beach known for beach clubs and clear water.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-jondal-hero.webp",
+          "url": "/assets/opt/date/cala-jondal/01.webp",
           "alt": "Pebble bay Cala Jondal with sophisticated beach clubs"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-jondal-2.webp",
-          "alt": "Beach club atmosphere at Cala Jondal"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-jondal/"
@@ -139,7 +111,7 @@
       "vibe": "Northern cove known for snorkelling and a cliff swing.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-xarraca-hero.webp",
+          "url": "/assets/opt/date/cala-xarraca/01.webp",
           "alt": "Cala Xarraca on Ibiza"
         }
       ],
@@ -152,12 +124,8 @@
       "vibe": "UNESCO-listed fortified old town of Ibiza with rampart and bastion viewpoints over the harbour.",
       "images": [
         {
-          "url": "https://media.illesbalears.travel/experiencia-ibiza-pasear-entre-las--murallas-de-dalt-vila-img1.jpg",
+          "url": "/assets/opt/date/dalt-vila/01.webp",
           "alt": "Dalt Vila walls Ibiza"
-        },
-        {
-          "url": "https://media.illesbalears.travel/experiencia-ibiza-pasear-entre-las--murallas-de-dalt-vila-img0.jpg",
-          "alt": "Walk on Dalt Vila walls"
         }
       ],
       "website": "https://www.illesbalears.travel/en/ibiza/a-walk-on-the-wall-of-dalt-vila"
@@ -169,7 +137,7 @@
       "vibe": "Natural cliff balcony near Santa Agnès de Corona overlooking Ses Margalides islets; popular sunset spot.",
       "images": [
         {
-          "url": "https://veronicaibizatransfer.com/wp-content/uploads/Mirador-puertas-del-cielo.jpeg",
+          "url": "/assets/opt/date/las-puertas-del-cielo/01.webp",
           "alt": "Las Puertas del Cielo viewpoint Ibiza"
         }
       ],
@@ -182,12 +150,8 @@
       "vibe": "Trendy south beach inside Ses Salines Natural Park with bright sand and pines.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/las-salinas-hero.webp",
+          "url": "/assets/opt/date/ses-salines/01.webp",
           "alt": "Light sandy beach at Ses Salines with pine trees and turquoise water"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/las-salinas-2.webp",
-          "alt": "Beach bar atmosphere at Ses Salines with sun loungers"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/las-salinas/"
@@ -199,12 +163,8 @@
       "vibe": "Natural park beach near Las Salinas, known for open sand and dunes.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/es-cavallet-hero.webp",
+          "url": "/assets/opt/date/es-cavallet/01.webp",
           "alt": "Unspoiled dune beach Es Cavallet in the natural park"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/es-cavallet-2.webp",
-          "alt": "Long sandy beach Es Cavallet with dunes"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/es-cavallet/"
@@ -216,12 +176,8 @@
       "vibe": "Historic Phoenician settlement cove (Es Bol Nou / Sa Caleta) on the south coast.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/sa-caleta-hero.webp",
+          "url": "/assets/opt/date/sa-caleta/01.webp",
           "alt": "Sa Caleta with its distinctive red sandstone cliffs, sandy beach and turquoise water"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/sa-caleta-2.webp",
-          "alt": "Surf at Cala de Sa Caleta in front of the reddish-brown sandstone cliffs with rocks in the foreground"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/sa-caleta/"
@@ -233,7 +189,7 @@
       "vibe": "Highest point on Ibiza at about 475 m, offering 360-degree panoramic views of the island.",
       "images": [
         {
-          "url": "https://www.diariodeibiza.com/ep-contenido/files/2024/09/Sa-Talaia-1-1200x1200.webp",
+          "url": "/assets/opt/date/sa-talaia/01.webp",
           "alt": "Sa Talaia Ibiza highest peak"
         }
       ],
@@ -246,7 +202,7 @@
       "vibe": "Show cave near Port de Sant Miquel often combined with northern coastal visits.",
       "images": [
         {
-          "url": "https://covadecanmarsa.com/__l5e/assets-v1/70f196ab-6a7b-4e95-b20f-86a856ab91ba/og-card.jpg",
+          "url": "/assets/opt/date/cova-de-can-marçà/01.webp",
           "alt": "Cova de Can Marçà Ibiza"
         }
       ],
@@ -259,7 +215,7 @@
       "vibe": "Sheltered southwest sandy bay.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-vadella-hero.webp",
+          "url": "/assets/opt/date/cala-vadella/01.webp",
           "alt": "Cala Vadella on Ibiza"
         }
       ],
@@ -272,12 +228,8 @@
       "vibe": "Popular west-coast sandy beach with clear water.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-tarida-hero.webp",
+          "url": "/assets/opt/date/cala-tarida/01.webp",
           "alt": "Light sandy beach at Cala Tarida with turquoise water"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-tarida-2.webp",
-          "alt": "Sun loungers and clear water at Cala Tarida"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-tarida/"
@@ -289,7 +241,7 @@
       "vibe": "Northeast nudist-friendly beach (s'Aigua Blanca) with cliffs.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/s-aigua-blanca-hero.webp",
+          "url": "/assets/opt/date/aigües-blanques/01.webp",
           "alt": "Aigües Blanques on Ibiza"
         }
       ],
@@ -302,12 +254,8 @@
       "vibe": "Wide sandy bay in the green east near San Carlos.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-llenya-hero.webp",
+          "url": "/assets/opt/date/cala-llenya/01.webp",
           "alt": "Turquoise-clear water and the rocks of Cala Llenya in the green east of Ibiza"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-llenya-2.webp",
-          "alt": "View across the bay of Cala Llenya onto the sandy beach"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-llenya/"
@@ -319,7 +267,7 @@
       "vibe": "Small rocky east-coast cove.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/pou-des-lleo-hero.webp",
+          "url": "/assets/opt/date/pou-des-lleó/01.webp",
           "alt": "Pou des Lleó on Ibiza"
         }
       ],
@@ -332,7 +280,7 @@
       "vibe": "Bay beach near Ibiza Town, easy for couples' beachfront evenings.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/talamanca-hero.webp",
+          "url": "/assets/opt/date/talamanca/01.webp",
           "alt": "Sandstrand von Talamanca mit Palmen und Blick auf die Bucht bei Ibiza-Stadt"
         }
       ],
@@ -345,12 +293,8 @@
       "vibe": "Small neighbouring cove to Cala Gració, popular for swimming.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-gracioneta-hero.webp",
+          "url": "/assets/opt/date/cala-gracioneta/01.webp",
           "alt": "The small bay of Cala Gracioneta with turquoise, clear water, red-ochre rocks, pine trees and the beach restaurant at the end of the bay"
-        },
-        {
-          "url": "https://www.ibizabook.com/static/img/straende/cala-gracioneta-2.webp",
-          "alt": "Crystal-clear turquoise water at Cala Gracioneta, framed by red-ochre rocks and pine trees"
         }
       ],
       "website": "https://www.ibizabook.com/en/beaches/cala-gracioneta/"
@@ -362,7 +306,7 @@
       "vibe": "String of small turquoise coves at Cala Comte / Platges de Comte.",
       "images": [
         {
-          "url": "https://www.ibizabook.com/static/img/straende/platges-de-comte-hero.webp",
+          "url": "/assets/opt/date/platges-de-comte/01.webp",
           "alt": "Platges de Comte coves on Ibiza"
         }
       ],
@@ -377,12 +321,8 @@
       "vibe": "Elevated Mediterranean dining with spectacular sea views.",
       "images": [
         {
-          "url": "https://www.amanteibiza.com/wp-content/uploads/2023/10/AMANTE-168-683x1024.jpg",
+          "url": "/assets/opt/dinner/amante-ibiza/01.webp",
           "alt": "Amante Ibiza"
-        },
-        {
-          "url": "https://www.amanteibiza.com/wp-content/uploads/2023/10/AMANTE-9-1-1920x1500.jpg",
-          "alt": "Amante Ibiza cliff restaurant"
         }
       ],
       "website": "https://www.amanteibiza.com/",
@@ -396,12 +336,8 @@
       "vibe": "Natural harmony, conscious cuisine & dreamy sea views.",
       "images": [
         {
-          "url": "https://www.aiyannaibiza.com/wp-content/uploads/2026/02/group-8.jpg",
+          "url": "/assets/opt/dinner/aiyanna-ibiza/01.webp",
           "alt": "Aiyanna Ibiza beach restaurant"
-        },
-        {
-          "url": "https://www.aiyannaibiza.com/wp-content/uploads/2026/02/group-4.jpg",
-          "alt": "Aiyanna Ibiza dining"
         }
       ],
       "website": "https://aiyannaibiza.com/",
@@ -415,12 +351,8 @@
       "vibe": "Aubergine is a charming and relaxed countryside restaurant…",
       "images": [
         {
-          "url": "https://atzaro.com/wp-content/uploads/2024/02/Atzaro-Agroturismo-Hotel-Luxury-Hotel-Ibiza-Restaurants-and-Dining.webp",
+          "url": "/assets/opt/dinner/aubergine-by-atzaró/01.webp",
           "alt": "Aubergine by Atzaró dining"
-        },
-        {
-          "url": "https://atzaro.com/wp-content/uploads/2022/03/luxury-hotel-in-ibiza-1.jpeg",
-          "alt": "Atzaró Agroturismo Ibiza"
         }
       ],
       "website": "https://www.atzaro.com/",
@@ -434,12 +366,8 @@
       "vibe": "One of Ibiza's true dining institutions - celebrating the…",
       "images": [
         {
-          "url": "https://cdn.cms.boooooooooost.com/cmr0n48190000j90a8saxash2/uploads/1782827620829-l9jcwf4nwg8.webp",
+          "url": "/assets/opt/dinner/bambuddha/01.webp",
           "alt": "Bambuddha Ibiza"
-        },
-        {
-          "url": "https://cdn.cms.boooooooooost.com/cmr0n48190000j90a8saxash2/sections/1782825753630-67f214nzw1a.webp",
-          "alt": "Bambuddha dining"
         }
       ],
       "website": "https://bambuddha.com/",
@@ -453,12 +381,8 @@
       "vibe": "Book a sunbed or enjoy a leisurely lunch in the boho-chic…",
       "images": [
         {
-          "url": "https://besobeach.com/wp-content/uploads/2022/06/Beso-Beach-Ibiza-Foto-Quique-Rico-Mayo-2018.png",
+          "url": "/assets/opt/dinner/beso-beach/01.webp",
           "alt": "Beso Beach Ibiza"
-        },
-        {
-          "url": "https://besobeach.com/wp-content/uploads/2022/06/P1444083-1.png",
-          "alt": "Beso Beach restaurant"
         }
       ],
       "website": "https://www.besobeach.com/ibiza",
@@ -472,7 +396,7 @@
       "vibe": "A legendary boho haven for feasts, shared experiences,…",
       "images": [
         {
-          "url": "https://static1.squarespace.com/static/603399664a2da747346d11c7/t/645c10eae275f672ef60e074/1683755242175/Beachouse-Ibiza_by_Georg-Roske_+354_LowRes.jpg",
+          "url": "/assets/opt/dinner/beachouse-ibiza/01.webp",
           "alt": "Beachouse Ibiza"
         }
       ],
@@ -487,11 +411,7 @@
       "vibe": "Serving up cool beats, tasty food and cocktails, all set to…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/119847/slideshow-1643824639_17.jpg",
-          "alt": "Café Mambo"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/119847/slideshow-1643824639_8.jpg",
+          "url": "/assets/opt/dinner/café-mambo/01.webp",
           "alt": "Café Mambo"
         }
       ],
@@ -506,7 +426,7 @@
       "vibe": "A winning combination of exceptional food quality and a…",
       "images": [
         {
-          "url": "https://c-p.rmcdn.net/5d57db5b612c9b58cc12ed39/1991492/Screenshot-85ab5d9c-973e-4218-91be-c05365c57be0_readyscr_1024.jpg",
+          "url": "/assets/opt/dinner/casa-jondal/01.webp",
           "alt": "Casa Jondal Ibiza"
         }
       ],
@@ -521,11 +441,7 @@
       "vibe": "Where Ibiza's signature style meets coastal luxury.",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137678/slideshow-1759745653_12.jpg",
-          "alt": "Cotton Beach Club"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137678/slideshow-1787043410_3.jpg",
+          "url": "/assets/opt/dinner/cotton-beach-club/01.webp",
           "alt": "Cotton Beach Club"
         }
       ],
@@ -540,7 +456,7 @@
       "vibe": "An elegant yet relaxed seaside restaurant that offers…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137527/slideshow-1645175302.jpg",
+          "url": "/assets/opt/dinner/el-chiringuito-es-cavallet/01.webp",
           "alt": "El Chiringuito Es Cavallet"
         }
       ],
@@ -555,12 +471,8 @@
       "vibe": "Fish and seafood restaurant with Es Vedrà views, Michelin recommended.",
       "images": [
         {
-          "url": "https://esboldadoibiza.com/Media/esboldadoibiza/_Profiles/ff7c6b28/97e884d7/Playa-restaurante.jpg",
+          "url": "/assets/opt/dinner/es-boldado/01.webp",
           "alt": "Es Boldado beach restaurant"
-        },
-        {
-          "url": "https://esboldadoibiza.com/Media/esboldadoibiza/_Profiles/ff7c6b28/97e884d7/Mar-cielo-azul.jpg",
-          "alt": "Es Boldado sea view"
         }
       ],
       "website": "https://esboldadoibiza.com/",
@@ -574,11 +486,7 @@
       "vibe": "Bohemian chic, romantic cocktail bar and restaurant…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137539/slideshow-1668519218_8.jpg",
-          "alt": "Hostal La Torre"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137539/slideshow-1645177676.jpg",
+          "url": "/assets/opt/dinner/hostal-la-torre/01.webp",
           "alt": "Hostal La Torre"
         }
       ],
@@ -593,11 +501,7 @@
       "vibe": "A uniquely atmospheric dining experience, exuding class and…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/75278/slideshow-1704712884.jpg",
-          "alt": "Sa Capella Restaurant"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/75278/slideshow-1704712884_0.jpg",
+          "url": "/assets/opt/dinner/sa-capella-restaurant/01.webp",
           "alt": "Sa Capella Restaurant"
         }
       ],
@@ -612,12 +516,8 @@
       "vibe": "The classic beachfront restaurant on the sand of Las…",
       "images": [
         {
-          "url": "https://satrinxa.com/wp-content/uploads/2026/06/sa-trinxa-restaurante-chiringuito-salinas.jpg",
+          "url": "/assets/opt/dinner/sa-trinxa/01.webp",
           "alt": "Sa Trinxa Ses Salines"
-        },
-        {
-          "url": "https://satrinxa.com/wp-content/uploads/2026/08/saTrinxa_Salines_Ibiza_Dron.webp",
-          "alt": "Sa Trinxa aerial view"
         }
       ],
       "website": "https://satrinxa.com/",
@@ -631,11 +531,7 @@
       "vibe": "Precision-made Japanese fusion cuisine to be enjoyed on the…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/132633/slideshow-1747217028_8.jpg",
-          "alt": "Nobu Ibiza Bay"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/132633/slideshow-1747217028_9.jpg",
+          "url": "/assets/opt/dinner/nobu-ibiza-bay/01.webp",
           "alt": "Nobu Ibiza Bay"
         }
       ],
@@ -650,11 +546,7 @@
       "vibe": "Mediterranean cuisine with a magical ambience, occupying…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137519/slideshow-1689513197_3.jpg",
-          "alt": "Experimental Beach"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137519/slideshow-1689513197.jpg",
+          "url": "/assets/opt/dinner/experimental-beach/01.webp",
           "alt": "Experimental Beach"
         }
       ],
@@ -668,11 +560,7 @@
       "vibe": "A luxurious VIP experience and fine dining on the sands of…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/130341/slideshow-1679332789.jpg",
-          "alt": "Nassau Beach Club"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/130341/slideshow-1622715814_3.jpg",
+          "url": "/assets/opt/dinner/nassau-beach-club/01.webp",
           "alt": "Nassau Beach Club"
         }
       ],
@@ -687,11 +575,7 @@
       "vibe": "Dine on the shaded terraces overlooking the picturesque bay…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/75255/slideshow-1749237720.jpg",
-          "alt": "Cala Gracioneta"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/75255/slideshow-1749237720_0.jpg",
+          "url": "/assets/opt/dinner/cala-gracioneta/01.webp",
           "alt": "Cala Gracioneta"
         }
       ],
@@ -706,7 +590,7 @@
       "vibe": "Traditional Ibizan cuisine with a touch of class in this…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/127165/slideshow-1540288359.jpg",
+          "url": "/assets/opt/dinner/can-berri-vell/01.webp",
           "alt": "Can Berri Vell"
         }
       ],
@@ -719,12 +603,8 @@
       "vibe": "International/fusion fine dining in Eivissa, Michelin Guide listed.",
       "images": [
         {
-          "url": "https://lagaiaibiza.com/wp-content/uploads/2025/03/Rectangle-5-4.webp",
+          "url": "/assets/opt/dinner/la-gaia/01.webp",
           "alt": "La Gaia Ibiza"
-        },
-        {
-          "url": "https://lagaiaibiza.com/wp-content/uploads/2025/03/LaGaia-home-01-763x1024.webp",
-          "alt": "La Gaia restaurant"
         }
       ],
       "website": "https://lagaiaibiza.com/",
@@ -738,11 +618,7 @@
       "vibe": "Signature cocktails, tapas and dishes from a wood-fired…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/143627/slideshow-1747913889.JPG",
-          "alt": "LU·UM Ibiza"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/143627/slideshow-1747913944_4.JPG",
+          "url": "/assets/opt/dinner/luum-ibiza/01.webp",
           "alt": "LU·UM Ibiza"
         }
       ],
@@ -757,12 +633,8 @@
       "vibe": "Innovative restaurant in Sant Josep de sa Talaia, Michelin Guide listed.",
       "images": [
         {
-          "url": "https://images.neobookings.com/1080x720/cms/unicrestaurantibiza.com/section/the-restaurant/pics/the-restaurant-z5wjj4xwdj.jpeg",
+          "url": "/assets/opt/dinner/unic/01.webp",
           "alt": "UNIC Restaurant Ibiza"
-        },
-        {
-          "url": "https://images.neobookings.com/1080x720/cms/unicrestaurantibiza.com/section/la-bodega/pics/la-bodega-pyxomnj6n1.jpg",
-          "alt": "UNIC wine cellar"
         }
       ],
       "website": "https://unicrestaurantibiza.com/",
@@ -776,11 +648,7 @@
       "vibe": "Authentic Mediterranean food with picturesque views, this…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137542/slideshow-1645180653.jpg",
-          "alt": "Yemanjá"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/137542/slideshow-1743608379_14.jpeg",
+          "url": "/assets/opt/dinner/yemanjá/01.webp",
           "alt": "Yemanjá"
         }
       ],
@@ -795,11 +663,7 @@
       "vibe": "Great food, delicious cocktails, eclectic music and…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/139390/slideshow-1687171648.jpg",
-          "alt": "Zazú Ibiza"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/139390/slideshow-1687175190_0.jpg",
+          "url": "/assets/opt/dinner/zazú-ibiza/01.webp",
           "alt": "Zazú Ibiza"
         }
       ],
@@ -814,11 +678,7 @@
       "vibe": "Fine dining in classy surroundings at the tranquil far end…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/138329/slideshow-1741953365_6.jpg",
-          "alt": "Coco Beach"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/138329/slideshow-1741953365_8.jpg",
+          "url": "/assets/opt/dinner/coco-beach/01.webp",
           "alt": "Coco Beach"
         }
       ],
@@ -833,11 +693,7 @@
       "vibe": "One-of-a-kind fine dining experience in a spectacular…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/141707/slideshow-1722420575.jpg",
-          "alt": "Eden Hacienda Na Xamena"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/141707/slideshow-1722420575_0.jpg",
+          "url": "/assets/opt/dinner/eden-hacienda-na-xamena/01.webp",
           "alt": "Eden Hacienda Na Xamena"
         }
       ],
@@ -852,11 +708,7 @@
       "vibe": "Exquisite fine dining at the heart of Santa Gertrudis'…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/133101/slideshow-1778671042_1.jpeg",
-          "alt": "Finca La Plaza Ibiza"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/133101/slideshow-1778671042_0.jpeg",
+          "url": "/assets/opt/dinner/finca-la-plaza-ibiza/01.webp",
           "alt": "Finca La Plaza Ibiza"
         }
       ],
@@ -871,11 +723,7 @@
       "vibe": "Combining farm, restaurant and boutique, Juntos House is a…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/138984/slideshow-1688141026_13.jpg",
-          "alt": "Juntos House"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/138984/slideshow-1688140547_16.jpg",
+          "url": "/assets/opt/dinner/juntos-house/01.webp",
           "alt": "Juntos House"
         }
       ],
@@ -889,11 +737,7 @@
       "vibe": "Wood-fired delicacies and relaxed dining overlooking the…",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/144867/slideshow-1779970258.jpg",
-          "alt": "Nūn Ibiza"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/restaurant-images/144867/slideshow-1779970258_0.jpg",
+          "url": "/assets/opt/dinner/nūn-ibiza/01.webp",
           "alt": "Nūn Ibiza"
         }
       ],
@@ -910,7 +754,7 @@
       "vibe": "Outdoor hillside day-party venue near San Antonio (IRG), known for open-air garden parties.",
       "images": [
         {
-          "url": "https://www.528ibiza.com/media/cache/4b/45/4b451d7dfce4962ddfd2ad02b32f8318.jpg",
+          "url": "/assets/opt/dance/528-ibiza/01.webp",
           "alt": "528 Ibiza venue"
         }
       ],
@@ -925,12 +769,8 @@
       "vibe": "Hyperclub on the former Privilege site in San Rafael; DJ Mag #1 club in its debut year (2025), large indoor/outdoor production.",
       "images": [
         {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/venue-images/142375/slideshow-1777575619.jpg",
+          "url": "/assets/opt/dance/unvrs/01.webp",
           "alt": "[UNVRS] Ibiza venue"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/venue-images/142375/slideshow-1781546939_1.jpg",
-          "alt": "[UNVRS] Ibiza interior"
         }
       ],
       "website": "https://www.unvrs.com/",
@@ -944,12 +784,8 @@
       "vibe": "Boutique club space at Las Dalias in San Carlos, combining open-air garden fiestas with indoor tech-house sessions.",
       "images": [
         {
-          "url": "https://akashaibiza.com/wp-content/uploads/2024/02/foto-lr-scaled.jpg",
+          "url": "/assets/opt/dance/akasha-las-dalias/01.webp",
           "alt": "Akasha Las Dalias Ibiza"
-        },
-        {
-          "url": "https://akashaibiza.com/wp-content/uploads/2026/03/260920_NIDO-1-1.jpg",
-          "alt": "Akasha Ibiza event space"
         }
       ],
       "website": "https://akashaibiza.com/",
@@ -963,12 +799,8 @@
       "vibe": "Ibiza institution with Main Room and Terraza, known for techno and diverse electronic programming.",
       "images": [
         {
-          "url": "https://www.amnesia.es/uploads/headers/16092026112003928930.jpeg",
+          "url": "/assets/opt/dance/amnesia/01.webp",
           "alt": "Amnesia Ibiza"
-        },
-        {
-          "url": "https://www.amnesia.es/uploads/headers/03092026131204974291.jpeg",
-          "alt": "Amnesia Ibiza club"
         }
       ],
       "website": "https://www.amnesia.es/",
@@ -982,12 +814,8 @@
       "vibe": "Lower-key family-friendly day club neighbouring O Beach in San Antonio.",
       "images": [
         {
-          "url": "https://bambukuibiza.com/wp-content/uploads/2026/04/01-Adults.jpg",
+          "url": "/assets/opt/dance/bam-bu-ku/01.webp",
           "alt": "Bam-Bu-Ku Ibiza day venue"
-        },
-        {
-          "url": "https://bambukuibiza.com/wp-content/uploads/2026/04/03-Restaurant.jpg",
-          "alt": "Bam-Bu-Ku restaurant area"
         }
       ],
       "website": "https://bambukuibiza.com/",
@@ -1001,12 +829,8 @@
       "vibe": "Famous San Antonio sunset bar on the Sunset Strip, long associated with chill-out and sunset sessions.",
       "images": [
         {
-          "url": "https://imagedelivery.net/gWm-cErGDmEnDn2Z5pH7Pw/3a94a7d1-3c49-480f-9c08-8387f8e5e300/w=1200",
+          "url": "/assets/opt/dance/café-del-mar/01.webp",
           "alt": "Café del Mar Ibiza sunset"
-        },
-        {
-          "url": "https://imagedelivery.net/gWm-cErGDmEnDn2Z5pH7Pw/b981b694-5110-44f1-9bf4-d83dc20be300/w=1200",
-          "alt": "Café del Mar Ibiza terrace"
         }
       ],
       "website": "https://cafedelmar.com/ibiza",
@@ -1020,12 +844,8 @@
       "vibe": "Intimate upscale club in Ibiza Marina with 1920s Shanghai styling and a formal dress code.",
       "images": [
         {
-          "url": "https://chinois.com/wp-content/uploads/2026/03/16x9_banner1.jpg",
+          "url": "/assets/opt/dance/chinois-ibiza/01.webp",
           "alt": "Chinois Ibiza club"
-        },
-        {
-          "url": "https://chinois.com/wp-content/uploads/2025/07/Mario_Pinta_Chinois_IMS_PacoOsuna_25.04.2025-60.jpg",
-          "alt": "Chinois Ibiza dancefloor"
         }
       ],
       "website": "https://chinois.com/",
@@ -1039,12 +859,8 @@
       "vibe": "Amnesia-owned hillside venue in San José with restaurant, outdoor stage and small downstairs club space.",
       "images": [
         {
-          "url": "https://covasanta.com/img/venue-seo.jpg",
+          "url": "/assets/opt/dance/cova-santa/01.webp",
           "alt": "Cova Santa Ibiza venue"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/venue-images/91298/slideshow-1715523085.jpg",
-          "alt": "Cova Santa Ibiza"
         }
       ],
       "website": "https://covasanta.com/en/the-venue",
@@ -1058,12 +874,8 @@
       "vibe": "Pacha Group adults resort near Talamanca with outdoor stage parties and exclusive Tox club space.",
       "images": [
         {
-          "url": "https://destino.fivehotelsandresorts.com/wp-content/uploads/2024/12/NEW-05-NEW.jpg",
+          "url": "/assets/opt/dance/destino-five-ibiza/01.webp",
           "alt": "Destino Five Ibiza resort"
-        },
-        {
-          "url": "https://destino.fivehotelsandresorts.com/wp-content/uploads/2025/04/DFIBZ-SK-01-H-NEW-1920x1280.jpg",
-          "alt": "Destino Five Ibiza pool"
         }
       ],
       "website": "https://destino.fivehotelsandresorts.com/",
@@ -1077,12 +889,8 @@
       "vibe": "Long-running San Antonio club under a glass pyramid, known for the Fiesta del Agua water party.",
       "images": [
         {
-          "url": "https://www.esparadis.com/wp-content/uploads/2026/05/the-most-beautiful-WEB-819x1024.jpg",
+          "url": "/assets/opt/dance/es-paradis/01.webp",
           "alt": "Es Paradis Ibiza"
-        },
-        {
-          "url": "https://www.esparadis.com/wp-content/uploads/2026/04/WaterParty2026-726x1024.jpg",
-          "alt": "Es Paradis water party"
         }
       ],
       "website": "https://www.esparadis.com/",
@@ -1096,12 +904,8 @@
       "vibe": "Playa d'en Bossa superclub by The Night League with Theatre and Club Room spaces and major production.",
       "images": [
         {
-          "url": "https://hiibiza.b-cdn.net/assets/47ab92b2-8b20-4bbe-8ccd-b8423c2c1b14--20260425_Hi_Opening_0003_5000x4000px_.jpg",
+          "url": "/assets/opt/dance/hï-ibiza/01.webp",
           "alt": "Hï Ibiza club"
-        },
-        {
-          "url": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/auto_1500_width/public/venue-images/126862/slideshow-1783933362.jpg",
-          "alt": "Hï Ibiza venue"
         }
       ],
       "website": "https://www.hiibiza.com/",
@@ -1115,12 +919,8 @@
       "vibe": "Open-air pool party venue in San Antonio aimed at a younger crowd, with Daylife Pass entry option.",
       "images": [
         {
-          "url": "https://www.ibizarocks.com/wp-content/uploads/2025/11/elliotyoungphoto-3563-800x1200.jpg",
+          "url": "/assets/opt/dance/ibiza-rocks-pool-club/01.webp",
           "alt": "Ibiza Rocks Pool Club"
-        },
-        {
-          "url": "https://www.ibizarocks.com/wp-content/uploads/2025/11/DSC_0149-Enhanced-NR-800x533.jpg",
-          "alt": "Ibiza Rocks pool party"
         }
       ],
       "website": "https://www.ibizarocks.com/poolclub/",
@@ -1134,12 +934,8 @@
       "vibe": "Marina cabaret restaurant that transforms into a late-night dancefloor after dinner shows.",
       "images": [
         {
-          "url": "https://www.liogroup.com/wp-content/uploads/2024/07/LIO-IBIZA-CABARET-SEMANA-4-27-1.jpg",
+          "url": "/assets/opt/dance/lío-ibiza/01.webp",
           "alt": "Lío Ibiza cabaret"
-        },
-        {
-          "url": "https://www.liogroup.com/wp-content/uploads/2024/05/Ibiza-location2.jpg",
-          "alt": "Lío Ibiza marina location"
         }
       ],
       "website": "https://www.liogroup.com/ibiza-2",
@@ -1153,12 +949,8 @@
       "vibe": "Mambo-owned Sunset Strip lounge alternative to Café Mambo for cocktails and sunset views.",
       "images": [
         {
-          "url": "https://www.mintbymambo.com/images/recursos/zonas/seafront-mint-by-mambo.jpg",
+          "url": "/assets/opt/dance/mint-lounge/01.webp",
           "alt": "Mint by Mambo seafront"
-        },
-        {
-          "url": "https://www.mintbymambo.com/images/recursos/zonas/mint-lounge-terraza-4.jpg",
-          "alt": "Mint Lounge terrace"
         }
       ],
       "website": "https://www.mintbymambo.com/en/",
@@ -1172,12 +964,8 @@
       "vibe": "San Antonio coastal day club with rotating pool parties, choreographed shows and VIP beds.",
       "images": [
         {
-          "url": "https://obeachibiza.com/wp-content/uploads/2018/10/ob-og-image.png",
+          "url": "/assets/opt/dance/o-beach-ibiza/01.webp",
           "alt": "O Beach Ibiza"
-        },
-        {
-          "url": "https://obeachibiza.com/wp-content/uploads/2024/04/ROMU1287-Editar-aspect-ratio-6-7.jpg",
-          "alt": "O Beach Ibiza pool"
         }
       ],
       "website": "https://obeachibiza.com/",
@@ -1191,12 +979,8 @@
       "vibe": "Iconic Ibiza Town nightclub since 1973, known for its cherry brand and glamorous electronic music nights.",
       "images": [
         {
-          "url": "https://pacha-media-uploads.s3.us-east-1.amazonaws.com/homepage/hero-video-poster.jpg",
+          "url": "/assets/opt/dance/pacha-ibiza/01.webp",
           "alt": "Pacha Ibiza nightclub"
-        },
-        {
-          "url": "https://pacha-production.s3.eu-west-1.amazonaws.com/d63aa659-8061-4edf-ae0b-afc2698f5cc1/ced6668b-bf2f-4fc2-a298-759301e8cbcb.jpg",
-          "alt": "Pacha Ibiza venue"
         }
       ],
       "website": "https://pacha.com/",
@@ -1210,12 +994,8 @@
       "vibe": "Historic boutique hotel club near San Antonio (over-27 guest list), known for intimate Freddie's discotheque parties.",
       "images": [
         {
-          "url": "https://www.pikesibiza.com/wp-content/uploads/2026/01/360A6196-800x1200.jpg",
+          "url": "/assets/opt/dance/pikes/01.webp",
           "alt": "Pikes Ibiza"
-        },
-        {
-          "url": "https://www.pikesibiza.com/wp-content/uploads/2026/07/4R6A9263-copy-1-800x534.jpeg",
-          "alt": "Pikes Ibiza party"
         }
       ],
       "website": "https://www.pikesibiza.com/",
@@ -1229,12 +1009,8 @@
       "vibe": "Beachfront restaurant and late-night club on Playa d'en Bossa, modern successor vibe to Bora Bora.",
       "images": [
         {
-          "url": "https://images.thenightleague.com/cms/containers/assets/playasoleil/home/beach-2.jpg/a0ba922c2d59f731699e53bc8c684418/beach-2.webp",
+          "url": "/assets/opt/dance/playa-soleil/01.webp",
           "alt": "Playa Soleil Ibiza beach club"
-        },
-        {
-          "url": "https://images.thenightleague.com/cms/containers/assets/playasoleil/home/gastronomy.jpg/a8571ebab0d6ed2db0354f56eccc69ef/gastronomy.webp",
-          "alt": "Playa Soleil dining"
         }
       ],
       "website": "https://www.playasoleil.com/",
@@ -1248,12 +1024,8 @@
       "vibe": "Intimate ~380-cap basement club at The Palm Star Hotel in San Antonio Bay; Promised Land Wednesdays.",
       "images": [
         {
-          "url": "https://sundaraibiza.com/wp-content/uploads/2024/07/DSC07680-1-scaled.jpg",
+          "url": "/assets/opt/dance/sundara/01.webp",
           "alt": "Sundara Ibiza"
-        },
-        {
-          "url": "https://sundaraibiza.com/wp-content/uploads/2025/01/SUNDARA-IBIZA-.jpg",
-          "alt": "Sundara Ibiza venue"
         }
       ],
       "website": "https://sundaraibiza.com/",
@@ -1267,12 +1039,8 @@
       "vibe": "R&B and hip-hop specialist club next to Hotel Garbi in Playa d'en Bossa, popular with locals.",
       "images": [
         {
-          "url": "https://swagibizaoficial.com/wp-content/uploads/2025/05/swag-ibiza-oficial.webp",
+          "url": "/assets/opt/dance/swag-ibiza/01.webp",
           "alt": "SWAG Ibiza club"
-        },
-        {
-          "url": "https://swagibizaoficial.com/wp-content/uploads/2025/04/swag-ibiza-270-b.webp",
-          "alt": "SWAG Ibiza"
         }
       ],
       "website": "https://swagibizaoficial.com/",
@@ -1286,12 +1054,8 @@
       "vibe": "Open-air daytime superclub opposite Hï, known for festival-scale stage production and mainstream electronic parties.",
       "images": [
         {
-          "url": "https://assets.ushuaiaibiza.com/3a2d29af-b52c-4737-a144-f5bfa5c54d12-20261010-ants-closing-party-square-1080x1080.jpg",
+          "url": "/assets/opt/dance/ushuaïa-ibiza/01.webp",
           "alt": "Ushuaïa Ibiza"
-        },
-        {
-          "url": "https://assets.ushuaiaibiza.com/57865b5c-e019-4fa7-8c19-fbeff9ce04b8-2026-ui-martingarrix-launch-square-1080x1080px.webp",
-          "alt": "Ushuaïa Ibiza open-air club"
         }
       ],
       "website": "https://www.theushuaiaexperience.com/club/en",
