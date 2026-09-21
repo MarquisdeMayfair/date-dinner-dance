@@ -1,5 +1,5 @@
-/** Public Meta Pixel id from Events Manager. Empty until that id is pasted in. */
-export const META_PIXEL_ID = "";
+/** Public Meta Pixel id from Events Manager. */
+export const META_PIXEL_ID = "4558463687764760";
 
 type Fbq = ((...args: unknown[]) => void) & {
   callMethod?: (...args: unknown[]) => void;

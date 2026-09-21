@@ -45,7 +45,7 @@ Facebook app `2325553588248802` stays on the page for link previews. It is not a
 
 The thing advertisers can buy is a Meta custom audience, not a mailing list.
 
-Events, once the pixel id from Events Manager is set in `src/pixel.ts`:
+Events for pixel `4558463687764760`:
 
 - PageView on the planner.
 - ViewContent with the city name, so Ibiza, London, Manchester, and New York are separate audiences.
@@ -56,7 +56,7 @@ In Ads Manager, build a website audience from each event, then layer the country
 
 Our own hit log stores the same city plus the country Vercel sees. It does not store an IP address or a name. That log is ours. The pixel is what makes the audience usable in Meta.
 
-The pixel stays off until `META_PIXEL_ID` is the numeric id from Events Manager. Do not invent one.
+The base PageView snippet is in `index.html`. City, spin, and Hey let's go are sent from the planner on top of that.
 
 ## What we are not building now
 
