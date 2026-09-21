@@ -239,6 +239,7 @@ class Reel {
   private animating = false;
   private offset = 0;
   private resizeObserver: ResizeObserver | null = null;
+  private fitFrame = 0;
 
   constructor(key: ReelKey, items: Venue[], mount: HTMLElement, startIndex?: number) {
     this.key = key;
@@ -277,8 +278,10 @@ class Reel {
     this.resizeObserver = new ResizeObserver(() => {
       this.syncCardHeights();
       this.syncOffset();
+      this.fitVibe();
     });
     this.resizeObserver.observe(this.windowEl);
+    this.resizeObserver.observe(this.revealEl);
     requestAnimationFrame(() => this.layout());
   }
 
@@ -291,6 +294,7 @@ class Reel {
   }
 
   destroy(): void {
+    cancelAnimationFrame(this.fitFrame);
     this.resizeObserver?.disconnect();
     this.resizeObserver = null;
     this.root.remove();
@@ -348,6 +352,7 @@ class Reel {
   layout(): void {
     this.syncCardHeights();
     this.syncOffset();
+    this.fitVibe();
   }
 
   private applyOffset(value: number): void {
@@ -367,6 +372,33 @@ class Reel {
   showReveal(): void {
     this.revealEl.classList.remove("is-pending");
     this.revealEl.innerHTML = renderReveal(this.current);
+    this.fitVibe();
+  }
+
+  private fitVibe(): void {
+    cancelAnimationFrame(this.fitFrame);
+    this.fitFrame = requestAnimationFrame(() => {
+      const vibe = this.revealEl.querySelector<HTMLElement>(".vibe");
+      if (!vibe) return;
+      vibe.style.maxHeight = "none";
+      vibe.style.setProperty("-webkit-line-clamp", "8");
+      const available = vibe.clientHeight;
+      if (available <= 0) return;
+      const range = document.createRange();
+      range.selectNodeContents(vibe);
+      const rects = [...range.getClientRects()].filter((rect, index, all) => {
+        return all.findIndex((other) => Math.abs(other.top - rect.top) < 1) === index;
+      });
+      const stride = rects.length > 1 ? rects[1].top - rects[0].top : rects[0]?.height || 0;
+      if (!Number.isFinite(stride) || stride <= 0) return;
+      const lines = Math.max(1, Math.floor((available + 0.5) / stride));
+      const boxTop = vibe.getBoundingClientRect().top;
+      const next = rects[lines];
+      const cap = next ? Math.floor(next.top - boxTop) : Math.floor(lines * stride);
+      vibe.style.maxHeight = `${Math.max(Math.floor(stride), cap)}px`;
+      vibe.style.setProperty("-webkit-line-clamp", String(lines));
+      vibe.style.lineClamp = String(lines);
+    });
   }
 
   hideReveal(): void {
