@@ -636,6 +636,110 @@
         }
       ],
       "website": "https://www.craftanddesign.com/"
+    },
+    {
+      "id": "aviva-studios",
+      "name": "Aviva Studios",
+      "area": "St John's",
+      "vibe": "Factory International’s home — putting Manchester on the map as a global destination for arts, music and culture.",
+      "images": [
+        {
+          "url": "/assets/opt/date/aviva-studios/01.webp",
+          "alt": "Aviva Studios geometric white facade on the River Irwell"
+        }
+      ],
+      "website": "https://factoryinternational.org/"
+    },
+    {
+      "id": "53two",
+      "name": "53two",
+      "area": "City Centre",
+      "vibe": "Theatre and arts charity in the railway arches — plays, concerts and events with a unique bar space and accessible professional theatre.",
+      "images": [
+        {
+          "url": "/assets/opt/date/53two/01.webp",
+          "alt": "53two railway-arch bar with colourful door front"
+        }
+      ],
+      "website": "https://53two.com/"
+    },
+    {
+      "id": "museum-of-transport",
+      "name": "Museum of Transport",
+      "area": "Cheetham Hill",
+      "vibe": "Historic buses, coaches, trams and displays inside a 1930s Greater Manchester bus garage.",
+      "images": [
+        {
+          "url": "/assets/opt/date/museum-of-transport/01.webp",
+          "alt": "Museum of Transport Greater Manchester vintage green double-decker bus"
+        }
+      ],
+      "website": "https://www.motgm.uk/"
+    },
+    {
+      "id": "working-class-movement-library",
+      "name": "Working Class Movement Library",
+      "area": "Salford",
+      "vibe": "Free-to-all library and archive covering two hundred years of working-class history — reading room, exhibitions and Friday tours on The Crescent.",
+      "images": [
+        {
+          "url": "/assets/opt/date/working-class-movement-library/01.webp",
+          "alt": "Working Class Movement Library reading room and bookshelves"
+        }
+      ],
+      "website": "https://www.wcml.org.uk/"
+    },
+    {
+      "id": "salford-museum-art-gallery",
+      "name": "Salford Museum & Art Gallery",
+      "area": "Salford",
+      "vibe": "Free museum and gallery with Lark Hill Place Victorian street, changing exhibitions, café and shop.",
+      "images": [
+        {
+          "url": "/assets/opt/date/salford-museum-art-gallery/01.webp",
+          "alt": "Salford Museum and Art Gallery interior gallery"
+        }
+      ],
+      "website": "https://salfordmuseum.com/"
+    },
+    {
+      "id": "old-trafford",
+      "name": "Old Trafford",
+      "area": "Trafford",
+      "vibe": "World-famous home of Manchester United — stadium tours and visit experiences at the Theatre of Dreams.",
+      "images": [
+        {
+          "url": "/assets/opt/date/old-trafford/01.webp",
+          "alt": "Old Trafford stadium exterior Manchester United"
+        }
+      ],
+      "website": "https://www.manutd.com/en/Visit-Old-Trafford"
+    },
+    {
+      "id": "port-street-beer-house",
+      "name": "Port Street Beer House",
+      "area": "Northern Quarter",
+      "vibe": "Northern Quarter craft beer pub serving the best in seasonal modern craft beers and real ales.",
+      "images": [
+        {
+          "url": "/assets/opt/date/port-street-beer-house/01.webp",
+          "alt": "Port Street Beer House Northern Quarter interior seating"
+        }
+      ],
+      "website": "https://www.portstreetbeerhouse.co.uk/"
+    },
+    {
+      "id": "z-arts",
+      "name": "Z-arts",
+      "area": "Hulme",
+      "vibe": "Arts venue and theatre where children and families explore imagination through shows, classes and creative play.",
+      "images": [
+        {
+          "url": "/assets/opt/date/z-arts/01.webp",
+          "alt": "Z-arts Hulme creative studio and theatre space"
+        }
+      ],
+      "website": "https://z-arts.org/"
     }
   ],
   "dinner": [
@@ -1263,6 +1367,162 @@
         }
       ],
       "website": "https://brucomanchester.co.uk/"
+    },
+    {
+      "id": "maricarmen",
+      "name": "Maricarmen",
+      "area": "Ancoats",
+      "vibe": "Spanish tapas bar in Ancoats (and NQ) — warm, authentic small plates made for sharing.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/maricarmen/01.webp",
+          "alt": "Maricarmen Spanish tapas table Manchester"
+        }
+      ],
+      "website": "https://www.maricarmen.co.uk/"
+    },
+    {
+      "id": "evelyns",
+      "name": "Evelyn's",
+      "area": "Northern Quarter",
+      "vibe": "Easy-going Northern Quarter restaurant — brunch by day, refined charcoal Inka-grill small plates by night with Middle Eastern and pan-Asian inspiration.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/evelyns/01.webp",
+          "alt": "Evelyn's Northern Quarter dinner table with small plates"
+        }
+      ],
+      "website": "https://www.evelyns.co/"
+    },
+    {
+      "id": "mr-thomas-chop-house",
+      "name": "Mr Thomas's Chop House",
+      "area": "Cross Street",
+      "vibe": "Independent family chop house since 1867 — Victorian Cross Street landmark serving proper British food and drink at the heart of the city.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/mr-thomas-chop-house/01.webp",
+          "alt": "Mr Thomas's Chop House ornate Victorian exterior on Cross Street"
+        }
+      ],
+      "website": "https://www.tomschophouse.com/"
+    },
+    {
+      "id": "little-yang-sing",
+      "name": "Little Yang Sing",
+      "area": "Chinatown",
+      "vibe": "Chinatown Cantonese favourite — calm, refurbished dining room for traditional dim sum and classic Chinese cooking.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/little-yang-sing/01.webp",
+          "alt": "Little Yang Sing Chinatown dining room with red banquette"
+        }
+      ],
+      "website": "https://littleyangsing.co.uk/"
+    },
+    {
+      "id": "wings-lincoln-square",
+      "name": "Wing's Lincoln Square",
+      "area": "Lincoln Square",
+      "vibe": "Family-run contemporary Cantonese in Lincoln Square — intimate dining rooted in recipes passed down through generations.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/wings-lincoln-square/01.webp",
+          "alt": "Wing's Lincoln Square contemporary Cantonese dishes"
+        }
+      ],
+      "website": "https://wingslincolnsquare.co.uk/"
+    },
+    {
+      "id": "tnq",
+      "name": "TNQ",
+      "area": "Northern Quarter",
+      "vibe": "Friendly independent neighbourhood restaurant and bar in the heart of the Northern Quarter.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/tnq/01.webp",
+          "alt": "TNQ Restaurant and Bar exterior on High Street Northern Quarter"
+        }
+      ],
+      "website": "https://www.tnq.co.uk/"
+    },
+    {
+      "id": "la-casita",
+      "name": "La Casita",
+      "area": "City Centre",
+      "vibe": "Family-run Mexican “little house” — real tastes, aromas and textures of Mexican food from a Mexican-owned kitchen in Manchester.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/la-casita/01.webp",
+          "alt": "La Casita Manchester hard-shell tacos"
+        }
+      ],
+      "website": "https://www.lacasitamanchester.co.uk/"
+    },
+    {
+      "id": "sampa",
+      "name": "SAMPA",
+      "area": "Northern Quarter",
+      "vibe": "Michelin-recommended 12-seat Brazilian chef’s table — tasting menu of Brazilian ingredients and techniques in a casual Northern Quarter space.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sampa/01.webp",
+          "alt": "SAMPA Brazilian chef’s table counter Manchester"
+        }
+      ],
+      "website": "https://www.samparestaurant.co.uk/"
+    },
+    {
+      "id": "lucky-mamas",
+      "name": "Lucky Mama's",
+      "area": "Chorlton",
+      "vibe": "Chorlton independent serving fresh pasta in an edible pizza-dough bowl — rasta pasta, Roman pizza and dough balls.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/lucky-mamas/01.webp",
+          "alt": "Lucky Mama's Chorlton pizza and pasta"
+        }
+      ],
+      "website": "https://luckymamas.online/"
+    },
+    {
+      "id": "red-chilli",
+      "name": "Red Chilli",
+      "area": "Portland Street",
+      "vibe": "Contemporary Beijing and Sichuan restaurant on Portland Street — fiery chilli heat and lip-tingling Sichuan flavour with a mission to look after pocket, stomach and soul.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/red-chilli/01.webp",
+          "alt": "Red Chilli Manchester bar and dining area"
+        }
+      ],
+      "website": "https://www.redchillirestaurant.co.uk/"
+    },
+    {
+      "id": "dukes-92",
+      "name": "Dukes 92",
+      "area": "Castlefield",
+      "vibe": "Canalside Castlefield bar and dining — seasonal menu, hand-picked wines and beers, cocktails, stunning interiors and an iconic outside area.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/dukes-92/01.webp",
+          "alt": "Dukes 92 Castlefield restaurant interior booths"
+        }
+      ],
+      "website": "https://dukes92.com/"
+    },
+    {
+      "id": "dimitris",
+      "name": "Dimitri's",
+      "area": "Deansgate",
+      "vibe": "Manchester institution — beloved Greek and Mediterranean family-run restaurant on Deansgate, Castlefield for over 30 years.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/dimitris/01.webp",
+          "alt": "Dimitri's Taverna exterior on Deansgate Manchester"
+        }
+      ],
+      "website": "https://www.dimitris.co.uk/"
     }
   ],
   "dance": [
@@ -1564,6 +1824,19 @@
         }
       ],
       "website": "https://www.thefitzgeraldmanchester.com/"
+    },
+    {
+      "id": "star-and-garter",
+      "name": "Star & Garter",
+      "area": "Fairfield Street",
+      "vibe": "Pub and live music venue hire by Piccadilly — independent Fairfield Street spot hosting gigs.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/star-and-garter/01.webp",
+          "alt": "Star and Garter Manchester live music performance"
+        }
+      ],
+      "website": "https://www.starandgarter.co.uk/"
     }
   ]
 }
