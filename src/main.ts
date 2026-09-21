@@ -236,6 +236,7 @@ class Reel {
   private readonly revealEl: HTMLElement;
   private animating = false;
   private offset = 0;
+  private resizeObserver: ResizeObserver | null = null;
 
   constructor(key: ReelKey, items: Venue[], mount: HTMLElement, startIndex?: number) {
     this.key = key;
@@ -262,10 +263,16 @@ class Reel {
     this.stripEl = this.root.querySelector(".strip") as HTMLElement;
     this.revealEl = this.root.querySelector(".reveal") as HTMLElement;
     this.paintStrip();
+    this.syncCardHeights();
     this.syncOffset();
     this.hydrateImages();
     this.showReveal();
     this.bind();
+    this.resizeObserver = new ResizeObserver(() => {
+      this.syncCardHeights();
+      this.syncOffset();
+    });
+    this.resizeObserver.observe(this.windowEl);
   }
 
   get current(): Venue {
@@ -277,6 +284,8 @@ class Reel {
   }
 
   destroy(): void {
+    this.resizeObserver?.disconnect();
+    this.resizeObserver = null;
     this.root.remove();
   }
 
@@ -318,6 +327,19 @@ class Reel {
 
   private middleBase(): number {
     return this.items.length * Math.floor(COPIES / 2);
+  }
+
+  private syncCardHeights(): void {
+    const height = Math.round(this.windowEl.getBoundingClientRect().height);
+    if (!height) return;
+    this.stripEl.querySelectorAll<HTMLElement>(".card").forEach((card) => {
+      card.style.height = `${height}px`;
+    });
+  }
+
+  layout(): void {
+    this.syncCardHeights();
+    this.syncOffset();
   }
 
   private applyOffset(value: number): void {
@@ -624,7 +646,7 @@ async function boot(): Promise<void> {
   paintCityPicker(cities, cityId);
   await loadCity(cityId);
 
-  const resize = () => reels.forEach((reel) => reel.syncOffset());
+  const resize = () => reels.forEach((reel) => reel.layout());
   window.addEventListener("resize", resize);
 
   let scrollTick = 0;

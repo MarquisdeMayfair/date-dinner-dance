@@ -310,7 +310,6 @@ a {
 
 .window {
   position: relative;
-  container-type: size;
   height: 100%;
   aspect-ratio: 4 / 5;
   overflow: hidden;
@@ -326,7 +325,6 @@ a {
 
 .card {
   height: var(--card-h);
-  height: 100cqh;
   position: relative;
 }
 
@@ -335,6 +333,7 @@ a {
   height: 100%;
   object-fit: cover;
   object-position: center;
+  display: block;
 }
 
 .card-fallback {
