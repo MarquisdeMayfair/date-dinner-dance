@@ -740,6 +740,97 @@
         }
       ],
       "website": "https://z-arts.org/"
+    },
+    {
+      "id": "castlefield-gallery",
+      "name": "Castlefield Gallery",
+      "area": "Castlefield",
+      "vibe": "Free contemporary art gallery in Manchester and artist development organisation supporting artists across the North West since 1984.",
+      "images": [
+        {
+          "url": "/assets/opt/date/castlefield-gallery/01.webp",
+          "alt": "Castlefield Gallery Manchester"
+        }
+      ],
+      "website": "https://www.castlefieldgallery.co.uk/"
+    },
+    {
+      "id": "islington-mill",
+      "name": "Islington Mill",
+      "area": "Salford",
+      "vibe": "Home of artist-led endeavour in Salford — heritage mill with studios, events and a creative community.",
+      "images": [
+        {
+          "url": "/assets/opt/date/islington-mill/01.webp",
+          "alt": "Islington Mill Manchester"
+        }
+      ],
+      "website": "https://islingtonmill.com/"
+    },
+    {
+      "id": "st-marys-hidden-gem",
+      "name": "St Mary's Hidden Gem",
+      "area": "City Centre",
+      "vibe": "Manchester’s Hidden Gem — St Mary’s Catholic Church serving the city since 1794, a calm historic sanctuary steps from the centre.",
+      "images": [
+        {
+          "url": "/assets/opt/date/st-marys-hidden-gem/01.webp",
+          "alt": "St Mary's Hidden Gem Manchester"
+        }
+      ],
+      "website": "https://hiddengem.me.uk/"
+    },
+    {
+      "id": "salford-lads-club",
+      "name": "Salford Lads and Girls Club",
+      "area": "Salford",
+      "vibe": "Brightening young lives since 1903 — historic Salford Lads and Girls Club on Coronation Street, open for visits, heritage and community.",
+      "images": [
+        {
+          "url": "/assets/opt/date/salford-lads-club/01.webp",
+          "alt": "Salford Lads and Girls Club"
+        }
+      ],
+      "website": "https://salfordladsclub.co.uk/"
+    },
+    {
+      "id": "mediacityuk",
+      "name": "MediaCityUK",
+      "area": "Salford Quays",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/mediacityuk/01.webp",
+          "alt": "MediaCityUK Manchester"
+        }
+      ],
+      "website": "https://www.mediacityuk.co.uk/"
+    },
+    {
+      "id": "etihad-stadium",
+      "name": "Etihad Stadium",
+      "area": "Eastlands",
+      "vibe": "Home of Manchester City — stadium tours and matchday visits at the Etihad Stadium.",
+      "images": [
+        {
+          "url": "/assets/opt/date/etihad-stadium/01.webp",
+          "alt": "Etihad Stadium Manchester"
+        }
+      ],
+      "website": "https://www.mancity.com/etihad-stadium"
+    },
+    {
+      "id": "frog-and-bucket",
+      "name": "Frog & Bucket",
+      "area": "Northern Quarter",
+      "vibe": "Award-winning Manchester comedy club — one mic, one stage, one frog in the Northern Quarter.",
+      "images": [
+        {
+          "url": "/assets/opt/date/frog-and-bucket/01.webp",
+          "alt": "Frog & Bucket Manchester"
+        }
+      ],
+      "website": "https://frogandbucket.com/"
     }
   ],
   "dinner": [
@@ -1523,6 +1614,201 @@
         }
       ],
       "website": "https://www.dimitris.co.uk/"
+    },
+    {
+      "id": "skof",
+      "name": "Skof",
+      "area": "NOMA",
+      "vibe": "Tom’s first solo restaurant in Manchester — focused on skill, quality ingredients and simplicity, without pretentiousness, tablecloths or a dress code.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/skof/01.webp",
+          "alt": "Skof Manchester"
+        }
+      ],
+      "website": "https://www.skofmanchester.co.uk/"
+    },
+    {
+      "id": "butter-bird",
+      "name": "Butter Bird",
+      "area": "Ancoats",
+      "vibe": "Northern birds, slow-roasted on rotisserie over fire and finished to order — juicy Butter Bird chicken with crispy charred skin on Blossom Street, Ancoats.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/butter-bird/01.webp",
+          "alt": "Butter Bird Manchester"
+        }
+      ],
+      "website": "https://www.butterbird.co.uk/"
+    },
+    {
+      "id": "soots",
+      "name": "Soots",
+      "area": "Northern Quarter",
+      "vibe": "Pasta and small plates in the heart of Manchester — plant-based neighbourhood dining on Tib Street.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/soots/01.webp",
+          "alt": "Soots Manchester"
+        }
+      ],
+      "website": "https://www.sootsmcr.com/"
+    },
+    {
+      "id": "onda",
+      "name": "Onda",
+      "area": "Circle Square",
+      "vibe": "A fresh pasta restaurant based in Manchester at Circle Square, Oxford Road.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/onda/01.webp",
+          "alt": "Onda Manchester"
+        }
+      ],
+      "website": "https://ondapastabar.com/"
+    },
+    {
+      "id": "pupa",
+      "name": "Pupa",
+      "area": "Northern Quarter",
+      "vibe": "Northern Quarter restaurant and bar — steaks, handmade pastas and a full wine and drinks list.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/pupa/01.webp",
+          "alt": "Pupa Manchester"
+        }
+      ],
+      "website": "https://www.puparestaurant.com/"
+    },
+    {
+      "id": "armenian-taverna",
+      "name": "Armenian Taverna",
+      "area": "Albert Square",
+      "vibe": "Said to be Manchester’s oldest restaurant business, on Albert Square — Armenian and Middle Eastern cooking from Arman and Arusyak.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/armenian-taverna/01.webp",
+          "alt": "Armenian Taverna Manchester"
+        }
+      ],
+      "website": "https://www.armeniantaverna.co.uk/"
+    },
+    {
+      "id": "cardinal-rule",
+      "name": "Cardinal Rule",
+      "area": "City Centre",
+      "vibe": "Independent Manchester restaurant and bar — neighbourhood dining with a considered menu and drinks list.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cardinal-rule/01.webp",
+          "alt": "Cardinal Rule Manchester"
+        }
+      ],
+      "website": "https://www.cardinalrule.co.uk/"
+    },
+    {
+      "id": "store-street-exchange",
+      "name": "Store Street Exchange",
+      "area": "Piccadilly",
+      "vibe": "Restaurant and craft bar a short walk from Manchester Piccadilly — friendly dining and cocktails at DoubleTree by Hilton.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/store-street-exchange/01.webp",
+          "alt": "Store Street Exchange Manchester"
+        }
+      ],
+      "website": "https://www.storestreetmanchester.co.uk/"
+    },
+    {
+      "id": "pho-cue",
+      "name": "Pho Cue Kitchen",
+      "area": "Chinatown",
+      "vibe": "Vietnamese restaurant in the heart of Manchester’s Chinatown — pho, vermicelli and classic Vietnamese dishes.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/pho-cue/01.webp",
+          "alt": "Pho Cue Kitchen Manchester"
+        }
+      ],
+      "website": "https://www.phocue.co.uk/"
+    },
+    {
+      "id": "zouk",
+      "name": "Zouk",
+      "area": "City Centre",
+      "vibe": "Just off Oxford Road — fragrant curries, charcoal grills and biryanis with an open kitchen and terrace.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/zouk/01.webp",
+          "alt": "Zouk Manchester"
+        }
+      ],
+      "website": "https://zoukteabar.co.uk/"
+    },
+    {
+      "id": "sthan",
+      "name": "Sthan",
+      "area": "City Centre",
+      "vibe": "Desi food and videsi bar — Indian flavours in Manchester city centre.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sthan/01.webp",
+          "alt": "Sthan Manchester"
+        }
+      ],
+      "website": "https://sthan.co.uk/"
+    },
+    {
+      "id": "neel-paneer",
+      "name": "Neel Paneer",
+      "area": "City Centre",
+      "vibe": "Indian restaurant for sharing plates with friends and family — eat, drink and linger.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/neel-paneer/01.webp",
+          "alt": "Neel Paneer Manchester"
+        }
+      ],
+      "website": "https://neelpaneer.co.uk/"
+    },
+    {
+      "id": "olio",
+      "name": "Olio",
+      "area": "Didsbury",
+      "vibe": "Mediterranean, Turkish and Italian neighbourhood restaurant on Wilmslow Road, Didsbury.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/olio/01.webp",
+          "alt": "Olio Manchester"
+        }
+      ],
+      "website": "https://www.olioflames.co.uk/"
+    },
+    {
+      "id": "blue-eyed-panda",
+      "name": "Blue Eyed Panda",
+      "area": "City Centre",
+      "vibe": "Traditional Chinese restaurant in Manchester — classic Cantonese and Chinese dining.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/blue-eyed-panda/01.webp",
+          "alt": "Blue Eyed Panda Manchester"
+        }
+      ],
+      "website": "https://www.blueeyedpanda.co.uk/"
+    },
+    {
+      "id": "off-the-grid",
+      "name": "Off The Grid",
+      "area": "Chorlton",
+      "vibe": "Independent grill restaurant on Barlow Moor Road, Chorlton — neighbourhood grilling and dining.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/off-the-grid/01.webp",
+          "alt": "Off The Grid Manchester"
+        }
+      ],
+      "website": "https://www.offthegridmcr.com/"
     }
   ],
   "dance": [
