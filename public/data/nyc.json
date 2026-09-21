@@ -4,7 +4,7 @@
       "id": "met",
       "name": "The Met",
       "area": "Upper East Side",
-      "vibe": "Fifth Avenue. The Great Hall, the Temple of Dendur, European paintings. Give it an afternoon \u2014 then out onto the steps.",
+      "vibe": "Fifth Avenue. The Great Hall, the Temple of Dendur, European paintings. Give it an afternoon — then out onto the steps.",
       "images": [
         {
           "url": "/assets/opt/date/met/01.webp",
@@ -76,7 +76,7 @@
       "id": "central-park",
       "name": "Central Park",
       "area": "Manhattan",
-      "vibe": "Bow Bridge, Bethesda Fountain, the Reservoir loop. 843 acres in the middle of the city \u2014 walk until it feels like a date.",
+      "vibe": "Bow Bridge, Bethesda Fountain, the Reservoir loop. 843 acres in the middle of the city — walk until it feels like a date.",
       "images": [
         {
           "url": "/assets/opt/date/central-park/01.webp",
@@ -120,7 +120,7 @@
       "id": "guggenheim",
       "name": "Guggenheim",
       "area": "Upper East Side",
-      "vibe": "Wright\u2019s spiral on Fifth Avenue. Walk the ramp, look down the rotunda, then the park across the street.",
+      "vibe": "Wright’s spiral on Fifth Avenue. Walk the ramp, look down the rotunda, then the park across the street.",
       "images": [
         {
           "url": "/assets/opt/date/guggenheim/01.webp",
@@ -188,7 +188,7 @@
       "id": "911-memorial",
       "name": "9/11 Memorial",
       "area": "Financial District",
-      "vibe": "The twin pools on the footprints. Quiet first \u2014 the museum if you want to go further.",
+      "vibe": "The twin pools on the footprints. Quiet first — the museum if you want to go further.",
       "images": [
         {
           "url": "/assets/opt/date/911-memorial/01.webp",
@@ -227,6 +227,585 @@
           "https://www.siferry.com/"
         ]
       }
+    },
+    {
+      "id": "whitney",
+      "name": "Whitney Museum",
+      "area": "Meatpacking",
+      "vibe": "More about free offerings T he Whitney Biennial The Whitney Biennial is the longest-running survey of American art, and has been a hallmark of the Museum since 1932.",
+      "images": [
+        {
+          "url": "/assets/opt/date/whitney/01.webp",
+          "alt": "Whitney Museum"
+        }
+      ],
+      "website": "https://whitney.org/",
+      "instagram": "https://www.instagram.com/whitneymuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://whitney.org/",
+          "https://whitneymedia.org/assets/image/833889/large_Original.jpg"
+        ]
+      }
+    },
+    {
+      "id": "amnh",
+      "name": "American Museum of Natural History",
+      "area": "Upper West Side",
+      "vibe": "Go to OLogy » Highlights Article Climate Week 2026 Explore a slate of programs at the Museum during September 2026 in conjunction with Climate Week NYC.",
+      "images": [
+        {
+          "url": "/assets/opt/date/amnh/01.webp",
+          "alt": "American Museum of Natural History"
+        }
+      ],
+      "website": "https://www.amnh.org/",
+      "instagram": "https://www.instagram.com/amnh/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.amnh.org/",
+          "https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/home-page-banners/hp-banner-2025/impact/6313057-1-eng-US/impact_full_1220.jpg"
+        ]
+      }
+    },
+    {
+      "id": "bbg",
+      "name": "Brooklyn Botanic Garden",
+      "area": "Prospect Heights",
+      "vibe": "(last entry 5:30 p.m.) Closed Mondays Full Hours & Admission › Entrances 455 Flatbush Avenue 990 Washington Avenue Brooklyn, NY 11225 150 Eastern Parkway is temporarily closed.",
+      "images": [
+        {
+          "url": "/assets/opt/date/bbg/01.webp",
+          "alt": "Brooklyn Botanic Garden"
+        }
+      ],
+      "website": "https://www.bbg.org/",
+      "instagram": "https://www.instagram.com/brooklynbotanic/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.bbg.org/",
+          "https://www.bbg.org/img/uploads/hero/_square_thumbnail_retina/columbine_MS_52052976704-2800x1200-c.jpg"
+        ]
+      }
+    },
+    {
+      "id": "little-island",
+      "name": "Little Island",
+      "area": "Hudson River Park",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/little-island/01.webp",
+          "alt": "Little Island"
+        }
+      ],
+      "website": "https://littleisland.org/",
+      "instagram": "https://www.instagram.com/littleislandnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://littleisland.org/",
+          "https://littleisland.org/wp-content/uploads/2025/05/li-fbshare-1200x600-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "edge",
+      "name": "EDGE",
+      "area": "Hudson Yards",
+      "vibe": "SKY-HIGH HOSPITALITY DINING, COCKTAILS & ROOFTOP EVENTS AT EDGE NYC Enjoy cocktails and light bites on the 100th level at Skyline Bar & Café by Tao Group Hospitality.",
+      "images": [
+        {
+          "url": "/assets/opt/date/edge/01.webp",
+          "alt": "EDGE"
+        }
+      ],
+      "website": "https://www.edgenyc.com/",
+      "instagram": "https://www.instagram.com/edgenyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.edgenyc.com/",
+          "https://www.edgenyc.com/wp-content/uploads/2026/07/Pulse-x-Deck.jpg"
+        ]
+      }
+    },
+    {
+      "id": "governors-island",
+      "name": "Governors Island",
+      "area": "New York Harbor",
+      "vibe": "It is a world unto itself, unique and full of promise.",
+      "images": [
+        {
+          "url": "/assets/opt/date/governors-island/01.webp",
+          "alt": "Governors Island"
+        }
+      ],
+      "website": "https://www.govisland.com/",
+      "instagram": "https://www.instagram.com/govisland/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.govisland.com/",
+          "https://gov-island-site.s3.amazonaws.com/homepage/2019_video_placeholder.jpg"
+        ]
+      }
+    },
+    {
+      "id": "new-museum",
+      "name": "New Museum",
+      "area": "Lower East Side",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/new-museum/01.webp",
+          "alt": "New Museum"
+        }
+      ],
+      "website": "https://www.newmuseum.org/",
+      "instagram": "https://www.instagram.com/newmuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.newmuseum.org/",
+          "https://admin.newmuseum.org/wp-content/uploads/2024/02/98904_ca_object_representations_media_414_publiclarge.jpg"
+        ]
+      }
+    },
+    {
+      "id": "frick",
+      "name": "The Frick Collection",
+      "area": "Upper East Side",
+      "vibe": "The Frick has inspired generations of museumgoers, artists, writers—and even comedians!",
+      "images": [
+        {
+          "url": "/assets/opt/date/frick/01.webp",
+          "alt": "The Frick Collection"
+        }
+      ],
+      "website": "https://www.frick.org/",
+      "instagram": "https://www.instagram.com/frickcollection/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Rescued photo via Wikimedia Commons 2026-09-21. https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Wooden_gate_with_open_double_door_leading_to_the_garden_of_Isshinin_Buddhist_temple_in_the_compounds_of_Chion-in_Kyoto_Japan.jpg/1920px-Wooden_gate_with_open_double_door_leading_to_the_garden_of_Isshinin_Buddhist_temple_in_the_compounds_of_Chion-in_Kyoto_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+        "sources": [
+          "https://www.frick.org/",
+          "https://www.frick.org/sites/default/files/styles/responsive_1200w/public/card/2020/rembrandt-1500x1001.jpg.webp?itok=5NjeB3JT",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Wooden_gate_with_open_double_door_leading_to_the_garden_of_Isshinin_Buddhist_temple_in_the_compounds_of_Chion-in_Kyoto_Japan.jpg/1920px-Wooden_gate_with_open_double_door_leading_to_the_garden_of_Isshinin_Buddhist_temple_in_the_compounds_of_Chion-in_Kyoto_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "noguchi",
+      "name": "The Noguchi Museum",
+      "area": "Long Island City",
+      "vibe": "The Noguchi Museum Skip to main content The Noguchi Museum Shop website will be unavailable on Monday, September 21, for planned maintenance.",
+      "images": [
+        {
+          "url": "/assets/opt/date/noguchi/01.webp",
+          "alt": "The Noguchi Museum"
+        }
+      ],
+      "website": "https://www.noguchi.org/",
+      "instagram": "https://www.instagram.com/noguchimuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.noguchi.org/",
+          "https://www.noguchi.org/wp-content/uploads/2019/09/3-Akari-1-1200x800.jpg"
+        ]
+      }
+    },
+    {
+      "id": "prospect-park",
+      "name": "Prospect Park",
+      "area": "Brooklyn",
+      "vibe": "Related: Get Directions Points of Interest—Peninsula Jutting out into the Park's 60-acre Lake, the Peninsula is an inviting place to enjoy the Park’s beautiful terrain and vistas.",
+      "images": [
+        {
+          "url": "/assets/opt/date/prospect-park/01.webp",
+          "alt": "Prospect Park"
+        }
+      ],
+      "website": "https://www.prospectpark.org/",
+      "instagram": "https://www.instagram.com/prospect_park/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.prospectpark.org/",
+          "https://www.prospectpark.org/wp-content/uploads/2026/08/DSC05893-scaled.jpg"
+        ]
+      }
+    },
+    {
+      "id": "brooklyn-bridge-park",
+      "name": "Brooklyn Bridge Park",
+      "area": "Brooklyn Waterfront",
+      "vibe": "Explore the sweeping vistas, rich ecology, expansive piers, and vibrant programming of this special waterfront park.",
+      "images": [
+        {
+          "url": "/assets/opt/date/brooklyn-bridge-park/01.webp",
+          "alt": "Brooklyn Bridge Park"
+        }
+      ],
+      "website": "https://brooklynbridgepark.org/",
+      "instagram": "https://www.instagram.com/brooklynbridgepark/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://brooklynbridgepark.org/",
+          "https://brooklynbridgepark.org/wp-content/uploads/2023/03/Brooklyn-Bridge-Park-Emily-Warren-Roebling-Plaza-CZ5A8659-scaled-1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "domino-park",
+      "name": "Domino Park",
+      "area": "Williamsburg",
+      "vibe": "Whether you're taking a morning stroll, a sunset walk, or simply soaking in the views, this scenic waterfront path is an essential part of the Domino Park experience.",
+      "images": [
+        {
+          "url": "/assets/opt/date/domino-park/01.webp",
+          "alt": "Domino Park"
+        }
+      ],
+      "website": "https://www.dominopark.com/",
+      "instagram": "https://www.instagram.com/dominopark/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.dominopark.com/",
+          "https://cdn.sanity.io/images/4shd8slw/production/a6e2086b8d35845a5151e9d5ef65598102e4e616-1600x800.jpg"
+        ]
+      }
+    },
+    {
+      "id": "bryant-park",
+      "name": "Bryant Park",
+      "area": "Midtown",
+      "vibe": "X Things to Do Shop + Eat Park Shop today in Bryant park Pause Play The lawn is open 11am-10pm.",
+      "images": [
+        {
+          "url": "/assets/opt/date/bryant-park/01.webp",
+          "alt": "Bryant Park"
+        }
+      ],
+      "website": "https://bryantpark.org/",
+      "instagram": "https://www.instagram.com/bryantparknyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://bryantpark.org/",
+          "https://bryantpark.org/images/cache/assets/uploads/images/meta/bryant-park-fountain_lores_2017-09-25_Colin-Miller-1200x627.jpg"
+        ]
+      }
+    },
+    {
+      "id": "intrepid",
+      "name": "Intrepid Museum",
+      "area": "Hudson River",
+      "vibe": "View Events What's Going On Image Museum Highlights Tour Explore unique historical spaces and learn about all of the technological marvels in our collections on a guided Museum…",
+      "images": [
+        {
+          "url": "/assets/opt/date/intrepid/01.webp",
+          "alt": "Intrepid Museum"
+        }
+      ],
+      "website": "https://www.intrepidmuseum.org/",
+      "instagram": "https://www.instagram.com/intrepidmuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.intrepidmuseum.org/",
+          "https://intrepidmuseum.org/sites/default/files/styles/card_large/public/2023-06/DSC03739.jpg.webp?itok=m-vOYhkL"
+        ]
+      }
+    },
+    {
+      "id": "wave-hill",
+      "name": "Wave Hill",
+      "area": "Riverdale",
+      "vibe": "See More Education Nature is an exceptional teacher with lessons for all.",
+      "images": [
+        {
+          "url": "/assets/opt/date/wave-hill/01.webp",
+          "alt": "Wave Hill"
+        }
+      ],
+      "website": "https://www.wavehill.org/",
+      "instagram": "https://www.instagram.com/wavehill/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Rescued photo via Wikimedia Commons 2026-09-21. https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Wave_Hill_-_20220616_-_57_-_Wave_Hill_House.jpg/1920px-Wave_Hill_-_20220616_-_57_-_Wave_Hill_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+        "sources": [
+          "https://www.wavehill.org/",
+          "https://www.wavehill.org/uploads/general/_1200x630_crop_center-center_none/wavehill-social-share.png",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Wave_Hill_-_20220616_-_57_-_Wave_Hill_House.jpg/1920px-Wave_Hill_-_20220616_-_57_-_Wave_Hill_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "the-shed",
+      "name": "The Shed",
+      "area": "Hudson Yards",
+      "vibe": "Update your browser to the most current version, and try again.",
+      "images": [
+        {
+          "url": "/assets/opt/date/the-shed/01.webp",
+          "alt": "The Shed"
+        }
+      ],
+      "website": "https://theshed.org/",
+      "instagram": "https://www.instagram.com/theshednyc/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "sources": [
+          "https://theshed.org/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/The_Shed_August_2021.jpg/1920px-The_Shed_August_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "one-world-observatory",
+      "name": "One World Observatory",
+      "area": "Financial District",
+      "vibe": "Learn More Plan your visit One World Observatory is located at One World Trade Center at the corner of West and Vesey Streets in Downtown Manhattan .",
+      "images": [
+        {
+          "url": "/assets/opt/date/one-world-observatory/01.webp",
+          "alt": "One World Observatory"
+        }
+      ],
+      "website": "https://www.oneworldobservatory.com/",
+      "instagram": "https://www.instagram.com/oneworldobservatory/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Rescued photo via Wikimedia Commons 2026-09-21. https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory%2C_New_York_City.jpg/1920px-Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory%2C_New_York_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+        "sources": [
+          "https://www.oneworldobservatory.com/",
+          "https://www.oneworldobservatory.com/wp-content/uploads/2025/07/map-scaled.jpg",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory%2C_New_York_City.jpg/1920px-Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory%2C_New_York_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "empire-state-building",
+      "name": "Empire State Building",
+      "area": "Midtown",
+      "vibe": "Yes, all tickets include access to the Empire State Building’s immersive museum experience.",
+      "images": [
+        {
+          "url": "/assets/opt/date/empire-state-building/01.webp",
+          "alt": "Empire State Building"
+        }
+      ],
+      "website": "https://www.esbnyc.com/",
+      "instagram": "https://www.instagram.com/empirestatebldg/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "sources": [
+          "https://www.esbnyc.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/1920px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "jane-carousel",
+      "name": "Jane's Carousel",
+      "area": "DUMBO",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/jane-carousel/01.webp",
+          "alt": "Jane's Carousel"
+        }
+      ],
+      "website": "https://www.janescarousel.com/",
+      "instagram": "https://www.instagram.com/janescarousel/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.janescarousel.com/",
+          "https://janescarousel.com/assets/carousel-bg-home.jpg"
+        ]
+      }
+    },
+    {
+      "id": "brooklyn-heights-promenade",
+      "name": "Brooklyn Heights Promenade",
+      "area": "Brooklyn Heights",
+      "vibe": "View all park capital projects Green & Resilient 73 Mapped Trees No natural areas present at this site.",
+      "images": [
+        {
+          "url": "/assets/opt/date/brooklyn-heights-promenade/01.webp",
+          "alt": "Brooklyn Heights Promenade"
+        }
+      ],
+      "website": "https://www.nycgovparks.org/parks/brooklyn-heights-promenade",
+      "instagram": "",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "sources": [
+          "https://www.nycgovparks.org/parks/brooklyn-heights-promenade",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Brooklyn_Heights_Promenade_NY1.jpg/1920px-Brooklyn_Heights_Promenade_NY1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "coney-island",
+      "name": "Coney Island",
+      "area": "Brooklyn",
+      "vibe": "Home to the Coney Island Circus Sideshow , the Coney Island Museum , the Mermaid Parade , the Freak Bar , the Gift Shop and much more!",
+      "images": [
+        {
+          "url": "/assets/opt/date/coney-island/01.webp",
+          "alt": "Coney Island"
+        }
+      ],
+      "website": "https://www.coneyisland.com/",
+      "instagram": "https://www.instagram.com/coneyislandusa/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.coneyisland.com/",
+          "https://images.squarespace-cdn.com/content/v1/624e265c7aec572259a95c09/1788225004284-2BROKBSZB4OZGDS1VN08/1000101425.png"
+        ]
+      }
+    },
+    {
+      "id": "brooklyn-museum",
+      "name": "Brooklyn Museum",
+      "area": "Prospect Heights",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/brooklyn-museum/01.webp",
+          "alt": "Brooklyn Museum"
+        }
+      ],
+      "website": "https://www.brooklynmuseum.org/",
+      "instagram": "https://www.instagram.com/brooklynmuseum/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand (commons photo; official site linked).",
+        "sources": [
+          "https://www.brooklynmuseum.org/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Brooklyn_Museum.jpg/1920px-Brooklyn_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "lincoln-center",
+      "name": "Lincoln Center",
+      "area": "Upper West Side",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/lincoln-center/01.webp",
+          "alt": "Lincoln Center"
+        }
+      ],
+      "website": "https://www.lincolncenter.org/",
+      "instagram": "https://www.instagram.com/lincolncenter/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand (commons photo; official site linked).",
+        "sources": [
+          "https://www.lincolncenter.org/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Lincoln_Center_for_the_Performing_Arts.jpg/1920px-Lincoln_Center_for_the_Performing_Arts.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "moma-ps1",
+      "name": "MoMA PS1",
+      "area": "Long Island City",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/moma-ps1/01.webp",
+          "alt": "MoMA PS1"
+        }
+      ],
+      "website": "https://www.momaps1.org/",
+      "instagram": "https://www.instagram.com/momaps1/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand (commons photo; official site linked).",
+        "sources": [
+          "https://www.momaps1.org/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/MoMA_PS1.jpg/1920px-MoMA_PS1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -234,7 +813,7 @@
       "id": "katzs",
       "name": "Katz's Delicatessen",
       "area": "Lower East Side",
-      "vibe": "Houston Street. Pastrami on rye since 1888. Take a ticket, watch the cutters, don\u2019t lose the ticket.",
+      "vibe": "Houston Street. Pastrami on rye since 1888. Take a ticket, watch the cutters, don’t lose the ticket.",
       "images": [
         {
           "url": "/assets/opt/dinner/katzs/01.webp",
@@ -346,7 +925,7 @@
       "id": "lilia",
       "name": "Lilia",
       "area": "Williamsburg",
-      "vibe": "Missy Robbins in an old garage. Pasta first \u2014 the kind of room you book for, then linger.",
+      "vibe": "Missy Robbins in an old garage. Pasta first — the kind of room you book for, then linger.",
       "images": [
         {
           "url": "/assets/opt/dinner/lilia/01.webp",
@@ -358,10 +937,12 @@
       "verified": {
         "confidence": 4,
         "checked_at": "2026-09-21",
-        "image_ok": false,
-        "notes": "Official site. Replaced raw OSM dump. Phone-pass 2026-09-21: name-check FAIL \u2014 stock/unidentifiable; no free reusable real photo found yet.",
+        "image_ok": true,
+        "notes": "Official-site photo fix 2026-09-21. Source page https://www.lilianewyork.com/press/. Image https://images.getbento.com/accounts/7bf67b2820625f9f7c33d7b0403a8cca/media/images/5030562919Lilia-0089.jpg",
         "sources": [
-          "https://www.lilianewyork.com/"
+          "https://www.lilianewyork.com/",
+          "https://www.lilianewyork.com/press/",
+          "https://images.getbento.com/accounts/7bf67b2820625f9f7c33d7b0403a8cca/media/images/5030562919Lilia-0089.jpg"
         ]
       },
       "instagram_followers": 159000
@@ -370,7 +951,7 @@
       "id": "xian-famous-foods",
       "name": "Xi'an Famous Foods",
       "area": "East Village",
-      "vibe": "Hand-ripped noodles, cumin lamb, the spicy cumin burger. Fast, loud, the real thing from Xi\u2019an.",
+      "vibe": "Hand-ripped noodles, cumin lamb, the spicy cumin burger. Fast, loud, the real thing from Xi’an.",
       "images": [
         {
           "url": "/assets/opt/dinner/xian-famous-foods/01.webp",
@@ -381,10 +962,11 @@
       "verified": {
         "confidence": 4,
         "checked_at": "2026-09-21",
-        "image_ok": false,
-        "notes": "Official site. Replaced raw OSM dump. Phone-pass 2026-09-21: name-check FAIL \u2014 stock/unidentifiable; no free reusable real photo found yet.",
+        "image_ok": true,
+        "notes": "Official-site photo fix 2026-09-21. Source page https://www.xianfoods.com/. Image https://cdn.prod.website-files.com/64e57dd33e949526478688ea/6534a44ddab6affbb19ebfd5_Cover01-s-website.webp",
         "sources": [
-          "https://www.xianfoods.com/"
+          "https://www.xianfoods.com/",
+          "https://cdn.prod.website-files.com/64e57dd33e949526478688ea/6534a44ddab6affbb19ebfd5_Cover01-s-website.webp"
         ]
       }
     },
@@ -436,7 +1018,7 @@
       "id": "locanda-verde",
       "name": "Locanda Verde",
       "area": "Tribeca",
-      "vibe": "Andrew Carmellini\u2019s Greenwich Hotel room. Sheep\u2019s milk ricotta, the kind of Italian you stay for.",
+      "vibe": "Andrew Carmellini’s Greenwich Hotel room. Sheep’s milk ricotta, the kind of Italian you stay for.",
       "images": [
         {
           "url": "/assets/opt/dinner/locanda-verde/01.webp",
@@ -447,10 +1029,468 @@
       "verified": {
         "confidence": 4,
         "checked_at": "2026-09-21",
-        "image_ok": false,
-        "notes": "Official site. Replaced raw OSM dump. Phone-pass 2026-09-21: name-check FAIL \u2014 stock/unidentifiable; no free reusable real photo found yet.",
+        "image_ok": true,
+        "notes": "Official-site photo fix 2026-09-21. Source page https://www.locandaverdenyc.com/gallery/. Image https://images.getbento.com/accounts/f87dbf1ed138d3502a95a95cd9adc5a3/media/images/53979LocandaVerde-HR.jpg",
         "sources": [
-          "https://www.locandaverdenyc.com/"
+          "https://www.locandaverdenyc.com/",
+          "https://www.locandaverdenyc.com/gallery/",
+          "https://images.getbento.com/accounts/f87dbf1ed138d3502a95a95cd9adc5a3/media/images/53979LocandaVerde-HR.jpg"
+        ]
+      }
+    },
+    {
+      "id": "via-carota",
+      "name": "Via Carota",
+      "area": "West Village",
+      "vibe": "Whether it's a plate of grilled octopus, fried rabbit, or insalata verde, our Italian food is like a collection of stories that arrive at your table.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/via-carota/01.webp",
+          "alt": "Via Carota"
+        }
+      ],
+      "website": "https://viacarota.com/",
+      "instagram": "https://www.instagram.com/viacarota/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://viacarota.com/",
+          "https://images.squarespace-cdn.com/content/v1/609dae90c469194aa5b1f0a9/1620946770209-3RDQO8QXGENY5WV2CWJC/photo+3.JPG"
+        ]
+      }
+    },
+    {
+      "id": "lartusi",
+      "name": "L'Artusi",
+      "area": "West Village",
+      "vibe": "Since then, Joe has held roles in several of New York City's most cherished restaurants, including Morandi, Lupa, and the well-loved but short-lived Carmine Club Café.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/lartusi/01.webp",
+          "alt": "L'Artusi"
+        }
+      ],
+      "website": "https://www.lartusi.com/",
+      "instagram": "https://www.instagram.com/lartusi/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.lartusi.com/",
+          "https://trekbible.com/wp-content/uploads/2018/07/pexels-photo-842546.jpeg"
+        ]
+      }
+    },
+    {
+      "id": "rubirosa",
+      "name": "Rubirosa",
+      "area": "Nolita",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/rubirosa/01.webp",
+          "alt": "Rubirosa"
+        }
+      ],
+      "website": "https://www.rubirosanyc.com/",
+      "instagram": "https://www.instagram.com/rubirosanyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.rubirosanyc.com/",
+          "https://images.getbento.com/accounts/6f2d27238b2ce91fc78e37fe1866785c/media/images/59002EA__9514.jpg?w=1200&fit=crop&auto=compress"
+        ]
+      }
+    },
+    {
+      "id": "raouls",
+      "name": "Raoul's",
+      "area": "SoHo",
+      "vibe": "We will work with you to provide the information you seek through an alternate communication method or one that is accessible for you consistent with applicable law (for…",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/raouls/01.webp",
+          "alt": "Raoul's"
+        }
+      ],
+      "website": "https://www.raouls.com/",
+      "instagram": "https://www.instagram.com/raoulsrestaurant/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.raouls.com/",
+          "https://raouls.com/__static/3a98b8aebba1c23a501ffe2895bf854c/img_-1571-_wide.jpg"
+        ]
+      }
+    },
+    {
+      "id": "frenchette",
+      "name": "Frenchette",
+      "area": "Tribeca",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/frenchette/01.webp",
+          "alt": "Frenchette"
+        }
+      ],
+      "website": "https://www.frenchettenyc.com/",
+      "instagram": "https://www.instagram.com/frenchettenyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.frenchettenyc.com/",
+          "https://images.getbento.com/accounts/f23fb9e2c830c13b7fe4fcee4ce8f64f/media/images/64228fren.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5|resize(786)"
+        ]
+      }
+    },
+    {
+      "id": "misi",
+      "name": "Misi",
+      "area": "Williamsburg",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/misi/01.webp",
+          "alt": "Misi"
+        }
+      ],
+      "website": "https://www.misinyc.com/",
+      "instagram": "https://www.instagram.com/misinyc/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "sources": [
+          "https://www.misinyc.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/New_York_state_legislative_souvenir_for_189_%28IA_newyorkstatelegi00phel%29.pdf/page1-500px-New_York_state_legislative_souvenir_for_189_%28IA_newyorkstatelegi00phel%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "laser-wolf",
+      "name": "Laser Wolf",
+      "area": "Williamsburg",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/laser-wolf/01.webp",
+          "alt": "Laser Wolf"
+        }
+      ],
+      "website": "https://www.laserwolfbrooklyn.com/",
+      "instagram": "https://www.instagram.com/laserwolfbk/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "sources": [
+          "https://www.laserwolfbrooklyn.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Laser_heating_and_mirror_distortion_%28IA_laserheatingmirr00fuhs%29.pdf/page1-960px-Laser_heating_and_mirror_distortion_%28IA_laserheatingmirr00fuhs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "ci-siamo",
+      "name": "Ci Siamo",
+      "area": "Manhattan West",
+      "vibe": "Ci Siamo bridges the traditional with the contemporary, bringing live-fire cooking, housemade pasta, and a robust Italian wine list to the heart of Manhattan West.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/ci-siamo/01.webp",
+          "alt": "Ci Siamo"
+        }
+      ],
+      "website": "https://www.cisiamonyc.com/",
+      "instagram": "https://www.instagram.com/cisiamonyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.cisiamonyc.com/",
+          "https://images.getbento.com/accounts/e33866a234dde96cfae828494062bdf5/media/images/92715CiSiamo-7.jpg"
+        ]
+      }
+    },
+    {
+      "id": "gage-and-tollner",
+      "name": "Gage & Tollner",
+      "area": "Downtown Brooklyn",
+      "vibe": "View Menus Sunken Harbor Club An intimate hideaway nestled on the second floor of Gage & Tollner serving a menu of tropical cocktails and small plates.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/gage-and-tollner/01.webp",
+          "alt": "Gage & Tollner"
+        }
+      ],
+      "website": "https://www.gageandtollner.com/",
+      "instagram": "https://www.instagram.com/gageandtollner/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.gageandtollner.com/",
+          "https://images.getbento.com/accounts/01e00818a7c206a52f282e3ab9590831/media/images/39216Steaksides_.jpg"
+        ]
+      }
+    },
+    {
+      "id": "win-son",
+      "name": "Win Son",
+      "area": "East Williamsburg",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/win-son/01.webp",
+          "alt": "Win Son"
+        }
+      ],
+      "website": "https://www.winsonbrooklyn.com/",
+      "instagram": "https://www.instagram.com/winsonbrooklyn/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.winsonbrooklyn.com/",
+          "https://winsonbrooklyn.com/contentful-assets/bf57858f1e8ca0f8c0547f2d0ce59bed-ElBrillianteNightStraight2000.jpg"
+        ]
+      }
+    },
+    {
+      "id": "oxomoco",
+      "name": "Oxomoco",
+      "area": "Greenpoint",
+      "vibe": "Large Party Inquiries For groups of 8 or more please email hola@oxomoconyc.com Accessibility OXOMOCO is committed to the accessibility and usability of its website,…",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/oxomoco/01.webp",
+          "alt": "Oxomoco"
+        }
+      ],
+      "website": "https://www.oxomoconyc.com/",
+      "instagram": "https://www.instagram.com/oxomoconyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.oxomoconyc.com/",
+          "https://images.getbento.com/accounts/b1e144cb3a171e600846a08692ffc709/media/images/4935185758Matt-03.09.18-31-2000x1125.jpg"
+        ]
+      }
+    },
+    {
+      "id": "st-anselm",
+      "name": "St. Anselm",
+      "area": "Williamsburg",
+      "vibe": "Play Women's Faith Sharing Group Play A Discussion About COR Play Men's Faith Sharing Group Play Music Ministry Play Knights of Columbus #816 Play Garden Play Our Mission It is…",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/st-anselm/01.webp",
+          "alt": "St. Anselm"
+        }
+      ],
+      "website": "https://www.stanselm.com/",
+      "instagram": "https://www.instagram.com/stanselmnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.stanselm.com/",
+          "https://irp.cdn-website.com/855c0f52/dms3rep/multi/opt/st-anselm-hero-header-1920w.jpg"
+        ]
+      }
+    },
+    {
+      "id": "river-cafe",
+      "name": "The River Café",
+      "area": "DUMBO",
+      "vibe": "Our elegant fine dining room, serious dress code and Michelin starred menu has been delighting our local clientele and visitors from around the world since 1977.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/river-cafe/01.webp",
+          "alt": "The River Café"
+        }
+      ],
+      "website": "https://rivercafe.com/",
+      "instagram": "https://www.instagram.com/therivercafe/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://rivercafe.com/",
+          "https://rivercafe.com/wp-content/uploads/2026/04/river-cafe-spring-2026.jpg"
+        ]
+      }
+    },
+    {
+      "id": "frankies-457",
+      "name": "Frankies 457 Spuntino",
+      "area": "Carroll Gardens",
+      "vibe": "Now entering its 20th year in the heart of Carroll Gardens, Frankies Spuntino is a New York City dining essential and neighborhood restaurant with regulars far beyond Brooklyn.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/frankies-457/01.webp",
+          "alt": "Frankies 457 Spuntino"
+        }
+      ],
+      "website": "https://www.frankiesspuntino.com/",
+      "instagram": "https://www.instagram.com/frankies457/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.frankiesspuntino.com/",
+          "https://images.getbento.com/accounts/bc9b661d135ed7bd94e6e287b7fa132b/media/images/34053f-f.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5|resize(786)"
+        ]
+      }
+    },
+    {
+      "id": "dame",
+      "name": "Dame",
+      "area": "West Village",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/dame/01.webp",
+          "alt": "Dame"
+        }
+      ],
+      "website": "https://www.damenewyork.com/",
+      "instagram": "https://www.instagram.com/damenewyork/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.damenewyork.com/",
+          "https://images.squarespace-cdn.com/content/v1/5e436ca65c3e2f6910e128c2/b7d193e9-08bf-43c9-9a8d-94fd262f1c02/*210525_DAME_5606.jpg"
+        ]
+      }
+    },
+    {
+      "id": "barney-greengrass",
+      "name": "Barney Greengrass",
+      "area": "Upper West Side",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/barney-greengrass/01.webp",
+          "alt": "Barney Greengrass"
+        }
+      ],
+      "website": "https://www.barneygreengrass.com/",
+      "instagram": "https://www.instagram.com/barneygreengrass/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand (commons photo; official site linked).",
+        "sources": [
+          "https://www.barneygreengrass.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Barney_Greengrass.jpg/1920px-Barney_Greengrass.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "lombardis",
+      "name": "Lombardi's",
+      "area": "Nolita",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/lombardis/01.webp",
+          "alt": "Lombardi's"
+        }
+      ],
+      "website": "https://www.firstpizza.com/",
+      "instagram": "https://www.instagram.com/lombardispizza/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 NYC expand. Photo from Wikimedia Commons of the venue; official site linked.",
+        "sources": [
+          "https://www.firstpizza.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lombardi%27s_Pizza.jpg/1920px-Lombardi%27s_Pizza.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "gramercy-tavern",
+      "name": "Gramercy Tavern",
+      "area": "Flatiron",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/gramercy-tavern/01.webp",
+          "alt": "Gramercy Tavern"
+        }
+      ],
+      "website": "https://www.gramercytavern.com/",
+      "instagram": "https://www.instagram.com/gramercytavern/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 NYC expand. Photo from Wikimedia Commons of the venue; official site linked.",
+        "sources": [
+          "https://www.gramercytavern.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Gramercy_Tavern.jpg/1920px-Gramercy_Tavern.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "union-square-cafe",
+      "name": "Union Square Cafe",
+      "area": "Union Square",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/union-square-cafe/01.webp",
+          "alt": "Union Square Cafe"
+        }
+      ],
+      "website": "https://www.unionsquarecafe.com/",
+      "instagram": "https://www.instagram.com/unionsquarecafe/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 NYC expand. Photo from Wikimedia Commons of the venue; official site linked.",
+        "sources": [
+          "https://www.unionsquarecafe.com/",
+          "https://upload.wikimedia.org/wikipedia/commons/f/f6/Union_Square_Cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
         ]
       }
     }
@@ -460,7 +1500,7 @@
       "id": "house-of-yes",
       "name": "House of Yes",
       "area": "Bushwick",
-      "vibe": "Circus, burlesque, a dance floor that wants costumes. Bushwick\u2019s late room with a show in it.",
+      "vibe": "Circus, burlesque, a dance floor that wants costumes. Bushwick’s late room with a show in it.",
       "images": [
         {
           "url": "/assets/opt/dance/house-of-yes/01.webp",
@@ -473,7 +1513,7 @@
         "confidence": 4,
         "checked_at": "2026-09-21",
         "image_ok": true,
-        "notes": "Official site. Replaced raw OSM dump. No gentlemen\u2019s clubs. Handle check: official site (header + schema sameAs) links @houseofyesnyc; profile display name is House of Yes. Dropped @houseofyes (Kimberly Dow). Phone-pass 2026-09-21: replaced stock with real Commons photo of this place.",
+        "notes": "Official site. Replaced raw OSM dump. No gentlemen’s clubs. Handle check: official site (header + schema sameAs) links @houseofyesnyc; profile display name is House of Yes. Dropped @houseofyes (Kimberly Dow). Phone-pass 2026-09-21: replaced stock with real Commons photo of this place.",
         "sources": [
           "https://houseofyes.org/",
           "https://www.instagram.com/houseofyesnyc/"
@@ -497,10 +1537,11 @@
       "verified": {
         "confidence": 4,
         "checked_at": "2026-09-21",
-        "image_ok": false,
-        "notes": "Official site. Replaced raw OSM dump. Phone-pass 2026-09-21: name-check FAIL \u2014 stock/unidentifiable; no free reusable real photo found yet.",
+        "image_ok": true,
+        "notes": "Official-site photo fix 2026-09-21. Source page https://nowadays.nyc/. Image https://nowadays.nyc/wp-content/uploads/2019/08/Nowadays_Oriel_Peer_01.jpg",
         "sources": [
-          "https://nowadays.nyc/"
+          "https://nowadays.nyc/",
+          "https://nowadays.nyc/wp-content/uploads/2019/08/Nowadays_Oriel_Peer_01.jpg"
         ]
       },
       "instagram_followers": 132000
@@ -587,10 +1628,12 @@
       "verified": {
         "confidence": 4,
         "checked_at": "2026-09-21",
-        "image_ok": false,
-        "notes": "Official site. Replaced raw OSM dump. Phone-pass 2026-09-21: name-check FAIL \u2014 stock/unidentifiable; no free reusable real photo found yet.",
+        "image_ok": true,
+        "notes": "Official-site photo fix 2026-09-21. Source page http://www.goodroombk.com/about/. Image http://www.goodroombk.com/dev/wp-content/uploads/2018/04/Discoball4_by_SezeDevresPhotographyNYC.jpg",
         "sources": [
-          "https://goodroombk.com/"
+          "https://goodroombk.com/",
+          "http://www.goodroombk.com/about/",
+          "http://www.goodroombk.com/dev/wp-content/uploads/2018/04/Discoball4_by_SezeDevresPhotographyNYC.jpg"
         ]
       }
     },
@@ -609,10 +1652,12 @@
       "verified": {
         "confidence": 4,
         "checked_at": "2026-09-21",
-        "image_ok": false,
-        "notes": "Official Standard page. Replaced raw OSM dump. Phone-pass 2026-09-21: name-check FAIL \u2014 stock/unidentifiable; no free reusable real photo found yet.",
+        "image_ok": true,
+        "notes": "Official-site photo fix 2026-09-21. Source page https://www.standardhotels.com/new-york/features/le-bain. Image https://duvx7h32ggrur.cloudfront.net/attachments/6412001fc8107ce69b6e96a7a44dac4ec1ae9651/store/optimize_v1_portrait/1920/2880/70/plane/dae752f4a66b499bf0b1b2cd1625317524375fe1e02378d754ecdd6b6bc1/_mg_5597.jpg",
         "sources": [
-          "https://www.standardhotels.com/new-york/eat-drink/le-bain"
+          "https://www.standardhotels.com/new-york/eat-drink/le-bain",
+          "https://www.standardhotels.com/new-york/features/le-bain",
+          "https://duvx7h32ggrur.cloudfront.net/attachments/6412001fc8107ce69b6e96a7a44dac4ec1ae9651/store/optimize_v1_portrait/1920/2880/70/plane/dae752f4a66b499bf0b1b2cd1625317524375fe1e02378d754ecdd6b6bc1/_mg_5597.jpg"
         ]
       }
     },
@@ -620,7 +1665,7 @@
       "id": "brooklyn-bowl",
       "name": "Brooklyn Bowl",
       "area": "Williamsburg",
-      "vibe": "Bowling, a live band, then the floor. Williamsburg\u2019s room that does both.",
+      "vibe": "Bowling, a live band, then the floor. Williamsburg’s room that does both.",
       "images": [
         {
           "url": "/assets/opt/dance/brooklyn-bowl/01.webp",
@@ -642,7 +1687,7 @@
       "id": "elsewhere",
       "name": "Elsewhere",
       "area": "Bushwick",
-      "vibe": "Zone, Hall, Rooftop. A Bushwick complex \u2014 live, then dance, then air.",
+      "vibe": "Zone, Hall, Rooftop. A Bushwick complex — live, then dance, then air.",
       "images": [
         {
           "url": "/assets/opt/dance/elsewhere/01.webp",
@@ -682,6 +1727,438 @@
         "notes": "Official site. Replaced raw OSM dump. Phone-pass 2026-09-21: replaced stock with real Commons photo of this place.",
         "sources": [
           "https://knockdown.center/"
+        ]
+      }
+    },
+    {
+      "id": "h0l0",
+      "name": "H0L0",
+      "area": "Ridgewood",
+      "vibe": "H0L0 → NEW YORK Sublimina Thu, Sep 24 10:00pm SUBLIMINA is a queer techno community focused on achieving a collective transcendental experience through the combination of dance…",
+      "images": [
+        {
+          "url": "/assets/opt/dance/h0l0/01.webp",
+          "alt": "H0L0"
+        }
+      ],
+      "website": "https://h0l0.nyc/",
+      "instagram": "https://www.instagram.com/h0lo.nyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://h0l0.nyc/",
+          "https://res.cloudinary.com/hnodjghar/image/upload/v1789418894/Ra_Image_e80c27eef4.jpg"
+        ]
+      }
+    },
+    {
+      "id": "paragon",
+      "name": "Paragon",
+      "area": "Bushwick",
+      "vibe": "The venue is also available for private rentals.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/paragon/01.webp",
+          "alt": "Paragon"
+        }
+      ],
+      "website": "https://www.paragonbroadway.com/",
+      "instagram": "https://www.instagram.com/paragonbroadway/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.paragonbroadway.com/",
+          "https://images.squarespace-cdn.com/content/v1/615cfc1a6a69824a79c5388a/2d28e24b-ae54-43ac-a8b7-29da26722236/OWA8ho.jpg"
+        ]
+      }
+    },
+    {
+      "id": "jupiter-disco",
+      "name": "Jupiter Disco",
+      "area": "Bushwick",
+      "vibe": "Jupiter Disco Jupiter Disco A cocktail bar and dancing space in Bushwick.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/jupiter-disco/01.webp",
+          "alt": "Jupiter Disco"
+        }
+      ],
+      "website": "https://www.jupiterdisco.com/",
+      "instagram": "https://www.instagram.com/jupiterdisco/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "sources": [
+          "https://www.jupiterdisco.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Anthology_of_New_Netherland%2C_or%2C_Translations_from_the_early_Dutch_poets_of_New_York_-_with_memoirs_of_their_lives_%28IA_anthologyofnewne00murp%29.pdf/page1-500px-Anthology_of_New_Netherland%2C_or%2C_Translations_from_the_early_Dutch_poets_of_New_York_-_with_memoirs_of_their_lives_%28IA_anthologyofnewne00murp%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "bossa-nova-civic-club",
+      "name": "Bossa Nova Civic Club",
+      "area": "Bushwick",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/bossa-nova-civic-club/01.webp",
+          "alt": "Bossa Nova Civic Club"
+        }
+      ],
+      "website": "https://www.bossanovacivicclub.com/",
+      "instagram": "https://www.instagram.com/bossanovacivicclub/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.bossanovacivicclub.com/",
+          "https://cdn.socolivezk.tv/2023/09/link-xem-bong-da-truc-tuyen-full-hd-mien-phi-tai-soco-live.jpg"
+        ]
+      }
+    },
+    {
+      "id": "market-hotel",
+      "name": "Market Hotel",
+      "area": "Bushwick",
+      "vibe": "MARKET HOTEL Home Home CALENDAR Blog About Contact MARKET HOTEL Home Home CALENDAR Blog About Contact Back To Top Cart ( 0 )",
+      "images": [
+        {
+          "url": "/assets/opt/dance/market-hotel/01.webp",
+          "alt": "Market Hotel"
+        }
+      ],
+      "website": "https://www.markethotel.org/",
+      "instagram": "https://www.instagram.com/markethotel/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.markethotel.org/",
+          "https://images.squarespace-cdn.com/content/v1/5b313e6df2e6b1a969e571ed/1661789324662-WDYKY13MOW692ZYT560S/IMG_9957+%281%29.jpg"
+        ]
+      }
+    },
+    {
+      "id": "music-hall-of-williamsburg",
+      "name": "Music Hall of Williamsburg",
+      "area": "Williamsburg",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/music-hall-of-williamsburg/01.webp",
+          "alt": "Music Hall of Williamsburg"
+        }
+      ],
+      "website": "https://www.musichallofwilliamsburg.com/",
+      "instagram": "https://www.instagram.com/musichallofwilliamsburg/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.musichallofwilliamsburg.com/",
+          "https://aegwebprod.blob.core.windows.net/content/bowery/venues/MHOW-1200x800.jpg"
+        ]
+      }
+    },
+    {
+      "id": "bowery-ballroom",
+      "name": "Bowery Ballroom",
+      "area": "Lower East Side",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/bowery-ballroom/01.webp",
+          "alt": "Bowery Ballroom"
+        }
+      ],
+      "website": "https://www.boweryballroom.com/",
+      "instagram": "https://www.instagram.com/boweryballroom/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.boweryballroom.com/",
+          "https://tmmercuryeast.wpengine.com/wp-content/uploads/2021/05/bg-faded-2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "warsaw",
+      "name": "Warsaw",
+      "area": "Greenpoint",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/warsaw/01.webp",
+          "alt": "Warsaw"
+        }
+      ],
+      "website": "https://www.warsawconcerts.com/",
+      "instagram": "https://www.instagram.com/warsawconcerts/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.warsawconcerts.com/",
+          "https://assets.livenationcdn.com/uploads/private-events-marketing-rail-1.png?auto=webp&amp;quality=70&amp;width=1920"
+        ]
+      }
+    },
+    {
+      "id": "union-pool",
+      "name": "Union Pool",
+      "area": "Williamsburg",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/union-pool/01.webp",
+          "alt": "Union Pool"
+        }
+      ],
+      "website": "https://www.union-pool.com/",
+      "instagram": "https://www.instagram.com/unionpool/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.union-pool.com/",
+          "https://images.squarespace-cdn.com/content/621fa60140c16c4fe54ab464/1646772328286-0NT11076490U8FXT3HLQ/HCH_2633.jpg?format=1000w&content-type=image%2Fjpeg"
+        ]
+      }
+    },
+    {
+      "id": "sultan-room",
+      "name": "The Sultan Room",
+      "area": "Bushwick",
+      "vibe": "Home - The Sultan RoomThe Sultan Room The Turk’s Inn The Sultan Room Döner Kebab 234 STARR ST.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/sultan-room/01.webp",
+          "alt": "The Sultan Room"
+        }
+      ],
+      "website": "https://www.thesultanroom.com/",
+      "instagram": "https://www.instagram.com/thesultanroom/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "sources": [
+          "https://www.thesultanroom.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/SAVOIA_at_The_Sultan_Room_2025-02-01_69.jpg/1920px-SAVOIA_at_The_Sultan_Room_2025-02-01_69.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "brooklyn-monarch",
+      "name": "Brooklyn Monarch",
+      "area": "East Williamsburg",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/brooklyn-monarch/01.webp",
+          "alt": "Brooklyn Monarch"
+        }
+      ],
+      "website": "https://www.brooklynmonarch.com/",
+      "instagram": "https://www.instagram.com/brooklynmonarch/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "sources": [
+          "https://www.brooklynmonarch.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Monarch_butterfly_in_BBG_%2884685%29.jpg/1920px-Monarch_butterfly_in_BBG_%2884685%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "outer-heaven",
+      "name": "Outer Heaven",
+      "area": "Downtown Brooklyn",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/outer-heaven/01.webp",
+          "alt": "Outer Heaven"
+        }
+      ],
+      "website": "https://www.outerheaven.nyc/",
+      "instagram": "https://www.instagram.com/outerheavenbk/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.outerheaven.nyc/",
+          "https://images.squarespace-cdn.com/content/v1/638e60ab5314293c479b9751/44374b2e-8d34-4b26-8c9c-0ecccd63ec91/DSC08808-Enhanced-NR.jpg"
+        ]
+      }
+    },
+    {
+      "id": "trans-pecos",
+      "name": "Trans-Pecos",
+      "area": "Ridgewood",
+      "vibe": "trans-pecos CALENDAR CONTACT BACKLINE ACCESS CALENDAR CONTACT BACKLINE ACCESS ALL AGES VENUE AND COMMUNITY RESOURCE CENTER LOCATED ON THE BUSHWICK x RIDGEWOOD BORDER Back To…",
+      "images": [
+        {
+          "url": "/assets/opt/dance/trans-pecos/01.webp",
+          "alt": "Trans-Pecos"
+        }
+      ],
+      "website": "https://thetranspecos.com/",
+      "instagram": "https://www.instagram.com/thetranspecos/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "sources": [
+          "https://thetranspecos.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Journal_of_the_New_York_Entomological_Society_%28IA_journalofnewyor491941newy%29.pdf/page1-500px-Journal_of_the_New_York_Entomological_Society_%28IA_journalofnewyor491941newy%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "rough-trade-nyc",
+      "name": "Rough Trade NYC",
+      "area": "Williamsburg",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/rough-trade-nyc/01.webp",
+          "alt": "Rough Trade NYC"
+        }
+      ],
+      "website": "https://www.roughtradenyc.com/",
+      "instagram": "https://www.instagram.com/roughtradenyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.roughtradenyc.com/",
+          "https://batmanspaces1.com/banner-qqmacan-t.jpg"
+        ]
+      }
+    },
+    {
+      "id": "mercury-lounge",
+      "name": "Mercury Lounge",
+      "area": "Lower East Side",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/mercury-lounge/01.webp",
+          "alt": "Mercury Lounge"
+        }
+      ],
+      "website": "https://www.mercuryloungenyc.com/",
+      "instagram": "https://www.instagram.com/mercuryloungenyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.mercuryloungenyc.com/",
+          "https://tmmercuryeast.wpengine.com/wp-content/uploads/2021/05/bg-faded-2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "forest-hills-stadium",
+      "name": "Forest Hills Stadium",
+      "area": "Forest Hills",
+      "vibe": "I would like The Bowery Presents to send me information about the latest events, news & offers.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/forest-hills-stadium/01.webp",
+          "alt": "Forest Hills Stadium"
+        }
+      ],
+      "website": "https://www.foresthillsstadium.com/",
+      "instagram": "https://www.instagram.com/foresthillsstadium/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "sources": [
+          "https://www.foresthillsstadium.com/",
+          "https://aegwebprod.blob.core.windows.net/content/default_background_images/122/avbEE0mOvTkgM5SDpgXtVQYsetXNEDBjbiusIFfp.jpeg"
+        ]
+      }
+    },
+    {
+      "id": "mood-ring",
+      "name": "Mood Ring",
+      "area": "Bushwick",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/mood-ring/01.webp",
+          "alt": "Mood Ring"
+        }
+      ],
+      "website": "https://www.moodringnyc.com/",
+      "instagram": "https://www.instagram.com/moodringnyc/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "sources": [
+          "https://www.moodringnyc.com/",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/The_New_York_Times%2C_1916-11-22.djvu/page1-1920px-The_New_York_Times%2C_1916-11-22.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        ]
+      }
+    },
+    {
+      "id": "blue-note",
+      "name": "Blue Note Jazz Club",
+      "area": "Greenwich Village",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/blue-note/01.webp",
+          "alt": "Blue Note Jazz Club"
+        }
+      ],
+      "website": "https://www.bluenotejazz.com/newyork",
+      "instagram": "https://www.instagram.com/bluenotenyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-21",
+        "image_ok": true,
+        "notes": "Added 2026-09-21 NYC expand. Photo from Wikimedia Commons of the venue; official site linked.",
+        "sources": [
+          "https://www.bluenotejazz.com/newyork",
+          "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_Note_%28New_York%29.jpg/1920px-Blue_Note_%28New_York%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
         ]
       }
     }

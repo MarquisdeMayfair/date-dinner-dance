@@ -1,0 +1,50 @@
+{
+  "lilia": {
+    "status": "fixed",
+    "source_page": "https://www.lilianewyork.com/press/",
+    "image_url": "https://images.getbento.com/accounts/7bf67b2820625f9f7c33d7b0403a8cca/media/images/5030562919Lilia-0089.jpg",
+    "note": "Official press dining-room photo from lilianewyork.com / getbento CDN",
+    "local_bytes": 55132,
+    "local_path": "/workspace/date-dinner-dance/public/assets/opt/dinner/lilia/01.webp"
+  },
+  "xian-famous-foods": {
+    "status": "fixed",
+    "source_page": "https://www.xianfoods.com/",
+    "image_url": "https://cdn.prod.website-files.com/64e57dd33e949526478688ea/6534a44ddab6affbb19ebfd5_Cover01-s-website.webp",
+    "note": "Official site cover / brand food photo (signature biangbiang) hosted on xianfoods.com CDN",
+    "local_bytes": 63846,
+    "local_path": "/workspace/date-dinner-dance/public/assets/opt/dinner/xian-famous-foods/01.webp"
+  },
+  "locanda-verde": {
+    "status": "fixed",
+    "source_page": "https://www.locandaverdenyc.com/gallery/",
+    "image_url": "https://images.getbento.com/accounts/f87dbf1ed138d3502a95a95cd9adc5a3/media/images/53979LocandaVerde-HR.jpg",
+    "note": "Official gallery dining-room photo from locandaverdenyc.com",
+    "local_bytes": 119348,
+    "local_path": "/workspace/date-dinner-dance/public/assets/opt/dinner/locanda-verde/01.webp"
+  },
+  "nowadays": {
+    "status": "fixed",
+    "source_page": "https://nowadays.nyc/",
+    "image_url": "https://nowadays.nyc/wp-content/uploads/2019/08/Nowadays_Oriel_Peer_01.jpg",
+    "note": "Official nowadays.nyc media \u2014 OUTDOORS marquee / fence art",
+    "local_bytes": 71454,
+    "local_path": "/workspace/date-dinner-dance/public/assets/opt/dance/nowadays/01.webp"
+  },
+  "good-room": {
+    "status": "fixed",
+    "source_page": "http://www.goodroombk.com/about/",
+    "image_url": "http://www.goodroombk.com/dev/wp-content/uploads/2018/04/Discoball4_by_SezeDevresPhotographyNYC.jpg",
+    "note": "Official about-page photo (Seze Devres) hosted on goodroombk.com",
+    "local_bytes": 115168,
+    "local_path": "/workspace/date-dinner-dance/public/assets/opt/dance/good-room/01.webp"
+  },
+  "le-bain": {
+    "status": "fixed",
+    "source_page": "https://www.standardhotels.com/new-york/features/le-bain",
+    "image_url": "https://duvx7h32ggrur.cloudfront.net/attachments/6412001fc8107ce69b6e96a7a44dac4ec1ae9651/store/optimize_v1_portrait/1920/2880/70/plane/dae752f4a66b499bf0b1b2cd1625317524375fe1e02378d754ecdd6b6bc1/_mg_5597.jpg",
+    "note": "Official Standard Hotels Cloudfront asset linked from Le Bain feature page (live CDN; page HTML also archived)",
+    "local_bytes": 57960,
+    "local_path": "/workspace/date-dinner-dance/public/assets/opt/dance/le-bain/01.webp"
+  }
+}
