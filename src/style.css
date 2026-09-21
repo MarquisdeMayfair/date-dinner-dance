@@ -146,10 +146,12 @@ a {
   display: flex;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
-  scroll-behavior: smooth;
+  scroll-behavior: auto;
+  overscroll-behavior-x: contain;
   -webkit-overflow-scrolling: touch;
   touch-action: pan-x;
   scrollbar-width: none;
+  position: relative;
 }
 
 .city-scroller::-webkit-scrollbar {
@@ -172,6 +174,9 @@ a {
   text-transform: lowercase;
   color: var(--ink);
   user-select: none;
+  -webkit-user-select: none;
+  touch-action: pan-x;
+  cursor: pointer;
 }
 
 .city-dots {
@@ -213,12 +218,11 @@ a {
 .reel {
   position: relative;
   display: grid;
-  grid-template-columns: 28px auto minmax(0, 1fr);
-  grid-template-rows: auto minmax(0, 1fr);
+  grid-template-columns: 32px minmax(112px, 42%) minmax(0, 1fr);
+  grid-template-rows: minmax(0, 1fr);
   column-gap: 8px;
-  row-gap: 4px;
-  align-items: center;
-  padding: 8px;
+  align-items: stretch;
+  padding: 8px 10px 8px 6px;
   background: var(--cream);
   border: 2px solid var(--ink);
   border-radius: 18px;
@@ -240,27 +244,26 @@ a {
 }
 
 .reel-label {
-  grid-column: 1 / -1;
-  font-size: 0.68rem;
-  font-weight: 600;
-  letter-spacing: 0.2em;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
   text-align: center;
   background: var(--ink);
   color: var(--cream);
-  padding: 5px 12px;
+  padding: 5px 11px 4px;
   border-radius: 999px;
   width: fit-content;
-  margin: 0 auto;
+  margin: 0 0 8px;
+  line-height: 1.1;
 }
 
 .nudges {
-  grid-column: 1;
-  grid-row: 2;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  gap: 6px;
+  align-items: center;
+  gap: 12px;
 }
 
 .nudge {
@@ -299,19 +302,16 @@ a {
 }
 
 .window-wrap {
-  grid-column: 2;
-  grid-row: 2;
-  display: flex;
-  justify-content: center;
+  min-width: 0;
+  min-height: 0;
   align-self: stretch;
   height: 100%;
-  min-height: 0;
 }
 
 .window {
   position: relative;
+  width: 100%;
   height: 100%;
-  aspect-ratio: 4 / 5;
   overflow: hidden;
   border-radius: 12px;
   border: 2px solid var(--ink);
@@ -351,21 +351,27 @@ a {
   letter-spacing: -0.03em;
 }
 
-.reveal {
-  grid-column: 3;
-  grid-row: 2;
+.copy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 0;
   min-height: 0;
-  padding: 0 2px 0 0;
-  align-self: center;
+  overflow: hidden;
+  padding: 2px 0 2px 2px;
+}
+
+.reveal {
+  min-height: 0;
 }
 
 .reveal h3 {
   margin: 0;
   font-family: "Bricolage Grotesque", system-ui, sans-serif;
-  font-size: 1.12rem;
+  font-size: clamp(1.18rem, 5.6vw, 1.42rem);
   font-weight: 800;
   letter-spacing: -0.03em;
-  line-height: 1.12;
+  line-height: 1.1;
   overflow-wrap: anywhere;
 }
 
@@ -379,10 +385,10 @@ a {
 }
 
 .area {
-  margin: 2px 0 0;
-  font-size: 0.65rem;
+  margin: 4px 0 0;
+  font-size: 0.74rem;
   font-weight: 600;
-  letter-spacing: 0.14em;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
 }
 
@@ -396,10 +402,10 @@ a {
 }
 
 .vibe {
-  margin: 4px 0 0;
-  font-size: 0.72rem;
+  margin: 6px 0 0;
+  font-size: 0.86rem;
   font-weight: 400;
-  line-height: 1.38;
+  line-height: 1.35;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   line-clamp: 3;
@@ -419,8 +425,8 @@ a {
 .links {
   display: flex;
   flex-wrap: wrap;
-  gap: 5px;
-  margin-top: 6px;
+  gap: 6px;
+  margin-top: 8px;
 }
 
 .links a {
@@ -709,7 +715,7 @@ a {
   }
 
   :root {
-    --card-h: min(20dvh, 148px);
+    --card-h: min(22dvh, 168px);
   }
 
   .hero {
@@ -721,13 +727,21 @@ a {
   }
 
   .reel {
-    padding: 6px 7px 7px;
+    padding: 6px 8px 6px 5px;
+  }
+
+  .reel-label {
+    margin-bottom: 6px;
+  }
+
+  .nudges {
+    gap: 10px;
   }
 }
 
 @media (max-height: 680px) {
   :root {
-    --card-h: min(18dvh, 128px);
+    --card-h: min(20dvh, 148px);
   }
 
   .city-slide {
@@ -743,29 +757,39 @@ a {
     height: 5px;
   }
 
+  .reveal h3 {
+    font-size: clamp(1.08rem, 5vw, 1.28rem);
+  }
+
+  .area {
+    font-size: 0.68rem;
+  }
+
   .vibe {
+    margin-top: 4px;
+    font-size: 0.8rem;
     -webkit-line-clamp: 2;
     line-clamp: 2;
   }
 
   .links {
-    margin-top: 4px;
+    margin-top: 6px;
     gap: 4px;
   }
 
   .links a {
-    width: 24px;
-    height: 24px;
+    width: 26px;
+    height: 26px;
   }
 
   .links a.has-proof {
-    min-width: 24px;
+    min-width: 26px;
     padding: 0 5px 0 4px;
   }
 
   .links a svg {
-    width: 12px;
-    height: 12px;
+    width: 13px;
+    height: 13px;
   }
 }
 

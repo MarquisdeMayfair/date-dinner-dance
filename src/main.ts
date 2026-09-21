@@ -246,7 +246,6 @@ class Reel {
     this.root.className = "reel";
     this.root.dataset.reel = key;
     this.root.innerHTML = `
-      <div class="reel-label">${LABELS[key]}</div>
       <div class="nudges">
         <button type="button" class="nudge" data-dir="-1" aria-label="Previous ${LABELS[key]}">${chevronUp}</button>
         <button type="button" class="nudge" data-dir="1" aria-label="Next ${LABELS[key]}">${chevronDown}</button>
@@ -256,7 +255,10 @@ class Reel {
           <div class="strip"></div>
         </div>
       </div>
-      <div class="reveal"></div>
+      <div class="copy">
+        <div class="reel-label">${LABELS[key]}</div>
+        <div class="reveal"></div>
+      </div>
     `;
     mount.append(this.root);
     this.windowEl = this.root.querySelector(".window") as HTMLElement;
@@ -330,7 +332,7 @@ class Reel {
   }
 
   private syncCardHeights(): void {
-    const height = Math.round(this.windowEl.getBoundingClientRect().height);
+    const height = Math.round(this.windowEl.clientHeight);
     if (!height) return;
     this.stripEl.querySelectorAll<HTMLElement>(".card").forEach((card) => {
       card.style.height = `${height}px`;
@@ -527,7 +529,7 @@ function paintCityPicker(cities: City[], activeId: string): void {
   scroller.innerHTML = cities
     .map(
       (city) =>
-        `<button type="button" class="city-slide" role="tab" data-city="${escapeHtml(city.id)}" aria-selected="${city.id === activeId}">${escapeHtml(city.name)}</button>`,
+        `<div class="city-slide" role="tab" tabindex="0" data-city="${escapeHtml(city.id)}" aria-selected="${city.id === activeId}">${escapeHtml(city.name)}</div>`,
     )
     .join("");
   dots.innerHTML = cities
@@ -535,27 +537,25 @@ function paintCityPicker(cities: City[], activeId: string): void {
     .join("");
 }
 
-function scrollCityIntoView(cityId: string, smooth = false): void {
-  const slide = document.querySelector<HTMLElement>(`.city-slide[data-city="${cityId}"]`);
-  slide?.scrollIntoView({ inline: "center", block: "nearest", behavior: smooth ? "smooth" : "instant" });
+function cityIndexFromScroll(scroller: HTMLElement, count: number): number {
+  const width = scroller.clientWidth;
+  if (!width || count <= 0) return 0;
+  return Math.max(0, Math.min(count - 1, Math.round(scroller.scrollLeft / width)));
+}
+
+function scrollCityIntoView(cityId: string, cities: City[], smooth = false): void {
+  const scroller = document.querySelector<HTMLElement>("#city-scroller");
+  if (!scroller) return;
+  const index = cities.findIndex((city) => city.id === cityId);
+  if (index < 0) return;
+  const left = index * scroller.clientWidth;
+  scroller.scrollTo({ left, behavior: smooth ? "smooth" : "auto" });
 }
 
 function nearestCityId(cities: City[]): string {
   const scroller = document.querySelector<HTMLElement>("#city-scroller");
   if (!scroller) return cities[0].id;
-  const center = scroller.scrollLeft + scroller.clientWidth / 2;
-  const slides = [...scroller.querySelectorAll<HTMLElement>(".city-slide")];
-  let best = cities[0].id;
-  let bestDist = Number.POSITIVE_INFINITY;
-  slides.forEach((slide) => {
-    const mid = slide.offsetLeft + slide.offsetWidth / 2;
-    const dist = Math.abs(mid - center);
-    if (dist < bestDist) {
-      bestDist = dist;
-      best = slide.dataset.city || best;
-    }
-  });
-  return best;
+  return cities[cityIndexFromScroll(scroller, cities.length)]?.id || cities[0].id;
 }
 
 async function boot(): Promise<void> {
@@ -570,7 +570,10 @@ async function boot(): Promise<void> {
   let reels: Reel[] = [];
   let cityId = cityFromLocation(cities);
   let switching = false;
-  let ignoreScroll = false;
+  let programmatic = false;
+  let pendingCity: string | null = null;
+  let settleTimer = 0;
+  let programTimer = 0;
   const shareBtn = document.querySelector<HTMLButtonElement>("#share");
   const setShareVisible = (visible: boolean) => {
     if (!shareBtn) return;
@@ -586,19 +589,37 @@ async function boot(): Promise<void> {
     });
   };
 
-  const loadCity = async (id: string, smooth = false) => {
-    if (switching || reels.some((reel) => reel.busy)) return;
+  const markProgrammatic = (smooth: boolean) => {
+    programmatic = true;
+    window.clearTimeout(programTimer);
+    programTimer = window.setTimeout(() => {
+      programmatic = false;
+    }, smooth ? 450 : 80);
+  };
+
+  const loadCity = async (id: string, opts: { smooth?: boolean; fromScroll?: boolean } = {}) => {
     const city = cities.find((item) => item.id === id);
     if (!city) return;
     if (id === cityId && reels.length) {
-      scrollCityIntoView(id, smooth);
+      if (!opts.fromScroll) {
+        markProgrammatic(!!opts.smooth);
+        scrollCityIntoView(id, cities, opts.smooth);
+      }
+      return;
+    }
+    if (switching) {
+      pendingCity = id;
+      setDots(id);
       return;
     }
     switching = true;
-    ignoreScroll = true;
     cityId = id;
+    pendingCity = null;
     setDots(id);
-    scrollCityIntoView(id, smooth);
+    if (!opts.fromScroll) {
+      markProgrammatic(!!opts.smooth);
+      scrollCityIntoView(id, cities, opts.smooth);
+    }
     try {
       localStorage.setItem("ddd-city", id);
     } catch {
@@ -619,6 +640,7 @@ async function boot(): Promise<void> {
 
     try {
       const catalog = await loadCatalog(id);
+      if (cityId !== id) return;
       validate(catalog);
       reels.forEach((reel) => reel.destroy());
       mount.innerHTML = "";
@@ -637,46 +659,87 @@ async function boot(): Promise<void> {
       cities.forEach((item) => prefetchCatalog(item.id));
     } finally {
       switching = false;
-      window.setTimeout(() => {
-        ignoreScroll = false;
-      }, 220);
+      const queued = pendingCity;
+      pendingCity = null;
+      if (queued && queued !== cityId) void loadCity(queued, { fromScroll: true });
     }
   };
 
   paintCityPicker(cities, cityId);
   await loadCity(cityId);
 
-  const resize = () => reels.forEach((reel) => reel.layout());
-  window.addEventListener("resize", resize);
+  const snapActiveCity = () => {
+    markProgrammatic(false);
+    scrollCityIntoView(cityId, cities, false);
+    reels.forEach((reel) => reel.layout());
+  };
+  window.addEventListener("resize", snapActiveCity);
 
-  let scrollTick = 0;
+  const settleCity = () => {
+    programmatic = false;
+    const next = nearestCityId(cities);
+    setDots(next);
+    if (next !== cityId) void loadCity(next, { fromScroll: true });
+  };
+
   scroller.addEventListener(
     "scroll",
     () => {
-      if (ignoreScroll) return;
-      window.clearTimeout(scrollTick);
-      scrollTick = window.setTimeout(() => {
-        if (ignoreScroll) return;
-        const next = nearestCityId(cities);
-        if (next !== cityId) void loadCity(next);
-      }, 80);
+      if (!programmatic) setDots(nearestCityId(cities));
+      window.clearTimeout(settleTimer);
+      settleTimer = window.setTimeout(settleCity, 120);
     },
     { passive: true },
   );
+  scroller.addEventListener("scrollend", () => {
+    window.clearTimeout(settleTimer);
+    settleCity();
+  });
 
   document.querySelectorAll<HTMLButtonElement>(".city-chevron").forEach((button) => {
     button.addEventListener("click", () => {
       const dir = Number(button.dataset.dir) === -1 ? -1 : 1;
       const index = cities.findIndex((city) => city.id === cityId);
       const next = cities[(index + dir + cities.length) % cities.length];
-      void loadCity(next.id, true);
+      void loadCity(next.id, { smooth: true });
     });
   });
 
+  const pickSlide = (city: string | undefined) => {
+    if (!city) return;
+    void loadCity(city, { smooth: true });
+  };
+
+  let pointerX = 0;
+  let dragged = false;
+  scroller.addEventListener("pointerdown", (event) => {
+    pointerX = event.clientX;
+    dragged = false;
+  });
+  scroller.addEventListener(
+    "pointermove",
+    (event) => {
+      if (Math.abs(event.clientX - pointerX) > 8) dragged = true;
+    },
+    { passive: true },
+  );
+
   scroller.addEventListener("click", (event) => {
+    if (dragged) {
+      event.preventDefault();
+      dragged = false;
+      return;
+    }
+    const slide = (event.target as HTMLElement).closest<HTMLElement>(".city-slide");
+    pickSlide(slide?.dataset.city);
+  });
+
+  scroller.addEventListener("keydown", (event) => {
+    if (event.key !== "Enter" && event.key !== " ") return;
     const slide = (event.target as HTMLElement).closest<HTMLElement>(".city-slide");
     if (!slide?.dataset.city) return;
-    void loadCity(slide.dataset.city, true);
+    event.preventDefault();
+    pickSlide(slide.dataset.city);
   });
 
   const cityName = () => cities.find((city) => city.id === cityId)?.name || cityId;
