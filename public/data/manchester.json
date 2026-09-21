@@ -935,6 +935,84 @@
         }
       ],
       "website": "https://www.lancashirecricket.co.uk/"
+    },
+    {
+      "id": "heaton-park-tramway",
+      "name": "Heaton Park Tramway",
+      "area": "Heaton Park",
+      "vibe": "Preserving Greater Manchester's tramway history since 1979 — heritage trams and vintage vehicles in Heaton Park.",
+      "images": [
+        {
+          "url": "/assets/opt/date/heaton-park-tramway/01.webp",
+          "alt": "Heaton Park Tramway heritage tram"
+        }
+      ],
+      "website": "https://hptramway.co.uk/"
+    },
+    {
+      "id": "platt-fields-park",
+      "name": "Platt Fields Park",
+      "area": "Fallowfield",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/platt-fields-park/01.webp",
+          "alt": "Platt Fields Park Fallowfield"
+        }
+      ],
+      "website": "https://friendsofplattfields.org.uk/"
+    },
+    {
+      "id": "stray",
+      "name": "Stray",
+      "area": "Northern Quarter",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/stray/01.webp",
+          "alt": "Stray cocktail bar Northern Quarter"
+        }
+      ],
+      "website": "https://straybar.co/"
+    },
+    {
+      "id": "sister-moon",
+      "name": "Sister Moon",
+      "area": "City Centre",
+      "vibe": "Southeast Asian flavours meet open-fire cooking — bold, fragrant dishes made for sharing, with fresh ingredients, layered spice and a relaxed rooftop energy at Treehouse Manchester.",
+      "images": [
+        {
+          "url": "/assets/opt/date/sister-moon/01.webp",
+          "alt": "Sister Moon rooftop restaurant Manchester"
+        }
+      ],
+      "website": "https://www.treehousehotels.com/manchester/eat-drink/sister-moon"
+    },
+    {
+      "id": "nest-bar",
+      "name": "Nest Bar",
+      "area": "City Centre",
+      "vibe": "A cocktail bar with sweeping views of the city below — curated music and genuine hospitality in Manchester city centre.",
+      "images": [
+        {
+          "url": "/assets/opt/date/nest-bar/01.webp",
+          "alt": "Nest Bar Treehouse Manchester rooftop"
+        }
+      ],
+      "website": "https://www.treehousehotels.com/manchester/eat-drink/nest"
+    },
+    {
+      "id": "hideout",
+      "name": "Hideout",
+      "area": "City Centre",
+      "vibe": "The Hideout is an intimate retreat above the city with a speakeasy feel, offering late-night drinks, curated music, and Manchester’s views.",
+      "images": [
+        {
+          "url": "/assets/opt/date/hideout/01.webp",
+          "alt": "Hideout lounge Treehouse Manchester"
+        }
+      ],
+      "website": "https://www.treehousehotels.com/manchester/eat-drink/hideout"
     }
   ],
   "dinner": [
@@ -2069,6 +2147,175 @@
         }
       ],
       "website": "http://theleadstation.co.uk/"
+    },
+    {
+      "id": "proloco",
+      "name": "Proloco",
+      "area": "Ancoats",
+      "vibe": "Seasonal plates, 18-inch pizza and ice cream — a restaurant built for sharing on Great Ancoats Street.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/proloco/01.webp",
+          "alt": "Proloco Ancoats restaurant interior"
+        }
+      ],
+      "website": "https://www.proloco.uk/"
+    },
+    {
+      "id": "restaurant-orme",
+      "name": "Restaurant Örme",
+      "area": "Urmston",
+      "vibe": "Modern British dining with a carefully crafted wine list, seasonal cocktails and local beers — soundtracked to indie rock and roll in Urmston.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/restaurant-orme/01.webp",
+          "alt": "Restaurant Orme sharing plates Urmston"
+        }
+      ],
+      "website": "https://www.restaurantorme.com/"
+    },
+    {
+      "id": "osma",
+      "name": "Osma",
+      "area": "City Centre",
+      "vibe": "Scandinavian neighbourhood bar and restaurant — taste experiences with a relaxed edge, showcasing local and seasonal produce. Currently in residence at Exhibition on Peter Street.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/osma/01.webp",
+          "alt": "Osma small plates and cocktails Manchester"
+        }
+      ],
+      "website": "https://osmakitchenbar.com/"
+    },
+    {
+      "id": "fold-bistro",
+      "name": "Fold Bistro",
+      "area": "Marple Bridge",
+      "vibe": "A friendly two AA Rosette neighbourhood bistro and bottle shop in the heart of Marple Bridge — delicious British seasonal sharing plates with multi-cultural influences and a touch of North West nostalgia.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/fold-bistro/01.webp",
+          "alt": "Fold Bistro Marple Bridge dining room"
+        }
+      ],
+      "website": "https://www.foldbistro.co.uk/"
+    },
+    {
+      "id": "the-badger",
+      "name": "The Badger",
+      "area": "City Centre",
+      "vibe": "Proper pub food and fine ales on Dale Street — walk-ins welcome where they can accommodate, and dogs most welcome.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-badger/01.webp",
+          "alt": "The Badger Manchester Yorkshire puddings"
+        }
+      ],
+      "website": "https://thebadgermcr.com/"
+    },
+    {
+      "id": "pip",
+      "name": "Pip",
+      "area": "City Centre",
+      "vibe": "Finding new ways to delight diners with unexpected flavours and thoughtful, sustainable cooking — Chef Mary-Ellen McTague brings a curious, creative spirit to every dish. Michelin Guide listed; Leading Restaurant of the Year at the 2025 This is Manchester Awards.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/pip/01.webp",
+          "alt": "Pip restaurant Treehouse Manchester"
+        }
+      ],
+      "website": "https://www.treehousehotels.com/manchester/eat-drink/pip"
+    },
+    {
+      "id": "peter-street-kitchen",
+      "name": "Peter Street Kitchen",
+      "area": "City Centre",
+      "vibe": "Japanese and Mexican restaurant at the Kimpton Clocktower — dining, omakase tasting menu and Japanese whisky masterclasses.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/peter-street-kitchen/01.webp",
+          "alt": "Peter Street Kitchen dining room Manchester"
+        }
+      ],
+      "website": "https://www.peterstreetkitchen.co.uk/"
+    },
+    {
+      "id": "fenix",
+      "name": "Fenix",
+      "area": "Spinningfields",
+      "vibe": "Hedonist haven of refined Greek-Mediterranean cuisine — signature cocktails, Champagne and Greek wines, with late-night plate-smashing energy in Spinningfields.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/fenix/01.webp",
+          "alt": "Fenix Spinningfields Mediterranean restaurant"
+        }
+      ],
+      "website": "https://fenixrestaurants.com/manchester/"
+    },
+    {
+      "id": "namaste-nepal",
+      "name": "Namaste Nepal",
+      "area": "West Didsbury",
+      "vibe": "Nepalese and Indian restaurant on Burton Road — fresh herbs and Asian spices, mouth-watering appetisers, authentic traditional curries and vegetarian dishes in a refurbished dining room.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/namaste-nepal/01.webp",
+          "alt": "Namaste Nepal West Didsbury curry"
+        }
+      ],
+      "website": "https://www.namaste-nepal.co.uk/"
+    },
+    {
+      "id": "lock-84",
+      "name": "Lock 84",
+      "area": "Piccadilly Basin",
+      "vibe": "Set beside the Rochdale Canal — beautifully crafted seasonal dishes showcasing Manchester's finest suppliers, with all-day dining and an evening menu that evolves regularly.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/lock-84/01.webp",
+          "alt": "Lock 84 canal-side dining Manchester"
+        }
+      ],
+      "website": "https://lock84.com/"
+    },
+    {
+      "id": "sante",
+      "name": "Santé",
+      "area": "West Didsbury",
+      "vibe": "A taste of the Amalfi coast on Burton Road — Mediterranean-inspired brunch, small plates, sharing boards, cocktails and European beers in a laid-back dog-friendly venue.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sante/01.webp",
+          "alt": "Sante West Didsbury Mediterranean plates"
+        }
+      ],
+      "website": "https://www.santedidsbury.com/"
+    },
+    {
+      "id": "jasmine",
+      "name": "Jasmine",
+      "area": "Chorlton",
+      "vibe": "Halal Lebanese and Middle Eastern restaurant in Chorlton — mezze spreads, celebratory dinners and a warm welcome for leisurely sharing.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/jasmine/01.webp",
+          "alt": "Jasmine Chorlton Lebanese feast"
+        }
+      ],
+      "website": "https://jasminemanchester.com/"
+    },
+    {
+      "id": "chez-nous",
+      "name": "Chez Nous Bistro",
+      "area": "Sale",
+      "vibe": "Modern British cuisine in Sale — set menus midweek and carefully plated seasonal dishes in a neighbourhood bistro setting.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/chez-nous/01.webp",
+          "alt": "Chez Nous Bistro Sale dessert"
+        }
+      ],
+      "website": "https://www.cheznousbistro.uk/"
     }
   ],
   "dance": [
