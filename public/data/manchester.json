@@ -1013,6 +1013,97 @@
         }
       ],
       "website": "https://www.treehousehotels.com/manchester/eat-drink/hideout"
+    },
+    {
+      "id": "mala",
+      "name": "Mala",
+      "area": "Northern Quarter",
+      "vibe": "Manchester's secret garden cocktail bar in the Northern Quarter — craft cocktails, specialist beers and rotating street food beneath fairy-lit cabins.",
+      "images": [
+        {
+          "url": "/assets/opt/date/mala/01.webp",
+          "alt": "Fairy-lit wooden garden seating at Mala"
+        }
+      ],
+      "website": "https://malamanchester.xyz/"
+    },
+    {
+      "id": "folk",
+      "name": "Folk",
+      "area": "Didsbury",
+      "vibe": "Independent neighbourhood bar and kitchen on Burton Road — coffee, brunch, freshly made sandwiches, salads and infamous burgers.",
+      "images": [
+        {
+          "url": "/assets/opt/date/folk/01.webp",
+          "alt": "Cocktail on a turquoise stool at Folk Didsbury"
+        }
+      ],
+      "website": "https://www.folkdidsbury.co.uk/"
+    },
+    {
+      "id": "society",
+      "name": "Society",
+      "area": "City Centre",
+      "vibe": "Street food from independently owned kitchens alongside a cocktail bar, wine bar and curated taproom with dozens of taps.",
+      "images": [
+        {
+          "url": "/assets/opt/date/society/01.webp",
+          "alt": "Couple at the bar inside Society Manchester"
+        }
+      ],
+      "website": "https://www.societymanchester.com/"
+    },
+    {
+      "id": "hat-works",
+      "name": "Hat Works",
+      "area": "Stockport",
+      "vibe": "Award-winning attraction in a restored Grade II listed Victorian mill — the story of Stockport hatting.",
+      "images": [
+        {
+          "url": "/assets/opt/date/hat-works/01.webp",
+          "alt": "Colourful hat display and machinery at Hat Works Museum"
+        }
+      ],
+      "website": "https://www.stockport.gov.uk/topic/hat-works"
+    },
+    {
+      "id": "richard-goodall-gallery",
+      "name": "Richard Goodall Gallery",
+      "area": "Northern Quarter",
+      "vibe": "Fine art prints, music and movie posters — limited editions and collectible design.",
+      "images": [
+        {
+          "url": "/assets/opt/date/richard-goodall-gallery/01.webp",
+          "alt": "Print racks and framed posters inside Richard Goodall Gallery"
+        }
+      ],
+      "website": "https://www.richardgoodallgallery.com/"
+    },
+    {
+      "id": "paradise-works",
+      "name": "Paradise Works",
+      "area": "Salford",
+      "vibe": "Artists, a project space and gallery in Salford — critically engaged exhibitions and film screenings.",
+      "images": [
+        {
+          "url": "/assets/opt/date/paradise-works/01.webp",
+          "alt": "Aerial view of Paradise Works studios in Salford"
+        }
+      ],
+      "website": "https://www.paradise-works.com/"
+    },
+    {
+      "id": "stockport-plaza",
+      "name": "Stockport Plaza",
+      "area": "Stockport",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/stockport-plaza/01.webp",
+          "alt": "Neon Plaza cinema sign at night in Stockport"
+        }
+      ],
+      "website": "https://stockportplaza.co.uk/"
     }
   ],
   "dinner": [
@@ -2316,6 +2407,149 @@
         }
       ],
       "website": "https://www.cheznousbistro.uk/"
+    },
+    {
+      "id": "bella-vita",
+      "name": "Bella Vita Trattoria",
+      "area": "Didsbury",
+      "vibe": "Delicious food and a wonderful eating experience — we serve food, harmony and laughter since 2020.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bella-vita/01.webp",
+          "alt": "Pasta and wine at Bella Vita Trattoria in Didsbury"
+        }
+      ],
+      "website": "https://bellavitatrattoria.co.uk/"
+    },
+    {
+      "id": "babbo",
+      "name": "Babbo Cucina",
+      "area": "Prestwich",
+      "vibe": "Authentic family-run Italian restaurant in the heart of Prestwich — contemporary, stylish, freshly cooked Italian dishes and wines.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/babbo/01.webp",
+          "alt": "Exterior seating at Babbo Cucina in Prestwich"
+        }
+      ],
+      "website": "https://www.babbocucina.co.uk/"
+    },
+    {
+      "id": "chakalaka",
+      "name": "Chakalaka",
+      "area": "Northern Quarter",
+      "vibe": "From our South African bar and kitchen to the Northern Quarter — a true taste of the Cape, with specialities imported and traditional delicacies made for us nearby or in house.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/chakalaka/01.webp",
+          "alt": "Friends toasting drinks at Chakalaka in the Northern Quarter"
+        }
+      ],
+      "website": "https://www.chakalakabar.com/"
+    },
+    {
+      "id": "the-boathouse",
+      "name": "The Boathouse",
+      "area": "Sale",
+      "vibe": "Lakeside dining in Sale with panoramic views across Sale Water Park — the most unique restaurant location in Sale and one of the most picturesque in Manchester.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-boathouse/01.webp",
+          "alt": "Window tables overlooking Sale Water Park at The Boathouse"
+        }
+      ],
+      "website": "https://www.theboathousesale.co.uk/"
+    },
+    {
+      "id": "doms-italia",
+      "name": "Dom's Italia",
+      "area": "Deansgate",
+      "vibe": "Dom's Italia brings authentic Italian food to the heart of Manchester city centre — a passion for food.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/doms-italia/01.webp",
+          "alt": "Flower-filled interior dining room at Dom's Italia"
+        }
+      ],
+      "website": "https://www.domsitalia.com/"
+    },
+    {
+      "id": "a-plus",
+      "name": "A Plus Oriental Restaurant",
+      "area": "Chinatown",
+      "vibe": "老地方大酒樓 in Manchester Chinatown — authentic Cantonese dining with signature roast meats, handmade dim sum and private KTV rooms.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/a-plus/01.webp",
+          "alt": "Street frontage of A Plus Oriental Restaurant in Chinatown"
+        }
+      ],
+      "website": "https://www.aplus-restaurant.co.uk/"
+    },
+    {
+      "id": "fizz",
+      "name": "Fizz",
+      "area": "Disley",
+      "vibe": "A Taste of the Mediterranean in the heart of Disley — rustic yet refined dining inspired by sun-soaked coastlines and vibrant Mediterranean flavours.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/fizz/01.webp",
+          "alt": "Candlelit dining room at Fizz in Disley"
+        }
+      ],
+      "website": "https://fizzrestaurant.co.uk/"
+    },
+    {
+      "id": "bellinis",
+      "name": "Bellini's",
+      "area": "Cheadle",
+      "vibe": "Homemade pasta made in-house by the family — pizza, fresh seafood, meat and fish in Cheadle.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bellinis/01.webp",
+          "alt": "Fig and cheese flatbread at Bellini's Cheadle"
+        }
+      ],
+      "website": "https://www.bellinis-cheadle.co.uk/"
+    },
+    {
+      "id": "campo",
+      "name": "Campo",
+      "area": "Whitefield",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/campo/01.webp",
+          "alt": "Plated steak dish at Campo in Whitefield"
+        }
+      ],
+      "website": "https://campotapasbar.com/"
+    },
+    {
+      "id": "the-pearl",
+      "name": "The Pearl",
+      "area": "Audenshaw",
+      "vibe": "Best Indian restaurant in Audenshaw — authentic flavours and exceptional service.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-pearl/01.webp",
+          "alt": "Curry served at The Pearl in Audenshaw"
+        }
+      ],
+      "website": "https://www.thepearlrestaurant.co.uk/"
+    },
+    {
+      "id": "sicilian-nq",
+      "name": "Sicilian NQ",
+      "area": "Northern Quarter",
+      "vibe": "Sicilian restaurant, bar and patisserie on Turner Street in Manchester city centre.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sicilian-nq/01.webp",
+          "alt": "Celebration cake in the window at Sicilian NQ"
+        }
+      ],
+      "website": "https://siciliannq.co.uk/"
     }
   ],
   "dance": [
