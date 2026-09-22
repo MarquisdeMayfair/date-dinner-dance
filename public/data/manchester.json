@@ -2533,6 +2533,74 @@
           "https://thedeafinstitute.co.uk/"
         ]
       }
+    },
+    {
+      "id": "impossible",
+      "name": "Impossible",
+      "area": "Peter Street",
+      "vibe": "Peter Street. An intimate bar, and an open-air terrace when you want to sit outside.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/impossible/01.webp",
+          "alt": "Impossible's bar, with leather booths and a long counter"
+        }
+      ],
+      "website": "https://be-impossible.com/",
+      "instagram": "https://www.instagram.com/impossible_mcr/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Photo from the venue site, added on request. Copy from the brief and the official page.",
+        "sources": [
+          "https://be-impossible.com/"
+        ]
+      }
+    },
+    {
+      "id": "blvd",
+      "name": "BLVD",
+      "area": "Spinningfields",
+      "vibe": "Spinningfields. Sophisticated cocktails, and a room that keeps the tunes going.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/blvd/01.webp",
+          "alt": "BLVD's green velvet lounge and cocktail bar"
+        }
+      ],
+      "website": "https://blvdmanchester.com/",
+      "instagram": "https://www.instagram.com/blvdmcr/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Photo from the venue site, added on request. Copy from the brief and the official page.",
+        "sources": [
+          "https://blvdmanchester.com/"
+        ]
+      }
+    },
+    {
+      "id": "factory-251",
+      "name": "Factory 251",
+      "area": "Princess Street",
+      "vibe": "Princess Street. The old Factory Records head office, and an icon home of dance music.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/factory-251/01.webp",
+          "alt": "Factory 251's neon-lit room"
+        }
+      ],
+      "website": "https://www.tokyoindustries.com/project/factory251-manchester-2/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Photo from the venue site, added on request. Copy from the brief and the official page. Venue page is the Tokyo Industries listing; fac251.co.uk did not resolve.",
+        "sources": [
+          "https://www.tokyoindustries.com/project/factory251-manchester-2/"
+        ]
+      }
     }
   ]
 }
