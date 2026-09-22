@@ -1853,6 +1853,28 @@
           "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/BAM_Peter_Jay_Sharp_Building.jpg/1920px-BAM_Peter_Jay_Sharp_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         ]
       }
+    },
+    {
+      "id": "radio-city",
+      "name": "Radio City Music Hall",
+      "area": "Midtown",
+      "vibe": "A historic room in Midtown, and the Great Stage for a show.",
+      "images": [
+        {
+          "url": "/assets/opt/date/radio-city/01.webp",
+          "alt": "A theatre audience facing a red curtain"
+        }
+      ],
+      "website": "https://www.msg.com/radio-city-music-hall",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://www.msg.com/radio-city-music-hall"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -3676,6 +3698,29 @@
         "sources": [
           "https://www.dirtyfrench.com/",
           "https://cdn.sanity.io/images/gb1p0gbj/production/b2ddf5ae2ef8727f56490e081a66d3e7306d9821-750x547.jpg"
+        ]
+      }
+    },
+    {
+      "id": "gramercy-tavern",
+      "name": "Gramercy Tavern",
+      "area": "Flatiron",
+      "vibe": "Danny Meyer’s Flatiron tavern. Tasting menus in the dining room, and seasonal American plates at the bar.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/gramercy-tavern/01.webp",
+          "alt": "A plated American meal"
+        }
+      ],
+      "website": "https://www.gramercytavern.com/",
+      "instagram": "https://www.instagram.com/gramercytavern/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://www.gramercytavern.com/"
         ]
       }
     }

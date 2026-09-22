@@ -3321,6 +3321,29 @@
       "website": "https://www.edenibiza.com/",
       "instagram": "https://www.instagram.com/eden_ibiza",
       "instagram_followers": 0
+    },
+    {
+      "id": "dc10",
+      "name": "DC10",
+      "area": "Las Salinas",
+      "vibe": "On the Carretera de las Salinas since 1989. An underground electronic club, built for long nights.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/dc10/01.webp",
+          "alt": "Lasers over a crowded dancefloor"
+        }
+      ],
+      "website": "https://dc10ibiza.com/",
+      "instagram": "https://www.instagram.com/dc10ibizaofficial",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://dc10ibiza.com/"
+        ]
+      }
     }
   ]
 }

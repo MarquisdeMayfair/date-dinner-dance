@@ -2996,6 +2996,51 @@
           "alt": "Zero Degrees"
         }
       ]
+    },
+    {
+      "id": "dishoom-carnaby",
+      "name": "Dishoom Carnaby",
+      "area": "Soho",
+      "vibe": "Bombay comfort food in a 1960s Bombay room on Carnaby, from breakfast until late.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/dishoom-carnaby/01.webp",
+          "alt": "An Indian meal"
+        }
+      ],
+      "website": "https://www.dishoom.com/carnaby/",
+      "instagram": "https://www.instagram.com/dishoom/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://www.dishoom.com/carnaby/"
+        ]
+      }
+    },
+    {
+      "id": "hawksmoor-air-street",
+      "name": "Hawksmoor Air Street",
+      "area": "Piccadilly",
+      "vibe": "Air Street. British steak, sustainable seafood, and cocktails.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/hawksmoor-air-street/01.webp",
+          "alt": "Steak and chips"
+        }
+      ],
+      "website": "https://thehawksmoor.com/locations/airstreet/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://thehawksmoor.com/locations/airstreet/"
+        ]
+      }
     }
   ],
   "dance": [

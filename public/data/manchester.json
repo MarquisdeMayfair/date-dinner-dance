@@ -1088,6 +1088,77 @@
       ],
       "website": "https://www.stockport.gov.uk/stockport-market",
       "instagram": ""
+    },
+    {
+      "id": "the-whitworth",
+      "name": "The Whitworth",
+      "area": "Oxford Road",
+      "vibe": "University art gallery with a glass wing projecting into Whitworth Park.",
+      "images": [
+        {
+          "url": "/assets/opt/date/the-whitworth/01.webp",
+          "alt": "Two people looking at a large abstract painting"
+        }
+      ],
+      "website": "https://www.whitworth.manchester.ac.uk/",
+      "instagram": "https://www.instagram.com/whitworthart/",
+      "instagram_followers": 67000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://www.whitworth.manchester.ac.uk/"
+        ]
+      }
+    },
+    {
+      "id": "cloud-23",
+      "name": "Cloud 23",
+      "area": "Deansgate",
+      "vibe": "Skyline cocktail bar on the 23rd floor of the Hilton/Beetham Tower.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cloud-23/01.webp",
+          "alt": "A high-floor lounge at dusk, city lights outside"
+        }
+      ],
+      "website": "https://www.cloud23bar.com/",
+      "instagram": "https://www.instagram.com/cloud23bar/",
+      "instagram_followers": 30000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://www.cloud23bar.com/"
+        ]
+      }
+    },
+    {
+      "id": "national-football-museum",
+      "name": "National Football Museum",
+      "area": "City Centre",
+      "vibe": "The museum of the game, for a fan or a family day out, with the stories of football under one roof.",
+      "images": [
+        {
+          "url": "/assets/opt/date/national-football-museum/01.webp",
+          "alt": "A visitor looking at football photographs in a museum"
+        }
+      ],
+      "website": "https://nationalfootballmuseum.com/",
+      "instagram": "https://www.instagram.com/nationalfootballmuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://nationalfootballmuseum.com/"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -2191,6 +2262,102 @@
         }
       ],
       "website": "https://siciliannq.co.uk/"
+    },
+    {
+      "id": "dishoom",
+      "name": "Dishoom",
+      "area": "Bridge Street",
+      "vibe": "Bombay café in the old Freemasons’ Hall. Stained glass, bacon naan rolls, house black daal — walk in for breakfast or a late feast; most tables stay unreserved.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/dishoom/01.webp",
+          "alt": "An Indian meal"
+        }
+      ],
+      "website": "https://www.dishoom.com/manchester/",
+      "instagram": "https://www.instagram.com/dishoom/",
+      "instagram_followers": 375000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://www.dishoom.com/manchester/"
+        ]
+      }
+    },
+    {
+      "id": "mana",
+      "name": "Mana",
+      "area": "Ancoats",
+      "vibe": "Avant-garde British fine dining in Ancoats; Manchester’s first Michelin star since 1977 when awarded in 2019.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/mana/01.webp",
+          "alt": "A plated restaurant dish"
+        }
+      ],
+      "website": "https://manarestaurant.co.uk/",
+      "instagram": "https://www.instagram.com/restaurant.mana/",
+      "instagram_followers": 35000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://manarestaurant.co.uk/"
+        ]
+      }
+    },
+    {
+      "id": "rudy-s-pizza",
+      "name": "Rudy's Pizza",
+      "area": "Ancoats",
+      "vibe": "The first Rudy’s. Neapolitan dough fermented up to 24 hours, San Marzano and fior di latte, fired hot on Cotton Street — where the chain began.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/rudy-s-pizza/01.webp",
+          "alt": "A pizza on a table"
+        }
+      ],
+      "website": "https://www.rudyspizza.co.uk/location/ancoats/",
+      "instagram": "https://www.instagram.com/wearerudyspizza/",
+      "instagram_followers": 156000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://www.rudyspizza.co.uk/location/ancoats/"
+        ]
+      }
+    },
+    {
+      "id": "bundobust",
+      "name": "Bundobust",
+      "area": "Piccadilly",
+      "vibe": "Indian street food and craft beer at communal tables — a canteen-taproom hybrid, open late. Manchester has this Piccadilly hall plus a separate brewery.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bundobust/01.webp",
+          "alt": "An Indian sharing plate"
+        }
+      ],
+      "website": "https://bundobust.com/Manchester/",
+      "instagram": "https://www.instagram.com/bundobust",
+      "instagram_followers": 75000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://bundobust.com/Manchester/"
+        ]
+      }
     }
   ],
   "dance": [
@@ -2342,6 +2509,30 @@
         }
       ],
       "website": "https://www.starandgarter.co.uk/"
+    },
+    {
+      "id": "the-deaf-institute",
+      "name": "The Deaf Institute",
+      "area": "Oxford Road",
+      "vibe": "Independent Oxford Road venue across three floors — Music Hall, Lodge and Den — plus an outdoor terrace, hosting live music and late club nights in a historic 1878 building.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/the-deaf-institute/01.webp",
+          "alt": "DJ lights over a dancefloor"
+        }
+      ],
+      "website": "https://thedeafinstitute.co.uk/",
+      "instagram": "https://www.instagram.com/deafinstitute/",
+      "instagram_followers": 36000,
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-22",
+        "image_ok": true,
+        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "sources": [
+          "https://thedeafinstitute.co.uk/"
+        ]
+      }
     }
   ]
 }
