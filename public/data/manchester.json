@@ -43,20 +43,6 @@
       "instagram": "https://www.instagram.com/alcotraz/"
     },
     {
-      "id": "bridgewater-hall",
-      "name": "Bridgewater Hall",
-      "area": "City Centre",
-      "vibe": "Manchester’s international concert hall, built for music — classical, jazz, world and more, and home to the Hallé and BBC Philharmonic.",
-      "images": [
-        {
-          "url": "https://assets.bridgewater-hall.co.uk/uploads/2018/02/The-Bridgewater-Hall-from-canal-basin-large-e1520956626668.jpg?fit=1024%2C1024",
-          "alt": "Bridgewater Hall from the canal basin"
-        }
-      ],
-      "website": "https://www.bridgewater-hall.co.uk/",
-      "instagram": "https://www.instagram.com/bridgewaterhall/"
-    },
-    {
       "id": "castlefield-canals",
       "name": "Castlefield Canals",
       "area": "Castlefield",
@@ -96,56 +82,6 @@
       ],
       "website": "https://library.chethams.com/",
       "instagram": "https://www.instagram.com/chethamslibrary/"
-    },
-    {
-      "id": "cloud-23",
-      "name": "Cloud 23",
-      "area": "Deansgate",
-      "vibe": "Skyline cocktail bar on the 23rd floor of the Hilton/Beetham Tower.",
-      "images": [
-        {
-          "url": "https://images.getbento.com/accounts/d315883b1c1a685b0cf02209627b0095/media/images/63400Simple_Grape_Photo_Email_Header_Banner_1300_Ã_200px.png",
-          "alt": "Hospitality Image Item 1"
-        },
-        {
-          "url": "https://images.getbento.com/",
-          "alt": "Cloud 23"
-        }
-      ],
-      "website": "https://www.cloud23bar.com/",
-      "instagram": "https://www.instagram.com/cloud23bar/",
-      "instagram_followers": 30000
-    },
-    {
-      "id": "contact",
-      "name": "Contact",
-      "area": "Oxford Road",
-      "vibe": "Arts venue and theatre in the city centre that has put young people at the heart of everything since 1972 — a charity staging bold, curious work.",
-      "images": [
-        {
-          "url": "https://contact-mcr.transforms.svdcdn.com/production/FtwScRGWIAEdsfr.jpeg?w=1200&h=628&q=100&auto=format&fit=crop&dm=1683193975&s=132b592e975e95844f7f2a753872bcae",
-          "alt": "Contact theatre Manchester"
-        }
-      ],
-      "website": "https://contactmcr.com/",
-      "instagram": "https://www.instagram.com/contactmcr/"
-    },
-    {
-      "id": "corn-exchange",
-      "name": "Corn Exchange",
-      "area": "City Centre",
-      "vibe": "World-class dining, activities and rich history under one iconic roof in the heart of the city centre.",
-      "images": [],
-      "website": "https://cornexchangemanchester.co.uk/"
-    },
-    {
-      "id": "elizabeth-gaskell-s-house",
-      "name": "Elizabeth Gaskell's House",
-      "area": "Ardwick",
-      "vibe": "Historic house museum celebrating Victorian writer Elizabeth Gaskell — period rooms, a Victorian-style garden, expert guides and changing exhibitions.",
-      "images": [],
-      "website": "https://elizabethgaskellhouse.co.uk/",
-      "instagram": "https://www.instagram.com/egaskellhouse/"
     },
     {
       "id": "escape-hunt-manchester",
@@ -338,14 +274,6 @@
       "instagram": "https://www.instagram.com/mcrmuseum/"
     },
     {
-      "id": "manchester-opera-house",
-      "name": "Manchester Opera House",
-      "area": "City Centre",
-      "vibe": "",
-      "images": [],
-      "website": "https://www.atgtickets.com/venues/opera-house-manchester/"
-    },
-    {
       "id": "matt-and-phreds",
       "name": "Matt and Phreds",
       "area": "Northern Quarter",
@@ -358,34 +286,6 @@
       ],
       "website": "https://www.mattandphreds.com/",
       "instagram": "https://www.instagram.com/mattandphreds/"
-    },
-    {
-      "id": "mayfield-park",
-      "name": "Mayfield Park",
-      "area": "City Centre",
-      "vibe": "Manchester’s first new city park in over a century — 6.5 acres with the daylighted River Medlock, lawns, wildscape and a kids’ play yard of six slides.",
-      "images": [
-        {
-          "url": "https://mayfieldpark.com/img/2022/09/_video_cover_mayfield_park.800.jpg",
-          "alt": "Mayfield Park Manchester"
-        }
-      ],
-      "website": "https://mayfieldpark.com/",
-      "instagram": "https://www.instagram.com/mayfieldmanchester/"
-    },
-    {
-      "id": "national-football-museum",
-      "name": "National Football Museum",
-      "area": "City Centre",
-      "vibe": "Whether you’re a football fanatic, planning a family day out or visiting Manchester, the museum is the place to learn more and share stories about the beautiful game.",
-      "images": [
-        {
-          "url": "https://nationalfootballmuseum.com/wp-content/uploads/2024/04/NFM_VisitUs_01.webp",
-          "alt": "Visit the National Football Museum"
-        }
-      ],
-      "website": "https://nationalfootballmuseum.com/",
-      "instagram": "https://www.instagram.com/nationalfootballmuseum/"
     },
     {
       "id": "nq64",
@@ -414,14 +314,6 @@
       ],
       "website": "https://phm.org.uk/",
       "instagram": "https://www.instagram.com/phmmcr/"
-    },
-    {
-      "id": "printworks",
-      "name": "Printworks",
-      "area": "City Centre",
-      "vibe": "The go-to covered leisure strip in the heart of Manchester for days out, nights out and everything in between.",
-      "images": [],
-      "website": "https://printworks-manchester.com/"
     },
     {
       "id": "royal-exchange-theatre",
@@ -479,34 +371,6 @@
       "instagram": "https://www.instagram.com/sixessocialcricket/"
     },
     {
-      "id": "the-lowry",
-      "name": "The Lowry",
-      "area": "Salford Quays",
-      "vibe": "",
-      "images": [],
-      "website": "https://thelowry.com/",
-      "instagram": "https://www.instagram.com/the_lowry/"
-    },
-    {
-      "id": "the-whitworth",
-      "name": "The Whitworth",
-      "area": "Oxford Road",
-      "vibe": "University art gallery with a glass wing projecting into Whitworth Park.",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/The_Whitworth_Art_Gallery_in_Manchester_-_50140147328.jpg",
-          "alt": "The Whitworth Art Gallery in Manchester - 50140147328.jpg"
-        },
-        {
-          "url": "https://www.whitworth.manchester.ac.uk/images/pss/thewhitworth.png",
-          "alt": "The Whitworth"
-        }
-      ],
-      "website": "https://www.whitworth.manchester.ac.uk/",
-      "instagram": "https://www.instagram.com/whitworthart/",
-      "instagram_followers": 67000
-    },
-    {
       "id": "victoria-baths",
       "name": "Victoria Baths",
       "area": "City Centre",
@@ -519,19 +383,6 @@
       ],
       "website": "https://www.victoriabaths.org.uk/",
       "instagram": "https://www.instagram.com/victoriabaths/"
-    },
-    {
-      "id": "whitworth-park",
-      "name": "Whitworth Park",
-      "area": "City Centre",
-      "vibe": "Park adjoining The Whitworth gallery, popular for walks and cherry blossom.",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Peopleinwhitworthpark.JPG",
-          "alt": "Whitworth Park"
-        }
-      ],
-      "website": "https://www.manchester.gov.uk/"
     },
     {
       "id": "portico-library",
@@ -794,19 +645,6 @@
       "website": "https://salfordladsclub.co.uk/"
     },
     {
-      "id": "mediacityuk",
-      "name": "MediaCityUK",
-      "area": "Salford Quays",
-      "vibe": "",
-      "images": [
-        {
-          "url": "/assets/opt/date/mediacityuk/01.webp",
-          "alt": "MediaCityUK Manchester"
-        }
-      ],
-      "website": "https://www.mediacityuk.co.uk/"
-    },
-    {
       "id": "etihad-stadium",
       "name": "Etihad Stadium",
       "area": "Eastlands",
@@ -885,32 +723,6 @@
       "website": "https://claytonhall.org/"
     },
     {
-      "id": "rhs-garden-bridgewater",
-      "name": "RHS Garden Bridgewater",
-      "area": "Worsley",
-      "vibe": "",
-      "images": [
-        {
-          "url": "/assets/opt/date/rhs-garden-bridgewater/01.webp",
-          "alt": "RHS Garden Bridgewater Worsley"
-        }
-      ],
-      "website": "https://www.rhs.org.uk/gardens/bridgewater"
-    },
-    {
-      "id": "peel-park",
-      "name": "Peel Park",
-      "area": "Salford",
-      "vibe": "",
-      "images": [
-        {
-          "url": "/assets/opt/date/peel-park/01.webp",
-          "alt": "Peel Park Salford"
-        }
-      ],
-      "website": "https://www.salford.gov.uk/parks-and-open-spaces/salford-parks/peel-park-salford/"
-    },
-    {
       "id": "king-street-townhouse",
       "name": "King Street Townhouse",
       "area": "City Centre",
@@ -924,19 +736,6 @@
       "website": "https://www.kingstreettownhouse.co.uk/"
     },
     {
-      "id": "emirates-old-trafford",
-      "name": "Emirates Old Trafford",
-      "area": "Old Trafford",
-      "vibe": "",
-      "images": [
-        {
-          "url": "/assets/opt/date/emirates-old-trafford/01.webp",
-          "alt": "Emirates Old Trafford cricket ground"
-        }
-      ],
-      "website": "https://www.lancashirecricket.co.uk/"
-    },
-    {
       "id": "heaton-park-tramway",
       "name": "Heaton Park Tramway",
       "area": "Heaton Park",
@@ -948,32 +747,6 @@
         }
       ],
       "website": "https://hptramway.co.uk/"
-    },
-    {
-      "id": "platt-fields-park",
-      "name": "Platt Fields Park",
-      "area": "Fallowfield",
-      "vibe": "",
-      "images": [
-        {
-          "url": "/assets/opt/date/platt-fields-park/01.webp",
-          "alt": "Platt Fields Park Fallowfield"
-        }
-      ],
-      "website": "https://friendsofplattfields.org.uk/"
-    },
-    {
-      "id": "stray",
-      "name": "Stray",
-      "area": "Northern Quarter",
-      "vibe": "",
-      "images": [
-        {
-          "url": "/assets/opt/date/stray/01.webp",
-          "alt": "Stray cocktail bar Northern Quarter"
-        }
-      ],
-      "website": "https://straybar.co/"
     },
     {
       "id": "sister-moon",
@@ -1091,19 +864,6 @@
         }
       ],
       "website": "https://www.paradise-works.com/"
-    },
-    {
-      "id": "stockport-plaza",
-      "name": "Stockport Plaza",
-      "area": "Stockport",
-      "vibe": "",
-      "images": [
-        {
-          "url": "/assets/opt/date/stockport-plaza/01.webp",
-          "alt": "Neon Plaza cinema sign at night in Stockport"
-        }
-      ],
-      "website": "https://stockportplaza.co.uk/"
     },
     {
       "id": "bramall-hall",
@@ -1332,15 +1092,6 @@
   ],
   "dinner": [
     {
-      "id": "10-tib-lane",
-      "name": "10 Tib Lane",
-      "area": "City Centre",
-      "vibe": "Cocktail bar and restaurant tucked off Cross Street — laid-back sophistication with seasonal sharing plates and a warm escape from the city’s bustle.",
-      "images": [],
-      "website": "https://www.10tiblane.com/",
-      "instagram": "https://www.instagram.com/10tiblane/"
-    },
-    {
       "id": "20-stories",
       "name": "20 Stories",
       "area": "Spinningfields",
@@ -1369,139 +1120,6 @@
       "instagram": "https://www.instagram.com/themidlandmanchester/"
     },
     {
-      "id": "australasia",
-      "name": "Australasia",
-      "area": "Spinningfields",
-      "vibe": "You go downstairs. A glass entrance on The Avenue drops into a subterranean dining room with a shareable global menu and late DJ nights.",
-      "images": [
-        {
-          "url": "https://static.wixstatic.com/media/79e2e3_8c5e33aa16bb4485b2adb7ad194364fa~mv2.png/v1/fill/w_1500,h_750,al_c/79e2e3_8c5e33aa16bb4485b2adb7ad194364fa~mv2.png",
-          "alt": "Australasia"
-        }
-      ],
-      "website": "https://www.australasiamcr.co.uk/",
-      "instagram": "https://www.instagram.com/australasia_mcr/",
-      "verified": {
-        "confidence": 4,
-        "checked_at": "2026-09-20",
-        "image_ok": true,
-        "notes": "Official australasiamcr.co.uk. Dropped 70px fire logo; kept branded Australasia table photo.",
-        "sources": [
-          "https://www.australasiamcr.co.uk/",
-          "https://www.spinningfields.co.uk/eat_drink/australasia/"
-        ]
-      },
-      "instagram_followers": 36000
-    },
-    {
-      "id": "bundobust",
-      "name": "Bundobust",
-      "area": "Piccadilly",
-      "vibe": "Indian street food and craft beer at communal tables — a canteen-taproom hybrid, open late. Manchester has this Piccadilly hall plus a separate brewery.",
-      "images": [
-        {
-          "url": "https://bundobust.com/wp-content/uploads/2026/04/2026-02-11_Bundobust_NewMenu_lifestyle-49-scaled.jpg",
-          "alt": "Photograph of a selection of food from the new Bundobust menu"
-        },
-        {
-          "url": "https://bundobust.com/wp-content/uploads/2019/09/2025-05-28-Bundobust_Piccadilly-35-scaled.jpg",
-          "alt": "Photograph of the interior at Bundobust Manchester Piccadilly"
-        }
-      ],
-      "website": "https://bundobust.com/Manchester/",
-      "instagram": "https://www.instagram.com/bundobust",
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-20",
-        "image_ok": true,
-        "notes": "Official Bundobust Manchester page. Photos from bundobust.com.",
-        "sources": [
-          "https://bundobust.com/Manchester/"
-        ]
-      },
-      "instagram_followers": 75000
-    },
-    {
-      "id": "dishoom",
-      "name": "Dishoom",
-      "area": "Bridge Street",
-      "vibe": "Bombay café in the old Freemasons’ Hall. Stained glass, bacon naan rolls, house black daal — walk in for breakfast or a late feast; most tables stay unreserved.",
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/daku84np/production/d1c6e4f438138db8570c5aa1a41029428c3011eb-1200x794.jpg",
-          "alt": "Dishoom"
-        }
-      ],
-      "website": "https://www.dishoom.com/manchester/",
-      "instagram": "https://www.instagram.com/dishoom/",
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-20",
-        "image_ok": true,
-        "notes": "Official Manchester page. Dropped broken _next/image URL.",
-        "sources": [
-          "https://www.dishoom.com/manchester/"
-        ]
-      },
-      "instagram_followers": 375000
-    },
-    {
-      "id": "el-gato-negro-tapas",
-      "name": "El Gato Negro Tapas",
-      "area": "King Street",
-      "vibe": "Three-storey townhouse on King Street: pavement tables, an open kitchen with a chef’s table, and a rooftop terrace under a retractable roof. Spanish tapas since 2016.",
-      "images": [
-        {
-          "url": "https://www.elgatonegrotapas.com/wp-content/uploads/2019/07/booking_page_locations-v2_mcr.jpg",
-          "alt": "El Gato Negro Tapas"
-        },
-        {
-          "url": "https://www.elgatonegrotapas.com/wp-content/uploads/2023/08/ElGatoNegro_ManchesterDSC_0832_1500px-1500x630.jpg",
-          "alt": "El Gato Negro Tapas"
-        }
-      ],
-      "website": "https://www.elgatonegrotapas.com/manchester/",
-      "instagram": "https://www.instagram.com/elgatonegrotapas/",
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-20",
-        "image_ok": true,
-        "notes": "Official Manchester page.",
-        "sources": [
-          "https://www.elgatonegrotapas.com/manchester/"
-        ]
-      },
-      "instagram_followers": 41000
-    },
-    {
-      "id": "elnecot",
-      "name": "Elnecot",
-      "area": "Ancoats",
-      "vibe": "Neighbourhood bar and kitchen on Cutting Room Square. Seasonal daytime plates, then evening service looking onto Blossom Street.",
-      "images": [
-        {
-          "url": "http://static1.squarespace.com/static/58f9f3ae6a49637db3f9b4f9/t/59b9838a7f0cf52b021e9501/1617287273969/Screen+Shot+2017-09-13+at+8.14.06+pm.png",
-          "alt": "Elnecot"
-        },
-        {
-          "url": "https://images.squarespace-cdn.com/content/v1/58f9f3ae6a49637db3f9b4f9/1640190952760-XO2JG4B25KP15MZJFN34/Elnecot+Gallery+Image+4.jpg",
-          "alt": "Elnecot Gallery Image 4.jpg"
-        }
-      ],
-      "website": "https://elnecot.com/",
-      "instagram": "https://www.instagram.com/elnecot/",
-      "verified": {
-        "confidence": 4,
-        "checked_at": "2026-09-20",
-        "image_ok": true,
-        "notes": "Official site only claims neighbourhood bar & kitchen + address. No cuisine invented.",
-        "sources": [
-          "https://elnecot.com/"
-        ]
-      },
-      "instagram_followers": 25000
-    },
-    {
       "id": "erst",
       "name": "Erst",
       "area": "Ancoats",
@@ -1513,45 +1131,6 @@
         }
       ],
       "website": "https://erst-mcr.co.uk"
-    },
-    {
-      "id": "evuna",
-      "name": "Evuna",
-      "area": "Deansgate",
-      "vibe": "Tapas bar, Spanish restaurant and award-winning wine merchant — a hidden gem on Deansgate.",
-      "images": [
-        {
-          "url": "https://evuna.com/og-image.png",
-          "alt": "Evuna Manchester"
-        }
-      ],
-      "website": "https://evuna.com/",
-      "instagram": "https://www.instagram.com/evunamanchester/"
-    },
-    {
-      "id": "fazenda",
-      "name": "Fogo de Chão",
-      "area": "Spinningfields",
-      "vibe": "Brazilian rodizio on The Avenue: gaucho chefs carve grilled cuts at the table, then the market table of salads and sides. This is the old Fazenda, now Fogo de Chão.",
-      "images": [
-        {
-          "url": "https://media.fogodechao.uk/wp-content/uploads/2026/04/04095626/Fogo-de-Chao-Manchester-Hero-Banner.webp",
-          "alt": "Fogo de Chão Manchester on The Avenue, Spinningfields"
-        }
-      ],
-      "website": "https://fogodechao.uk/location/manchester/",
-      "instagram": "https://www.instagram.com/fogodechaouk/",
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-20",
-        "image_ok": true,
-        "notes": "Official site states formerly Fazenda. Image is the named Fogo facade, not a swapped venue.",
-        "sources": [
-          "https://fogodechao.uk/location/manchester/",
-          "https://fazenda.co.uk/manchester/"
-        ]
-      },
-      "instagram_followers": 18000
     },
     {
       "id": "hawksmoor-manchester",
@@ -1582,25 +1161,6 @@
       "instagram": "https://www.instagram.com/highergroundmcr/"
     },
     {
-      "id": "indian-tiffin-room",
-      "name": "Indian Tiffin Room",
-      "area": "First Street",
-      "vibe": "Indian street food and a cocktail bar on First Street. Regional plates, light on chilli-heat theatre — they say no chilli ratings, just spice.",
-      "images": [],
-      "website": "https://indiantiffinroom.com/manchester/",
-      "instagram": "https://www.instagram.com/Indiantiffinroom/",
-      "verified": {
-        "confidence": 4,
-        "checked_at": "2026-09-20",
-        "image_ok": false,
-        "notes": "Official First Street page. Dropped WE-ARE-10 and ITR stamp graphics; neither is this room.",
-        "sources": [
-          "https://indiantiffinroom.com/manchester/"
-        ]
-      },
-      "instagram_followers": 16000
-    },
-    {
       "id": "la-bandera",
       "name": "La Bandera",
       "area": "Manchester",
@@ -1615,112 +1175,6 @@
       "instagram": "https://www.instagram.com/labanderauk/"
     },
     {
-      "id": "mana",
-      "name": "Mana",
-      "area": "Ancoats",
-      "vibe": "Avant-garde British fine dining in Ancoats; Manchester’s first Michelin star since 1977 when awarded in 2019.",
-      "images": [
-        {
-          "url": "https://manarestaurant.co.uk/cdn/shop/files/preview_images/060afd53ace44bffb13d08fe2b297e50.thumbnail.0000000000_1920x.jpg",
-          "alt": "Mana"
-        },
-        {
-          "url": "https://manarestaurant.co.uk/cdn/shop/files/preview_images/08a62fdc3bc04d1fa69e22f927aed5e4.thumbnail.0000000000_1080x1920.jpg",
-          "alt": "Mana"
-        }
-      ],
-      "website": "https://manarestaurant.co.uk/",
-      "instagram": "https://www.instagram.com/restaurant.mana/",
-      "instagram_followers": 35000
-    },
-    {
-      "id": "mowgli-street-food",
-      "name": "Mowgli Street Food",
-      "area": "Corn Exchange",
-      "vibe": "Indian street food under the Corn Exchange glass: indoor swings, fairy lights, tiffin-style sharing plates. Second Mowgli to open, still the Manchester one.",
-      "images": [
-        {
-          "url": "https://mowglistreetfood.com/wp-content/uploads/2026/06/Manchester-Main-Image.jpg",
-          "alt": "Mowgli Street Food"
-        },
-        {
-          "url": "https://mowglistreetfood.com/wp-content/uploads/2026/01/Tablescape-lifestyle-Mowgli-Aug-202612294_WebRes.jpg",
-          "alt": "Mowgli Street Food"
-        }
-      ],
-      "website": "https://www.mowglistreetfood.com/restaurants/manchester/",
-      "instagram": "https://www.instagram.com/mowglistreetfood/",
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-20",
-        "image_ok": true,
-        "notes": "Official Corn Exchange page. Photos from mowglistreetfood.com.",
-        "sources": [
-          "https://www.mowglistreetfood.com/restaurants/manchester/"
-        ]
-      },
-      "instagram_followers": 252000
-    },
-    {
-      "id": "rudy-s-pizza",
-      "name": "Rudy's Pizza",
-      "area": "Ancoats",
-      "vibe": "The first Rudy’s. Neapolitan dough fermented up to 24 hours, San Marzano and fior di latte, fired hot on Cotton Street — where the chain began.",
-      "images": [
-        {
-          "url": "https://assets.rudyspizza.co.uk/content/uploads/2024/04/Ancoats-Header-1-1400x788.jpg",
-          "alt": "authentic rustic italian style restaurant decoration"
-        },
-        {
-          "url": "https://assets.rudyspizza.co.uk/content/uploads/2024/04/Ancoats-mobile-header-480x600.jpg",
-          "alt": "rudy's sign inside restaurant with tables near the wall"
-        }
-      ],
-      "website": "https://www.rudyspizza.co.uk/location/ancoats/",
-      "instagram": "https://www.instagram.com/wearerudyspizza/",
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-20",
-        "image_ok": true,
-        "notes": "Official Ancoats page. Photos from assets.rudyspizza.co.uk.",
-        "sources": [
-          "https://www.rudyspizza.co.uk/location/ancoats/"
-        ]
-      },
-      "instagram_followers": 156000
-    },
-    {
-      "id": "sam-s-chop-house",
-      "name": "Sam's Chop House",
-      "area": "City Centre",
-      "vibe": "Independent British chop house established in 1868 — home of the famous corned beef hash and a bronze L. S. Lowry.",
-      "images": [
-        {
-          "url": "https://static.wixstatic.com/media/295c92_484bef9925cb40e4b69c3591338db1ec%7Emv2.png/v1/fit/w_2500,h_1330,al_c/295c92_484bef9925cb40e4b69c3591338db1ec%7Emv2.png",
-          "alt": "Sam's Chop House Manchester"
-        }
-      ],
-      "website": "https://www.samschophouse.com/",
-      "instagram": "https://www.instagram.com/samschophouse/"
-    },
-    {
-      "id": "san-carlo",
-      "name": "San Carlo",
-      "area": "King Street West",
-      "vibe": "Long-running Italian on King Street West — regional plates, seafood and a big, dressed dining room in the middle of town.",
-      "images": [],
-      "website": "https://sancarlo.co.uk/restaurants/manchester/san-carlo-manchester/",
-      "verified": {
-        "confidence": 4,
-        "checked_at": "2026-09-20",
-        "image_ok": false,
-        "notes": "Official King Street page. Removed MAG airport-cdn photos that were not this room.",
-        "sources": [
-          "https://sancarlo.co.uk/restaurants/manchester/san-carlo-manchester/"
-        ]
-      }
-    },
-    {
       "id": "tattu",
       "name": "Tattu",
       "area": "Spinningfields",
@@ -1733,30 +1187,6 @@
       ],
       "website": "https://tattu.co.uk/manchester/",
       "instagram": "https://www.instagram.com/tatturestaurant/"
-    },
-    {
-      "id": "the-alchemist",
-      "name": "The Alchemist",
-      "area": "MediaCityUK",
-      "vibe": "Gold-clad cocktail theatre on the Quays. Mixologists build drinks with a bit of staging; terrace sits over the ship canal beside the Lowry.",
-      "images": [
-        {
-          "url": "https://a.storyblok.com/f/321600/2048x1365/2db3acceb8/alchemist-bottomless-weekend-brunch.jpg/m/1920x0/filters:quality(40)",
-          "alt": "https://a.storyblok.com/f/321600/2048x1365/2db3acceb8/alchemist-bottomless-weekend-brunch.jpg"
-        }
-      ],
-      "website": "https://thealchemistbars.com/venues/manchester/mediacity-uk/",
-      "instagram": "https://www.instagram.com/thealchemistuk/",
-      "verified": {
-        "confidence": 4,
-        "checked_at": "2026-09-20",
-        "image_ok": true,
-        "notes": "Official MediaCity page. Dropped geometric brand logo; kept Alchemist brunch photo.",
-        "sources": [
-          "https://thealchemistbars.com/venues/manchester/mediacity-uk/"
-        ]
-      },
-      "instagram_followers": 144000
     },
     {
       "id": "the-refuge-by-volta",
@@ -2737,19 +2167,6 @@
       "website": "https://www.bellinis-cheadle.co.uk/"
     },
     {
-      "id": "campo",
-      "name": "Campo",
-      "area": "Whitefield",
-      "vibe": "",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/campo/01.webp",
-          "alt": "Plated steak dish at Campo in Whitefield"
-        }
-      ],
-      "website": "https://campotapasbar.com/"
-    },
-    {
       "id": "the-pearl",
       "name": "The Pearl",
       "area": "Audenshaw",
@@ -2777,22 +2194,6 @@
     }
   ],
   "dance": [
-    {
-      "id": "42s",
-      "name": "42s",
-      "area": "City Centre",
-      "vibe": "",
-      "images": [],
-      "website": "https://www.42sclub.com/"
-    },
-    {
-      "id": "aatma",
-      "name": "Aatma",
-      "area": "Northern Quarter",
-      "vibe": "",
-      "images": [],
-      "website": "https://aatmavenue.co.uk/"
-    },
     {
       "id": "albert-hall",
       "name": "Albert Hall",
@@ -2822,20 +2223,6 @@
       "instagram": "https://www.instagram.com/bandonthewall/"
     },
     {
-      "id": "cruz-101",
-      "name": "Cruz 101",
-      "area": "Gay Village",
-      "vibe": "Manchester’s gay nightclub on Princess Street since 1992 — two floors in a converted Victorian warehouse, pop upstairs and house in Sub 101 until the sun’s up.",
-      "images": [
-        {
-          "url": "https://www.cruz101.com/img/hero-poster.jpg",
-          "alt": "Cruz 101 Manchester"
-        }
-      ],
-      "website": "https://www.cruz101.com/",
-      "instagram": "https://www.instagram.com/cruz101/"
-    },
-    {
       "id": "depot-mayfield",
       "name": "Depot Mayfield",
       "area": "City Centre",
@@ -2863,15 +2250,6 @@
       "instagram": "https://www.instagram.com/easternbloc_/"
     },
     {
-      "id": "fac251",
-      "name": "FAC251",
-      "area": "City Centre",
-      "vibe": "",
-      "images": [],
-      "website": "https://factorymanchester.com/",
-      "instagram": "https://www.instagram.com/factorymanchester/"
-    },
-    {
       "id": "gorilla",
       "name": "Gorilla",
       "area": "City Centre",
@@ -2884,58 +2262,6 @@
       ],
       "website": "https://www.thisisgorilla.com/",
       "instagram": "https://www.instagram.com/thisisgorilla/"
-    },
-    {
-      "id": "hidden",
-      "name": "Hidden",
-      "area": "City Centre",
-      "vibe": "Multi-room club established 2015 with Void Acoustics sound, hosting house, techno, jungle and drum & bass.",
-      "images": [
-        {
-          "url": "https://static.wixstatic.com/media/1c3a05_304aaae16169405493e38c25ad9375c0~mv2.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1c3a05_304aaae16169405493e38c25ad9375c0~mv2.jpg",
-          "alt": "Hidden"
-        },
-        {
-          "url": "https://static.wixstatic.com/media/1c3a05_ae3a582206cb4a17b03625ec07bcef63f000.jpg/v1/fill/w_103,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1c3a05_ae3a582206cb4a17b03625ec07bcef63f000.jpg",
-          "alt": "Hidden"
-        }
-      ],
-      "website": "http://hidden.club",
-      "instagram": "https://www.instagram.com/hiddenclubmcr/",
-      "instagram_followers": 61000
-    },
-    {
-      "id": "joshua-brooks",
-      "name": "Joshua Brooks",
-      "area": "City Centre",
-      "vibe": "A Manchester institution rebuilt in 2021 across three floors — laid-back bar and terrace upstairs, VOID Acoustics basement under brick arches for house, techno, garage and D&B.",
-      "images": [
-        {
-          "url": "https://joshuabrooks.co.uk/wp-content/uploads/2024/03/cropped-Screenshot-2024-03-08-at-09.23.21.png",
-          "alt": "Joshua Brooks"
-        },
-        {
-          "url": "https://joshuabrooks.co.uk/wp-content/uploads/2026/09/JB_Beave_18.09.26_1500x1500.jpg",
-          "alt": "Joshua Brooks"
-        }
-      ],
-      "website": "https://joshuabrooks.co.uk/",
-      "instagram": "https://www.instagram.com/joshuabrooksmcr/",
-      "instagram_followers": 48000
-    },
-    {
-      "id": "mnky-hse-manchester",
-      "name": "MNKY HSE Manchester",
-      "area": "City Centre",
-      "vibe": "Latin American restaurant with late private-club nightlife on Lloyd Street.",
-      "images": [
-        {
-          "url": "https://mnkyhse-manchester.com/wp-content/uploads/2024/04/mnky-manchester.png",
-          "alt": "mnky manchester"
-        }
-      ],
-      "website": "https://mnkyhse-manchester.com/",
-      "instagram": "https://www.instagram.com/mnkyhsemcr/"
     },
     {
       "id": "night-and-day-cafe",
@@ -2951,59 +2277,6 @@
       "instagram": "https://www.instagram.com/nightanddaycafe/"
     },
     {
-      "id": "rebellion",
-      "name": "Rebellion",
-      "area": "City Centre",
-      "vibe": "Blank-canvas club under Deansgate station: three rooms (Main Room, Lounge and Second Room) for live gigs and club nights, capacity around 400–520.",
-      "images": [
-        {
-          "url": "https://fatsoma.imgix.net/W1siZiIsInB1YmxpYy8yMDI2LzkvMTAvMjAvMTAvNDIvMzQwL1JhY2tNdWx0aXBhcnQyMDI2MDkxMC02MC0xMHppNHJwLmpwZWciXV0",
-          "alt": "House of Heavy | Nu Metal + Metalcore DJ Night"
-        },
-        {
-          "url": "https://fatsoma.imgix.net/W1siZiIsInB1YmxpYy8yMDI2LzkvMTQvMTEvMTkvNTAvMjUyL1JhY2tNdWx0aXBhcnQyMDI2MDkxNC02NC0xcXRqdHZoLmpwZyJdXQ",
-          "alt": "BIG ASS TRUCK"
-        }
-      ],
-      "website": "https://www.rebellion.club/",
-      "instagram": "https://www.instagram.com/rebellionmanchester/",
-      "instagram_followers": 14000
-    },
-    {
-      "id": "soup",
-      "name": "Soup",
-      "area": "Northern Quarter",
-      "vibe": "Intimate Northern Quarter bar and club/gig space (formerly Soup Kitchen) focused on local talent and cult electronic bookings.",
-      "images": [
-        {
-          "url": "https://dhzjvxyl79yzn.cloudfront.net/6/18076_6_soup.jpg",
-          "alt": "Soup"
-        }
-      ],
-      "website": "https://soupmanchester.com/",
-      "instagram": "https://www.instagram.com/soup_manchester/",
-      "instagram_followers": 13000
-    },
-    {
-      "id": "the-deaf-institute",
-      "name": "The Deaf Institute",
-      "area": "Oxford Road",
-      "vibe": "Independent Oxford Road venue across three floors — Music Hall, Lodge and Den — plus an outdoor terrace, hosting live music and late club nights in a historic 1878 building.",
-      "images": [
-        {
-          "url": "https://wp3-fatsomasites.imgix.net/uploads/sites/1630/2023/08/MG_4585.jpg",
-          "alt": "The Deaf Institute"
-        },
-        {
-          "url": "https://wp3-fatsomasites.imgix.net/uploads/sites/1630/2023/08/MG_7425.jpg",
-          "alt": "The Deaf Institute"
-        }
-      ],
-      "instagram": "https://www.instagram.com/deafinstitute/",
-      "instagram_followers": 36000,
-      "website": "https://thedeafinstitute.co.uk/"
-    },
-    {
       "id": "the-white-hotel",
       "name": "The White Hotel",
       "area": "Salford",
@@ -3016,25 +2289,6 @@
       ],
       "website": "https://www.thewhitehotel.co.uk/",
       "instagram": "https://www.instagram.com/m3_7lw/"
-    },
-    {
-      "id": "via",
-      "name": "Via",
-      "area": "Gay Village",
-      "vibe": "Grande dame of Canal Street since 1995: bar, club and restaurant known for live cabaret at the heart of the Gay Village.",
-      "images": [
-        {
-          "url": "https://www.spccs1.co.uk/ImageAssets/05803279e8314981be152537b8a688f7.PNG",
-          "alt": "Via Manchester Exterior"
-        },
-        {
-          "url": "https://www.spccs1.co.uk/ImageTiles/228/900x450%20-%20Festive%20Food%20&%20241.png",
-          "alt": "25% off Festive Food"
-        }
-      ],
-      "website": "https://www.viamanchester.co.uk/manchester",
-      "instagram": "https://www.instagram.com/via_canal_street/",
-      "instagram_followers": 16000
     },
     {
       "id": "yes",
