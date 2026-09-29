@@ -1347,20 +1347,6 @@
       "website": "https://friendsofplattfields.org.uk/"
     },
     {
-      "id": "stray",
-      "name": "Stray",
-      "area": "Northern Quarter",
-      "vibe": "",
-      "images": [
-        {
-          "url": "/assets/opt/date/stray/01.webp",
-          "alt": "Stray cocktail bar Northern Quarter interior"
-        }
-      ],
-      "website": "https://straybar.co/",
-      "instagram": "https://www.instagram.com/straymcr/"
-    },
-    {
       "id": "anthony-burgess-foundation",
       "name": "International Anthony Burgess Foundation",
       "area": "Chorlton-on-Medlock",
@@ -2639,34 +2625,6 @@
       "website": "https://www.elgatonegrotapas.com/"
     },
     {
-      "id": "australasia",
-      "name": "Australasia",
-      "area": "Spinningfields",
-      "vibe": "A completely reimagined subterranean dining room — bold flavours, a global inspired menu and an electric new energy where music, food and atmosphere come together.",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/australasia/01.webp",
-          "alt": "Australasia Spinningfields sharing plates and cocktails"
-        }
-      ],
-      "website": "https://www.australasiamcr.co.uk/",
-      "instagram": "https://www.instagram.com/australasia_mcr/"
-    },
-    {
-      "id": "campo",
-      "name": "Campo",
-      "area": "Whitefield",
-      "vibe": "Tapas and Mediterranean delights in North Manchester — chefs prepare every dish in-house from fresh seasonal produce and carefully sourced Spanish ingredients, with a lively main room and private Campito events space.",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/campo/01.webp",
-          "alt": "Campo Whitefield tapas table with branded coasters"
-        }
-      ],
-      "website": "https://campotapasbar.com/",
-      "instagram": "https://www.instagram.com/campotapasbar/"
-    },
-    {
       "id": "deanos",
       "name": "Deano's",
       "area": "Northern Quarter",
@@ -2692,46 +2650,6 @@
         }
       ],
       "website": "https://www.koreana.co.uk/"
-    },
-    {
-      "id": "d-grand-haveli",
-      "name": "D'Grand Haveli",
-      "area": "Irlam",
-      "vibe": "Irlam's most decadent Indian restaurant and bar — traditional Indian flavours in a regal setting, each dish with its own identity.",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/d-grand-haveli/01.webp",
-          "alt": "D'Grand Haveli curry bowl presentation"
-        }
-      ],
-      "website": "https://www.dgrandhaveli.co.uk/"
-    },
-    {
-      "id": "petisco",
-      "name": "Petisco",
-      "area": "Sale",
-      "vibe": "Inspired by neighbourhood bars of Portugal — a relaxed casual vibe for petiscos (Portuguese small plates) with Portuguese and continental wines, beers and spirits.",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/petisco/01.webp",
-          "alt": "Petisco Sale bar and dining room with hanging plants"
-        }
-      ],
-      "website": "https://petisco.co.uk/",
-      "instagram": "https://www.instagram.com/petiscosale/"
-    },
-    {
-      "id": "pastiche",
-      "name": "Pastiche",
-      "area": "Knutsford",
-      "vibe": "Knutsford's longest-serving restaurant, family-run since 2001 — Mediterranean cuisine from pizzas and pasta to tapas and à la carte in a friendly, relaxed setting.",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/pastiche/01.webp",
-          "alt": "Pastiche Knutsford Mediterranean dish"
-        }
-      ],
-      "website": "https://www.pasticherestaurant.co.uk/"
     }
   ],
   "dance": [
