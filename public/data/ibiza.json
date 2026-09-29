@@ -1532,8 +1532,8 @@
       "images": [
         {
           "url": "/assets/opt/dinner/bambuddha/01.webp",
-          "alt": "Bambuddha Ibiza",
-          "remote_url": "https://cdn.cms.boooooooooost.com/cmr0n48190000j90a8saxash2/uploads/1782827620829-l9jcwf4nwg8.webp"
+          "alt": "Bambuddha terrace at night",
+          "remote_url": "https://cdn.cms.boooooooooost.com/cmr0n48190000j90a8saxash2/uploads/1782826743830-lhshtih05ep.webp"
         },
         {
           "url": "https://cdn.cms.boooooooooost.com/cmr0n48190000j90a8saxash2/sections/1782825753630-67f214nzw1a.webp",
@@ -1608,8 +1608,8 @@
       "images": [
         {
           "url": "/assets/opt/dinner/casa-jondal/01.webp",
-          "alt": "Casa Jondal Ibiza",
-          "remote_url": "https://c-p.rmcdn.net/5d57db5b612c9b58cc12ed39/1991492/Screenshot-85ab5d9c-973e-4218-91be-c05365c57be0_readyscr_1024.jpg"
+          "alt": "Casa Jondal — plated dinner (Pexels)",
+          "remote_url": "https://www.pexels.com/photo/262978/"
         }
       ],
       "website": "https://www.casajondal.es/",
@@ -2867,6 +2867,150 @@
       ],
       "website": "https://www.spaceeatanddance.com/en/",
       "instagram": "https://www.instagram.com/spaceeatanddance"
+    },
+    {
+      "id": "pazzi",
+      "name": "Pazzi Ibiza",
+      "area": "Ibiza Town",
+      "vibe": "Radicalmente ibicenca — island-sourced pizza on a bright terrace, open nightly from 20:00.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/pazzi/01.webp",
+          "alt": "Pazzi Ibiza outdoor terrace with wooden chairs, olive trees and striped awning",
+          "remote_url": "https://pazziibiza.com/media/hr-terraza.webp"
+        }
+      ],
+      "website": "https://pazziibiza.com/",
+      "instagram": "https://www.instagram.com/pazzibiza"
+    },
+    {
+      "id": "mira-lounge",
+      "name": "Mira Lounge",
+      "area": "Sant Miquel",
+      "vibe": "Cocktail lounge with a famous pink bar and beautiful terrace — small plates, late kitchen, sit-and-stay vibe.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/mira-lounge/01.webp",
+          "alt": "Mira Lounge pink bar terrace with thatched ceiling and garden backdrop",
+          "remote_url": "https://images.squarespace-cdn.com/content/v1/69dfde45c4a43009b6a6035e/62377099-a72f-4d31-8dfb-cca1edee11df/DSC_6099.jpg"
+        }
+      ],
+      "website": "https://www.miraloungeibiza.com/",
+      "instagram": "https://www.instagram.com/miraloungeibiza"
+    },
+    {
+      "id": "casa-piedra",
+      "name": "Casa Piedra",
+      "area": "Cala Llonga",
+      "vibe": "Rural garden house among lemon and orange trees — charcoal Josper cooking with nikkei and Vietnamese notes.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/casa-piedra/01.webp",
+          "alt": "Casa Piedra garden terrace table set for dinner among greenery",
+          "remote_url": "https://www.casapiedraibiza.com/wp-content/uploads/2026/08/1000051931.jpg"
+        }
+      ],
+      "website": "https://www.casapiedraibiza.com/",
+      "instagram": "https://www.instagram.com/casapiedraibiza"
+    },
+    {
+      "id": "lupitas-kitchen",
+      "name": "Lupita's Kitchen",
+      "area": "Cala Vadella",
+      "vibe": "Charming tiny beach restaurant — simple, honest food made with love, fresh from the land.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/lupitas-kitchen/01.webp",
+          "alt": "Lupita's Kitchen terrace path overlooking Cala Vadella bay with palm and boats",
+          "remote_url": "https://lirp.cdn-website.com/9907ddab/dms3rep/multi/opt/a8d6e29b-603d-4a09-b6d0-65aa5231d043-1920w.JPG"
+        }
+      ],
+      "website": "https://www.lupitaskitchenibiza.com/"
+    },
+    {
+      "id": "da-giorgio",
+      "name": "da Giorgio",
+      "area": "Santa Eulalia",
+      "vibe": "Italian restaurant & cocktail bar — cucina vera meets a refined atmosphere.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/da-giorgio/01.webp",
+          "alt": "da Giorgio candlelit dining room with gold-framed mirrors and set tables",
+          "remote_url": "https://static.wixstatic.com/media/b67896_3c6fa61862274cf78544a981d6a5e9f6~mv2.jpg"
+        }
+      ],
+      "website": "https://www.dagiorgiorestaurante.com/"
+    },
+    {
+      "id": "sa-finca",
+      "name": "Sa Finca",
+      "area": "Santa Eulalia",
+      "vibe": "Unique dining on a 400-year-old estate overlooking the bay and hills of Santa Eulalia.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sa-finca/01.webp",
+          "alt": "Sa Finca terracotta terrace with wooden tables, white umbrellas and bougainvillea",
+          "remote_url": "https://assets.zyrosite.com/NOfKmqUqDpd0w41M/img-20260314-wa0008-IkqIjrVLZWiVs2cu.jpg"
+        }
+      ],
+      "website": "https://sa-finca.com/en"
+    },
+    {
+      "id": "taco-paco",
+      "name": "Taco Paco",
+      "area": "Santa Eulalia",
+      "vibe": "Mexican delights fused with Ibiza magic — art-filled restaurant and cosy sun-filled terrace.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/taco-paco/01.webp",
+          "alt": "Taco Paco evening terrace with string lights, cactus and outdoor dining",
+          "remote_url": "https://static.wixstatic.com/media/865da7_71843fd468b348d6be31e89437a145ec~mv2.jpg"
+        }
+      ],
+      "website": "https://www.tacopacoibiza.com/",
+      "instagram": "https://www.instagram.com/tacopacoibiza"
+    },
+    {
+      "id": "can-mussonet",
+      "name": "Can Mussonet",
+      "area": "Sant Rafel",
+      "vibe": "Bicentennial house — appreciate the breeze in the garden and traditional Ibizan architecture.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/can-mussonet/01.webp",
+          "alt": "Can Mussonet intimate terrace nook with woven pendant lamps and white wall",
+          "remote_url": "https://www.canmussonet.com/media/yootheme/cache/72/vertical-1-721c9fb9.webp"
+        }
+      ],
+      "website": "https://www.canmussonet.com/en/"
+    },
+    {
+      "id": "ses-boques-restaurant",
+      "name": "Ses Boques Restaurant",
+      "area": "Es Cubells",
+      "vibe": "Restaurant with soul among the cliffs — fresh fish and seafood in a quiet cove with views of Formentera.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/ses-boques-restaurant/01.webp",
+          "alt": "Ses Boques pine-shaded seaside terrace with wooden tables overlooking turquoise water",
+          "remote_url": "https://sesboques.com/wp-content/uploads/2025/05/Terrassa_02.jpg"
+        }
+      ],
+      "website": "https://sesboques.com/en/"
+    },
+    {
+      "id": "destino-sant-josep",
+      "name": "Destino Bar de Tapas",
+      "area": "Sant Josep",
+      "vibe": "Tapas without fuss opposite Sant Josep church — terrace dining, no rush, since 1997.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/destino-sant-josep/01.webp",
+          "alt": "Destino Bar de Tapas arcade terrace with white arches and outdoor tables in Sant Josep",
+          "remote_url": "https://destinosanjose.es/wp-content/themes/yootheme/cache/00C_5131-e1748690796965-d8d6378a.jpeg"
+        }
+      ],
+      "website": "https://destinosanjose.es/"
     }
   ],
   "dance": [
@@ -2994,8 +3138,8 @@
       "images": [
         {
           "url": "/assets/opt/dance/chinois-ibiza/01.webp",
-          "alt": "Chinois Ibiza club",
-          "remote_url": "https://chinois.com/wp-content/uploads/2026/03/16x9_banner1.jpg"
+          "alt": "Chinois Ibiza dancefloor",
+          "remote_url": "https://chinois.com/wp-content/uploads/2025/07/Mario_Pinta_Chinois_IMS_PacoOsuna_25.04.2025-60.jpg"
         },
         {
           "url": "https://chinois.com/wp-content/uploads/2025/07/Mario_Pinta_Chinois_IMS_PacoOsuna_25.04.2025-60.jpg",
@@ -3054,8 +3198,8 @@
       "images": [
         {
           "url": "/assets/opt/dance/es-paradis/01.webp",
-          "alt": "Es Paradis Ibiza",
-          "remote_url": "https://www.esparadis.com/wp-content/uploads/2026/05/the-most-beautiful-WEB-819x1024.jpg"
+          "alt": "Es Paradis, San Antonio (Wikimedia Commons, CC BY 2.0)",
+          "remote_url": "https://commons.wikimedia.org/wiki/File:Es_Paradis_Nightclub_Ibiza_2011.jpg"
         },
         {
           "url": "https://www.esparadis.com/wp-content/uploads/2026/04/WaterParty2026-726x1024.jpg",
@@ -3174,8 +3318,8 @@
       "images": [
         {
           "url": "/assets/opt/dance/o-beach-ibiza/01.webp",
-          "alt": "O Beach Ibiza",
-          "remote_url": "https://obeachibiza.com/wp-content/uploads/2018/10/ob-og-image.png"
+          "alt": "O Beach Ibiza pool (Wikimedia Commons, CC BY 4.0)",
+          "remote_url": "https://commons.wikimedia.org/wiki/File:O_Beach_Ibiza.jpg"
         },
         {
           "url": "https://obeachibiza.com/wp-content/uploads/2024/04/ROMU1287-Editar-aspect-ratio-6-7.jpg",
@@ -3294,8 +3438,8 @@
       "images": [
         {
           "url": "/assets/opt/dance/ushuaïa-ibiza/01.webp",
-          "alt": "Ushuaïa Ibiza",
-          "remote_url": "https://assets.ushuaiaibiza.com/3a2d29af-b52c-4737-a144-f5bfa5c54d12-20261010-ants-closing-party-square-1080x1080.jpg"
+          "alt": "Ushuaïa Ibiza pool (Wikimedia Commons, CC BY 2.0)",
+          "remote_url": "https://commons.wikimedia.org/wiki/File:Ushuaïa_Ibiza_Beach_Hotel_Pool.jpg"
         },
         {
           "url": "https://assets.ushuaiaibiza.com/57865b5c-e019-4fa7-8c19-fbeff9ce04b8-2026-ui-martingarrix-launch-square-1080x1080px.webp",
