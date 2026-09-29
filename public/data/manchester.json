@@ -274,20 +274,6 @@
       "instagram": "https://www.instagram.com/mcrmuseum/"
     },
     {
-      "id": "matt-and-phreds",
-      "name": "Matt and Phreds",
-      "area": "Northern Quarter",
-      "vibe": "Northern Quarter live jazz bar with pizza and cocktails.",
-      "images": [
-        {
-          "url": "/assets/opt/date/matt-and-phreds/01.webp",
-          "alt": "Live jazz performance in an intimate club setting (Wikimedia Commons, CC BY-SA 4.0)"
-        }
-      ],
-      "website": "https://www.mattandphreds.com/",
-      "instagram": "https://www.instagram.com/mattandphreds/"
-    },
-    {
       "id": "nq64",
       "name": "NQ64",
       "area": "Northern Quarter",
@@ -1528,19 +1514,6 @@
       "website": "https://www.cantorestaurant.com/"
     },
     {
-      "id": "bar-shrimp",
-      "name": "Bar Shrimp",
-      "area": "City Centre",
-      "vibe": "Cocktail and seafood bar on New York Street \u2014 drinks, seafood and snacks with considered cocktails, plush-red banquettes and floor-to-ceiling drapes; from the team behind Higher Ground and Flawd.",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/bar-shrimp/01.webp",
-          "alt": "Intimate seafood bar interior (Wikimedia Commons, CC BY-SA 2.0)"
-        }
-      ],
-      "website": "https://www.barshrimpmcr.co.uk/"
-    },
-    {
       "id": "bab-nq",
       "name": "BAB NQ",
       "area": "Northern Quarter",
@@ -2560,19 +2533,6 @@
       }
     },
     {
-      "id": "sams-chop-house",
-      "name": "Sam's Chop House",
-      "area": "City Centre",
-      "vibe": "Established in 1868 by Samuel Studd \u2014 for over 150 years serving the heart of Manchester with the very best of British food and drink, still an independent family business.",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/sams-chop-house/01.webp",
-          "alt": "Victorian chop house exterior, Manchester (Wikimedia Commons, CC BY 2.0)"
-        }
-      ],
-      "website": "https://www.samschophouse.com/"
-    },
-    {
       "id": "evuna",
       "name": "Evuna",
       "area": "Northern Quarter",
@@ -2919,19 +2879,6 @@
         }
       ],
       "website": "https://joshuabrooks.co.uk/"
-    },
-    {
-      "id": "soup",
-      "name": "SOUP",
-      "area": "Northern Quarter",
-      "vibe": "Multi-award-winning canteen, bar and music venue on Spear Street \u2014 forward-thinking music and arts events on two floors in the heart of the Northern Quarter.",
-      "images": [
-        {
-          "url": "/assets/opt/dance/soup/01.webp",
-          "alt": "Nightclub dance floor with atmospheric lighting (Wikimedia Commons, CC BY-SA 4.0)"
-        }
-      ],
-      "website": "https://soupmanchester.com/"
     },
     {
       "id": "cruz-101",
