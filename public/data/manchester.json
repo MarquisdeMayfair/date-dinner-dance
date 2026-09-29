@@ -18,7 +18,7 @@
       "id": "afflecks",
       "name": "Afflecks",
       "area": "Northern Quarter",
-      "vibe": "Independent emporium of quirky shops and stalls in the Northern Quarter \u2014 classic browse date.",
+      "vibe": "Independent emporium of quirky shops and stalls in the Northern Quarter — classic browse date.",
       "images": [
         {
           "url": "/assets/opt/date/afflecks/01.webp",
@@ -127,7 +127,7 @@
       "id": "home",
       "name": "HOME",
       "area": "City Centre",
-      "vibe": "Independent cinema, theatre and gallery with on-site restaurant \u2014 a classic culture date.",
+      "vibe": "Independent cinema, theatre and gallery with on-site restaurant — a classic culture date.",
       "images": [
         {
           "url": "/assets/opt/date/home/01.webp",
@@ -210,7 +210,7 @@
       "id": "mackie-mayor",
       "name": "Mackie Mayor",
       "area": "Northern Quarter",
-      "vibe": "Food hall in a restored Victorian market building \u2014 shared plates and atmosphere.",
+      "vibe": "Food hall in a restored Victorian market building — shared plates and atmosphere.",
       "images": [
         {
           "url": "/assets/opt/date/mackie-mayor/01.webp",
@@ -333,7 +333,7 @@
       "id": "salford-quays",
       "name": "Salford Quays",
       "area": "MediaCityUK",
-      "vibe": "Waterfront promenade around MediaCityUK, The Lowry and IWM North \u2014 popular sunset walk.",
+      "vibe": "Waterfront promenade around MediaCityUK, The Lowry and IWM North — popular sunset walk.",
       "images": [
         {
           "url": "/assets/opt/date/salford-quays/01.webp",
@@ -347,7 +347,7 @@
       "id": "science-and-industry-museum",
       "name": "Science and Industry Museum",
       "area": "Castlefield",
-      "vibe": "Major museum of Manchester\u2019s industrial and scientific heritage on Liverpool Road.",
+      "vibe": "Major museum of Manchester’s industrial and scientific heritage on Liverpool Road.",
       "images": [
         {
           "url": "/assets/opt/date/science-and-industry-museum/01.webp",
@@ -388,7 +388,7 @@
       "id": "portico-library",
       "name": "The Portico Library",
       "area": "Mosley Street",
-      "vibe": "Free-to-enter 1806 library and newsroom \u2014 exhibitions, archive treasures and a quiet escape from the city bustle above Mosley Street.",
+      "vibe": "Free-to-enter 1806 library and newsroom — exhibitions, archive treasures and a quiet escape from the city bustle above Mosley Street.",
       "images": [
         {
           "url": "/assets/opt/date/portico-library/01.webp",
@@ -401,7 +401,7 @@
       "id": "ordsall-hall",
       "name": "Ordsall Hall",
       "area": "Salford",
-      "vibe": "Grade I listed Tudor manor house \u2014 free to visit, close to Salford Quays, with historic rooms and gardens to explore.",
+      "vibe": "Grade I listed Tudor manor house — free to visit, close to Salford Quays, with historic rooms and gardens to explore.",
       "images": [
         {
           "url": "/assets/opt/date/ordsall-hall/01.webp",
@@ -414,7 +414,7 @@
       "id": "pankhurst-museum",
       "name": "Pankhurst Museum",
       "area": "Oxford Road",
-      "vibe": "Emmeline Pankhurst\u2019s former home \u2014 the only museum dedicated to the suffragette fight for the vote, open Thursdays and Sundays.",
+      "vibe": "Emmeline Pankhurst’s former home — the only museum dedicated to the suffragette fight for the vote, open Thursdays and Sundays.",
       "images": [
         {
           "url": "/assets/opt/date/pankhurst-museum/01.webp",
@@ -427,7 +427,7 @@
       "id": "esea-contemporary",
       "name": "esea contemporary",
       "area": "Northern Quarter",
-      "vibe": "The UK\u2019s only non-profit gallery specialising in East and Southeast Asian art practices \u2014 free admission on Thomas Street.",
+      "vibe": "The UK’s only non-profit gallery specialising in East and Southeast Asian art practices — free admission on Thomas Street.",
       "images": [
         {
           "url": "/assets/opt/date/esea-contemporary/01.webp",
@@ -440,7 +440,7 @@
       "id": "rncm",
       "name": "Royal Northern College of Music",
       "area": "Oxford Road",
-      "vibe": "World-renowned conservatoire on Oxford Road \u2014 concerts, opera and chamber music in landmark performance spaces.",
+      "vibe": "World-renowned conservatoire on Oxford Road — concerts, opera and chamber music in landmark performance spaces.",
       "images": [
         {
           "url": "/assets/opt/date/rncm/01.webp",
@@ -453,7 +453,7 @@
       "id": "palace-theatre",
       "name": "Palace Theatre",
       "area": "Oxford Street",
-      "vibe": "Historic Oxford Street theatre opposite Oxford Road station \u2014 West End tours and major shows in a classic auditorium.",
+      "vibe": "Historic Oxford Street theatre opposite Oxford Road station — West End tours and major shows in a classic auditorium.",
       "images": [
         {
           "url": "/assets/opt/date/palace-theatre/01.webp",
@@ -466,7 +466,7 @@
       "id": "schofields-bar",
       "name": "Schofield's Bar",
       "area": "Spinningfields",
-      "vibe": "Art deco corner of Sunlight House \u2014 brothers Joe and Daniel Schofield\u2019s walk-in cocktail bar channeling 1930s hospitality.",
+      "vibe": "Art deco corner of Sunlight House — brothers Joe and Daniel Schofield’s walk-in cocktail bar channeling 1930s hospitality.",
       "images": [
         {
           "url": "/assets/opt/date/schofields-bar/01.webp",
@@ -479,7 +479,7 @@
       "id": "manchester-craft-and-design-centre",
       "name": "Manchester Craft and Design Centre",
       "area": "Northern Quarter",
-      "vibe": "Northern Quarter haven of independent makers \u2014 20 studios, free craft exhibitions and workshops in a historic building on Oak Street.",
+      "vibe": "Northern Quarter haven of independent makers — 20 studios, free craft exhibitions and workshops in a historic building on Oak Street.",
       "images": [
         {
           "url": "/assets/opt/date/manchester-craft-and-design-centre/01.webp",
@@ -492,7 +492,7 @@
       "id": "aviva-studios",
       "name": "Aviva Studios",
       "area": "St John's",
-      "vibe": "Factory International\u2019s home \u2014 putting Manchester on the map as a global destination for arts, music and culture.",
+      "vibe": "Factory International’s home — putting Manchester on the map as a global destination for arts, music and culture.",
       "images": [
         {
           "url": "/assets/opt/date/aviva-studios/01.webp",
@@ -505,7 +505,7 @@
       "id": "53two",
       "name": "53two",
       "area": "City Centre",
-      "vibe": "Theatre and arts charity in the railway arches \u2014 plays, concerts and events with a unique bar space and accessible professional theatre.",
+      "vibe": "Theatre and arts charity in the railway arches — plays, concerts and events with a unique bar space and accessible professional theatre.",
       "images": [
         {
           "url": "/assets/opt/date/53two/01.webp",
@@ -531,7 +531,7 @@
       "id": "working-class-movement-library",
       "name": "Working Class Movement Library",
       "area": "Salford",
-      "vibe": "Free-to-all library and archive covering two hundred years of working-class history \u2014 reading room, exhibitions and Friday tours on The Crescent.",
+      "vibe": "Free-to-all library and archive covering two hundred years of working-class history — reading room, exhibitions and Friday tours on The Crescent.",
       "images": [
         {
           "url": "/assets/opt/date/working-class-movement-library/01.webp",
@@ -544,7 +544,7 @@
       "id": "salford-museum-art-gallery",
       "name": "Salford Museum & Art Gallery",
       "area": "Salford",
-      "vibe": "Free museum and gallery with Lark Hill Place Victorian street, changing exhibitions, caf\u00e9 and shop.",
+      "vibe": "Free museum and gallery with Lark Hill Place Victorian street, changing exhibitions, café and shop.",
       "images": [
         {
           "url": "/assets/opt/date/salford-museum-art-gallery/01.webp",
@@ -557,7 +557,7 @@
       "id": "old-trafford",
       "name": "Old Trafford",
       "area": "Trafford",
-      "vibe": "World-famous home of Manchester United \u2014 stadium tours and visit experiences at the Theatre of Dreams.",
+      "vibe": "World-famous home of Manchester United — stadium tours and visit experiences at the Theatre of Dreams.",
       "images": [
         {
           "url": "/assets/opt/date/old-trafford/01.webp",
@@ -609,7 +609,7 @@
       "id": "islington-mill",
       "name": "Islington Mill",
       "area": "Salford",
-      "vibe": "Home of artist-led endeavour in Salford \u2014 heritage mill with studios, events and a creative community.",
+      "vibe": "Home of artist-led endeavour in Salford — heritage mill with studios, events and a creative community.",
       "images": [
         {
           "url": "/assets/opt/date/islington-mill/01.webp",
@@ -622,7 +622,7 @@
       "id": "st-marys-hidden-gem",
       "name": "St Mary's Hidden Gem",
       "area": "City Centre",
-      "vibe": "Manchester\u2019s Hidden Gem \u2014 St Mary\u2019s Catholic Church serving the city since 1794, a calm historic sanctuary steps from the centre.",
+      "vibe": "Manchester’s Hidden Gem — St Mary’s Catholic Church serving the city since 1794, a calm historic sanctuary steps from the centre.",
       "images": [
         {
           "url": "/assets/opt/date/st-marys-hidden-gem/01.webp",
@@ -635,7 +635,7 @@
       "id": "salford-lads-club",
       "name": "Salford Lads and Girls Club",
       "area": "Salford",
-      "vibe": "Brightening young lives since 1903 \u2014 historic Salford Lads and Girls Club on Coronation Street, open for visits, heritage and community.",
+      "vibe": "Brightening young lives since 1903 — historic Salford Lads and Girls Club on Coronation Street, open for visits, heritage and community.",
       "images": [
         {
           "url": "/assets/opt/date/salford-lads-club/01.webp",
@@ -648,7 +648,7 @@
       "id": "etihad-stadium",
       "name": "Etihad Stadium",
       "area": "Eastlands",
-      "vibe": "Home of Manchester City \u2014 stadium tours and matchday visits at the Etihad Stadium.",
+      "vibe": "Home of Manchester City — stadium tours and matchday visits at the Etihad Stadium.",
       "images": [
         {
           "url": "/assets/opt/date/etihad-stadium/01.webp",
@@ -661,7 +661,7 @@
       "id": "frog-and-bucket",
       "name": "Frog & Bucket",
       "area": "Northern Quarter",
-      "vibe": "Award-winning Manchester comedy club \u2014 one mic, one stage, one frog in the Northern Quarter.",
+      "vibe": "Award-winning Manchester comedy club — one mic, one stage, one frog in the Northern Quarter.",
       "images": [
         {
           "url": "/assets/opt/date/frog-and-bucket/01.webp",
@@ -685,26 +685,26 @@
     },
     {
       "id": "halle-st-peters",
-      "name": "Hall\u00e9 St Peter's",
+      "name": "Hallé St Peter's",
       "area": "Ancoats",
-      "vibe": "Situated at the heart of resurgent Ancoats, Hall\u00e9 St Peter\u2019s is home for the Hall\u00e9\u2019s rehearsals and recordings, its choirs and Youth Orchestra \u2014 a restored church space for music.",
+      "vibe": "Situated at the heart of resurgent Ancoats, Hallé St Peter’s is home for the Hallé’s rehearsals and recordings, its choirs and Youth Orchestra — a restored church space for music.",
       "images": [
         {
           "url": "/assets/opt/date/halle-st-peters/01.webp",
-          "alt": "Hall\u00e9 St Peter's Ancoats"
+          "alt": "Hallé St Peter's Ancoats"
         }
       ],
       "website": "https://halle.co.uk/venues/halle-st-peters/"
     },
     {
       "id": "halle-at-st-michaels",
-      "name": "Hall\u00e9 at St Michael's",
+      "name": "Hallé at St Michael's",
       "area": "Ancoats",
-      "vibe": "A second Ancoats space for the Hall\u00e9\u2019s artistic and education activities and community events \u2014 historic St Michael\u2019s with a Little Italy heritage plaque.",
+      "vibe": "A second Ancoats space for the Hallé’s artistic and education activities and community events — historic St Michael’s with a Little Italy heritage plaque.",
       "images": [
         {
           "url": "/assets/opt/date/halle-at-st-michaels/01.webp",
-          "alt": "Hall\u00e9 at St Michael's Ancoats"
+          "alt": "Hallé at St Michael's Ancoats"
         }
       ],
       "website": "https://halle.co.uk/venues/halle-at-st-michaels/"
@@ -713,7 +713,7 @@
       "id": "clayton-hall",
       "name": "Clayton Hall",
       "area": "Clayton",
-      "vibe": "Clayton Hall Living History Museum \u2014 step back in time with hands-on rooms, winding staircases and costumed Victorians in every corner.",
+      "vibe": "Clayton Hall Living History Museum — step back in time with hands-on rooms, winding staircases and costumed Victorians in every corner.",
       "images": [
         {
           "url": "/assets/opt/date/clayton-hall/01.webp",
@@ -726,7 +726,7 @@
       "id": "king-street-townhouse",
       "name": "King Street Townhouse",
       "area": "City Centre",
-      "vibe": "An iconic Grade II-listed boutique hotel in the heart of Manchester \u2014 drawn from the spirit of Italian townhouses, with terrace dining and skyline views.",
+      "vibe": "An iconic Grade II-listed boutique hotel in the heart of Manchester — drawn from the spirit of Italian townhouses, with terrace dining and skyline views.",
       "images": [
         {
           "url": "/assets/opt/date/king-street-townhouse/01.webp",
@@ -739,7 +739,7 @@
       "id": "heaton-park-tramway",
       "name": "Heaton Park Tramway",
       "area": "Heaton Park",
-      "vibe": "Preserving Greater Manchester's tramway history since 1979 \u2014 heritage trams and vintage vehicles in Heaton Park.",
+      "vibe": "Preserving Greater Manchester's tramway history since 1979 — heritage trams and vintage vehicles in Heaton Park.",
       "images": [
         {
           "url": "/assets/opt/date/heaton-park-tramway/01.webp",
@@ -752,7 +752,7 @@
       "id": "sister-moon",
       "name": "Sister Moon",
       "area": "City Centre",
-      "vibe": "Southeast Asian flavours meet open-fire cooking \u2014 bold, fragrant dishes made for sharing, with fresh ingredients, layered spice and a relaxed rooftop energy at Treehouse Manchester.",
+      "vibe": "Southeast Asian flavours meet open-fire cooking — bold, fragrant dishes made for sharing, with fresh ingredients, layered spice and a relaxed rooftop energy at Treehouse Manchester.",
       "images": [
         {
           "url": "/assets/opt/date/sister-moon/01.webp",
@@ -765,7 +765,7 @@
       "id": "nest-bar",
       "name": "Nest Bar",
       "area": "City Centre",
-      "vibe": "A cocktail bar with sweeping views of the city below \u2014 curated music and genuine hospitality in Manchester city centre.",
+      "vibe": "A cocktail bar with sweeping views of the city below — curated music and genuine hospitality in Manchester city centre.",
       "images": [
         {
           "url": "/assets/opt/date/nest-bar/01.webp",
@@ -778,7 +778,7 @@
       "id": "hideout",
       "name": "Hideout",
       "area": "City Centre",
-      "vibe": "The Hideout is an intimate retreat above the city with a speakeasy feel, offering late-night drinks, curated music, and Manchester\u2019s views.",
+      "vibe": "The Hideout is an intimate retreat above the city with a speakeasy feel, offering late-night drinks, curated music, and Manchester’s views.",
       "images": [
         {
           "url": "/assets/opt/date/hideout/01.webp",
@@ -791,7 +791,7 @@
       "id": "mala",
       "name": "Mala",
       "area": "Northern Quarter",
-      "vibe": "Manchester's secret garden cocktail bar in the Northern Quarter \u2014 craft cocktails, specialist beers and rotating street food beneath fairy-lit cabins.",
+      "vibe": "Manchester's secret garden cocktail bar in the Northern Quarter — craft cocktails, specialist beers and rotating street food beneath fairy-lit cabins.",
       "images": [
         {
           "url": "/assets/opt/date/mala/01.webp",
@@ -804,7 +804,7 @@
       "id": "folk",
       "name": "Folk",
       "area": "Didsbury",
-      "vibe": "Independent neighbourhood bar and kitchen on Burton Road \u2014 coffee, brunch, freshly made sandwiches, salads and infamous burgers.",
+      "vibe": "Independent neighbourhood bar and kitchen on Burton Road — coffee, brunch, freshly made sandwiches, salads and infamous burgers.",
       "images": [
         {
           "url": "/assets/opt/date/folk/01.webp",
@@ -830,7 +830,7 @@
       "id": "hat-works",
       "name": "Hat Works",
       "area": "Stockport",
-      "vibe": "Award-winning attraction in a restored Grade II listed Victorian mill \u2014 the story of Stockport hatting.",
+      "vibe": "Award-winning attraction in a restored Grade II listed Victorian mill — the story of Stockport hatting.",
       "images": [
         {
           "url": "/assets/opt/date/hat-works/01.webp",
@@ -843,7 +843,7 @@
       "id": "richard-goodall-gallery",
       "name": "Richard Goodall Gallery",
       "area": "Northern Quarter",
-      "vibe": "Fine art prints, music and movie posters \u2014 limited editions and collectible design.",
+      "vibe": "Fine art prints, music and movie posters — limited editions and collectible design.",
       "images": [
         {
           "url": "/assets/opt/date/richard-goodall-gallery/01.webp",
@@ -856,7 +856,7 @@
       "id": "paradise-works",
       "name": "Paradise Works",
       "area": "Salford",
-      "vibe": "Artists, a project space and gallery in Salford \u2014 critically engaged exhibitions and film screenings.",
+      "vibe": "Artists, a project space and gallery in Salford — critically engaged exhibitions and film screenings.",
       "images": [
         {
           "url": "/assets/opt/date/paradise-works/01.webp",
@@ -897,7 +897,7 @@
       "id": "waterside-arts",
       "name": "Waterside Arts",
       "area": "Sale",
-      "vibe": "Award-winning arts venue in the heart of Sale \u2014 theatre, contemporary photography galleries, studios and workspaces by the Bridgewater Canal.",
+      "vibe": "Award-winning arts venue in the heart of Sale — theatre, contemporary photography galleries, studios and workspaces by the Bridgewater Canal.",
       "images": [
         {
           "alt": "Waterside Arts in Sale",
@@ -925,7 +925,7 @@
       "id": "trafford-ecology-park",
       "name": "Trafford Ecology Park",
       "area": "Trafford Park",
-      "vibe": "A beautiful and peaceful green space hidden in Trafford Park \u2014 short walks, wildlife and a quiet outdoor oasis.",
+      "vibe": "A beautiful and peaceful green space hidden in Trafford Park — short walks, wildlife and a quiet outdoor oasis.",
       "images": [
         {
           "alt": "Trafford Ecology Park in Trafford Park",
@@ -953,7 +953,7 @@
       "id": "wythenshawe-hall",
       "name": "Wythenshawe Hall",
       "area": "Wythenshawe",
-      "vibe": "Grade II* timber-framed hall in Wythenshawe Park \u2014 home of the Tatton family for over 600 years, now opening for public tours and open days.",
+      "vibe": "Grade II* timber-framed hall in Wythenshawe Park — home of the Tatton family for over 600 years, now opening for public tours and open days.",
       "images": [
         {
           "alt": "Wythenshawe Hall in Wythenshawe",
@@ -981,7 +981,7 @@
       "id": "oddfellows-on-the-park",
       "name": "Oddfellows On The Park",
       "area": "Cheadle",
-      "vibe": "Victorian boutique hotel of the Oddfellows family \u2014 design-led rooms, terrace dining and a playful sense of occasion on the park.",
+      "vibe": "Victorian boutique hotel of the Oddfellows family — design-led rooms, terrace dining and a playful sense of occasion on the park.",
       "images": [
         {
           "alt": "Oddfellows On The Park in Cheadle",
@@ -995,7 +995,7 @@
       "id": "east-lancashire-railway",
       "name": "East Lancashire Railway",
       "area": "Bury",
-      "vibe": "Heritage steam railway with dining experiences \u2014 scenic journeys and Dining with Distinction through the Irwell Valley.",
+      "vibe": "Heritage steam railway with dining experiences — scenic journeys and Dining with Distinction through the Irwell Valley.",
       "images": [
         {
           "alt": "East Lancashire Railway in Bury",
@@ -1023,7 +1023,7 @@
       "id": "gallery-oldham",
       "name": "Gallery Oldham",
       "area": "Oldham",
-      "vibe": "Free gallery of exhibitions, collections and displays in Oldham's Cultural Quarter \u2014 open five days a week.",
+      "vibe": "Free gallery of exhibitions, collections and displays in Oldham's Cultural Quarter — open five days a week.",
       "images": [
         {
           "alt": "Gallery Oldham in Oldham",
@@ -1051,7 +1051,7 @@
       "id": "hall-i-th-wood",
       "name": "Hall i' th' Wood",
       "area": "Bolton",
-      "vibe": "Originally a 16th-century half-timbered hall later linked with inventor Samuel Crompton \u2014 a Grade I listed museum of Bolton heritage.",
+      "vibe": "Originally a 16th-century half-timbered hall later linked with inventor Samuel Crompton — a Grade I listed museum of Bolton heritage.",
       "images": [
         {
           "alt": "Hall i' th' Wood in Bolton",
@@ -1065,7 +1065,7 @@
       "id": "astley-hall",
       "name": "Astley Hall",
       "area": "Chorley",
-      "vibe": "The jewel in Chorley's crown \u2014 a historic hall dating from the 1570s with collections, parkland and an enlightening afternoon visit.",
+      "vibe": "The jewel in Chorley's crown — a historic hall dating from the 1570s with collections, parkland and an enlightening afternoon visit.",
       "images": [
         {
           "alt": "Astley Hall in Chorley",
@@ -1079,7 +1079,7 @@
       "id": "stockport-market",
       "name": "Stockport Market",
       "area": "Stockport",
-      "vibe": "Stockport Market and Underbanks \u2014 historic market place, independent traders and a lively foodie hub in the town centre.",
+      "vibe": "Stockport Market and Underbanks — historic market place, independent traders and a lively foodie hub in the town centre.",
       "images": [
         {
           "alt": "Stockport Market in Stockport",
@@ -1164,7 +1164,7 @@
       "id": "bridgewater-hall",
       "name": "Bridgewater Hall",
       "area": "City Centre",
-      "vibe": "International concert hall on Lower Mosley Street \u2014 home of the Hall\u00e9 Orchestra with world-class classical, jazz and popular music programming.",
+      "vibe": "International concert hall on Lower Mosley Street — home of the Hallé Orchestra with world-class classical, jazz and popular music programming.",
       "images": [
         {
           "url": "/assets/opt/date/bridgewater-hall/01.webp",
@@ -1177,7 +1177,7 @@
       "id": "the-lowry",
       "name": "The Lowry",
       "area": "Salford Quays",
-      "vibe": "Arts centre at Salford Quays with galleries celebrating L.S. Lowry alongside theatre, comedy and exhibitions \u2014 open Tuesday to Sunday.",
+      "vibe": "Arts centre at Salford Quays with galleries celebrating L.S. Lowry alongside theatre, comedy and exhibitions — open Tuesday to Sunday.",
       "images": [
         {
           "url": "/assets/opt/date/the-lowry/01.webp",
@@ -1190,7 +1190,7 @@
       "id": "elizabeth-gaskell-house",
       "name": "Elizabeth Gaskell's House",
       "area": "Ardwick",
-      "vibe": "Historic house and museum celebrating the life and literature of Elizabeth Gaskell \u2014 hands-on experience with period rooms, Victorian garden and changing exhibitions.",
+      "vibe": "Historic house and museum celebrating the life and literature of Elizabeth Gaskell — hands-on experience with period rooms, Victorian garden and changing exhibitions.",
       "images": [
         {
           "url": "/assets/opt/date/elizabeth-gaskell-house/01.webp",
@@ -1203,7 +1203,7 @@
       "id": "rhs-garden-bridgewater",
       "name": "RHS Garden Bridgewater",
       "area": "Worsley",
-      "vibe": "The RHS's fifth garden \u2014 a modern garden rooted in a historic setting with the 11-acre Weston Walled Garden, Paradise Garden and seven acres of native woodland.",
+      "vibe": "The RHS's fifth garden — a modern garden rooted in a historic setting with the 11-acre Weston Walled Garden, Paradise Garden and seven acres of native woodland.",
       "images": [
         {
           "url": "/assets/opt/date/rhs-garden-bridgewater/01.webp",
@@ -1216,7 +1216,7 @@
       "id": "stockport-plaza",
       "name": "Stockport Plaza",
       "area": "Stockport",
-      "vibe": "Award-winning 1932 Art Deco super cinema and variety theatre lovingly restored to opening-day condition \u2014 big screen and live stage entertainment in Mersey Square.",
+      "vibe": "Award-winning 1932 Art Deco super cinema and variety theatre lovingly restored to opening-day condition — big screen and live stage entertainment in Mersey Square.",
       "images": [
         {
           "url": "/assets/opt/date/stockport-plaza/01.webp",
@@ -1229,7 +1229,7 @@
       "id": "corn-exchange",
       "name": "Corn Exchange",
       "area": "City Centre",
-      "vibe": "Iconic Grade II listed dining and entertainment destination in Exchange Square \u2014 restaurants, bars and activities under one roof near Victoria Station.",
+      "vibe": "Iconic Grade II listed dining and entertainment destination in Exchange Square — restaurants, bars and activities under one roof near Victoria Station.",
       "images": [
         {
           "url": "/assets/opt/date/corn-exchange/01.webp",
@@ -1242,7 +1242,7 @@
       "id": "printworks",
       "name": "Printworks",
       "area": "City Centre",
-      "vibe": "Entertainment complex with 20+ bars, restaurants and leisure activities plus the second-biggest IMAX screen in Europe \u2014 Europe's largest digital ceiling screen overhead.",
+      "vibe": "Entertainment complex with 20+ bars, restaurants and leisure activities plus the second-biggest IMAX screen in Europe — Europe's largest digital ceiling screen overhead.",
       "images": [
         {
           "url": "/assets/opt/date/printworks/01.webp",
@@ -1250,6 +1250,129 @@
         }
       ],
       "website": "https://printworks-manchester.com/"
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "area": "Oxford Road",
+      "vibe": "Arts venue and theatre in the city centre that has put young people at the heart of everything since 1972 — a charity staging bold, curious work.",
+      "images": [
+        {
+          "url": "/assets/opt/date/contact/01.webp",
+          "alt": "Contact Theatre brutalist exterior Oxford Road"
+        }
+      ],
+      "website": "https://contactmcr.com/",
+      "instagram": "https://www.instagram.com/contactmcr/"
+    },
+    {
+      "id": "mayfield-park",
+      "name": "Mayfield Park",
+      "area": "City Centre",
+      "vibe": "Manchester's first new city park in over a century — 6.5 acres with the daylighted River Medlock, lawns, wildscape and a kids' play yard of six slides.",
+      "images": [
+        {
+          "url": "/assets/opt/date/mayfield-park/01.webp",
+          "alt": "Mayfield Park landscaped path and industrial chimney"
+        }
+      ],
+      "website": "https://mayfieldpark.com/",
+      "instagram": "https://www.instagram.com/mayfieldmanchester/"
+    },
+    {
+      "id": "manchester-opera-house",
+      "name": "Manchester Opera House",
+      "area": "City Centre",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/manchester-opera-house/01.webp",
+          "alt": "Manchester Opera House neo-classical facade"
+        }
+      ],
+      "website": "https://www.atgtickets.com/venues/opera-house-manchester/"
+    },
+    {
+      "id": "mediacityuk",
+      "name": "MediaCityUK",
+      "area": "Salford Quays",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/mediacityuk/01.webp",
+          "alt": "MediaCityUK waterfront studios and public realm"
+        }
+      ],
+      "website": "https://www.mediacityuk.co.uk/",
+      "instagram": "https://www.instagram.com/mediacityuk/"
+    },
+    {
+      "id": "peel-park",
+      "name": "Peel Park",
+      "area": "Salford",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/peel-park/01.webp",
+          "alt": "Peel Park Salford green space"
+        }
+      ],
+      "website": "https://www.salford.gov.uk/parks-and-open-spaces/salford-parks/peel-park-salford/"
+    },
+    {
+      "id": "emirates-old-trafford",
+      "name": "Emirates Old Trafford",
+      "area": "Old Trafford",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/emirates-old-trafford/01.webp",
+          "alt": "Emirates Old Trafford cricket ground"
+        }
+      ],
+      "website": "https://www.lancashirecricket.co.uk/",
+      "instagram": "https://www.instagram.com/lancscricket/"
+    },
+    {
+      "id": "platt-fields-park",
+      "name": "Platt Fields Park",
+      "area": "Fallowfield",
+      "vibe": "Covering 170 acres, Platt Fields is the largest and most popular park in central Manchester — heart-shaped lake, Shakespeare Garden, playgrounds and open vistas where traffic noise fades and bird song amplifies.",
+      "images": [
+        {
+          "url": "/assets/opt/date/platt-fields-park/01.webp",
+          "alt": "Platt Hall in Platt Fields Park Fallowfield"
+        }
+      ],
+      "website": "https://friendsofplattfields.org.uk/"
+    },
+    {
+      "id": "stray",
+      "name": "Stray",
+      "area": "Northern Quarter",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/stray/01.webp",
+          "alt": "Stray cocktail bar Northern Quarter interior"
+        }
+      ],
+      "website": "https://straybar.co/",
+      "instagram": "https://www.instagram.com/straymcr/"
+    },
+    {
+      "id": "anthony-burgess-foundation",
+      "name": "International Anthony Burgess Foundation",
+      "area": "Chorlton-on-Medlock",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/date/anthony-burgess-foundation/01.webp",
+          "alt": "IABF red vertical sign on Cambridge Street"
+        }
+      ],
+      "website": "https://www.anthonyburgess.org/",
+      "instagram": "https://www.instagram.com/anthonyburgessfoundation/"
     }
   ],
   "dinner": [
@@ -1257,7 +1380,7 @@
       "id": "20-stories",
       "name": "20 Stories",
       "area": "Spinningfields",
-      "vibe": "Rooftop restaurant and cocktail bar in Spinningfields with 360\u00b0 city views and a modern British menu.",
+      "vibe": "Rooftop restaurant and cocktail bar in Spinningfields with 360° city views and a modern British menu.",
       "images": [
         {
           "url": "/assets/opt/dinner/20-stories/01.webp",
@@ -1394,13 +1517,13 @@
     },
     {
       "id": "the-sparrows",
-      "name": "The Sp\u00e4rrows",
+      "name": "The Spärrows",
       "area": "Green Quarter",
-      "vibe": "Hidden Green Quarter arch restaurant \u2014 ring the bell for Central European hospitality, handmade dumplings, pasta and sp\u00e4tzle with a small-producer wine list.",
+      "vibe": "Hidden Green Quarter arch restaurant — ring the bell for Central European hospitality, handmade dumplings, pasta and spätzle with a small-producer wine list.",
       "images": [
         {
           "url": "/assets/opt/dinner/the-sparrows/01.webp",
-          "alt": "Interior of The Sp\u00e4rrows restaurant under Manchester railway arches"
+          "alt": "Interior of The Spärrows restaurant under Manchester railway arches"
         }
       ],
       "website": "https://thesparrows.me/"
@@ -1409,7 +1532,7 @@
       "id": "canto",
       "name": "Canto",
       "area": "Ancoats",
-      "vibe": "Mediterranean tapas in Ancoats\u2019 Cutting Room Square \u2014 sharing plates and drinks in a neighbourhood setting.",
+      "vibe": "Mediterranean tapas in Ancoats’ Cutting Room Square — sharing plates and drinks in a neighbourhood setting.",
       "images": [
         {
           "url": "/assets/opt/dinner/canto/01.webp",
@@ -1422,7 +1545,7 @@
       "id": "bar-shrimp",
       "name": "Bar Shrimp",
       "area": "City Centre",
-      "vibe": "Cocktail and seafood bar on New York Street \u2014 drinks, seafood and snacks with considered cocktails, plush-red banquettes and floor-to-ceiling drapes; from the team behind Higher Ground and Flawd.",
+      "vibe": "Cocktail and seafood bar on New York Street — drinks, seafood and snacks with considered cocktails, plush-red banquettes and floor-to-ceiling drapes; from the team behind Higher Ground and Flawd.",
       "images": [
         {
           "url": "/assets/opt/dinner/bar-shrimp/01.webp",
@@ -1435,7 +1558,7 @@
       "id": "bab-nq",
       "name": "BAB NQ",
       "area": "Northern Quarter",
-      "vibe": "Fiercely independent Northern Quarter restaurant for babs and meze \u2014 open theatre kitchen, fresh flatbreads and a serious cocktail list.",
+      "vibe": "Fiercely independent Northern Quarter restaurant for babs and meze — open theatre kitchen, fresh flatbreads and a serious cocktail list.",
       "images": [
         {
           "url": "/assets/opt/dinner/bab-nq/01.webp",
@@ -1448,7 +1571,7 @@
       "id": "the-oast-house",
       "name": "The Oast House",
       "area": "Spinningfields",
-      "vibe": "Spinningfields courtyard bar and restaurant with free live music every day \u2014 food, roasts and cocktails in The Avenue.",
+      "vibe": "Spinningfields courtyard bar and restaurant with free live music every day — food, roasts and cocktails in The Avenue.",
       "images": [
         {
           "url": "/assets/opt/dinner/the-oast-house/01.webp",
@@ -1461,7 +1584,7 @@
       "id": "asmara-bella",
       "name": "Asmara Bella",
       "area": "Northern Quarter",
-      "vibe": "Authentic Eritrean and Ethiopian dining in the Northern Quarter \u2014 shared injera platters, slow-cooked stews and a traditional coffee ceremony.",
+      "vibe": "Authentic Eritrean and Ethiopian dining in the Northern Quarter — shared injera platters, slow-cooked stews and a traditional coffee ceremony.",
       "images": [
         {
           "url": "/assets/opt/dinner/asmara-bella/01.webp",
@@ -1474,7 +1597,7 @@
       "id": "don-giovanni",
       "name": "Don Giovanni",
       "area": "Oxford Road",
-      "vibe": "Manchester\u2019s oldest independent Italian restaurant \u2014 fresh pasta daily, double-fermented pizzas and warm Italian hospitality near the theatres.",
+      "vibe": "Manchester’s oldest independent Italian restaurant — fresh pasta daily, double-fermented pizzas and warm Italian hospitality near the theatres.",
       "images": [
         {
           "url": "/assets/opt/dinner/don-giovanni/01.webp",
@@ -1487,7 +1610,7 @@
       "id": "noi-quattro",
       "name": "Noi Quattro",
       "area": "Northern Quarter",
-      "vibe": "Independent Italian pizzeria on High Street owned and run by Italians \u2014 wood-fired pies in the Northern Quarter.",
+      "vibe": "Independent Italian pizzeria on High Street owned and run by Italians — wood-fired pies in the Northern Quarter.",
       "images": [
         {
           "url": "/assets/opt/dinner/noi-quattro/01.webp",
@@ -1500,7 +1623,7 @@
       "id": "bar-san-juan",
       "name": "Bar San Juan",
       "area": "Chorlton",
-      "vibe": "Small Chorlton tapas bar capturing the warmth of Spain \u2014 classic tapas, Spanish beers, wines, sherries and gins since 2010.",
+      "vibe": "Small Chorlton tapas bar capturing the warmth of Spain — classic tapas, Spanish beers, wines, sherries and gins since 2010.",
       "images": [
         {
           "url": "/assets/opt/dinner/bar-san-juan/01.webp",
@@ -1513,7 +1636,7 @@
       "id": "stow",
       "name": "stow.",
       "area": "Deansgate",
-      "vibe": "Open-fire restaurant and cocktail bar on Bridge Street \u2014 cooking exclusively over fire with seasonal ingredients and nice people.",
+      "vibe": "Open-fire restaurant and cocktail bar on Bridge Street — cooking exclusively over fire with seasonal ingredients and nice people.",
       "images": [
         {
           "url": "/assets/opt/dinner/stow/01.webp",
@@ -1526,7 +1649,7 @@
       "id": "mount-street-dining-room",
       "name": "Mount Street Dining Room & Bar",
       "area": "Peter Street",
-      "vibe": "Inside the Midland Hotel \u2014 timeless brasserie classics and confident modern cooking where the city comes to dine, drink and linger.",
+      "vibe": "Inside the Midland Hotel — timeless brasserie classics and confident modern cooking where the city comes to dine, drink and linger.",
       "images": [
         {
           "url": "/assets/opt/dinner/mount-street-dining-room/01.webp",
@@ -1552,7 +1675,7 @@
       "id": "maricarmen",
       "name": "Maricarmen",
       "area": "Ancoats",
-      "vibe": "Spanish tapas bar in Ancoats (and NQ) \u2014 warm, authentic small plates made for sharing.",
+      "vibe": "Spanish tapas bar in Ancoats (and NQ) — warm, authentic small plates made for sharing.",
       "images": [
         {
           "url": "/assets/opt/dinner/maricarmen/01.webp",
@@ -1565,7 +1688,7 @@
       "id": "evelyns",
       "name": "Evelyn's",
       "area": "Northern Quarter",
-      "vibe": "Easy-going Northern Quarter restaurant \u2014 brunch by day, refined charcoal Inka-grill small plates by night with Middle Eastern and pan-Asian inspiration.",
+      "vibe": "Easy-going Northern Quarter restaurant — brunch by day, refined charcoal Inka-grill small plates by night with Middle Eastern and pan-Asian inspiration.",
       "images": [
         {
           "url": "/assets/opt/dinner/evelyns/01.webp",
@@ -1578,7 +1701,7 @@
       "id": "mr-thomas-chop-house",
       "name": "Mr Thomas's Chop House",
       "area": "Cross Street",
-      "vibe": "Independent family chop house since 1867 \u2014 Victorian Cross Street landmark serving proper British food and drink at the heart of the city.",
+      "vibe": "Independent family chop house since 1867 — Victorian Cross Street landmark serving proper British food and drink at the heart of the city.",
       "images": [
         {
           "url": "/assets/opt/dinner/mr-thomas-chop-house/01.webp",
@@ -1591,7 +1714,7 @@
       "id": "little-yang-sing",
       "name": "Little Yang Sing",
       "area": "Chinatown",
-      "vibe": "Chinatown Cantonese favourite \u2014 calm, refurbished dining room for traditional dim sum and classic Chinese cooking.",
+      "vibe": "Chinatown Cantonese favourite — calm, refurbished dining room for traditional dim sum and classic Chinese cooking.",
       "images": [
         {
           "url": "/assets/opt/dinner/little-yang-sing/01.webp",
@@ -1604,7 +1727,7 @@
       "id": "wings-lincoln-square",
       "name": "Wing's Lincoln Square",
       "area": "Lincoln Square",
-      "vibe": "Family-run contemporary Cantonese in Lincoln Square \u2014 intimate dining rooted in recipes passed down through generations.",
+      "vibe": "Family-run contemporary Cantonese in Lincoln Square — intimate dining rooted in recipes passed down through generations.",
       "images": [
         {
           "url": "/assets/opt/dinner/wings-lincoln-square/01.webp",
@@ -1630,7 +1753,7 @@
       "id": "la-casita",
       "name": "La Casita",
       "area": "City Centre",
-      "vibe": "Family-run Mexican \u201clittle house\u201d \u2014 real tastes, aromas and textures of Mexican food from a Mexican-owned kitchen in Manchester.",
+      "vibe": "Family-run Mexican “little house” — real tastes, aromas and textures of Mexican food from a Mexican-owned kitchen in Manchester.",
       "images": [
         {
           "url": "/assets/opt/dinner/la-casita/01.webp",
@@ -1643,11 +1766,11 @@
       "id": "sampa",
       "name": "SAMPA",
       "area": "Northern Quarter",
-      "vibe": "Michelin-recommended 12-seat Brazilian chef\u2019s table \u2014 tasting menu of Brazilian ingredients and techniques in a casual Northern Quarter space.",
+      "vibe": "Michelin-recommended 12-seat Brazilian chef’s table — tasting menu of Brazilian ingredients and techniques in a casual Northern Quarter space.",
       "images": [
         {
           "url": "/assets/opt/dinner/sampa/01.webp",
-          "alt": "SAMPA Brazilian chef\u2019s table counter Manchester"
+          "alt": "SAMPA Brazilian chef’s table counter Manchester"
         }
       ],
       "website": "https://www.samparestaurant.co.uk/"
@@ -1656,7 +1779,7 @@
       "id": "lucky-mamas",
       "name": "Lucky Mama's",
       "area": "Chorlton",
-      "vibe": "Chorlton independent serving fresh pasta in an edible pizza-dough bowl \u2014 rasta pasta, Roman pizza and dough balls.",
+      "vibe": "Chorlton independent serving fresh pasta in an edible pizza-dough bowl — rasta pasta, Roman pizza and dough balls.",
       "images": [
         {
           "url": "/assets/opt/dinner/lucky-mamas/01.webp",
@@ -1669,7 +1792,7 @@
       "id": "red-chilli",
       "name": "Red Chilli",
       "area": "Portland Street",
-      "vibe": "Contemporary Beijing and Sichuan restaurant on Portland Street \u2014 fiery chilli heat and lip-tingling Sichuan flavour with a mission to look after pocket, stomach and soul.",
+      "vibe": "Contemporary Beijing and Sichuan restaurant on Portland Street — fiery chilli heat and lip-tingling Sichuan flavour with a mission to look after pocket, stomach and soul.",
       "images": [
         {
           "url": "/assets/opt/dinner/red-chilli/01.webp",
@@ -1682,7 +1805,7 @@
       "id": "dukes-92",
       "name": "Dukes 92",
       "area": "Castlefield",
-      "vibe": "Canalside Castlefield bar and dining \u2014 seasonal menu, hand-picked wines and beers, cocktails, stunning interiors and an iconic outside area.",
+      "vibe": "Canalside Castlefield bar and dining — seasonal menu, hand-picked wines and beers, cocktails, stunning interiors and an iconic outside area.",
       "images": [
         {
           "url": "/assets/opt/dinner/dukes-92/01.webp",
@@ -1695,7 +1818,7 @@
       "id": "dimitris",
       "name": "Dimitri's",
       "area": "Deansgate",
-      "vibe": "Manchester institution \u2014 beloved Greek and Mediterranean family-run restaurant on Deansgate, Castlefield for over 30 years.",
+      "vibe": "Manchester institution — beloved Greek and Mediterranean family-run restaurant on Deansgate, Castlefield for over 30 years.",
       "images": [
         {
           "url": "/assets/opt/dinner/dimitris/01.webp",
@@ -1708,7 +1831,7 @@
       "id": "skof",
       "name": "Skof",
       "area": "NOMA",
-      "vibe": "Tom\u2019s first solo restaurant in Manchester \u2014 focused on skill, quality ingredients and simplicity, without pretentiousness, tablecloths or a dress code.",
+      "vibe": "Tom’s first solo restaurant in Manchester — focused on skill, quality ingredients and simplicity, without pretentiousness, tablecloths or a dress code.",
       "images": [
         {
           "url": "/assets/opt/dinner/skof/01.webp",
@@ -1721,7 +1844,7 @@
       "id": "butter-bird",
       "name": "Butter Bird",
       "area": "Ancoats",
-      "vibe": "Northern birds, slow-roasted on rotisserie over fire and finished to order \u2014 juicy Butter Bird chicken with crispy charred skin on Blossom Street, Ancoats.",
+      "vibe": "Northern birds, slow-roasted on rotisserie over fire and finished to order — juicy Butter Bird chicken with crispy charred skin on Blossom Street, Ancoats.",
       "images": [
         {
           "url": "/assets/opt/dinner/butter-bird/01.webp",
@@ -1734,7 +1857,7 @@
       "id": "soots",
       "name": "Soots",
       "area": "Northern Quarter",
-      "vibe": "Pasta and small plates in the heart of Manchester \u2014 plant-based neighbourhood dining on Tib Street.",
+      "vibe": "Pasta and small plates in the heart of Manchester — plant-based neighbourhood dining on Tib Street.",
       "images": [
         {
           "url": "/assets/opt/dinner/soots/01.webp",
@@ -1760,7 +1883,7 @@
       "id": "pupa",
       "name": "Pupa",
       "area": "Northern Quarter",
-      "vibe": "Northern Quarter restaurant and bar \u2014 steaks, handmade pastas and a full wine and drinks list.",
+      "vibe": "Northern Quarter restaurant and bar — steaks, handmade pastas and a full wine and drinks list.",
       "images": [
         {
           "url": "/assets/opt/dinner/pupa/01.webp",
@@ -1773,7 +1896,7 @@
       "id": "armenian-taverna",
       "name": "Armenian Taverna",
       "area": "Albert Square",
-      "vibe": "Said to be Manchester\u2019s oldest restaurant business, on Albert Square \u2014 Armenian and Middle Eastern cooking from Arman and Arusyak.",
+      "vibe": "Said to be Manchester’s oldest restaurant business, on Albert Square — Armenian and Middle Eastern cooking from Arman and Arusyak.",
       "images": [
         {
           "url": "/assets/opt/dinner/armenian-taverna/01.webp",
@@ -1786,7 +1909,7 @@
       "id": "cardinal-rule",
       "name": "Cardinal Rule",
       "area": "City Centre",
-      "vibe": "Independent Manchester restaurant and bar \u2014 neighbourhood dining with a considered menu and drinks list.",
+      "vibe": "Independent Manchester restaurant and bar — neighbourhood dining with a considered menu and drinks list.",
       "images": [
         {
           "url": "/assets/opt/dinner/cardinal-rule/01.webp",
@@ -1799,7 +1922,7 @@
       "id": "store-street-exchange",
       "name": "Store Street Exchange",
       "area": "Piccadilly",
-      "vibe": "Restaurant and craft bar a short walk from Manchester Piccadilly \u2014 friendly dining and cocktails at DoubleTree by Hilton.",
+      "vibe": "Restaurant and craft bar a short walk from Manchester Piccadilly — friendly dining and cocktails at DoubleTree by Hilton.",
       "images": [
         {
           "url": "/assets/opt/dinner/store-street-exchange/01.webp",
@@ -1812,7 +1935,7 @@
       "id": "pho-cue",
       "name": "Pho Cue Kitchen",
       "area": "Chinatown",
-      "vibe": "Vietnamese restaurant in the heart of Manchester\u2019s Chinatown \u2014 pho, vermicelli and classic Vietnamese dishes.",
+      "vibe": "Vietnamese restaurant in the heart of Manchester’s Chinatown — pho, vermicelli and classic Vietnamese dishes.",
       "images": [
         {
           "url": "/assets/opt/dinner/pho-cue/01.webp",
@@ -1825,7 +1948,7 @@
       "id": "zouk",
       "name": "Zouk",
       "area": "City Centre",
-      "vibe": "Just off Oxford Road \u2014 fragrant curries, charcoal grills and biryanis with an open kitchen and terrace.",
+      "vibe": "Just off Oxford Road — fragrant curries, charcoal grills and biryanis with an open kitchen and terrace.",
       "images": [
         {
           "url": "/assets/opt/dinner/zouk/01.webp",
@@ -1838,7 +1961,7 @@
       "id": "sthan",
       "name": "Sthan",
       "area": "City Centre",
-      "vibe": "Desi food and videsi bar \u2014 Indian flavours in Manchester city centre.",
+      "vibe": "Desi food and videsi bar — Indian flavours in Manchester city centre.",
       "images": [
         {
           "url": "/assets/opt/dinner/sthan/01.webp",
@@ -1851,7 +1974,7 @@
       "id": "neel-paneer",
       "name": "Neel Paneer",
       "area": "City Centre",
-      "vibe": "Indian restaurant for sharing plates with friends and family \u2014 eat, drink and linger.",
+      "vibe": "Indian restaurant for sharing plates with friends and family — eat, drink and linger.",
       "images": [
         {
           "url": "/assets/opt/dinner/neel-paneer/01.webp",
@@ -1877,7 +2000,7 @@
       "id": "blue-eyed-panda",
       "name": "Blue Eyed Panda",
       "area": "City Centre",
-      "vibe": "Traditional Chinese restaurant in Manchester \u2014 classic Cantonese and Chinese dining.",
+      "vibe": "Traditional Chinese restaurant in Manchester — classic Cantonese and Chinese dining.",
       "images": [
         {
           "url": "/assets/opt/dinner/blue-eyed-panda/01.webp",
@@ -1890,7 +2013,7 @@
       "id": "off-the-grid",
       "name": "Off The Grid",
       "area": "Chorlton",
-      "vibe": "Independent grill restaurant on Barlow Moor Road, Chorlton \u2014 neighbourhood grilling and dining.",
+      "vibe": "Independent grill restaurant on Barlow Moor Road, Chorlton — neighbourhood grilling and dining.",
       "images": [
         {
           "url": "/assets/opt/dinner/off-the-grid/01.webp",
@@ -1916,7 +2039,7 @@
       "id": "evoden",
       "name": "Evoden",
       "area": "Chorlton",
-      "vibe": "Where soul food and Caribbean dishes collide \u2014 Miss Dee\u2019s culinary haven on Beech Road, Chorlton.",
+      "vibe": "Where soul food and Caribbean dishes collide — Miss Dee’s culinary haven on Beech Road, Chorlton.",
       "images": [
         {
           "url": "/assets/opt/dinner/evoden/01.webp",
@@ -1929,7 +2052,7 @@
       "id": "no4-dine-and-wine",
       "name": "No.4 Dine & Wine",
       "area": "Didsbury",
-      "vibe": "No fuss, no hype \u2014 we just love food and people. Small, intimate neighbourhood restaurant serving modern English food on cobbled Warburton Street, Didsbury, since 2005.",
+      "vibe": "No fuss, no hype — we just love food and people. Small, intimate neighbourhood restaurant serving modern English food on cobbled Warburton Street, Didsbury, since 2005.",
       "images": [
         {
           "url": "/assets/opt/dinner/no4-dine-and-wine/01.webp",
@@ -1942,7 +2065,7 @@
       "id": "the-trof",
       "name": "Trof",
       "area": "Northern Quarter",
-      "vibe": "Since 2003, 8 Thomas Street has been home to Trof \u2014 a Northern Quarter staple and independent pub and dining room for seasonal British dishes and evening drinks.",
+      "vibe": "Since 2003, 8 Thomas Street has been home to Trof — a Northern Quarter staple and independent pub and dining room for seasonal British dishes and evening drinks.",
       "images": [
         {
           "url": "/assets/opt/dinner/the-trof/01.webp",
@@ -1955,7 +2078,7 @@
       "id": "great-kathmandu",
       "name": "Great Kathmandu",
       "area": "West Didsbury",
-      "vibe": "West Didsbury\u2019s award-winning Nepalese and Indian restaurant \u2014 family-run since 1986 with forty years of momo, tandoor cooking and hospitality on Burton Road.",
+      "vibe": "West Didsbury’s award-winning Nepalese and Indian restaurant — family-run since 1986 with forty years of momo, tandoor cooking and hospitality on Burton Road.",
       "images": [
         {
           "url": "/assets/opt/dinner/great-kathmandu/01.webp",
@@ -1968,7 +2091,7 @@
       "id": "pasta-factory",
       "name": "The Pasta Factory",
       "area": "Northern Quarter",
-      "vibe": "Fresh pasta is simply a return to our basics \u2014 authentic Italian piatti di pasta made with the freshest, all-natural ingredients on Shudehill.",
+      "vibe": "Fresh pasta is simply a return to our basics — authentic Italian piatti di pasta made with the freshest, all-natural ingredients on Shudehill.",
       "images": [
         {
           "url": "/assets/opt/dinner/pasta-factory/01.webp",
@@ -1994,7 +2117,7 @@
       "id": "beeswing",
       "name": "The Beeswing",
       "area": "Kampus",
-      "vibe": "Tapas and wine bar in Manchester\u2019s garden neighbourhood \u2014 Spanish cuisine and sharing plates at Kampus near Piccadilly.",
+      "vibe": "Tapas and wine bar in Manchester’s garden neighbourhood — Spanish cuisine and sharing plates at Kampus near Piccadilly.",
       "images": [
         {
           "url": "/assets/opt/dinner/beeswing/01.webp",
@@ -2007,7 +2130,7 @@
       "id": "mary-and-archie",
       "name": "Mary & Archie",
       "area": "Chorlton",
-      "vibe": "Your local independent \u2014 brunch to dinner dining with locally brewed beers and cocktails. Family-owned in Chorlton since 2016.",
+      "vibe": "Your local independent — brunch to dinner dining with locally brewed beers and cocktails. Family-owned in Chorlton since 2016.",
       "images": [
         {
           "url": "/assets/opt/dinner/mary-and-archie/01.webp",
@@ -2020,7 +2143,7 @@
       "id": "try-thai",
       "name": "Try Thai",
       "area": "Chinatown",
-      "vibe": "Authentic Thai restaurant on Faulkner Street in Manchester\u2019s Chinatown \u2014 a relaxing, unpretentious meal with outstanding atmosphere.",
+      "vibe": "Authentic Thai restaurant on Faulkner Street in Manchester’s Chinatown — a relaxing, unpretentious meal with outstanding atmosphere.",
       "images": [
         {
           "url": "/assets/opt/dinner/try-thai/01.webp",
@@ -2033,7 +2156,7 @@
       "id": "tariff-and-dale",
       "name": "Tariff & Dale",
       "area": "Northern Quarter",
-      "vibe": "Established 2015 \u2014 bar and restaurant on Tariff Street serving classic cocktails, British beers, modern British food from the grill and sourdough pizza from a wood oven.",
+      "vibe": "Established 2015 — bar and restaurant on Tariff Street serving classic cocktails, British beers, modern British food from the grill and sourdough pizza from a wood oven.",
       "images": [
         {
           "url": "/assets/opt/dinner/tariff-and-dale/01.webp",
@@ -2046,7 +2169,7 @@
       "id": "lead-station",
       "name": "The Lead Station",
       "area": "Chorlton",
-      "vibe": "A Chorlton institution since 1995 \u2014 restaurant and bar serving honest classic and innovative food and drink to fiercely loyal locals on Beech Road.",
+      "vibe": "A Chorlton institution since 1995 — restaurant and bar serving honest classic and innovative food and drink to fiercely loyal locals on Beech Road.",
       "images": [
         {
           "url": "/assets/opt/dinner/lead-station/01.webp",
@@ -2059,7 +2182,7 @@
       "id": "proloco",
       "name": "Proloco",
       "area": "Ancoats",
-      "vibe": "Seasonal plates, 18-inch pizza and ice cream \u2014 a restaurant built for sharing on Great Ancoats Street.",
+      "vibe": "Seasonal plates, 18-inch pizza and ice cream — a restaurant built for sharing on Great Ancoats Street.",
       "images": [
         {
           "url": "/assets/opt/dinner/proloco/01.webp",
@@ -2070,9 +2193,9 @@
     },
     {
       "id": "restaurant-orme",
-      "name": "Restaurant \u00d6rme",
+      "name": "Restaurant Örme",
       "area": "Urmston",
-      "vibe": "Modern British dining with a carefully crafted wine list, seasonal cocktails and local beers \u2014 soundtracked to indie rock and roll in Urmston.",
+      "vibe": "Modern British dining with a carefully crafted wine list, seasonal cocktails and local beers — soundtracked to indie rock and roll in Urmston.",
       "images": [
         {
           "url": "/assets/opt/dinner/restaurant-orme/01.webp",
@@ -2085,7 +2208,7 @@
       "id": "osma",
       "name": "Osma",
       "area": "City Centre",
-      "vibe": "Scandinavian neighbourhood bar and restaurant \u2014 taste experiences with a relaxed edge, showcasing local and seasonal produce. Currently in residence at Exhibition on Peter Street.",
+      "vibe": "Scandinavian neighbourhood bar and restaurant — taste experiences with a relaxed edge, showcasing local and seasonal produce. Currently in residence at Exhibition on Peter Street.",
       "images": [
         {
           "url": "/assets/opt/dinner/osma/01.webp",
@@ -2098,7 +2221,7 @@
       "id": "fold-bistro",
       "name": "Fold Bistro",
       "area": "Marple Bridge",
-      "vibe": "A friendly two AA Rosette neighbourhood bistro and bottle shop in the heart of Marple Bridge \u2014 delicious British seasonal sharing plates with multi-cultural influences and a touch of North West nostalgia.",
+      "vibe": "A friendly two AA Rosette neighbourhood bistro and bottle shop in the heart of Marple Bridge — delicious British seasonal sharing plates with multi-cultural influences and a touch of North West nostalgia.",
       "images": [
         {
           "url": "/assets/opt/dinner/fold-bistro/01.webp",
@@ -2111,7 +2234,7 @@
       "id": "the-badger",
       "name": "The Badger",
       "area": "City Centre",
-      "vibe": "Proper pub food and fine ales on Dale Street \u2014 walk-ins welcome where they can accommodate, and dogs most welcome.",
+      "vibe": "Proper pub food and fine ales on Dale Street — walk-ins welcome where they can accommodate, and dogs most welcome.",
       "images": [
         {
           "url": "/assets/opt/dinner/the-badger/01.webp",
@@ -2124,7 +2247,7 @@
       "id": "pip",
       "name": "Pip",
       "area": "City Centre",
-      "vibe": "Finding new ways to delight diners with unexpected flavours and thoughtful, sustainable cooking \u2014 Chef Mary-Ellen McTague brings a curious, creative spirit to every dish. Michelin Guide listed; Leading Restaurant of the Year at the 2025 This is Manchester Awards.",
+      "vibe": "Finding new ways to delight diners with unexpected flavours and thoughtful, sustainable cooking — Chef Mary-Ellen McTague brings a curious, creative spirit to every dish. Michelin Guide listed; Leading Restaurant of the Year at the 2025 This is Manchester Awards.",
       "images": [
         {
           "url": "/assets/opt/dinner/pip/01.webp",
@@ -2137,7 +2260,7 @@
       "id": "peter-street-kitchen",
       "name": "Peter Street Kitchen",
       "area": "City Centre",
-      "vibe": "Japanese and Mexican restaurant at the Kimpton Clocktower \u2014 dining, omakase tasting menu and Japanese whisky masterclasses.",
+      "vibe": "Japanese and Mexican restaurant at the Kimpton Clocktower — dining, omakase tasting menu and Japanese whisky masterclasses.",
       "images": [
         {
           "url": "/assets/opt/dinner/peter-street-kitchen/01.webp",
@@ -2150,7 +2273,7 @@
       "id": "fenix",
       "name": "Fenix",
       "area": "Spinningfields",
-      "vibe": "Hedonist haven of refined Greek-Mediterranean cuisine \u2014 signature cocktails, Champagne and Greek wines, with late-night plate-smashing energy in Spinningfields.",
+      "vibe": "Hedonist haven of refined Greek-Mediterranean cuisine — signature cocktails, Champagne and Greek wines, with late-night plate-smashing energy in Spinningfields.",
       "images": [
         {
           "url": "/assets/opt/dinner/fenix/01.webp",
@@ -2163,7 +2286,7 @@
       "id": "namaste-nepal",
       "name": "Namaste Nepal",
       "area": "West Didsbury",
-      "vibe": "Nepalese and Indian restaurant on Burton Road \u2014 fresh herbs and Asian spices, mouth-watering appetisers, authentic traditional curries and vegetarian dishes in a refurbished dining room.",
+      "vibe": "Nepalese and Indian restaurant on Burton Road — fresh herbs and Asian spices, mouth-watering appetisers, authentic traditional curries and vegetarian dishes in a refurbished dining room.",
       "images": [
         {
           "url": "/assets/opt/dinner/namaste-nepal/01.webp",
@@ -2176,7 +2299,7 @@
       "id": "lock-84",
       "name": "Lock 84",
       "area": "Piccadilly Basin",
-      "vibe": "Set beside the Rochdale Canal \u2014 beautifully crafted seasonal dishes showcasing Manchester's finest suppliers, with all-day dining and an evening menu that evolves regularly.",
+      "vibe": "Set beside the Rochdale Canal — beautifully crafted seasonal dishes showcasing Manchester's finest suppliers, with all-day dining and an evening menu that evolves regularly.",
       "images": [
         {
           "url": "/assets/opt/dinner/lock-84/01.webp",
@@ -2187,9 +2310,9 @@
     },
     {
       "id": "sante",
-      "name": "Sant\u00e9",
+      "name": "Santé",
       "area": "West Didsbury",
-      "vibe": "A taste of the Amalfi coast on Burton Road \u2014 Mediterranean-inspired brunch, small plates, sharing boards, cocktails and European beers in a laid-back dog-friendly venue.",
+      "vibe": "A taste of the Amalfi coast on Burton Road — Mediterranean-inspired brunch, small plates, sharing boards, cocktails and European beers in a laid-back dog-friendly venue.",
       "images": [
         {
           "url": "/assets/opt/dinner/sante/01.webp",
@@ -2202,7 +2325,7 @@
       "id": "jasmine",
       "name": "Jasmine",
       "area": "Chorlton",
-      "vibe": "Halal Lebanese and Middle Eastern restaurant in Chorlton \u2014 mezze spreads, celebratory dinners and a warm welcome for leisurely sharing.",
+      "vibe": "Halal Lebanese and Middle Eastern restaurant in Chorlton — mezze spreads, celebratory dinners and a warm welcome for leisurely sharing.",
       "images": [
         {
           "url": "/assets/opt/dinner/jasmine/01.webp",
@@ -2215,7 +2338,7 @@
       "id": "chez-nous",
       "name": "Chez Nous Bistro",
       "area": "Sale",
-      "vibe": "Modern British cuisine in Sale \u2014 set menus midweek and carefully plated seasonal dishes in a neighbourhood bistro setting.",
+      "vibe": "Modern British cuisine in Sale — set menus midweek and carefully plated seasonal dishes in a neighbourhood bistro setting.",
       "images": [
         {
           "url": "/assets/opt/dinner/chez-nous/01.webp",
@@ -2228,7 +2351,7 @@
       "id": "bella-vita",
       "name": "Bella Vita Trattoria",
       "area": "Didsbury",
-      "vibe": "Delicious food and a wonderful eating experience \u2014 we serve food, harmony and laughter since 2020.",
+      "vibe": "Delicious food and a wonderful eating experience — we serve food, harmony and laughter since 2020.",
       "images": [
         {
           "url": "/assets/opt/dinner/bella-vita/01.webp",
@@ -2241,7 +2364,7 @@
       "id": "babbo",
       "name": "Babbo Cucina",
       "area": "Prestwich",
-      "vibe": "Authentic family-run Italian restaurant in the heart of Prestwich \u2014 contemporary, stylish, freshly cooked Italian dishes and wines.",
+      "vibe": "Authentic family-run Italian restaurant in the heart of Prestwich — contemporary, stylish, freshly cooked Italian dishes and wines.",
       "images": [
         {
           "url": "/assets/opt/dinner/babbo/01.webp",
@@ -2254,7 +2377,7 @@
       "id": "chakalaka",
       "name": "Chakalaka",
       "area": "Northern Quarter",
-      "vibe": "From our South African bar and kitchen to the Northern Quarter \u2014 a true taste of the Cape, with specialities imported and traditional delicacies made for us nearby or in house.",
+      "vibe": "From our South African bar and kitchen to the Northern Quarter — a true taste of the Cape, with specialities imported and traditional delicacies made for us nearby or in house.",
       "images": [
         {
           "url": "/assets/opt/dinner/chakalaka/01.webp",
@@ -2267,7 +2390,7 @@
       "id": "the-boathouse",
       "name": "The Boathouse",
       "area": "Sale",
-      "vibe": "Lakeside dining in Sale with panoramic views across Sale Water Park \u2014 the most unique restaurant location in Sale and one of the most picturesque in Manchester.",
+      "vibe": "Lakeside dining in Sale with panoramic views across Sale Water Park — the most unique restaurant location in Sale and one of the most picturesque in Manchester.",
       "images": [
         {
           "url": "/assets/opt/dinner/the-boathouse/01.webp",
@@ -2280,7 +2403,7 @@
       "id": "doms-italia",
       "name": "Dom's Italia",
       "area": "Deansgate",
-      "vibe": "Dom's Italia brings authentic Italian food to the heart of Manchester city centre \u2014 a passion for food.",
+      "vibe": "Dom's Italia brings authentic Italian food to the heart of Manchester city centre — a passion for food.",
       "images": [
         {
           "url": "/assets/opt/dinner/doms-italia/01.webp",
@@ -2293,7 +2416,7 @@
       "id": "a-plus",
       "name": "A Plus Oriental Restaurant",
       "area": "Chinatown",
-      "vibe": "\u8001\u5730\u65b9\u5927\u9152\u6a13 in Manchester Chinatown \u2014 authentic Cantonese dining with signature roast meats, handmade dim sum and private KTV rooms.",
+      "vibe": "老地方大酒樓 in Manchester Chinatown — authentic Cantonese dining with signature roast meats, handmade dim sum and private KTV rooms.",
       "images": [
         {
           "url": "/assets/opt/dinner/a-plus/01.webp",
@@ -2306,7 +2429,7 @@
       "id": "fizz",
       "name": "Fizz",
       "area": "Disley",
-      "vibe": "A Taste of the Mediterranean in the heart of Disley \u2014 rustic yet refined dining inspired by sun-soaked coastlines and vibrant Mediterranean flavours.",
+      "vibe": "A Taste of the Mediterranean in the heart of Disley — rustic yet refined dining inspired by sun-soaked coastlines and vibrant Mediterranean flavours.",
       "images": [
         {
           "url": "/assets/opt/dinner/fizz/01.webp",
@@ -2319,7 +2442,7 @@
       "id": "bellinis",
       "name": "Bellini's",
       "area": "Cheadle",
-      "vibe": "Homemade pasta made in-house by the family \u2014 pizza, fresh seafood, meat and fish in Cheadle.",
+      "vibe": "Homemade pasta made in-house by the family — pizza, fresh seafood, meat and fish in Cheadle.",
       "images": [
         {
           "url": "/assets/opt/dinner/bellinis/01.webp",
@@ -2332,7 +2455,7 @@
       "id": "the-pearl",
       "name": "The Pearl",
       "area": "Audenshaw",
-      "vibe": "Best Indian restaurant in Audenshaw \u2014 authentic flavours and exceptional service.",
+      "vibe": "Best Indian restaurant in Audenshaw — authentic flavours and exceptional service.",
       "images": [
         {
           "url": "/assets/opt/dinner/the-pearl/01.webp",
@@ -2358,7 +2481,7 @@
       "id": "dishoom",
       "name": "Dishoom",
       "area": "Bridge Street",
-      "vibe": "Bombay caf\u00e9 in the old Freemasons\u2019 Hall. Stained glass, bacon naan rolls, house black daal \u2014 walk in for breakfast or a late feast; most tables stay unreserved.",
+      "vibe": "Bombay café in the old Freemasons’ Hall. Stained glass, bacon naan rolls, house black daal — walk in for breakfast or a late feast; most tables stay unreserved.",
       "images": [
         {
           "url": "/assets/opt/dinner/dishoom/01.webp",
@@ -2382,7 +2505,7 @@
       "id": "mana",
       "name": "Mana",
       "area": "Ancoats",
-      "vibe": "Avant-garde British fine dining in Ancoats; Manchester\u2019s first Michelin star since 1977 when awarded in 2019.",
+      "vibe": "Avant-garde British fine dining in Ancoats; Manchester’s first Michelin star since 1977 when awarded in 2019.",
       "images": [
         {
           "url": "/assets/opt/dinner/mana/01.webp",
@@ -2406,7 +2529,7 @@
       "id": "rudy-s-pizza",
       "name": "Rudy's Pizza",
       "area": "Ancoats",
-      "vibe": "The first Rudy\u2019s. Neapolitan dough fermented up to 24 hours, San Marzano and fior di latte, fired hot on Cotton Street \u2014 where the chain began.",
+      "vibe": "The first Rudy’s. Neapolitan dough fermented up to 24 hours, San Marzano and fior di latte, fired hot on Cotton Street — where the chain began.",
       "images": [
         {
           "url": "/assets/opt/dinner/rudy-s-pizza/01.webp",
@@ -2430,7 +2553,7 @@
       "id": "bundobust",
       "name": "Bundobust",
       "area": "Piccadilly",
-      "vibe": "Indian street food and craft beer at communal tables \u2014 a canteen-taproom hybrid, open late. Manchester has this Piccadilly hall plus a separate brewery.",
+      "vibe": "Indian street food and craft beer at communal tables — a canteen-taproom hybrid, open late. Manchester has this Piccadilly hall plus a separate brewery.",
       "images": [
         {
           "url": "/assets/opt/dinner/bundobust/01.webp",
@@ -2454,7 +2577,7 @@
       "id": "sams-chop-house",
       "name": "Sam's Chop House",
       "area": "City Centre",
-      "vibe": "Established in 1868 by Samuel Studd \u2014 for over 150 years serving the heart of Manchester with the very best of British food and drink, still an independent family business.",
+      "vibe": "Established in 1868 by Samuel Studd — for over 150 years serving the heart of Manchester with the very best of British food and drink, still an independent family business.",
       "images": [
         {
           "url": "/assets/opt/dinner/sams-chop-house/01.webp",
@@ -2467,7 +2590,7 @@
       "id": "evuna",
       "name": "Evuna",
       "area": "Northern Quarter",
-      "vibe": "Fresh tapas and Spanish wine in the Northern Quarter \u2014 authentic Spanish tapas, boutique wine and relaxed dining on Thomas Street since 2005.",
+      "vibe": "Fresh tapas and Spanish wine in the Northern Quarter — authentic Spanish tapas, boutique wine and relaxed dining on Thomas Street since 2005.",
       "images": [
         {
           "url": "/assets/opt/dinner/evuna/01.webp",
@@ -2480,7 +2603,7 @@
       "id": "elnecot",
       "name": "Elnecot",
       "area": "Ancoats",
-      "vibe": "Ancoats neighbourhood bar and kitchen beside Cutting Room Square \u2014 seasonal small plates, brunch, Sunday roasts and drinks in a charming setting.",
+      "vibe": "Ancoats neighbourhood bar and kitchen beside Cutting Room Square — seasonal small plates, brunch, Sunday roasts and drinks in a charming setting.",
       "images": [
         {
           "url": "/assets/opt/dinner/elnecot/01.webp",
@@ -2493,7 +2616,7 @@
       "id": "10-tib-lane",
       "name": "10 Tib Lane",
       "area": "City Centre",
-      "vibe": "Cocktail bar and restaurant in the heart of Manchester \u2014 seasonal sharing-style dishes using fresh locally sourced ingredients with natural wines.",
+      "vibe": "Cocktail bar and restaurant in the heart of Manchester — seasonal sharing-style dishes using fresh locally sourced ingredients with natural wines.",
       "images": [
         {
           "url": "/assets/opt/dinner/10-tib-lane/01.webp",
@@ -2506,7 +2629,7 @@
       "id": "el-gato-negro",
       "name": "El Gato Negro",
       "area": "King Street",
-      "vibe": "Award-winning tapas in a beautifully restored three-storey townhouse \u2014 seasonally-influenced small plates combining modern and traditional Spanish flavours.",
+      "vibe": "Award-winning tapas in a beautifully restored three-storey townhouse — seasonally-influenced small plates combining modern and traditional Spanish flavours.",
       "images": [
         {
           "url": "/assets/opt/dinner/el-gato-negro/01.webp",
@@ -2514,6 +2637,101 @@
         }
       ],
       "website": "https://www.elgatonegrotapas.com/"
+    },
+    {
+      "id": "australasia",
+      "name": "Australasia",
+      "area": "Spinningfields",
+      "vibe": "A completely reimagined subterranean dining room — bold flavours, a global inspired menu and an electric new energy where music, food and atmosphere come together.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/australasia/01.webp",
+          "alt": "Australasia Spinningfields sharing plates and cocktails"
+        }
+      ],
+      "website": "https://www.australasiamcr.co.uk/",
+      "instagram": "https://www.instagram.com/australasia_mcr/"
+    },
+    {
+      "id": "campo",
+      "name": "Campo",
+      "area": "Whitefield",
+      "vibe": "Tapas and Mediterranean delights in North Manchester — chefs prepare every dish in-house from fresh seasonal produce and carefully sourced Spanish ingredients, with a lively main room and private Campito events space.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/campo/01.webp",
+          "alt": "Campo Whitefield tapas table with branded coasters"
+        }
+      ],
+      "website": "https://campotapasbar.com/",
+      "instagram": "https://www.instagram.com/campotapasbar/"
+    },
+    {
+      "id": "deanos",
+      "name": "Deano's",
+      "area": "Northern Quarter",
+      "vibe": "Manchester's home of bold Italian-American flavours in the Northern Quarter — deep-dish pizzas, fresh pasta and loaded parmos in a moody, warm space made for good times.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/deanos/01.webp",
+          "alt": "Deano's Northern Quarter Italian-American shared plates"
+        }
+      ],
+      "website": "https://www.deanosrestaurant.com/",
+      "instagram": "https://www.instagram.com/deanosrestaurant/"
+    },
+    {
+      "id": "koreana",
+      "name": "Koreana",
+      "area": "City Centre",
+      "vibe": "Authentic Korean restaurant in Manchester city centre — the first Korean restaurant outside London since 1985, serving diverse sesame, ginger, chilli, garlic and soy flavours.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/koreana/01.webp",
+          "alt": "Koreana King Street West dining room interior"
+        }
+      ],
+      "website": "https://www.koreana.co.uk/"
+    },
+    {
+      "id": "d-grand-haveli",
+      "name": "D'Grand Haveli",
+      "area": "Irlam",
+      "vibe": "Irlam's most decadent Indian restaurant and bar — traditional Indian flavours in a regal setting, each dish with its own identity.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/d-grand-haveli/01.webp",
+          "alt": "D'Grand Haveli curry bowl presentation"
+        }
+      ],
+      "website": "https://www.dgrandhaveli.co.uk/"
+    },
+    {
+      "id": "petisco",
+      "name": "Petisco",
+      "area": "Sale",
+      "vibe": "Inspired by neighbourhood bars of Portugal — a relaxed casual vibe for petiscos (Portuguese small plates) with Portuguese and continental wines, beers and spirits.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/petisco/01.webp",
+          "alt": "Petisco Sale bar and dining room with hanging plants"
+        }
+      ],
+      "website": "https://petisco.co.uk/",
+      "instagram": "https://www.instagram.com/petiscosale/"
+    },
+    {
+      "id": "pastiche",
+      "name": "Pastiche",
+      "area": "Knutsford",
+      "vibe": "Knutsford's longest-serving restaurant, family-run since 2001 — Mediterranean cuisine from pizzas and pasta to tapas and à la carte in a friendly, relaxed setting.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/pastiche/01.webp",
+          "alt": "Pastiche Knutsford Mediterranean dish"
+        }
+      ],
+      "website": "https://www.pasticherestaurant.co.uk/"
     }
   ],
   "dance": [
@@ -2590,7 +2808,7 @@
       "id": "night-and-day-cafe",
       "name": "Night and Day Cafe",
       "area": "Northern Quarter",
-      "vibe": "Northern Quarter live music caf\u00e9 and late venue.",
+      "vibe": "Northern Quarter live music café and late venue.",
       "images": [
         {
           "url": "/assets/opt/dance/night-and-day-cafe/01.webp",
@@ -2631,7 +2849,7 @@
       "id": "new-century-hall",
       "name": "New Century Hall",
       "area": "NOMA",
-      "vibe": "Iconic music venue, bar and kitchen at 34 Hanover Street \u2014 live gigs plus the new Locker club space under New Century Manchester.",
+      "vibe": "Iconic music venue, bar and kitchen at 34 Hanover Street — live gigs plus the new Locker club space under New Century Manchester.",
       "images": [
         {
           "url": "/assets/opt/dance/new-century-hall/01.webp",
@@ -2644,7 +2862,7 @@
       "id": "the-fitzgerald",
       "name": "The Fitzgerald",
       "area": "Northern Quarter",
-      "vibe": "Hidden Stevenson Square speakeasy \u2014 dark moody interior, cocktails and live jazz, blues and soul into the early hours.",
+      "vibe": "Hidden Stevenson Square speakeasy — dark moody interior, cocktails and live jazz, blues and soul into the early hours.",
       "images": [
         {
           "url": "/assets/opt/dance/the-fitzgerald/01.webp",
@@ -2657,7 +2875,7 @@
       "id": "star-and-garter",
       "name": "Star & Garter",
       "area": "Fairfield Street",
-      "vibe": "Pub and live music venue hire by Piccadilly \u2014 independent Fairfield Street spot hosting gigs.",
+      "vibe": "Pub and live music venue hire by Piccadilly — independent Fairfield Street spot hosting gigs.",
       "images": [
         {
           "url": "/assets/opt/dance/star-and-garter/01.webp",
@@ -2670,7 +2888,7 @@
       "id": "the-deaf-institute",
       "name": "The Deaf Institute",
       "area": "Oxford Road",
-      "vibe": "Independent Oxford Road venue across three floors \u2014 Music Hall, Lodge and Den \u2014 plus an outdoor terrace, hosting live music and late club nights in a historic 1878 building.",
+      "vibe": "Independent Oxford Road venue across three floors — Music Hall, Lodge and Den — plus an outdoor terrace, hosting live music and late club nights in a historic 1878 building.",
       "images": [
         {
           "url": "/assets/opt/dance/the-deaf-institute/01.webp",
@@ -2762,7 +2980,7 @@
       "id": "hidden",
       "name": "Hidden",
       "area": "Cheetham Hill",
-      "vibe": "DJ Mag Best Club 2024 \u2014 underground clubbing at Downtex Mill with regular events, live music and electronic programming in a bohemian warehouse setting.",
+      "vibe": "DJ Mag Best Club 2024 — underground clubbing at Downtex Mill with regular events, live music and electronic programming in a bohemian warehouse setting.",
       "images": [
         {
           "url": "/assets/opt/dance/hidden/01.webp",
@@ -2775,7 +2993,7 @@
       "id": "joshua-brooks",
       "name": "Joshua Brooks",
       "area": "City Centre",
-      "vibe": "Award-winning multi-purpose venue on Princess Street \u2014 over three decades of underground dance music history with a Void sound system and basement club nights.",
+      "vibe": "Award-winning multi-purpose venue on Princess Street — over three decades of underground dance music history with a Void sound system and basement club nights.",
       "images": [
         {
           "url": "/assets/opt/dance/joshua-brooks/01.webp",
@@ -2788,7 +3006,7 @@
       "id": "soup",
       "name": "SOUP",
       "area": "Northern Quarter",
-      "vibe": "Multi-award-winning canteen, bar and music venue on Spear Street \u2014 forward-thinking music and arts events on two floors in the heart of the Northern Quarter.",
+      "vibe": "Multi-award-winning canteen, bar and music venue on Spear Street — forward-thinking music and arts events on two floors in the heart of the Northern Quarter.",
       "images": [
         {
           "url": "/assets/opt/dance/soup/01.webp",
@@ -2796,6 +3014,61 @@
         }
       ],
       "website": "https://soupmanchester.com/"
+    },
+    {
+      "id": "cruz-101",
+      "name": "Cruz 101",
+      "area": "Gay Village",
+      "vibe": "Manchester's gay nightclub on Princess Street since 1992 — two floors in a converted Victorian warehouse, pop upstairs and house in Sub 101 until the sun's up.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/cruz-101/01.webp",
+          "alt": "Cruz 101 Princess Street arched entrance with pride flags"
+        }
+      ],
+      "website": "https://www.cruz101.com/",
+      "instagram": "https://www.instagram.com/cruz101/"
+    },
+    {
+      "id": "rebellion",
+      "name": "Rebellion",
+      "area": "City Centre",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/rebellion/01.webp",
+          "alt": "Crowd at Rebellion Manchester under spotlights"
+        }
+      ],
+      "website": "https://www.rebellion.club/",
+      "instagram": "https://www.instagram.com/rebellionmanchester/"
+    },
+    {
+      "id": "idra",
+      "name": "IDRA",
+      "area": "Ancoats",
+      "vibe": "Industrial grade events, club, arts and culture — breathing life into one of Manchester's industrial labyrinths in a former machineworks, with The Foundry, Machine 32 and Bunker spaces.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/idra/01.webp",
+          "alt": "IDRA club DJ booth and packed dancefloor"
+        }
+      ],
+      "website": "https://idra.club/",
+      "instagram": "https://www.instagram.com/idra.club/"
+    },
+    {
+      "id": "42s",
+      "name": "42's",
+      "area": "City Centre",
+      "vibe": "",
+      "images": [
+        {
+          "url": "/assets/opt/dance/42s/01.webp",
+          "alt": "Crowd dancing at 42's Manchester"
+        }
+      ],
+      "website": "https://www.42sclub.com/"
     }
   ]
 }
