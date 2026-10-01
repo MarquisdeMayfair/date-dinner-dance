@@ -2662,19 +2662,6 @@
       "website": "https://www.trof.co.uk/"
     },
     {
-      "id": "tnq",
-      "name": "TNQ",
-      "area": "Northern Quarter",
-      "vibe": "Friendly independent neighbourhood restaurant and bar in the heart of the Northern Quarter.",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/tnq/01.webp",
-          "alt": "TNQ Restaurant and Bar exterior on High Street Northern Quarter"
-        }
-      ],
-      "website": "https://www.tnq.co.uk/"
-    },
-    {
       "id": "try-thai",
       "name": "Try Thai",
       "area": "Chinatown",
@@ -2883,7 +2870,7 @@
       "id": "star-and-garter",
       "name": "Star & Garter",
       "area": "Fairfield Street",
-      "vibe": "Pub and live music venue hire by Piccadilly \u2014 independent Fairfield Street spot hosting gigs.",
+      "vibe": "Only open for raves and film hire.",
       "images": [
         {
           "url": "/assets/opt/dance/star-and-garter/01.webp",
