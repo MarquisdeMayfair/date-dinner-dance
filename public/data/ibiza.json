@@ -1532,8 +1532,8 @@
       "images": [
         {
           "url": "/assets/opt/dinner/bambuddha/01.webp",
-          "alt": "Bambuddha terrace at night",
-          "remote_url": "https://cdn.cms.boooooooooost.com/cmr0n48190000j90a8saxash2/uploads/1782826743830-lhshtih05ep.webp"
+          "alt": "Bambuddha Ibiza",
+          "remote_url": "https://cdn.cms.boooooooooost.com/cmr0n48190000j90a8saxash2/uploads/1782827620829-l9jcwf4nwg8.webp"
         },
         {
           "url": "https://cdn.cms.boooooooooost.com/cmr0n48190000j90a8saxash2/sections/1782825753630-67f214nzw1a.webp",
@@ -1608,8 +1608,8 @@
       "images": [
         {
           "url": "/assets/opt/dinner/casa-jondal/01.webp",
-          "alt": "Casa Jondal — plated dinner (Pexels)",
-          "remote_url": "https://www.pexels.com/photo/262978/"
+          "alt": "Casa Jondal Ibiza",
+          "remote_url": "https://c-p.rmcdn.net/5d57db5b612c9b58cc12ed39/1991492/Screenshot-85ab5d9c-973e-4218-91be-c05365c57be0_readyscr_1024.jpg"
         }
       ],
       "website": "https://www.casajondal.es/",
@@ -3011,6 +3011,77 @@
         }
       ],
       "website": "https://destinosanjose.es/"
+    },
+    {
+      "id": "estel",
+      "name": "Estel",
+      "area": "Santa Eulària",
+      "vibe": "Signature cuisine with traditional recipes on the Santa Eulalia seafront — terrace with views of the stars and the sea.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/estel/01.webp",
+          "alt": "Estel seafront terrace dining table overlooking Santa Eulalia bay",
+          "remote_url": "https://estelibiza.com/images/Recursos/hero-estel.jpg"
+        }
+      ],
+      "website": "https://estelibiza.com/en/"
+    },
+    {
+      "id": "tantan",
+      "name": "Tantán",
+      "area": "Es Canar",
+      "vibe": "Mediterranean sharing plates in an open patio — long dinners, late sobremesas, open to guests and non-guests.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/tantan/01.webp",
+          "alt": "Tantán patio at Ibara with wooden tables, cactus and whitewashed arches",
+          "remote_url": "https://ibaraibiza.com/tantan-patio-hero.jpg"
+        }
+      ],
+      "website": "https://www.tantanibiza.com/"
+    },
+    {
+      "id": "la-cantina-san-carlos",
+      "name": "La Cantina de San Carlos",
+      "area": "Sant Carles",
+      "vibe": "Wood-fire and clay-oven Mediterranean cooking in San Carlos — unhurried plates around real fire.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/la-cantina-san-carlos/01.webp",
+          "alt": "La Cantina de San Carlos pergola terrace overlooking olive trees and countryside",
+          "remote_url": "https://www.lacantinasancarlosibiza.com/images/venue-terrace.jpg"
+        }
+      ],
+      "website": "https://www.lacantinasancarlosibiza.com/es",
+      "instagram": "https://www.instagram.com/lacantinadesancarlos/"
+    },
+    {
+      "id": "natural-pau",
+      "name": "Natural Pau",
+      "area": "Sant Antoni",
+      "vibe": "Flexitarian oasis with a lush garden — family-friendly, calm, and welcoming.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/natural-pau/01.webp",
+          "alt": "Natural Pau swing-seat bar under wooden beams in the garden terrace",
+          "remote_url": "https://naturalpau.com/wp-content/uploads/2024/04/natural-pau-columpios.jpg"
+        }
+      ],
+      "website": "https://naturalpau.com/"
+    },
+    {
+      "id": "al-ayoun-sunset",
+      "name": "Al Ayoun Sunset",
+      "area": "Sant Antoni",
+      "vibe": "Arabic-Mediterranean fusion on San Antonio's famous sunset strip — front-row sunset dining with no minimum spend.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/al-ayoun-sunset/01.webp",
+          "alt": "Al Ayoun Sunset terrace with pool, thatched umbrellas and San Antonio bay at dusk",
+          "remote_url": "https://static.wixstatic.com/media/fbf7ab_c7124028e08c4f559b64071fde98c724~mv2.jpg"
+        }
+      ],
+      "website": "https://www.alayounsunsetibiza.com/"
     }
   ],
   "dance": [
@@ -3138,8 +3209,8 @@
       "images": [
         {
           "url": "/assets/opt/dance/chinois-ibiza/01.webp",
-          "alt": "Chinois Ibiza dancefloor",
-          "remote_url": "https://chinois.com/wp-content/uploads/2025/07/Mario_Pinta_Chinois_IMS_PacoOsuna_25.04.2025-60.jpg"
+          "alt": "Chinois Ibiza club",
+          "remote_url": "https://chinois.com/wp-content/uploads/2026/03/16x9_banner1.jpg"
         },
         {
           "url": "https://chinois.com/wp-content/uploads/2025/07/Mario_Pinta_Chinois_IMS_PacoOsuna_25.04.2025-60.jpg",
@@ -3198,8 +3269,8 @@
       "images": [
         {
           "url": "/assets/opt/dance/es-paradis/01.webp",
-          "alt": "Es Paradis, San Antonio (Wikimedia Commons, CC BY 2.0)",
-          "remote_url": "https://commons.wikimedia.org/wiki/File:Es_Paradis_Nightclub_Ibiza_2011.jpg"
+          "alt": "Es Paradis Ibiza",
+          "remote_url": "https://www.esparadis.com/wp-content/uploads/2026/05/the-most-beautiful-WEB-819x1024.jpg"
         },
         {
           "url": "https://www.esparadis.com/wp-content/uploads/2026/04/WaterParty2026-726x1024.jpg",
@@ -3318,8 +3389,8 @@
       "images": [
         {
           "url": "/assets/opt/dance/o-beach-ibiza/01.webp",
-          "alt": "O Beach Ibiza pool (Wikimedia Commons, CC BY 4.0)",
-          "remote_url": "https://commons.wikimedia.org/wiki/File:O_Beach_Ibiza.jpg"
+          "alt": "O Beach Ibiza",
+          "remote_url": "https://obeachibiza.com/wp-content/uploads/2018/10/ob-og-image.png"
         },
         {
           "url": "https://obeachibiza.com/wp-content/uploads/2024/04/ROMU1287-Editar-aspect-ratio-6-7.jpg",
@@ -3438,8 +3509,8 @@
       "images": [
         {
           "url": "/assets/opt/dance/ushuaïa-ibiza/01.webp",
-          "alt": "Ushuaïa Ibiza pool (Wikimedia Commons, CC BY 2.0)",
-          "remote_url": "https://commons.wikimedia.org/wiki/File:Ushuaïa_Ibiza_Beach_Hotel_Pool.jpg"
+          "alt": "Ushuaïa Ibiza",
+          "remote_url": "https://assets.ushuaiaibiza.com/3a2d29af-b52c-4737-a144-f5bfa5c54d12-20261010-ants-closing-party-square-1080x1080.jpg"
         },
         {
           "url": "https://assets.ushuaiaibiza.com/57865b5c-e019-4fa7-8c19-fbeff9ce04b8-2026-ui-martingarrix-launch-square-1080x1080px.webp",
