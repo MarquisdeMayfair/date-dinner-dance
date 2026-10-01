@@ -243,9 +243,9 @@
       "instagram": "https://www.instagram.com/whitneymuseum/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.  Image audit 2026-09-29: replaced bad card (Pop-art hot-dog graphic, not a photo of the museum.) with commons photo.",
         "sources": [
           "https://whitney.org/",
           "https://whitneymedia.org/assets/image/833889/large_Original.jpg"
@@ -411,9 +411,9 @@
       "instagram": "https://www.instagram.com/frickcollection/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Rescued photo via Wikimedia Commons 2026-09-21. https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Wooden_gate_with_open_double_door_leading_to_the_garden_of_Isshinin_Buddhist_temple_in_the_compounds_of_Chion-in_Kyoto_Japan.jpg/1920px-Wooden_gate_with_open_double_door_leading_to_the_garden_of_Isshinin_Buddhist_temple_in_the_compounds_of_Chion-in_Kyoto_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+        "notes": "Rescued photo via Wikimedia Commons 2026-09-21. https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Wooden_gate_with_open_double_door_leading_to_the_garden_of_Isshinin_Buddhist_temple_in_the_compounds_of_Chion-in_Kyoto_Japan.jpg/1920px-Wooden_gate_with_open_double_door_leading_to_the_garden_of_Isshinin_Buddhist_temple_in_the_compounds_of_Chion-in_Kyoto_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail  Image audit 2026-09-29: replaced bad card (Wrong-subject Commons file (Kyoto temple garden), not the Frick.) with commons photo.",
         "sources": [
           "https://www.frick.org/",
           "https://www.frick.org/sites/default/files/styles/responsive_1200w/public/card/2020/rembrandt-1500x1001.jpg.webp?itok=5NjeB3JT",
@@ -726,9 +726,9 @@
       "instagram": "https://www.instagram.com/coneyislandusa/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.  Image audit 2026-09-29: replaced bad card (Event flyer dominated by text.) with commons photo.",
         "sources": [
           "https://www.coneyisland.com/",
           "https://images.squarespace-cdn.com/content/v1/624e265c7aec572259a95c09/1788225004284-2BROKBSZB4OZGDS1VN08/1000101425.png"
@@ -1051,9 +1051,9 @@
       "website": "https://asiasociety.org/new-york",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch2 2026-09-21. Official carousel photo. Official site verified.",
+        "notes": "Batch2 2026-09-21. Official carousel photo. Official site verified.  Image audit 2026-09-29: replaced bad card (Logo collage, not a single photograph.) with commons photo.",
         "sources": [
           "https://asiasociety.org/new-york",
           "https://asiasociety.org/sites/default/files/styles/1920x880/public/2026-02/70Years_2880x1320px_globalcarousel.jpg"
@@ -1235,9 +1235,9 @@
       "website": "https://movingimage.us/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch3 2026-09-21. Official social/og. Official site verified.",
+        "notes": "Batch3 2026-09-21. Official social/og. Official site verified.  Image audit 2026-09-29: replaced bad card (Text logo card (MUSEUM OF THE MOVING IMAGE).) with commons photo.",
         "sources": [
           "https://movingimage.us/",
           "https://movingimage.org/wp-content/uploads/2021/04/momi_socialb4.jpg"
@@ -1764,9 +1764,9 @@
       "website": "https://southstreetseaportmuseum.org/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.  Image audit 2026-09-29: replaced bad card (Green-tinted Harper's Weekly engraving, not a photograph of the museum.) with commons photo.",
         "sources": [
           "https://southstreetseaportmuseum.org/",
           "https://southstreetseaportmuseum.org/wp-content/uploads/2026/05/POL_digitalimages_20260420_v5_4to5-819x1024.jpg"
@@ -1856,9 +1856,9 @@
       "website": "https://saintpatrickscathedral.org/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.  Image audit 2026-09-29: replaced bad card (Portrait of a cleric, not a photo of the cathedral.) with commons photo.",
         "sources": [
           "https://saintpatrickscathedral.org/",
           "https://files.ecatholic.com/6783/pictures/2026/2/Photo%201.jpg?t=1770436819000"
@@ -2063,9 +2063,9 @@
       "website": "https://merchantshouse.org/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.  Image audit 2026-09-29: replaced bad card (Text graphic card (SAVE THE LANDMARK).) with commons photo.",
         "sources": [
           "https://merchantshouse.org/",
           "https://merchantshouse.org/wp-content/uploads/2026/03/Website-Cover-Touhey-Passage.jpg"
@@ -2178,9 +2178,9 @@
       "website": "https://www.fdrfourfreedomspark.org/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.  Image audit 2026-09-29: replaced bad card (Photograph covered by a large conservancy text overlay/watermark.) with commons photo.",
         "sources": [
           "https://www.fdrfourfreedomspark.org/",
           "https://www.fdrfourfreedomspark.org/wp-content/uploads/2021/11/FFPC-Social-Image-1024x538.jpg"
@@ -2247,9 +2247,9 @@
       "website": "https://dyckmanfarmhouse.org/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.  Image audit 2026-09-29: replaced bad card (Tour-schedule flyer dominated by text.) with commons photo.",
         "sources": [
           "https://dyckmanfarmhouse.org/",
           "https://dyckmanfarmhouse.org/wp-content/uploads/2026/08/July-Sept.jpg"
@@ -2448,6 +2448,160 @@
         ]
       },
       "instagram_followers": 200000
+    },
+    {
+      "id": "brooklyn-public-library-central",
+      "name": "Brooklyn Public Library Central",
+      "area": "Prospect Heights",
+      "vibe": "The limestone Art Deco book at Grand Army Plaza — gold entrance, Dweck Cultural Center, stacks that feel like a civic living room.",
+      "images": [
+        {
+          "url": "/assets/opt/date/brooklyn-public-library-central/01.webp",
+          "alt": "Brooklyn Public Library Central"
+        }
+      ],
+      "website": "https://www.bklynlibrary.org/locations/central",
+      "instagram": "https://www.instagram.com/bklynlibrary/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-30",
+        "image_ok": true,
+        "notes": "Daily 2026-09-30. Official BPL location page: open Mon–Thu 9–8, Fri–Sat 9–6, Sun 1–5; landmark Central Library with Dweck Cultural Center. Photo: Wikimedia Commons Central Library exterior.",
+        "sources": [
+          "https://www.bklynlibrary.org/locations/central",
+          "https://commons.wikimedia.org/wiki/File:Brooklyn_Public_Library_-_Central_Library_(48292030712).jpg"
+        ]
+      },
+      "instagram_followers": 180000
+    },
+    {
+      "id": "flushing-town-hall",
+      "name": "Flushing Town Hall",
+      "area": "Flushing",
+      "vibe": "Queens’ 1862 town hall — jazz jams, mashup nights, gallery weekends in a red-brick landmark off Northern Boulevard.",
+      "images": [
+        {
+          "url": "/assets/opt/date/flushing-town-hall/01.webp",
+          "alt": "Flushing Town Hall"
+        }
+      ],
+      "website": "https://www.flushingtownhall.org/",
+      "instagram": "https://www.instagram.com/flushing_town_hall/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-30",
+        "image_ok": true,
+        "notes": "Daily 2026-09-30. Official flushingtownhall.org calendar active Sep–Oct 2026 (Artist Meetup, Global Mashup, Jazz Jam). Photo: Wikimedia Commons Flushing Town Hall facade.",
+        "sources": [
+          "https://www.flushingtownhall.org/",
+          "https://www.flushingtownhall.org/events",
+          "https://commons.wikimedia.org/wiki/File:Flushing_Town_hall_20181010_103552.jpg"
+        ]
+      },
+      "instagram_followers": 8000
+    },
+    {
+      "id": "sculpture-center",
+      "name": "SculptureCenter",
+      "area": "Long Island City",
+      "vibe": "Free LIC industrial warehouse for sculpture — rusted steel courtyard, brick shell, contemporary work without the ticket line.",
+      "images": [
+        {
+          "url": "/assets/opt/date/sculpture-center/01.webp",
+          "alt": "SculptureCenter"
+        }
+      ],
+      "website": "https://www.sculpture-center.org/",
+      "instagram": "https://www.instagram.com/sculpturecenter/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-30",
+        "image_ok": true,
+        "notes": "Daily 2026-09-30. Official visit page: free admission Thu–Mon 12–6; closed Tue–Wed; fall exhibitions open. Photo: official SculptureCenter site exterior.",
+        "sources": [
+          "https://www.sculpture-center.org/visit/93/admission-and-accessibility",
+          "https://www.sculpture-center.org/",
+          "https://www.sculpture-center.org/images/04_1441C_03B_1_3.jpg?w=2000"
+        ]
+      },
+      "instagram_followers": 45000
+    },
+    {
+      "id": "dia-chelsea",
+      "name": "Dia Chelsea",
+      "area": "Chelsea",
+      "vibe": "Free Chelsea warehouses for long-look contemporary art — brick shells, quiet galleries, no ticket line.",
+      "images": [
+        {
+          "url": "/assets/opt/date/dia-chelsea/01.webp",
+          "alt": "Dia Chelsea"
+        }
+      ],
+      "website": "https://diaart.org/visit/visit-our-locations-sites/dia-chelsea-new-york-united-states",
+      "instagram": "https://www.instagram.com/diaartfoundation/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-01",
+        "image_ok": true,
+        "notes": "Daily 2026-10-01. Official Dia Chelsea visit: Wed–Sat 12–6, free admission; closed Sun–Tue. Photo: official diaart.org Chelsea exterior.",
+        "sources": [
+          "https://diaart.org/visit/visit-our-locations-sites/dia-chelsea-new-york-united-states",
+          "https://diaart.org/media/w1050h700/exteriors/dia_chelsea_9-27-23-shot2%200840-edit-1.jpg"
+        ]
+      },
+      "instagram_followers": 180000
+    },
+    {
+      "id": "american-folk-art-museum",
+      "name": "American Folk Art Museum",
+      "area": "Upper West Side",
+      "vibe": "Free Lincoln Square galleries of quilts, portraits, and outsider work — quiet rooms beside Lincoln Center.",
+      "images": [
+        {
+          "url": "/assets/opt/date/american-folk-art-museum/01.webp",
+          "alt": "American Folk Art Museum"
+        }
+      ],
+      "website": "https://folkartmuseum.org/",
+      "instagram": "https://www.instagram.com/afamuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-01",
+        "image_ok": true,
+        "notes": "Daily 2026-10-01. Official visitor guidelines: free admission; Wed–Sun 11:30am–6pm; closed Mon–Tue. Photo: official folkartmuseum.org Fielding Gallery interior.",
+        "sources": [
+          "https://folkartmuseum.org/news/visitor-guidelines/",
+          "https://folkartmuseum.org/",
+          "https://folkartmuseum.org/content/uploads/2022/06/EU5B0560.jpg"
+        ]
+      },
+      "instagram_followers": 50000
+    },
+    {
+      "id": "eldridge-street",
+      "name": "Museum at Eldridge Street",
+      "area": "Lower East Side",
+      "vibe": "Restored 1887 synagogue — soaring stained glass, Moorish arches, a sanctuary you can walk into.",
+      "images": [
+        {
+          "url": "/assets/opt/date/eldridge-street/01.webp",
+          "alt": "Museum at Eldridge Street"
+        }
+      ],
+      "website": "https://www.eldridgestreet.org/",
+      "instagram": "https://www.instagram.com/museumateldridgestreet/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-01",
+        "image_ok": true,
+        "notes": "Daily 2026-10-01. Official visit page: museum open for general visitation (first-floor gallery reno noted); temporary closures were 9/29–9/30 only. Photo: official eldridgestreet.org sanctuary interior.",
+        "sources": [
+          "https://www.eldridgestreet.org/visit/",
+          "https://www.eldridgestreet.org/",
+          "https://static.wixstatic.com/media/c310b5_26b3424ee9824b38bd6e290fd6c2b481~mv2.jpg"
+        ]
+      },
+      "instagram_followers": 25000
     }
   ],
   "dinner": [
@@ -2791,9 +2945,9 @@
       "instagram": "https://www.instagram.com/frenchettenyc/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.  Image audit 2026-09-29: replaced bad card (Logo/wordmark card on a flat green field.) with official photo.",
         "sources": [
           "https://www.frenchettenyc.com/",
           "https://images.getbento.com/accounts/f23fb9e2c830c13b7fe4fcee4ce8f64f/media/images/64228fren.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5|resize(786)"
@@ -2815,9 +2969,9 @@
       "instagram": "https://www.instagram.com/misinyc/",
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.  Image audit 2026-09-29: replaced bad card (Scan of a book cover, not the restaurant.) with stock photo.",
         "sources": [
           "https://www.misinyc.com/",
           "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/New_York_state_legislative_souvenir_for_189_%28IA_newyorkstatelegi00phel%29.pdf/page1-500px-New_York_state_legislative_souvenir_for_189_%28IA_newyorkstatelegi00phel%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
@@ -2839,9 +2993,9 @@
       "instagram": "https://www.instagram.com/laserwolfbk/",
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.  Image audit 2026-09-29: replaced bad card (Scan of a Naval Postgraduate School thesis cover.) with stock photo.",
         "sources": [
           "https://www.laserwolfbrooklyn.com/",
           "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Laser_heating_and_mirror_distortion_%28IA_laserheatingmirr00fuhs%29.pdf/page1-960px-Laser_heating_and_mirror_distortion_%28IA_laserheatingmirr00fuhs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
@@ -2959,9 +3113,9 @@
       "instagram": "https://www.instagram.com/stanselmnyc/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.  Image audit 2026-09-29: replaced bad card (Photo of a church altar, not the restaurant.) with stock photo.",
         "sources": [
           "https://www.stanselm.com/",
           "https://irp.cdn-website.com/855c0f52/dms3rep/multi/opt/st-anselm-hero-header-1920w.jpg"
@@ -3007,9 +3161,9 @@
       "instagram": "https://www.instagram.com/frankies457/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.  Image audit 2026-09-29: replaced bad card (Logo graphic, not a photograph.) with official photo.",
         "sources": [
           "https://www.frankiesspuntino.com/",
           "https://images.getbento.com/accounts/bc9b661d135ed7bd94e6e287b7fa132b/media/images/34053f-f.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5|resize(786)"
@@ -3380,9 +3534,9 @@
       "website": "https://www.redhooktavern.com/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch1 2026-09-21. Official site patio/oysters. Official site verified.",
+        "notes": "Batch1 2026-09-21. Official site patio/oysters. Official site verified.  Image audit 2026-09-29: replaced bad card (Alcohol-forward (wine glass and bottle share the frame with the steak).) with official photo.",
         "sources": [
           "https://www.redhooktavern.com/",
           "https://images.squarespace-cdn.com/content/v1/6442aec9db47706856d7d156/eb4fa724-9049-4ca6-b437-422e3bd36a34/Redhook-Tavern-photoshoot-NYStrip.jpg"
@@ -3587,9 +3741,9 @@
       "website": "https://www.thecommerceinn.com/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch2 2026-09-21. Official site interior photo. Official site verified.",
+        "notes": "Batch2 2026-09-21. Official site interior photo. Official site verified.  Image audit 2026-09-29: replaced bad card (Alcohol-forward drink close-up.) with stock photo.",
         "sources": [
           "https://www.thecommerceinn.com/",
           "https://images.squarespace-cdn.com/content/v1/5f63798a017b5306a35ea1ba/1626193348019-FGSJTH7DM6Y5MFMITD64/IMG_0002%2Bcopy.jpg"
@@ -3771,9 +3925,9 @@
       "website": "https://www.sushinakazawa.com/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch3 2026-09-21. Official share image. Official site verified.",
+        "notes": "Batch3 2026-09-21. Official share image. Official site verified.  Image audit 2026-09-29: replaced bad card (Text title card with a small food inset.) with stock photo.",
         "sources": [
           "https://www.sushinakazawa.com/",
           "https://s3.amazonaws.com/sushinakazawa/matashare-1568932312439.png"
@@ -3863,9 +4017,9 @@
       "website": "https://www.speedyromeo.com/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.  Image audit 2026-09-29: replaced bad card (Alcohol-forward shot (champagne bottle as the subject).) with stock photo.",
         "sources": [
           "https://www.speedyromeo.com/",
           "https://images.getbento.com/accounts/b9d271aa06021661c13cb69f61ca9db0/media/images/38245sparkvalley_2.jpg?w=1800\\u0026fit=max\\u0026auto=compress,format\\u0026cs=origin\\u0026h=1800"
@@ -4162,9 +4316,9 @@
       "website": "https://www.vinegarhillhouse.com/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.  Image audit 2026-09-29: replaced bad card (Line illustration, not a photograph.) with stock photo.",
         "sources": [
           "https://www.vinegarhillhouse.com/",
           "https://media-cdn.getbento.com/accounts/d11333a380f22ab53365ec947501aae4/media/images/22094Screen_Shot_2024-01-22_at_2.01.04_PM.png"
@@ -4185,9 +4339,9 @@
       "website": "https://www.maisonpremiere.com/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.  Image audit 2026-09-29: replaced bad card (Brunch flyer illustration dominated by text.) with official photo.",
         "sources": [
           "https://www.maisonpremiere.com/",
           "https://maisonpremiere.com/wp-content/media-versions/2026/07/900w_x1400h__q_90_c_Brunch_poster-scaled.jpg"
@@ -4254,9 +4408,9 @@
       "website": "https://www.jejunoodlebar.com/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.  Image audit 2026-09-29: replaced bad card (Menu page dominated by text.) with stock photo.",
         "sources": [
           "https://www.jejunoodlebar.com/",
           "https://jejunoodlebar.com/wp-content/uploads/2026/02/JJNB-Food-Menu-2.13.png"
@@ -4438,9 +4592,9 @@
       "website": "https://www.haenyeonyc.com/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.  Image audit 2026-09-29: replaced bad card (Coastal landscape (not the Park Slope restaurant).) with official photo.",
         "sources": [
           "https://www.haenyeonyc.com/",
           "https://images.squarespace-cdn.com/content/v1/5a24b7cd9f07f525344c2e9b/1533435131996-40K912HKUF9R4HZ34M74/IMG_9630.JPG"
@@ -4461,9 +4615,9 @@
       "website": "https://www.meadowsweetnyc.com/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "notes": "Batch5 2026-09-21. Official/Commons photo QA. Official site verified.  Image audit 2026-09-29: replaced bad card (Abstract line graphic, not a photograph.) with official photo.",
         "sources": [
           "https://www.meadowsweetnyc.com/",
           "http://static1.squarespace.com/static/53b849c0e4b0afc035d1b252/t/560c0913e4b018278c81c6ca/1443629335715/meadowsweet_flower.png?format=1500w"
@@ -4553,9 +4707,9 @@
       "website": "https://www.dante-nyc.com/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch6 2026-09-21. Visual QA passed. Official site verified.",
+        "notes": "Batch6 2026-09-21. Visual QA passed. Official site verified.  Image audit 2026-09-29: replaced bad card (Alcohol-forward cocktail close-up.) with stock photo.",
         "sources": [
           "https://www.dante-nyc.com/",
           "https://images.getbento.com/accounts/e8eee6aef7c2e8242e267a82a199ac35/media/images/37253OLD_FASHIONED_WHISKEY_COCKTAIL.jpg?w=1200&fit=max&auto=compress,format&cs=origin"
@@ -4889,6 +5043,110 @@
         ]
       },
       "instagram_followers": 25000
+    },
+    {
+      "id": "theodora",
+      "name": "Theodora",
+      "area": "Fort Greene",
+      "vibe": "Mediterranean plates on Greene Ave — beets, wood fire, bar seats held for walk-ins. Resy 30 days out at 9am.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/theodora/01.webp",
+          "alt": "Theodora"
+        }
+      ],
+      "website": "https://www.theodoranyc.com/",
+      "instagram": "https://www.instagram.com/theodoranyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-30",
+        "image_ok": true,
+        "notes": "Daily 2026-09-30. Official theodoranyc.com contact: open every day 5–10pm; Resy + bar walk-ins. Photo: official site plated beets dish (no alcohol).",
+        "sources": [
+          "https://www.theodoranyc.com/contact",
+          "https://www.theodoranyc.com/",
+          "https://resy.com/cities/new-york-ny/venues/theodora"
+        ]
+      },
+      "instagram_followers": 25000
+    },
+    {
+      "id": "estela",
+      "name": "Estela",
+      "area": "Nolita",
+      "vibe": "Ignacio Mattos’ upstairs Houston Street room — ricotta dumplings, black pasta, Michelin-star intimacy. Book OpenTable or try the bar.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/estela/01.webp",
+          "alt": "Estela"
+        }
+      ],
+      "website": "https://estelanyc.com/",
+      "instagram": "https://www.instagram.com/estelanyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-30",
+        "image_ok": true,
+        "notes": "Daily 2026-09-30. Official estelanyc.com: dinner nightly 5–10:30; lunch Fri–Sun; OpenTable. Photo: Wikimedia Commons File:Estela NYC.jpg (CC BY-SA 4.0, Transpoman) — real Estela storefront at 47 East Houston Street, not a lifestyle fallback.",
+        "sources": [
+          "https://estelanyc.com/",
+          "https://commons.wikimedia.org/wiki/File:Estela_NYC.jpg",
+          "https://www.opentable.com/r/estela"
+        ]
+      },
+      "instagram_followers": 120000
+    },
+    {
+      "id": "francie",
+      "name": "Francie",
+      "area": "Williamsburg",
+      "vibe": "Michelin-starred brasserie in a former bank — lobster ravioli, crown roast of duck, open kitchen glow.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/francie/01.webp",
+          "alt": "Francie"
+        }
+      ],
+      "website": "https://www.franciebrooklyn.com/",
+      "instagram": "https://www.instagram.com/franciebrooklyn/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-01",
+        "image_ok": true,
+        "notes": "Daily 2026-10-01. Official hours: dinner Mon–Thu 5:30–9:30; Fri–Sat 5:00–10:30; Resy. Photo: official franciebrooklyn.com pasta dish.",
+        "sources": [
+          "https://www.franciebrooklyn.com/location/francie/",
+          "https://www.franciebrooklyn.com/",
+          "https://images.getbento.com/accounts/d48c31d33aab2e64c03bffa365760c0f/media/images/80746Francie_Food-51.jpg"
+        ]
+      },
+      "instagram_followers": 40000
+    },
+    {
+      "id": "le-crocodile",
+      "name": "Le Crocodile",
+      "area": "Williamsburg",
+      "vibe": "Wythe Hotel French dining room — brick, velvet chairs, classic plates without the Midtown rush.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/le-crocodile/01.webp",
+          "alt": "Le Crocodile"
+        }
+      ],
+      "website": "https://www.lecrocodile.com/",
+      "instagram": "https://www.instagram.com/lecrocodilebk/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-01",
+        "image_ok": true,
+        "notes": "Daily 2026-10-01. Official lecrocodile.com: open daily (restaurant hours listed on site/about). Photo: official dining-room interior, empty glassware only.",
+        "sources": [
+          "https://www.lecrocodile.com/",
+          "https://www.lecrocodile.com/about",
+          "https://static.wixstatic.com/media/3e9cbe_f534f70871dd4014b3594cbf908419ab~mv2.jpeg"
+        ]
+      },
+      "instagram_followers": 35000
     }
   ],
   "dance": [
@@ -5141,9 +5399,9 @@
       "instagram": "https://www.instagram.com/h0lo.nyc/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.  Image audit 2026-09-29: replaced bad card (Event poster dominated by text.) with stock photo.",
         "sources": [
           "https://h0l0.nyc/",
           "https://res.cloudinary.com/hnodjghar/image/upload/v1789418894/Ra_Image_e80c27eef4.jpg"
@@ -5165,9 +5423,9 @@
       "instagram": "https://www.instagram.com/paragonbroadway/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.  Image audit 2026-09-29: replaced bad card (Sky/cloud photo, not the venue.) with stock photo.",
         "sources": [
           "https://www.paragonbroadway.com/",
           "https://images.squarespace-cdn.com/content/v1/615cfc1a6a69824a79c5388a/2d28e24b-ae54-43ac-a8b7-29da26722236/OWA8ho.jpg"
@@ -5189,9 +5447,9 @@
       "instagram": "https://www.instagram.com/jupiterdisco/",
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.  Image audit 2026-09-29: replaced bad card (Book endpaper texture, not a photograph of the club.) with stock photo.",
         "sources": [
           "https://www.jupiterdisco.com/",
           "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Anthology_of_New_Netherland%2C_or%2C_Translations_from_the_early_Dutch_poets_of_New_York_-_with_memoirs_of_their_lives_%28IA_anthologyofnewne00murp%29.pdf/page1-500px-Anthology_of_New_Netherland%2C_or%2C_Translations_from_the_early_Dutch_poets_of_New_York_-_with_memoirs_of_their_lives_%28IA_anthologyofnewne00murp%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
@@ -5213,9 +5471,9 @@
       "instagram": "https://www.instagram.com/bossanovacivicclub/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.  Image audit 2026-09-29: replaced bad card (Unrelated soccer graphic, not the club.) with stock photo.",
         "sources": [
           "https://www.bossanovacivicclub.com/",
           "https://cdn.socolivezk.tv/2023/09/link-xem-bong-da-truc-tuyen-full-hd-mien-phi-tai-soco-live.jpg"
@@ -5285,9 +5543,9 @@
       "instagram": "https://www.instagram.com/boweryballroom/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.  Image audit 2026-09-29: replaced bad card (Washed-out crowd photo duplicated with Mercury Lounge, not an identifiable photo of this room.) with commons photo.",
         "sources": [
           "https://www.boweryballroom.com/",
           "https://tmmercuryeast.wpengine.com/wp-content/uploads/2021/05/bg-faded-2.jpg"
@@ -5381,9 +5639,9 @@
       "instagram": "https://www.instagram.com/brooklynmonarch/",
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.  Image audit 2026-09-29: replaced bad card (Butterfly close-up, not the venue.) with stock photo.",
         "sources": [
           "https://www.brooklynmonarch.com/",
           "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Monarch_butterfly_in_BBG_%2884685%29.jpg/1920px-Monarch_butterfly_in_BBG_%2884685%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
@@ -5429,9 +5687,9 @@
       "instagram": "https://www.instagram.com/thetranspecos/",
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.  Image audit 2026-09-29: replaced bad card (Brown book-cloth texture, not a photograph of the venue.) with stock photo.",
         "sources": [
           "https://thetranspecos.com/",
           "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Journal_of_the_New_York_Entomological_Society_%28IA_journalofnewyor491941newy%29.pdf/page1-500px-Journal_of_the_New_York_Entomological_Society_%28IA_journalofnewyor491941newy%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
@@ -5453,9 +5711,9 @@
       "instagram": "https://www.instagram.com/roughtradenyc/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.  Image audit 2026-09-29: replaced bad card (Slot-machine style graphic, not the record store.) with commons photo.",
         "sources": [
           "https://www.roughtradenyc.com/",
           "https://batmanspaces1.com/banner-qqmacan-t.jpg"
@@ -5477,9 +5735,9 @@
       "instagram": "https://www.instagram.com/mercuryloungenyc/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via official. Official site verified open.  Image audit 2026-09-29: replaced bad card (Same washed-out crowd image as Bowery Ballroom.) with commons photo.",
         "sources": [
           "https://www.mercuryloungenyc.com/",
           "https://tmmercuryeast.wpengine.com/wp-content/uploads/2021/05/bg-faded-2.jpg"
@@ -5525,9 +5783,9 @@
       "instagram": "https://www.instagram.com/moodringnyc/",
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.",
+        "notes": "Added 2026-09-21 expand. Photo via commons. Official site verified open.  Image audit 2026-09-29: replaced bad card (Newspaper page dominated by text.) with stock photo.",
         "sources": [
           "https://www.moodringnyc.com/",
           "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/The_New_York_Times%2C_1916-11-22.djvu/page1-1920px-The_New_York_Times%2C_1916-11-22.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
@@ -5710,9 +5968,9 @@
       "website": "https://www.irvingplaza.com/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.",
+        "notes": "Batch4 2026-09-21. Official/Commons photo QA. Official site verified.  Image audit 2026-09-29: replaced bad card (Concert photo buried under a giant text overlay.) with commons photo.",
         "sources": [
           "https://www.irvingplaza.com/",
           "https://assets.livenationcdn.com/uploads/a51838af-f2ee-4737-9a15-594c65e2dd3e.png"
@@ -5990,9 +6248,9 @@
       "instagram": "https://www.instagram.com/superioringredients/",
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-28",
+        "checked_at": "2026-09-29",
         "image_ok": true,
-        "notes": "Daily 2026-09-28. Official si-bk.com venue + shows pages list 2026 events. Photo from official venue page rooftop aerial.",
+        "notes": "Daily 2026-09-28. Official si-bk.com venue + shows pages list 2026 events. Photo from official venue page rooftop aerial.  Image audit 2026-09-29: replaced bad card (Architectural rendering / event poster, not a photograph of the venue.) with stock photo.",
         "sources": [
           "https://www.si-bk.com/",
           "https://www.si-bk.com/the-venue",
@@ -6198,6 +6456,238 @@
         ]
       },
       "instagram_followers": 12000
+    },
+    {
+      "id": "sobs",
+      "name": "SOB's",
+      "area": "Hudson Square",
+      "vibe": "Sounds of Brazil since 1982 — Varick Street stage for Latin, Afro, hip-hop, Bollywood nights. Independently owned; legends made here.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/sobs/01.webp",
+          "alt": "SOB's"
+        }
+      ],
+      "website": "https://sobs.com/",
+      "instagram": "https://www.instagram.com/sobsnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-30",
+        "image_ok": true,
+        "notes": "Daily 2026-09-30. Official sobs.com calendar packed through Oct 2026 (Salsa Groove, Bollywood Saturdays, live bills). Photo: Wikimedia Commons Trizzy performing at SOB's (live stage, not logo).",
+        "sources": [
+          "https://sobs.com/",
+          "https://sobs.com/calendar/",
+          "https://commons.wikimedia.org/wiki/File:Trizzy_performing_at_SOB%27s.jpg"
+        ]
+      },
+      "instagram_followers": 50000
+    },
+    {
+      "id": "iridium",
+      "name": "The Iridium",
+      "area": "Midtown",
+      "vibe": "Broadway & 51st jazz/blues room — Les Paul history, Ticketweb bills, 7pm–midnight when the show’s on.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/iridium/01.webp",
+          "alt": "The Iridium"
+        }
+      ],
+      "website": "https://www.theiridium.com/",
+      "instagram": "https://www.instagram.com/theiridium/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-30",
+        "image_ok": true,
+        "notes": "Daily 2026-09-30. Official theiridium.com/events calendar Sep–Nov 2026; hours 7pm–12am per contact page. Photo: Wikimedia Commons Palermo at Iridium (live sax).",
+        "sources": [
+          "https://www.theiridium.com/",
+          "https://www.theiridium.com/events",
+          "https://www.theiridium.com/contact",
+          "https://commons.wikimedia.org/wiki/File:Palermo_at_Iridium.jpg"
+        ]
+      },
+      "instagram_followers": 15000
+    },
+    {
+      "id": "joes-pub",
+      "name": "Joe's Pub",
+      "area": "East Village",
+      "vibe": "The Public’s cabaret downstairs — songwriters, comedy, Habibi Festival nights. Intimate tables; book the bill.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/joes-pub/01.webp",
+          "alt": "Joe's Pub"
+        }
+      ],
+      "website": "https://publictheater.org/joes-pub",
+      "instagram": "https://www.instagram.com/joespub/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-30",
+        "image_ok": true,
+        "notes": "Daily 2026-09-30. Official Public Theater Joe's Pub calendar shows Sep 30 2026 bills + Oct Habibi Festival. Photo: Wikimedia Commons Nicole Henry at Joe's Pub (live vocalist).",
+        "sources": [
+          "https://publictheater.org/joes-pub",
+          "https://commons.wikimedia.org/wiki/File:Nicole_Henry_Joes_Pub.jpg"
+        ]
+      },
+      "instagram_followers": 60000
+    },
+    {
+      "id": "lunatico",
+      "name": "LunÀtico",
+      "area": "Bed-Stuy",
+      "vibe": "Halsey Street eat-drink-listen room — dinner till 11, live sets from 9, tip the band in cash.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/lunatico/01.webp",
+          "alt": "LunÀtico"
+        }
+      ],
+      "website": "https://www.barlunatico.com/",
+      "instagram": "https://www.instagram.com/barlunatico/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-30",
+        "image_ok": true,
+        "notes": "Daily 2026-09-30. Official barlunatico.com: open nightly 5pm–1am; dinner 6–11; live music from 9pm. Photo: official site musician/sax portrait (Kazemde George).",
+        "sources": [
+          "https://www.barlunatico.com/",
+          "https://www.barlunatico.com/music"
+        ]
+      },
+      "instagram_followers": 12000
+    },
+    {
+      "id": "le-poisson-rouge",
+      "name": "(Le) Poisson Rouge",
+      "area": "Greenwich Village",
+      "vibe": "Bleecker Street independent room since 2008 — eclectic bills, late parties, Main Space that flips genre nightly.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/le-poisson-rouge/01.webp",
+          "alt": "(Le) Poisson Rouge"
+        }
+      ],
+      "website": "https://lpr.com/",
+      "instagram": "https://www.instagram.com/lepoissonrouge/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-09-30",
+        "image_ok": true,
+        "notes": "Daily 2026-09-30. Official lpr.com homepage lists Main Space shows through early Oct 2026. Photo: Wikimedia Commons live performance at Le Poisson Rouge.",
+        "sources": [
+          "https://lpr.com/",
+          "https://lpr.com/events/",
+          "https://commons.wikimedia.org/wiki/File:Music_-_Pianos_Become_the_Teeth_-_Le_Poisson_Rouge_(20675484009).jpg"
+        ]
+      },
+      "instagram_followers": 40000
+    },
+    {
+      "id": "54-below",
+      "name": "54 Below",
+      "area": "Midtown",
+      "vibe": "Broadway’s living-room cellar — piano, velvet, cabaret bills under the old Studio 54.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/54-below/01.webp",
+          "alt": "54 Below"
+        }
+      ],
+      "website": "https://54below.org/",
+      "instagram": "https://www.instagram.com/54Below/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-01",
+        "image_ok": true,
+        "notes": "Daily 2026-10-01. Official 54below.org calendar active Oct 2026 (Martina Barta, 54 Sings, Lea Salonga dates listed). Photo: official club stage image from 54below media CDN.",
+        "sources": [
+          "https://54below.org/",
+          "https://54below-media.nyc3.digitaloceanspaces.com/app/uploads/2016/03/1500x844-Club-Image-1.png"
+        ]
+      },
+      "instagram_followers": 90000
+    },
+    {
+      "id": "cafe-wha",
+      "name": "Cafe Wha?",
+      "area": "Greenwich Village",
+      "vibe": "MacDougal basement since 1959 — house bands, Dylan lore, Wednesday–Sunday nights that still sweat.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/cafe-wha/01.webp",
+          "alt": "Cafe Wha?"
+        }
+      ],
+      "website": "https://www.cafewha.com/",
+      "instagram": "https://www.instagram.com/cafewha/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-01",
+        "image_ok": true,
+        "notes": "Daily 2026-10-01. Official cafewha.com: live music every Wednesday–Sunday. Photo: official site live-performance still.",
+        "sources": [
+          "https://www.cafewha.com/",
+          "https://www.cafewha.com/calendar",
+          "https://static.wixstatic.com/media/53ea63_682afd90a9954bf29ac021cb133aaa6a~mv2.jpg"
+        ]
+      },
+      "instagram_followers": 30000
+    },
+    {
+      "id": "terraza-7",
+      "name": "Terraza 7",
+      "area": "Elmhurst",
+      "vibe": "Queens immigrant music room — congas, piano, red curtains, nights built for intercultural listening.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/terraza-7/01.webp",
+          "alt": "Terraza 7"
+        }
+      ],
+      "website": "https://www.terraza7.com/",
+      "instagram": "https://www.instagram.com/terraza_7/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-01",
+        "image_ok": true,
+        "notes": "Daily 2026-10-01. Official about: open every day 4pm–4am; performances almost nightly from ~8pm. Photo: official terraza7.com stage with instruments (no alcohol).",
+        "sources": [
+          "https://www.terraza7.com/about-us",
+          "https://www.terraza7.com/",
+          "https://www.terraza7.com/events"
+        ]
+      },
+      "instagram_followers": 15000
+    },
+    {
+      "id": "slipper-room",
+      "name": "The Slipper Room",
+      "area": "Lower East Side",
+      "vibe": "Orchard Street variety house — red curtains, balcony booths, burlesque and late comedy under one roof.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/slipper-room/01.webp",
+          "alt": "The Slipper Room"
+        }
+      ],
+      "website": "https://www.slipperroom.com/",
+      "instagram": "https://www.instagram.com/slipperroomny/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-01",
+        "image_ok": true,
+        "notes": "Daily 2026-10-01. Official slipperroom.com calendar lists Oct 2026 shows (e.g. Oct 2 Slipper Room Show, Oct 4 Slippery Sundays). Photo: official empty house/stage interior.",
+        "sources": [
+          "https://www.slipperroom.com/",
+          "https://www.slipperroom.com/calendar",
+          "https://static.wixstatic.com/media/4076d1_7cc71309acd5487da6a5fedf3e1fd7bc~mv2_d_5616_3744_s_4_2.jpg"
+        ]
+      },
+      "instagram_followers": 45000
     }
   ]
 }
