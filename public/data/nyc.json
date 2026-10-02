@@ -2602,6 +2602,108 @@
         ]
       },
       "instagram_followers": 25000
+    },
+    {
+      "id": "poster-house",
+      "name": "Poster House",
+      "area": "Chelsea",
+      "vibe": "Chelsea’s poster museum — graphic design on the walls, a quiet brick lobby, free Fridays after the galleries.",
+      "images": [
+        {
+          "url": "/assets/opt/date/poster-house/01.webp",
+          "alt": "Poster House"
+        }
+      ],
+      "website": "https://posterhouse.org/",
+      "instagram": "https://www.instagram.com/posterhousenyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-02",
+        "image_ok": true,
+        "notes": "Daily 2026-10-02. Official visit page: open Thu 10–6, Fri 10–9 (free), Sat–Sun 10–6; closed Mon–Wed. Current exhibitions on view Sep 2026–Feb 2027. Photo: Wikimedia Commons interior (Poster-House-interior-01).",
+        "sources": [
+          "https://posterhouse.org/visit/",
+          "https://posterhouse.org/",
+          "https://commons.wikimedia.org/wiki/File:Poster-House-interior-01.jpg"
+        ]
+      },
+      "instagram_followers": 35000
+    },
+    {
+      "id": "museum-of-broadway",
+      "name": "The Museum of Broadway",
+      "area": "Times Square",
+      "vibe": "West 45th Street immersive Broadway house — marquee arches, Playbill walls, the tunnel that feels like an opening night.",
+      "images": [
+        {
+          "url": "/assets/opt/date/museum-of-broadway/01.webp",
+          "alt": "The Museum of Broadway"
+        }
+      ],
+      "website": "https://www.themuseumofbroadway.com/",
+      "instagram": "https://www.instagram.com/museumofbroadway/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-02",
+        "image_ok": true,
+        "notes": "Daily 2026-10-02. Official plan-your-visit: open Mon–Wed 9:30–4, Thu–Sun 9:30–6:30; last entry 90 min before close; timed tickets. Photo: official about-page exhibit corridor.",
+        "sources": [
+          "https://www.themuseumofbroadway.com/plan-your-visit",
+          "https://www.themuseumofbroadway.com/",
+          "https://cdn.prod.website-files.com/645976a6c63b66486d263125/646ba44bbfb73f100d65a81c_Darren-Cox_B0001200r.jpg"
+        ]
+      },
+      "instagram_followers": 80000
+    },
+    {
+      "id": "new-york-earth-room",
+      "name": "The New York Earth Room",
+      "area": "SoHo",
+      "vibe": "Dia’s Wooster Street loft filled wall-to-wall with earth — free, quiet, twenty-two inches of soil under white columns.",
+      "images": [
+        {
+          "url": "/assets/opt/date/new-york-earth-room/01.webp",
+          "alt": "The New York Earth Room"
+        }
+      ],
+      "website": "https://www.diaart.org/visit/visit-our-locations-sites/walter-de-maria-the-new-york-earth-room-new-york-united-states",
+      "instagram": "https://www.instagram.com/diaartfoundation/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-02",
+        "image_ok": true,
+        "notes": "Daily 2026-10-02. Official Dia visit: Wed–Sun 12–3 and 3:30–6; free admission; closed Mon–Tue and listed holidays. Photo: Wikimedia Commons Earth Room interior (2024).",
+        "sources": [
+          "https://www.diaart.org/visit/visit-our-locations-sites/walter-de-maria-the-new-york-earth-room-new-york-united-states",
+          "https://commons.wikimedia.org/wiki/File:New_York_Earth_Room_in_2024.jpg"
+        ]
+      },
+      "instagram_followers": 180000
+    },
+    {
+      "id": "center-for-brooklyn-history",
+      "name": "Center for Brooklyn History",
+      "area": "Brooklyn Heights",
+      "vibe": "Pierrepont Street’s Romanesque landmark — stained glass, the Othmer Library upstairs, Brooklyn’s archive in a civic living room.",
+      "images": [
+        {
+          "url": "/assets/opt/date/center-for-brooklyn-history/01.webp",
+          "alt": "Center for Brooklyn History"
+        }
+      ],
+      "website": "https://www.bklynlibrary.org/locations/center-for-brooklyn-history",
+      "instagram": "https://www.instagram.com/brooklynhistory/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-02",
+        "image_ok": true,
+        "notes": "Daily 2026-10-02. Official BPL location: building open Mon–Fri 10–6, Sat 10–4, closed Sun; Othmer Library hours vary. Photo: official CBH branch page exterior.",
+        "sources": [
+          "https://www.bklynlibrary.org/locations/center-for-brooklyn-history",
+          "https://static.bklynlibrary.org/prod/public/images/page/CBH-BranchPage%20%281%29.jpg"
+        ]
+      },
+      "instagram_followers": 25000
     }
   ],
   "dinner": [
@@ -5147,6 +5249,83 @@
         ]
       },
       "instagram_followers": 35000
+    },
+    {
+      "id": "cynthia",
+      "name": "Cynthia",
+      "area": "West Village",
+      "vibe": "Thirty seats on Jones Street — open kitchen, six-to-seven seasonal courses, quiet West Village tasting without the theatre.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cynthia/01.webp",
+          "alt": "Cynthia"
+        }
+      ],
+      "website": "https://cynthianyc.com/",
+      "instagram": "https://www.instagram.com/cynthianewyork/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-02",
+        "image_ok": true,
+        "notes": "Daily 2026-10-02. Official site: Tue–Sat 5–11pm; 6–7 course seasonal tasting; Resy. Photo: official dish plate (no alcohol).",
+        "sources": [
+          "https://cynthianyc.com/",
+          "https://www.cynthianyc.com/images/dish-rosette.jpg"
+        ]
+      },
+      "instagram_followers": 8000
+    },
+    {
+      "id": "le-chene",
+      "name": "Le Chêne",
+      "area": "West Village",
+      "vibe": "Carmine Street French room — velvet banquettes, classical plates, a quiet apartment-scale dinner away from the brasserie circus.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/le-chene/01.webp",
+          "alt": "Le Chêne"
+        }
+      ],
+      "website": "https://www.lechenenyc.com/",
+      "instagram": "https://www.instagram.com/lechenenyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-02",
+        "image_ok": true,
+        "notes": "Daily 2026-10-02. Official site + Resy booking live for Le Chêne at 76 Carmine St; independent West Village French dining room. Photo: official plated dish (no alcohol).",
+        "sources": [
+          "https://www.lechenenyc.com/",
+          "https://resy.com/cities/new-york-ny/venues/le-chene",
+          "https://images.squarespace-cdn.com/content/v1/686fe0768120815d0591f337/cdd30939-259c-4d1e-ab12-92233a0059dd/20250514_La-Chene_016.jpg"
+        ]
+      },
+      "instagram_followers": 15000
+    },
+    {
+      "id": "una-pizza-napoletana",
+      "name": "Una Pizza Napoletana",
+      "area": "Lower East Side",
+      "vibe": "Orchard Street Neapolitan temple — one pizza maker, leopard-spotted crusts, a reservations-only room that still feels like a craft shop.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/una-pizza-napoletana/01.webp",
+          "alt": "Una Pizza Napoletana"
+        }
+      ],
+      "website": "https://unapizza.com/",
+      "instagram": "https://www.instagram.com/unapizzanapoletana/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-02",
+        "image_ok": true,
+        "notes": "Daily 2026-10-02. Official FAQ: 175 Orchard St; open Thu–Sat dinner service; reservations open 14 days ahead 9am ET. Photo: official pizza plating.",
+        "sources": [
+          "https://unapizza.com/",
+          "https://unapizza.com/faq/",
+          "https://unapizza.com/wp-content/uploads/2023/11/UNA_2022-02-02_mark-weinberg_0892-scaled.jpg"
+        ]
+      },
+      "instagram_followers": 90000
     }
   ],
   "dance": [
@@ -6688,6 +6867,83 @@
         ]
       },
       "instagram_followers": 45000
+    },
+    {
+      "id": "arthurs-tavern",
+      "name": "Arthur's Tavern",
+      "area": "West Village",
+      "vibe": "Grove Street jazz since 1937 — no cover, multiple sets nightly, the brick wall that still says Arthur’s Tavern.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/arthurs-tavern/01.webp",
+          "alt": "Arthur's Tavern"
+        }
+      ],
+      "website": "https://arthurstavern.nyc/",
+      "instagram": "https://www.instagram.com/arthurstavern_nyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-02",
+        "image_ok": true,
+        "notes": "Daily 2026-10-02. Official site calendar lists live sets Oct 2 2026 (Aeterna Fuse, Noé Socha, Organ Monk Trio); no cover, $15 min/set; open nightly. Photo: official performance still.",
+        "sources": [
+          "https://arthurstavern.nyc/",
+          "https://cdn.arthurstavern.nyc/wp-content/uploads/2025/07/07155518/IMG_7858.jpeg"
+        ]
+      },
+      "instagram_followers": 12000
+    },
+    {
+      "id": "bitter-end",
+      "name": "The Bitter End",
+      "area": "Greenwich Village",
+      "vibe": "Bleecker Street’s oldest rock club — blue awning, wooden doors, live sets seven nights when the Village still feels like itself.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/bitter-end/01.webp",
+          "alt": "The Bitter End"
+        }
+      ],
+      "website": "https://bitterend.com/",
+      "instagram": "https://www.instagram.com/thebitterendnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-02",
+        "image_ok": true,
+        "notes": "Daily 2026-10-02. Official bitterend.com/about: open seven days with live music nightly; Songkick/calendar active into 2026. Photo: Wikimedia Commons exterior (Beast_0114).",
+        "sources": [
+          "https://bitterend.com/",
+          "https://bitterend.com/about/",
+          "https://commons.wikimedia.org/wiki/File:Beast_0114.jpg"
+        ]
+      },
+      "instagram_followers": 20000
+    },
+    {
+      "id": "groove",
+      "name": "Groove",
+      "area": "Greenwich Village",
+      "vibe": "MacDougal Street live room — gospel nights, soul bands, a Village stage that still books the week.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/groove/01.webp",
+          "alt": "Groove"
+        }
+      ],
+      "website": "https://www.clubgroovenyc.com/home",
+      "instagram": "https://www.instagram.com/clubgroovenyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-02",
+        "image_ok": true,
+        "notes": "Daily 2026-10-02. Official clubgroovenyc.com: open Tue–Sun 4pm–2am; Oct–Jan 2026 calendar lists Harlem Gospel Travelers and other shows. Photo: free-stock live-performance lifestyle (official site only had text-heavy event banners).",
+        "sources": [
+          "https://www.clubgroovenyc.com/home",
+          "https://www.clubgroovenyc.com/music-calendar",
+          "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f"
+        ]
+      },
+      "instagram_followers": 8000
     }
   ]
 }
