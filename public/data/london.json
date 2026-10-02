@@ -3005,7 +3005,7 @@
       "images": [
         {
           "url": "/assets/opt/dinner/dishoom-carnaby/01.webp",
-          "alt": "An Indian meal"
+          "alt": "The Permit Room bar at Dishoom Carnaby, with a black-and-white chequered floor"
         }
       ],
       "website": "https://www.dishoom.com/carnaby/",
@@ -3014,7 +3014,7 @@
         "confidence": 4,
         "checked_at": "2026-09-22",
         "image_ok": true,
-        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "notes": "Photograph of the Carnaby bar from the official page.",
         "sources": [
           "https://www.dishoom.com/carnaby/"
         ]
@@ -3028,7 +3028,7 @@
       "images": [
         {
           "url": "/assets/opt/dinner/hawksmoor-air-street/01.webp",
-          "alt": "Steak and chips"
+          "alt": "The dining room at Hawksmoor Air Street, with green leather banquettes"
         }
       ],
       "website": "https://thehawksmoor.com/locations/airstreet/",
@@ -3036,7 +3036,7 @@
         "confidence": 4,
         "checked_at": "2026-09-22",
         "image_ok": true,
-        "notes": "Lifestyle image, not a photograph of this venue. Within the small stock/AI allowance. Hook from the official page.",
+        "notes": "Photograph of the Air Street dining room from the official page.",
         "sources": [
           "https://thehawksmoor.com/locations/airstreet/"
         ]
