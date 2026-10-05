@@ -2704,6 +2704,81 @@
         ]
       },
       "instagram_followers": 25000
+    },
+    {
+      "id": "hispanic-society",
+      "name": "Hispanic Society Museum & Library",
+      "area": "Washington Heights",
+      "vibe": "Audubon Terrace’s free museum above the Hudson — Sorolla’s Vision of Spain wrapping one room, old-master galleries, Thursday-to-Sunday afternoons.",
+      "images": [
+        {
+          "url": "/assets/opt/date/hispanic-society/01.webp",
+          "alt": "Hispanic Society Museum & Library"
+        }
+      ],
+      "website": "https://hispanicsociety.org/",
+      "instagram": "https://www.instagram.com/hispanic_society/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Daily 2026-10-05. Official visit page: museum open Thu–Sun noon–5pm, free admission with reserved ticket; 3741 Broadway at 155th St. Photo: official Sorolla Vision of Spain gallery image.",
+        "sources": [
+          "https://hispanicsociety.org/visit/",
+          "https://hispanicsociety.org/wp-content/uploads/2025/04/sorolla-vision-of-spain-gallery-2-copy.jpg"
+        ]
+      },
+      "instagram_followers": 30000
+    },
+    {
+      "id": "jacques-marchais-tibetan-museum",
+      "name": "Jacques Marchais Museum of Tibetan Art",
+      "area": "Staten Island",
+      "vibe": "Lighthouse Hill’s stone monastery in miniature — modelled on the Potala, terraced garden, Himalayan art and Raritan Bay views.",
+      "images": [
+        {
+          "url": "/assets/opt/date/jacques-marchais-tibetan-museum/01.webp",
+          "alt": "Jacques Marchais Museum of Tibetan Art"
+        }
+      ],
+      "website": "https://www.tibetanmuseum.org/",
+      "instagram": "https://www.instagram.com/marchais.tibetanmuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Daily 2026-10-05. Official site: 338 Lighthouse Ave; open Wed–Sun 1–5pm, closed Mon–Tue; Oct 2026 events listed. Photo: official stone-buildings-and-garden image.",
+        "sources": [
+          "https://www.tibetanmuseum.org/",
+          "https://static.wixstatic.com/media/0180b1_0092aa350bde4c02bc063cfaf7d488b1~mv2.jpg"
+        ]
+      },
+      "instagram_followers": 2400
+    },
+    {
+      "id": "wyckoff-house",
+      "name": "Wyckoff House Museum",
+      "area": "East Flatbush",
+      "vibe": "New York’s oldest building on Clarendon Road — Dutch farmhouse rooms, an acre and a half of farm and garden, free Saturday house tours.",
+      "images": [
+        {
+          "url": "/assets/opt/date/wyckoff-house/01.webp",
+          "alt": "Wyckoff House Museum"
+        }
+      ],
+      "website": "https://wyckoffmuseum.org/",
+      "instagram": "https://www.instagram.com/wyckoffmuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Daily 2026-10-05. Official visit page: drop-in guided house tours Saturdays 11am–2pm mid-Feb to mid-Dec (free, donations welcome); park open ~10–5 most Tue–Sat Apr–Nov. Photo: official farmhouse interior.",
+        "sources": [
+          "https://wyckoffmuseum.org/visit/",
+          "https://wyckoffmuseum.org/wp-content/uploads/2025/05/DSC_9376-scaled-1.webp"
+        ]
+      },
+      "instagram_followers": 2800
     }
   ],
   "dinner": [
@@ -5326,6 +5401,83 @@
         ]
       },
       "instagram_followers": 90000
+    },
+    {
+      "id": "rezdora-nyc",
+      "name": "Rezdôra",
+      "area": "Flatiron",
+      "vibe": "Stefano Secchi’s East 20th Street pasta house — Emilia-Romagna in every fold, Michelin-starred, named for the nonna who rolls the dough.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/rezdora-nyc/01.webp",
+          "alt": "Rezdôra"
+        }
+      ],
+      "website": "https://www.rezdora.nyc/",
+      "instagram": "https://www.instagram.com/rezdoranyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Daily 2026-10-05. Official site: 27 E 20th St; dinner nightly 5–11pm, lunch Tue–Fri, weekend brunch; NYT three stars, Michelin star 2021–2025. Photo: official storefront (TavolettiHIRES208). Slug rezdora-nyc avoids an unreferenced untracked opt/dinner/rezdora folder.",
+        "sources": [
+          "https://www.rezdora.nyc/",
+          "https://www.rezdora.nyc/location/rezdora/",
+          "https://images.getbento.com/accounts/cb4d07e36683bc851c470d0fe557ce5f/media/images/92250TavolettiHIRES208.jpg"
+        ]
+      },
+      "instagram_followers": 98000
+    },
+    {
+      "id": "hav-and-mar",
+      "name": "Hav & Mar",
+      "area": "Chelsea",
+      "vibe": "Marcus Samuelsson’s seafood house in the Starrett-Lehigh — Derrick Adams art on the walls, globally spiced plates, dinner every night.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/hav-and-mar/01.webp",
+          "alt": "Hav & Mar"
+        }
+      ],
+      "website": "https://www.havandmar.com/",
+      "instagram": "https://www.instagram.com/havandmar/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Daily 2026-10-05. Official hours page: 245 11th Ave (Starrett-Lehigh Building); dinner Sun–Sat 5–10pm. About page: seafood from Chef Samuelsson, original work by Derrick Adams, two NYT stars. Photo: official prawn dish.",
+        "sources": [
+          "https://www.havandmar.com/location/hav-mar/",
+          "https://www.havandmar.com/about/",
+          "https://images.getbento.com/accounts/d7a16ace3e936a92d871434feb6937c9/media/images/844949242_MG_8670.jpg"
+        ]
+      },
+      "instagram_followers": 19000
+    },
+    {
+      "id": "le-gratin",
+      "name": "Le Gratin",
+      "area": "Financial District",
+      "vibe": "Daniel Boulud’s Lyonnais bouchon inside The Beekman — hometown Lyon cooking, casual and convivial, dinner nightly off Nassau Street.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/le-gratin/01.webp",
+          "alt": "Le Gratin"
+        }
+      ],
+      "website": "https://www.legratinnyc.com/",
+      "instagram": "https://www.instagram.com/legratinnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Daily 2026-10-05. Official site: 5 Beekman St in The Beekman Hotel; dinner Mon–Sat 5–10pm, Sun 5–9pm; weekday lunch, weekend brunch. Photo: official duck plate.",
+        "sources": [
+          "https://www.legratinnyc.com/",
+          "https://images.prismic.io/dg-legratin/aJIOQ6Tt2nPbZ2qb_Duck.jpeg"
+        ]
+      },
+      "instagram_followers": 27000
     }
   ],
   "dance": [
@@ -6944,6 +7096,111 @@
         ]
       },
       "instagram_followers": 8000
+    },
+    {
+      "id": "bar-bayeux",
+      "name": "Bar Bayeux",
+      "area": "Prospect Lefferts Gardens",
+      "vibe": "Nostrand Avenue jazz room — no cover, no tickets, two sets a night and a Tuesday jam with the house band.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/bar-bayeux/01.webp",
+          "alt": "Bar Bayeux"
+        }
+      ],
+      "website": "https://www.barbayeux.com/",
+      "instagram": "https://www.instagram.com/barbayeux/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Daily 2026-10-05. Official site: 1066 Nostrand Ave; open Tue–Sun from 5–6pm; jazz calendar lists Oct 6–9 2026 sets (Tue jam, Wed–Fri 8 & 9:30). Photo: official live-set photo, cropped to the stage (no drinks in frame).",
+        "sources": [
+          "https://www.barbayeux.com/",
+          "https://www.barbayeux.com/jazz",
+          "https://images.squarespace-cdn.com/content/v1/61d10bb54fa60d00250dc417/7e1f8c15-9dfd-4c2c-8d8b-d170183e54af/IMG_1825.jpg"
+        ]
+      },
+      "instagram_followers": 9000
+    },
+    {
+      "id": "stonewall-inn",
+      "name": "The Stonewall Inn",
+      "area": "West Village",
+      "vibe": "Christopher Street, where Pride began — Friday Night Dance Party, DJs upstairs, piano bar midweek, still the room that matters.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/stonewall-inn/01.webp",
+          "alt": "The Stonewall Inn"
+        }
+      ],
+      "website": "https://www.thestonewallinnnyc.com/",
+      "instagram": "https://www.instagram.com/thestonewallinn/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Daily 2026-10-05. Official site: weekly programme live — Mon bingo, Tue–Wed piano bar, Thu Thirst Trap, Fri Night Dance Party, Sat Show Time. Photo: official night exterior with rainbow banner.",
+        "sources": [
+          "https://www.thestonewallinnnyc.com/",
+          "https://images.squarespace-cdn.com/content/v1/569e93263b0be3cdaf4ce48d/1592972158423-ZH3JTS12A1HBQMSKTEBG/IMG_6728.PNG"
+        ]
+      },
+      "instagram_followers": 109000
+    },
+    {
+      "id": "jalopy-theatre",
+      "name": "Jalopy Theatre",
+      "area": "Red Hook",
+      "vibe": "Columbia Street’s folk and roots house — bluegrass jams, hoedowns, boot-stomping dance nights, banjos waiting on the stage.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/jalopy-theatre/01.webp",
+          "alt": "Jalopy Theatre"
+        }
+      ],
+      "website": "https://www.jalopy.biz/",
+      "instagram": "https://www.instagram.com/jalopybrooklyn/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Daily 2026-10-05. Official site: 315 Columbia St; 'the only home for folk and traditional music' with weekly performances. Official calendar (Viewcy feed) lists Oct 2026: Roots n' Ruckus (Oct 8), Open Bluegrass Jam (Oct 11), Burstin' Boots Dance Party (Oct 16). Photo: official stage with banjos.",
+        "sources": [
+          "https://www.jalopy.biz/",
+          "https://jalopytheatre.netlify.app/performances",
+          "https://www.viewcy.com/api/o/jalopytheatre/courses",
+          "https://images.squarespace-cdn.com/content/v1/62c6fb8d23e4be06edbe1328/e587dd48-f7ad-4464-a865-069e61459af5/DSC02389.jpg"
+        ]
+      },
+      "instagram_followers": 26000
+    },
+    {
+      "id": "the-duplex",
+      "name": "The Duplex",
+      "area": "West Village",
+      "vibe": "Christopher Street piano bar and cabaret since 1951 — singing staff, drag upstairs, weekend dance parties, open till 4am.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/the-duplex/01.webp",
+          "alt": "The Duplex"
+        }
+      ],
+      "website": "https://www.theduplex.com/",
+      "instagram": "https://www.instagram.com/theduplex_nyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Daily 2026-10-05. Official site: 61 Christopher St; open 7 days 4pm–4am; nightly piano bar from 9pm, drag Sun–Thu upstairs, Fri–Sat dance parties; history page since 1951. Photo: official cabaret-theatre stage.",
+        "sources": [
+          "https://www.theduplex.com/",
+          "https://www.theduplex.com/history",
+          "https://www.theduplex.com/drag-room",
+          "https://images.squarespace-cdn.com/content/v1/6379a333c85ea365fb915249/59252cad-09dc-4810-80d2-613ec8ba6493/IMG_7397.JPG"
+        ]
+      },
+      "instagram_followers": 9400
     }
   ]
 }
