@@ -1504,13 +1504,18 @@
       "images": [
         {
           "url": "/assets/opt/dinner/barrafina-dean-street/01.webp",
-          "alt": "Barrafina Dean Street"
+          "alt": "The marble tapas counter at Barrafina Dean Street, with chefs at the plancha and red-topped stools"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Replaced logo/wordmark with the official Dean Street counter photograph from barrafina.com.",
+        "sources": [
+          "https://www.barrafina.com/locations/dean-street/",
+          "https://www.barrafina.com/wp-content/uploads/2024/11/240709_Barrafina_DeanSt_Interiors_020.jpg"
+        ]
       }
     },
     {
@@ -1734,13 +1739,18 @@
       "images": [
         {
           "url": "/assets/opt/dinner/noble-rot-soho/01.webp",
-          "alt": "Noble Rot Soho"
+          "alt": "The night-time shopfront of Noble Rot Soho on Greek Street, with the gold sign above the door"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Replaced logo/wordmark with the official Greek Street shopfront photograph from noblerot.co.uk.",
+        "sources": [
+          "https://noblerot.co.uk/restaurant/soho",
+          "https://cdn.noblerot.co.uk/nr_soho_hero.webp"
+        ]
       }
     },
     {
@@ -1910,13 +1920,18 @@
       "images": [
         {
           "url": "/assets/opt/dinner/the-clove-club/01.webp",
-          "alt": "The Clove Club"
+          "alt": "The stone entrance of The Clove Club at Shoreditch Town Hall, with the name carved above the blue doors"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Replaced logo/wordmark with Wikimedia Commons exterior of the restaurant entrance. Ewan Munro, CC BY-SA 2.0.",
+        "sources": [
+          "https://commons.wikimedia.org/wiki/File:Clove_Club,_Shoreditch,_EC1.jpg",
+          "https://thecloveclub.com/"
+        ]
       }
     },
     {
@@ -2057,9 +2072,19 @@
       "images": [
         {
           "url": "/assets/opt/dinner/barrafina-adelaide-street/01.webp",
-          "alt": "Barrafina Adelaide Street"
+          "alt": "The marble tapas counter at Barrafina Adelaide Street, with red-topped stools and chefs at the pass"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Replaced logo/wordmark with the official Adelaide Street counter photograph from barrafina.com.",
+        "sources": [
+          "https://www.barrafina.com/locations/adelaide-street/",
+          "https://www.barrafina.com/wp-content/uploads/2025/02/240709_Barrafina_Adelaide_Interior_003-scaled.jpg"
+        ]
+      }
     },
     {
       "id": "bebe-bob",
@@ -2629,9 +2654,19 @@
       "images": [
         {
           "url": "/assets/opt/dinner/noble-rot-mayfair/01.webp",
-          "alt": "Noble Rot Mayfair"
+          "alt": "The dining room at Noble Rot Mayfair, with red banquettes, set tables and street windows"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 5,
+        "checked_at": "2026-10-05",
+        "image_ok": true,
+        "notes": "Replaced logo/wordmark with the official Mayfair dining-room photograph from noblerot.co.uk.",
+        "sources": [
+          "https://noblerot.co.uk/restaurant/mayfair",
+          "https://cdn.noblerot.co.uk/nr_mayfair_hero_03.webp"
+        ]
+      }
     },
     {
       "id": "okko",
@@ -3860,14 +3895,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/the-lexington/01.webp",
-          "alt": "The Lexington"
+          "alt": "The Lexington on Pentonville Road, the cream corner pub with the gold eagle sign"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-05",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "Replaced a domain-for-sale ad with a Wikimedia Commons exterior of the venue. Chris Whippet / Geograph, CC BY-SA 2.0.",
+        "sources": [
+          "https://commons.wikimedia.org/wiki/File:The_Lexington,_Pentonville_-_geograph.org.uk_-_4387461.jpg",
+          "https://www.thelexington.co.uk/"
+        ]
       }
     },
     {
@@ -3992,14 +4031,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/village-underground/01.webp",
-          "alt": "Village Underground"
+          "alt": "Village Underground in Shoreditch, with a Jubilee line carriage on the roof above the Let's Adore And Endure Each Other mural"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-05",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "Replaced a different Village shopfront with a Wikimedia Commons photograph of the venue's rooftop tube carriages. The wub, CC BY-SA 4.0.",
+        "sources": [
+          "https://commons.wikimedia.org/wiki/File:Village_Underground,_Shoreditch,_London_2026-06-19_(1).jpg",
+          "https://www.villageunderground.co.uk/"
+        ]
       }
     },
     {
