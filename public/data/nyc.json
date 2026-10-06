@@ -2779,6 +2779,106 @@
         ]
       },
       "instagram_followers": 2800
+    },
+    {
+      "id": "japan-society",
+      "name": "Japan Society",
+      "area": "Turtle Bay",
+      "vibe": "East 47th Street home of Japanese art since 1971 — Gen’ichirō Inokuma’s NYC Salon on now through Jan 10, timed tickets, free First Fridays 5–7pm.",
+      "images": [
+        {
+          "url": "/assets/opt/date/japan-society/01.webp",
+          "alt": "Japan Society"
+        }
+      ],
+      "website": "https://japansociety.org/",
+      "instagram": "https://www.instagram.com/japansociety/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-06",
+        "image_ok": true,
+        "notes": "Daily 2026-10-06. Official gallery page: Gen'ichirō Inokuma's NYC Salon Oct 6, 2026–Jan 10, 2027; gallery Tue–Fri 11–5, Sat–Sun noon–6; $20 timed tickets; Free First Fridays 5–7pm (Oct 9, Nov 6...). Visit page: 333 E 47th St near the UN. Photo: official building-entrance photo from Visit page.",
+        "sources": [
+          "https://japansociety.org/arts-and-culture/gallery/",
+          "https://japansociety.org/visit/",
+          "https://japansociety.org/wp-content/uploads/2023/09/visit-us-1920x1080-1-jpg.webp"
+        ]
+      }
+    },
+    {
+      "id": "judd-101-spring-street",
+      "name": "Judd Foundation · 101 Spring Street",
+      "area": "SoHo",
+      "vibe": "Donald Judd’s cast-iron home and studio — five floors of permanently installed spaces, 75-minute guided visits by reservation, Tuesday to Saturday.",
+      "images": [
+        {
+          "url": "/assets/opt/date/judd-101-spring-street/01.webp",
+          "alt": "Judd Foundation · 101 Spring Street"
+        }
+      ],
+      "website": "https://juddfoundation.org/visit/new-york/",
+      "instagram": "https://www.instagram.com/juddfoundation/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-06",
+        "image_ok": true,
+        "notes": "Daily 2026-10-06. Official visit page: guided visits Tue–Sat, $32.50 ($17.50 students/seniors), ~75 min, advance reservation required, entrance on Mercer St side, five flights of stairs; closed Indigenous Peoples' Day and other listed holidays. Photo: official 101 Spring St 2nd-floor image (Charlie Rubin).",
+        "sources": [
+          "https://juddfoundation.org/visit/new-york/",
+          "https://juddfoundation.org/spaces/101-spring-street/",
+          "https://juddfoundation.org/wp-content/uploads/spaces/101-spring-street/101-Floor2_JF_NewYork_Charlie-Rubin-2048x1493.jpg"
+        ]
+      }
+    },
+    {
+      "id": "ukrainian-museum",
+      "name": "The Ukrainian Museum",
+      "area": "East Village",
+      "vibe": "East 6th Street since 1976 — folk art, Ukrainian modernism and contemporary work in one of the biggest collections outside Ukraine, free last-Thursday evenings.",
+      "images": [
+        {
+          "url": "/assets/opt/date/ukrainian-museum/01.webp",
+          "alt": "The Ukrainian Museum"
+        }
+      ],
+      "website": "https://www.theukrainianmuseum.org/",
+      "instagram": "https://www.instagram.com/ukrainianmuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-06",
+        "image_ok": true,
+        "notes": "Daily 2026-10-06. Official visit page: 222 E 6th St; Wed–Sun 12–6pm; $15; last Thursday 6–9pm free. About page: opened Oct 3, 1976; 8,000+ folk art objects, 3,300 fine-art works. Photo: official gallery photo (GalleryFrontWide).",
+        "sources": [
+          "https://www.theukrainianmuseum.org/visit/",
+          "https://www.theukrainianmuseum.org/about/",
+          "https://www.theukrainianmuseum.org/wp-content/uploads/2026/08/GalleryFrontWide-e1786809050654.jpg"
+        ]
+      }
+    },
+    {
+      "id": "historic-richmond-town",
+      "name": "Historic Richmond Town",
+      "area": "Staten Island",
+      "vibe": "New York’s open-air museum — a living-history village around Staten Island’s old county seat, costumed historic trades, Wednesday to Sunday afternoons.",
+      "images": [
+        {
+          "url": "/assets/opt/date/historic-richmond-town/01.webp",
+          "alt": "Historic Richmond Town"
+        }
+      ],
+      "website": "https://www.historicrichmondtown.org/",
+      "instagram": "https://www.instagram.com/historicrichmondtown/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-06",
+        "image_ok": true,
+        "notes": "Daily 2026-10-06. Official site: 'New York City's open air museum, living history village, historical museum and arboretum'; 441 Clarke Ave; hours Wed–Sun 1–5; tickets at the landmarked third County Courthouse; free Thu 2–4 May–Dec. Historic structures page: former government centre of Richmond County, museum opened 1935. Photo: official living-history basket-weaving image.",
+        "sources": [
+          "https://www.historicrichmondtown.org/visit",
+          "https://www.historicrichmondtown.org/historic-village-structures",
+          "https://images.squarespace-cdn.com/content/v1/5b24209fda02bc5bf5953ca1/2cdd410b-404d-46f0-8e99-223149be252a/HistoricRichmondTown_LivingHistory.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -5478,6 +5578,79 @@
         ]
       },
       "instagram_followers": 27000
+    },
+    {
+      "id": "casa-mono",
+      "name": "Casa Mono",
+      "area": "Gramercy",
+      "vibe": "Irving Place tapas room with a Michelin star every year since 2009 — Costa Brava cooking, razor clams a la plancha, bone marrow, just 13 tables.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/casa-mono/01.webp",
+          "alt": "Casa Mono"
+        }
+      ],
+      "website": "https://www.casamononyc.com/",
+      "instagram": "https://www.instagram.com/CasaMonoBarJamon/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-06",
+        "image_ok": true,
+        "notes": "Daily 2026-10-06. Official about page: 52 Irving Place at 17th St; sister Bar Jamón next door (not a chain); Michelin star 2009 and every year since; chef Andy Nusser, Costa Brava/Cadaqués; 13 tables + 15 bar seats; reservations nightly. Photo: official duck-egg plate.",
+        "sources": [
+          "https://www.casamononyc.com/about/",
+          "https://www.casamononyc.com/",
+          "https://images.getbento.com/accounts/9a70fcc274c059985cc434b24c2bc8fe/media/images/76141Duckegg.jpg"
+        ]
+      }
+    },
+    {
+      "id": "txikito",
+      "name": "Txikito",
+      "area": "Chelsea",
+      "vibe": "Ninth Avenue Basque kitchen since 2008 — run by a Bilbao-and-Argentina husband-and-wife team, soulful Basque home cooking, dinner nightly from 5pm.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/txikito/01.webp",
+          "alt": "Txikito"
+        }
+      ],
+      "website": "https://www.txikitonyc.com/",
+      "instagram": "https://www.instagram.com/txikitonyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-06",
+        "image_ok": true,
+        "notes": "Daily 2026-10-06. Official site: 240 9th Ave; Sun–Thu 5–10pm, Fri–Sat 5–10:30pm; Alex & Eder (Eder from Bilbao), Chelsea since 2008; sister spots La Vara/Saint Julivert are separate restaurants. Photo: official Txikito steak plate (Txikito_1890).",
+        "sources": [
+          "https://www.txikitonyc.com/",
+          "https://images.squarespace-cdn.com/content/v1/56a81d031a52039cce8ddb39/1716483914924-7X10BAKJD6R5P55A8IQD/Txikito_1890.jpg"
+        ]
+      }
+    },
+    {
+      "id": "harts-brooklyn",
+      "name": "Hart's",
+      "area": "Bed-Stuy",
+      "vibe": "Franklin Avenue neighbourhood room since 2016 — a dinner menu that changes daily with what local farms bring, patio seats April to October, open every night.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/harts-brooklyn/01.webp",
+          "alt": "Hart's"
+        }
+      ],
+      "website": "https://www.hartsbrooklyn.com/",
+      "instagram": "https://www.instagram.com/hartsbrooklyn/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-06",
+        "image_ok": true,
+        "notes": "Daily 2026-10-06. Official about page: 506 Franklin Ave at Fulton; opened fall 2016; menu changes daily from local farms; patio Apr–Oct walk-in; open every night 5:30–10:30pm. Same family as Cervo's (already listed) but a distinct single-site restaurant. Photo: official schnitzel plate (180609_Harts_Website-17), cropped to exclude a beer glass.",
+        "sources": [
+          "https://www.hartsbrooklyn.com/about",
+          "https://images.squarespace-cdn.com/content/v1/65d3e66ff882901cfd6aa97a/07ccb72f-242d-4e45-b298-850082b9f168/180609_Harts_Website-17.jpg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -7201,6 +7374,81 @@
         ]
       },
       "instagram_followers": 9400
+    },
+    {
+      "id": "club-cumming",
+      "name": "Club Cumming",
+      "area": "East Village",
+      "vibe": "East 6th Street cabaret bar open 6pm–4am every night — drag karaoke, Wednesday Night Live, a Sunday tea dance and singers at the piano.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/club-cumming/01.webp",
+          "alt": "Club Cumming"
+        }
+      ],
+      "website": "https://www.clubcummingnyc.com/",
+      "instagram": "https://www.instagram.com/clubcumming/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-06",
+        "image_ok": true,
+        "notes": "Daily 2026-10-06. Official site: 505 E 6th St; open daily 6pm–4am; calendar for Oct 2026 lists Happy Sunday Tea Dance, Drag Karaoke with Miss Behave, Wednesday Night Live!. Photo: official gallery shot of a performer with pianist under the Club Cumming sign.",
+        "sources": [
+          "https://www.clubcummingnyc.com/",
+          "https://www.clubcummingnyc.com/contact",
+          "https://images.squarespace-cdn.com/content/v1/5af376305ffd208dbca98c82/1527792421011-0DK0NQAO8HVVAGGSLWID/Photo+Jan+30%2C+12+10+33+AM.jpg"
+        ]
+      }
+    },
+    {
+      "id": "pianos-nyc",
+      "name": "Pianos",
+      "area": "Lower East Side",
+      "vibe": "Ludlow Street multilevel venue since 2002 — bands, DJs and parties on a Funktion-One system, open till 4am Tuesday to Sunday.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/pianos-nyc/01.webp",
+          "alt": "Pianos"
+        }
+      ],
+      "website": "https://www.pianosnyc.com/",
+      "instagram": "https://www.instagram.com/pianosnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-06",
+        "image_ok": true,
+        "notes": "Daily 2026-10-06. Official FAQ: 158 Ludlow St; multilevel bar/nightclub/music venue since 2002; Funktion-One sound; Tue–Thu 6pm–4am, Fri–Sun 4pm–4am; tickets via Dice; 21+. Photo: official gallery B&W live-show shot (IMG_3709).",
+        "sources": [
+          "https://www.pianosnyc.com/faq",
+          "https://www.pianosnyc.com/gallery",
+          "https://freight.cargo.site/t/original/i/d7088f70172c4e790370228a83b7f2f5bf2a153285d898d3768c8f8804d38fc5/IMG_3709_Original.JPG"
+        ]
+      }
+    },
+    {
+      "id": "littlefield",
+      "name": "Littlefield",
+      "area": "Gowanus",
+      "vibe": "Sackett Street warehouse venue since 2009 — a former 1920s printing press hosting bands, comedy, line-dancing nights and late dance parties till 4am.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/littlefield/01.webp",
+          "alt": "Littlefield"
+        }
+      ],
+      "website": "https://www.littlefieldnyc.com/",
+      "instagram": "https://www.instagram.com/littlefieldnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-06",
+        "image_ok": true,
+        "notes": "Daily 2026-10-06. Official site: independent venue since 2009 in a former 1920s printing-press warehouse; 635 Sackett St; open when events are scheduled; Oct 2026 calendar lists Heel Toe Rodeo line dancing, Dancehall vs Soca and RnB vs Slow Jams parties 11pm–4am. Photo: official exterior mural image (interior stage photo on site too small).",
+        "sources": [
+          "https://www.littlefieldnyc.com/",
+          "https://www.littlefieldnyc.com/info/",
+          "https://littlefieldnyc.com/wp-content/uploads/2021/02/Exterior_mural-scaled.jpg"
+        ]
+      }
     }
   ]
 }
