@@ -2879,6 +2879,108 @@
           "https://images.squarespace-cdn.com/content/v1/5b24209fda02bc5bf5953ca1/2cdd410b-404d-46f0-8e99-223149be252a/HistoricRichmondTown_LivingHistory.jpg"
         ]
       }
+    },
+    {
+      "id": "cathedral-st-john-the-divine",
+      "name": "Cathedral of St. John the Divine",
+      "area": "Morningside Heights",
+      "vibe": "Amsterdam Avenue’s Gothic giant, under construction since 1892 — a vast stone nave, a blazing rose window, and evening concerts and organ music under the vaults.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cathedral-st-john-the-divine/01.webp",
+          "alt": "Cathedral of St. John the Divine"
+        }
+      ],
+      "website": "https://www.stjohndivine.org/",
+      "instagram": "https://www.instagram.com/stjohndivinenyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-07",
+        "image_ok": true,
+        "notes": "Daily 2026-10-07. Official visit page: 1047 Amsterdam Ave at 112th St; Mon–Sat 9:30am–5pm, Sun 12–5pm; $15 sightseeing admission ($12 seniors/students), free for prayer; timed tickets and public guided tours. Homepage Oct 2026: Gaia installation through Oct 8, Musica Sacra 'SurRound' Oct 7, Evensong for Haiti Oct 11, Guastavino lecture Oct 13. About FAQ: world's largest Gothic cathedral, construction began 1892, landmarked 2017. Photo: official rose-window image (about-intro).",
+        "sources": [
+          "https://www.stjohndivine.org/visit",
+          "https://www.stjohndivine.org/",
+          "https://www.stjohndivine.org/about",
+          "https://www.stjohndivine.org/uploads/pages/about-intro-1667927229.jpg"
+        ]
+      }
+    },
+    {
+      "id": "queens-county-farm-museum",
+      "name": "Queens County Farm Museum",
+      "area": "Floral Park",
+      "vibe": "Forty-seven acres of working farmland on the Queens–Nassau line, farmed for over three centuries — goats, alpacas and sheep, the old Adriance farmhouse and a 3-acre corn maze each fall.",
+      "images": [
+        {
+          "url": "/assets/opt/date/queens-county-farm-museum/01.webp",
+          "alt": "Queens County Farm Museum"
+        }
+      ],
+      "website": "https://www.queensfarm.org/",
+      "instagram": "https://www.instagram.com/queensfarm/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-07",
+        "image_ok": true,
+        "notes": "Daily 2026-10-07. Official visit page: grounds open seven days a week year-round 10am–5pm, free admission except ticketed event days; heritage-breed hens, steer, alpacas, sheep, goats, pigs. Homepage: 73-50 Little Neck Pkwy; one of the longest continually farmed sites in NY State, 47 acres, 50 years as a non-profit; Fall 2026 'October on the Farm', Amazing Maize Maze (3 acres) and Maze by Moonlight. Photo: official Adriance farmhouse in autumn (farmhousefall).",
+        "sources": [
+          "https://www.queensfarm.org/visit",
+          "https://www.queensfarm.org/",
+          "https://www.queensfarm.org/the-amazing-maize-maze/",
+          "https://www.queensfarm.org/wp-content/uploads/2023/09/farmhousefall.jpg"
+        ]
+      }
+    },
+    {
+      "id": "museum-at-fit",
+      "name": "The Museum at FIT",
+      "area": "Chelsea",
+      "vibe": "Free fashion museum on Seventh Avenue and 27th — rotating shows from FIT’s collection of couture and historic dress, open till 8pm Wednesday to Friday.",
+      "images": [
+        {
+          "url": "/assets/opt/date/museum-at-fit/01.webp",
+          "alt": "The Museum at FIT"
+        }
+      ],
+      "website": "https://www.fitnyc.edu/museum/",
+      "instagram": "https://www.instagram.com/museumatfit/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-07",
+        "image_ok": true,
+        "notes": "Daily 2026-10-07. Official visit page: 227 W 27th St at Seventh Ave; free admission; Wed–Fri noon–8pm, Sat–Sun 10am–5pm, closed Mon–Tue. Exhibitions page: 'Doll Dressing' Sep 16, 2026–Jan 3, 2027 (Special Exhibitions Gallery); 'Figured Cloth' Oct 1–11, 2026 (lobby). Photo: official gallery-installation image from the MFIT visit page (axf), no logos.",
+        "sources": [
+          "https://www.fitnyc.edu/museum/visit/index.php",
+          "https://www.fitnyc.edu/museum/exhibitions/index.php",
+          "https://www.fitnyc.edu/museum/images/mfit-visit-footer-left-axf.jpg"
+        ]
+      }
+    },
+    {
+      "id": "grolier-club",
+      "name": "The Grolier Club",
+      "area": "Upper East Side",
+      "vibe": "East 60th Street bibliophiles’ club since 1884 — free public exhibitions of rare books, prints and papermaking in a wood-panelled gallery, Monday to Saturday.",
+      "images": [
+        {
+          "url": "/assets/opt/date/grolier-club/01.webp",
+          "alt": "The Grolier Club"
+        }
+      ],
+      "website": "https://www.grolierclub.org/",
+      "instagram": "https://www.instagram.com/grolierclub/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-07",
+        "image_ok": true,
+        "notes": "Daily 2026-10-07. Official homepage: 47 E 60th St; founded 1884, America's oldest society for bibliophiles; exhibition gallery Mon–Sat 10am–5pm; exhibitions free and open to the public; closure notices for Oct 12, 13, 15, 27 2026. Event page: 'Pioneers in Hand Papermaking: 50 Years of Innovation at Dieu Donné' Sep 8–Nov 28, 2026 — the Club's 1,000th exhibition; tours Oct 21, Nov 18. Photo: official exhibition-hall slide (getImage ID 100000408).",
+        "sources": [
+          "https://www.grolierclub.org/",
+          "https://www.grolierclub.org/default.aspx?p=v35EvtView&ID=3882918&ssid=322423",
+          "https://www.grolierclub.org/images/dynamic/getImage.gif?ID=100000408"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -5651,6 +5753,80 @@
           "https://images.squarespace-cdn.com/content/v1/65d3e66ff882901cfd6aa97a/07ccb72f-242d-4e45-b298-850082b9f168/180609_Harts_Website-17.jpg"
         ]
       }
+    },
+    {
+      "id": "di-an-di",
+      "name": "Di An Di",
+      "area": "Greenpoint",
+      "vibe": "Greenpoint Avenue Vietnamese room — Hanoi-style pho with wok-seared brisket, mustard-green rolls and rice-paper wraps to build at the table, with weekend bánh mì till 6pm.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/di-an-di/01.webp",
+          "alt": "Di An Di"
+        }
+      ],
+      "website": "https://www.diandi.nyc/",
+      "instagram": "https://www.instagram.com/diandi.nyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-07",
+        "image_ok": true,
+        "notes": "Daily 2026-10-07. Official site: 68 Greenpoint Ave, Brooklyn; Mon–Thu 5–10pm, Fri–Sun 12–10pm; reservations. Official food menu (image on site): Phở Thìn Hà Nội with wok-seared Happy Valley brisket, Cuốn Diếp mustard green roll, Cá Cuốn market fish to wrap; bánh mì Fri–Sun until 6pm; produce from HOG Farm and Norwich Meadow Farm, seafood from Greenpoint Fish. Single location. Photo: official pho bowl (DianDi-10).",
+        "sources": [
+          "https://www.diandi.nyc/",
+          "https://images.getbento.com/accounts/137fd3b7caab432b930b6e881a77aa1f/media/images/60755DianDi-10.jpg"
+        ]
+      }
+    },
+    {
+      "id": "zou-zous",
+      "name": "Zou Zou’s",
+      "area": "Hudson Yards",
+      "vibe": "Manhattan West’s Eastern Mediterranean dining room — dips with warm bazlama, duck borek à l’orange, manti and whole fish under arched ceilings, dinner nightly till 11.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/zou-zous/01.webp",
+          "alt": "Zou Zou’s"
+        }
+      ],
+      "website": "https://www.zouzousnyc.com/",
+      "instagram": "https://www.instagram.com/zouzousnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-07",
+        "image_ok": true,
+        "notes": "Daily 2026-10-07. Official location page: 385 Ninth Ave, Manhattan West Plaza, ground level of Pendry Manhattan West; dinner nightly 5–11pm, weekday lunch 11:30–3, weekend lunch 11–3. Official menu: dips served with crudité & bazlama, Zou Zou's Duck Borek à l'Orange, Our Manti, Mediterranean Branzino. Single-location restaurant. Photo: official dish shot (ZOUZOUS_0821_2266), no drinks in frame.",
+        "sources": [
+          "https://www.zouzousnyc.com/location/zou-zous-manhattan-west/",
+          "https://www.zouzousnyc.com/menus/",
+          "https://images.getbento.com/accounts/31376cc88287cb87638e3b0d1110c703/media/images/51460ZOUZOUS_0821_2266.jpg"
+        ]
+      }
+    },
+    {
+      "id": "rolos-ridgewood",
+      "name": "Rolo's",
+      "area": "Ridgewood",
+      "vibe": "Onderdonk Avenue wood-fire grill — polenta bread from the hearth, handmade pastas and a weekly side of New York State beef butchered in-house, dinner every night.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/rolos-ridgewood/01.webp",
+          "alt": "Rolo's"
+        }
+      ],
+      "website": "https://www.rolosnyc.com/",
+      "instagram": "https://www.instagram.com/rolosnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-07",
+        "image_ok": true,
+        "notes": "Daily 2026-10-07. Official site: 853 Onderdonk Ave, Ridgewood; dinner Sun–Thu 5–10pm, Fri–Sat 5–11pm, weekend brunch 11–3; Resy reservations plus walk-in tables. Official menu: wood-fired polenta bread, pastas (candele, cappelletti, farfalle, lasagna verde), 'our beef program' — a side of NY State grass-fed beef weekly, butchered in-house for dry-aged steaks and the burger. Photo: storefront with Rolo's sign, from the @rolosnyc Instagram feed embedded on the official homepage.",
+        "sources": [
+          "https://www.rolosnyc.com/location/rolos/",
+          "https://www.rolosnyc.com/menus/",
+          "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/763831620_18348855583247966_1007360436895952418_n.jpg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -7447,6 +7623,83 @@
           "https://www.littlefieldnyc.com/",
           "https://www.littlefieldnyc.com/info/",
           "https://littlefieldnyc.com/wp-content/uploads/2021/02/Exterior_mural-scaled.jpg"
+        ]
+      }
+    },
+    {
+      "id": "silo-brooklyn",
+      "name": "SILO",
+      "area": "East Williamsburg",
+      "vibe": "Scott Avenue dance club grown from the Secret Loft parties — house and techno in a big warehouse room, open decks midweek and parties till 4am on weekends.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/silo-brooklyn/01.webp",
+          "alt": "SILO"
+        }
+      ],
+      "website": "https://www.silobrooklyn.com/",
+      "instagram": "https://www.instagram.com/silobrooklyn/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-07",
+        "image_ok": true,
+        "notes": "Daily 2026-10-07. Official about page: 90 Scott Ave, Brooklyn (separate from 99 Scott); formerly Secret Loft, an underground party started 2012 in a Williamsburg auto garage; SILO opened early 2023; Wed 8pm–1am, Thu 9pm–3am, Fri–Sat 10pm–4am, some Sundays 4–10pm. Homepage Oct 2026: Open Decks w/ Steen 3-year anniversary Oct 7, Sullivan King Oct 10, SILOWEEN Oct 31. FAQ: 21+, tickets via Dice. Photo: official photos-page image (crowd under pink stage lights).",
+        "sources": [
+          "https://www.silobrooklyn.com/about",
+          "https://www.silobrooklyn.com/",
+          "https://www.silobrooklyn.com/faq",
+          "https://lh3.googleusercontent.com/pw/AP1GczMhfEs68lG1CnViWkB7vfXld9dpJQAn34GIHTEs07_9muc3YHbB0jD09NdSMfVGJfwDzHhZKey8f8Wa2LqDyZ-yQlnzsIlSzSSbFB6sqoSF5hPSNow"
+        ]
+      }
+    },
+    {
+      "id": "bills-place-harlem",
+      "name": "Bill's Place",
+      "area": "Harlem",
+      "vibe": "Saxophonist Bill Saxton’s parlour jazz club on 133rd Street, Harlem’s old Swing Street — two intimate sets with the Harlem All-Stars every Friday and Saturday.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/bills-place-harlem/01.webp",
+          "alt": "Bill's Place"
+        }
+      ],
+      "website": "https://www.billsplaceharlem.com/",
+      "instagram": "https://www.instagram.com/billsaxtonjazz/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-07",
+        "image_ok": true,
+        "notes": "Daily 2026-10-07. Official site + FAQ: 148 W 133rd St between 7th and Lenox; Fridays and Saturdays only, doors 6:30pm, sets 7pm and 9:30pm; $38; Bill Saxton & the Harlem All-Stars, straight-ahead jazz on 'Harlem's original Swing Street'; ticket calendar live for Oct 2026. Photo: official homepage B&W shot of Saxton and band in the room (HOME_PAGE18).",
+        "sources": [
+          "https://www.billsplaceharlem.com/",
+          "https://www.billsplaceharlem.com/pages/faqs",
+          "https://www.billsplaceharlem.com/products/bill-saxton-the-harlem-all-stars",
+          "https://billsplaceharlem.com/cdn/shop/files/HOME_PAGE18.jpg"
+        ]
+      }
+    },
+    {
+      "id": "green-room-42",
+      "name": "The Green Room 42",
+      "area": "Hell’s Kitchen",
+      "vibe": "Tenth Avenue cabaret room with a grand piano, lamp-lit tables and Broadway voices — two shows most nights, from Susie Mosher’s variety lineup to musical-theatre singalongs.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/green-room-42/01.webp",
+          "alt": "The Green Room 42"
+        }
+      ],
+      "website": "https://www.thegreenroom42.com/",
+      "instagram": "https://www.instagram.com/thegreenroom42/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-07",
+        "image_ok": true,
+        "notes": "Daily 2026-10-07. Official site: supper club / cabaret / rooftop at 570 10th Ave, 4th floor (inside YOTEL); ticketing at thegreenroom42.venuetix.com lists shows Oct 7–15, 2026 at 7pm and 9:30pm, incl. 'The Lineup with Susie Mosher' Oct 13. Single venue. Photo: official gallery shot of the showroom from house centre (IMG_4903-GR).",
+        "sources": [
+          "https://www.thegreenroom42.com/",
+          "https://thegreenroom42.venuetix.com/",
+          "https://images.squarespace-cdn.com/content/v1/6914a13848b3d45e811ea8b5/f5f4938f-1a33-48d4-a8b6-ca50e87549ba/IMG_4903-GR+from+house+center.jpg"
         ]
       }
     }
