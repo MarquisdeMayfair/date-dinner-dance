@@ -2981,6 +2981,109 @@
           "https://www.grolierclub.org/images/dynamic/getImage.gif?ID=100000408"
         ]
       }
+    },
+    {
+      "id": "park-avenue-armory",
+      "name": "Park Avenue Armory",
+      "area": "Upper East Side",
+      "vibe": "Gilded Age regimental armory on Park Avenue — Tiffany and Stanford White period rooms, a vast 55,000 sq ft drill hall, and big-scale performances like Steve Reich’s Music for 18 Musicians this October.",
+      "images": [
+        {
+          "url": "/assets/opt/date/park-avenue-armory/01.webp",
+          "alt": "Park Avenue Armory"
+        }
+      ],
+      "website": "https://www.armoryonpark.org/",
+      "instagram": "https://www.instagram.com/parkavearmory/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-08",
+        "image_ok": true,
+        "notes": "Daily 2026-10-08. Official site: Thompson Arts Center at Park Avenue Armory, 643 Park Ave; homepage Oct 14–18, 2026 'Music for 18 Musicians: Staged Variations' (Steve Reich at 90 / 50th anniversary), 2026 Gala Oct 27. Tour page: public guided tours Jan 10–Nov 21, 2026, ~75 min, $30 adult — Board of Officers Room, Veterans Room, Wade Thompson Drill Hall; interiors by Louis Comfort Tiffany, Stanford White, Candace Wheeler, Herter Brothers. About the Building: completed 1881 for the Seventh Regiment; 55,000 sq ft un-columned drill hall; Herzog & de Meuron restoration. Photo: official Board of Officers Room image (James Ewing).",
+        "sources": [
+          "https://www.armoryonpark.org/",
+          "https://www.armoryonpark.org/plan-your-visit/tour-the-armory/",
+          "https://www.armoryonpark.org/about/about-the-building/",
+          "https://www.armoryonpark.org/media/doagv4uh/paa_building_architecture_boo_5467_gallery_ewing.jpg"
+        ]
+      }
+    },
+    {
+      "id": "lewis-latimer-house",
+      "name": "Lewis Latimer House",
+      "area": "Flushing",
+      "vibe": "Flushing home of Lewis Latimer, the self-taught draftsman behind the telephone patent drawings and Edison-era carbon filaments — rooms redesigned as galleries on his life and legacy, open Friday to Sunday.",
+      "images": [
+        {
+          "url": "/assets/opt/date/lewis-latimer-house/01.webp",
+          "alt": "Lewis Latimer House"
+        }
+      ],
+      "website": "https://www.lewislatimerhouse.org/",
+      "instagram": "https://www.instagram.com/lewislatimerhouse/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-08",
+        "image_ok": true,
+        "notes": "Daily 2026-10-08. Official site: 34-41 137th St, Flushing; open Fridays, Saturdays & Sundays 11am–5pm; 'Light Up the World: The Legacy of Lewis H. Latimer' permanent exhibition, each room of the historic home redesigned in 2024 (five galleries incl. The Latimer Lab). Events: Open House New York Weekend Oct 17–18, 2026; Nov 12, Nov 14 programs. About: Latimer (1848–1928) taught himself mechanical drawing, worked on drawings for Bell's telephone patent, and improved carbon-filament production with Edison/Maxim. Photo: official exterior of the house (homepage).",
+        "sources": [
+          "https://www.lewislatimerhouse.org/",
+          "https://www.lewislatimerhouse.org/latimer-permanent-exhibition",
+          "https://www.lewislatimerhouse.org/about",
+          "https://images.squarespace-cdn.com/content/v1/611e9f67902c95124eaa0d6e/f79e2b25-0a55-42dd-81d4-dea2b72c4175/53797988306_36f946a86e_o+%281%29.jpg"
+        ]
+      }
+    },
+    {
+      "id": "fraunces-tavern-museum",
+      "name": "Fraunces Tavern Museum",
+      "area": "Financial District",
+      "vibe": "Pearl Street museum above the old tavern where Washington bid farewell to his officers — candlelit period rooms and a Revolutionary War show for the 250th, with free guided tours at weekends.",
+      "images": [
+        {
+          "url": "/assets/opt/date/fraunces-tavern-museum/01.webp",
+          "alt": "Fraunces Tavern Museum"
+        }
+      ],
+      "website": "https://www.frauncestavernmuseum.org/",
+      "instagram": "https://www.instagram.com/frauncestavernmuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-08",
+        "image_ok": true,
+        "notes": "Daily 2026-10-08. Official Hours & Admission page: open daily 12–5pm; main entrance 54 Pearl St, 2nd floor; adults $10; free public tours Fri 1pm, Sat 12 & 3pm, Sun 2pm. Current Exhibitions: 'Path to Liberty: The Emergence of a Nation' (Semiquincentennial, currently 1776–1777); site notes Sons of Liberty meetings and Washington's farewell to his officers. Calendar lists George Washington's New York walking tour Oct 18, 2026. Museum, not the restaurant. Photo: official period-room installation (FT2206300092RT); 18th-c pewter/bottles are table props, not drinks focus.",
+        "sources": [
+          "https://www.frauncestavernmuseum.org/admissions",
+          "https://www.frauncestavernmuseum.org/current-exhibitions",
+          "https://www.frauncestavernmuseum.org/",
+          "https://images.squarespace-cdn.com/content/v1/57444aa540261d8f099759f9/1665800801405-SRKEQOTHDW9UZ6HGWP0X/FT2206300092RT.jpg"
+        ]
+      }
+    },
+    {
+      "id": "weeksville-heritage-center",
+      "name": "Weeksville Heritage Center",
+      "area": "Crown Heights",
+      "vibe": "The Hunterfly Road Houses of Weeksville, one of America’s first free Black communities, founded in 1838 — hour-long guided tours through the 1860s and 1900s homes, plus art and talks on the grounds.",
+      "images": [
+        {
+          "url": "/assets/opt/date/weeksville-heritage-center/01.webp",
+          "alt": "Weeksville Heritage Center"
+        }
+      ],
+      "website": "https://www.weeksvillesociety.org/",
+      "instagram": "https://www.instagram.com/weeksvilleheritagecenter/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-08",
+        "image_ok": true,
+        "notes": "Daily 2026-10-08. Official site: 158 Buffalo Ave, Brooklyn; hours Tue–Fri 10am–5pm, Sat 11am–5pm, closed Sun–Mon. Tours page: public tours ~60 min, $10 adults, Tue & Wed 11:30am, Thu & Fri 2:30pm, Sat 12 & 2pm; only guided visitors enter the Hunterfly Road Houses; Weeksville founded after James Weeks bought land in 1838 as an independent free Black community; 1860s and 1900s historic houses. Homepage: Weeksville Green market returns Oct 24, 2026. Photo: official Hunterfly Road Houses image (WHC-Houses-2), tight crop on the houses (~1.1x upscale).",
+        "sources": [
+          "https://www.weeksvillesociety.org/",
+          "https://www.weeksvillesociety.org/visit/tours/",
+          "https://www.weeksvillesociety.org/wp-content/uploads/2023/03/WHC-Houses-2-1-scaled-e1679431530555.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -5827,6 +5930,58 @@
           "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/763831620_18348855583247966_1007360436895952418_n.jpg"
         ]
       }
+    },
+    {
+      "id": "bungalow-nyc",
+      "name": "Bungalow",
+      "area": "East Village",
+      "vibe": "Vikas Khanna’s First Avenue Indian dining room — a menu that travels across India’s states, from Banarasi puri and Railway chicken curry to saffron biryani under a lidded pot.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bungalow-nyc/01.webp",
+          "alt": "Bungalow"
+        }
+      ],
+      "website": "https://www.bungalowny.com/",
+      "instagram": "https://www.instagram.com/bungalowny/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-08",
+        "image_ok": true,
+        "notes": "Daily 2026-10-08. Official site: 24 First Ave, New York, NY 10009; Tue–Sun 5–11pm (last seating 10pm), closed Mon. Homepage: Chef Vikas Khanna; menu that 'travels across 28 states'. Official menu: Banarasi Puri, Smoked Sweet Potato Chaat, Ammi's Lamb Chops, Railway Chicken Curry, Chicken Biryani (saffron, crispy onion, mint), Rajasthani Pulled Lamb. Single location (sister restaurant GupShup is a different concept). Photo: official biryani in lidded pot.",
+        "sources": [
+          "https://www.bungalowny.com/",
+          "https://www.bungalowny.com/visit",
+          "https://www.bungalowny.com/menu",
+          "https://images.squarespace-cdn.com/content/v1/65983d57438d713cfc579485/16f6da1a-0ac0-40dd-ab22-2293ec2da7d9/Screenshot+2024-03-19+at+9.01.33%E2%80%AFPM.png"
+        ]
+      }
+    },
+    {
+      "id": "cafe-carmellini",
+      "name": "Café Carmellini",
+      "area": "NoMad",
+      "vibe": "Andrew Carmellini’s Fifth Avenue dining room in a neoclassical landmark — two sculptural trees under chandeliers, balcony tables, and Italian-French plates like lobster cannelloni and squab en croûte.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cafe-carmellini/01.webp",
+          "alt": "Café Carmellini"
+        }
+      ],
+      "website": "https://www.cafecarmellini.com/",
+      "instagram": "https://www.instagram.com/cafecarmellini/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-08",
+        "image_ok": true,
+        "notes": "Daily 2026-10-08. Official Hours & Location: 250 Fifth Ave (The Fifth Avenue Hotel); dinner Mon–Sun 5–10pm, breakfast daily, weekday lunch, weekend brunch. About: chef Andrew Carmellini's return to fine dining; Italian-French menu; landmark neoclassical mansion designed by Martin Brudnizki; dining room with two grand sculptural trees and balconies. Menus: Cannelloni della Casa, Squab en Croûte, Roasted Veal Medallions alla Ossobuco, Chicken 'Gran Sasso' for two. Single restaurant. Photo: official dining-room hero (Interior_Hero_WA).",
+        "sources": [
+          "https://www.cafecarmellini.com/location/cafe-carmellini/",
+          "https://www.cafecarmellini.com/about/",
+          "https://www.cafecarmellini.com/menus/",
+          "https://images.getbento.com/accounts/b2adc7202c613d8d32788fbe45e0627f/media/images/31382CafeÌ_Carmellini_Interior_Hero_WA.jpeg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -7700,6 +7855,81 @@
           "https://www.thegreenroom42.com/",
           "https://thegreenroom42.venuetix.com/",
           "https://images.squarespace-cdn.com/content/v1/6914a13848b3d45e811ea8b5/f5f4938f-1a33-48d4-a8b6-ca50e87549ba/IMG_4903-GR+from+house+center.jpg"
+        ]
+      }
+    },
+    {
+      "id": "cafe-carlyle",
+      "name": "Café Carlyle",
+      "area": "Upper East Side",
+      "vibe": "The Carlyle’s intimate supper club — lamp-lit tables, painted murals and a grand piano, with dinner from 6:30 and headline sets at 8:45, from Madeleine Peyroux to St. Vincent this October.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/cafe-carlyle/01.webp",
+          "alt": "Café Carlyle"
+        }
+      ],
+      "website": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/dining/cafe-carlyle",
+      "instagram": "https://www.instagram.com/rosewoodthecarlyle/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-08",
+        "image_ok": true,
+        "notes": "Daily 2026-10-08. Official Rosewood page: 'an intimate, last-of-its-kind supper club' with classic cabaret; 35 East 76th St. Official Café Carlyle calendar: Brian Newman Oct 8–9, Madeleine Peyroux Oct 13–17, Patty Smyth Oct 20–24, St. Vincent Oct 27–29, Christine Andreas Oct 31, John Pizzarelli & Jessica Molaskey Nov 3–14, 2026; dinner reservations from 6:30pm, performances 8:45pm. Instagram is the hotel's account linked from the page. Photo: official Café Carlyle room image (murals + piano), cropped to the piano side; place-setting glasses visible but not the focus.",
+        "sources": [
+          "https://www.rosewoodhotels.com/en/the-carlyle-new-york/dining/cafe-carlyle",
+          "https://www.rosewoodhotels.com/en/the-carlyle-new-york/experiences/cafe-carlyle",
+          "https://picasso.rosewoodhotelgroup.com/transform/4c21c65b-d788-4633-a9db-f2377358043e/RWCAR_3-0_Brand-com_Assets_Cafe-Carlyle"
+        ]
+      }
+    },
+    {
+      "id": "brooklyn-paramount",
+      "name": "Brooklyn Paramount",
+      "area": "Downtown Brooklyn",
+      "vibe": "A 1928 baroque movie palace on Flatbush Avenue Extension, where Duke Ellington played and rock ’n’ roll revues raised the roof — restored as a concert hall under a gilded ceiling, shows most nights.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/brooklyn-paramount/01.webp",
+          "alt": "Brooklyn Paramount"
+        }
+      ],
+      "website": "https://www.brooklynparamount.com/",
+      "instagram": "https://www.instagram.com/brooklynparamount/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-08",
+        "image_ok": true,
+        "notes": "Daily 2026-10-08. Official site: 385 Flatbush Ave Extension; October 2026 shows incl. Knocked Loose & Denzel Curry Oct 8, Kelela Oct 9–10, Sylvan Esso Oct 14, Beck Oct 22–23, Tinashe Oct 24. History page: opened Nov 24, 1928 as 'America's first theater built for sound' by Rapp & Rapp; Duke Ellington 1931; 1955–60 rock 'n' roll revues; closed as a theatre 1962 (LIU basketball arena); reopened spring 2024. Photo: official auditorium image from the site (stage, gilded ceiling); marquee rendering skipped.",
+        "sources": [
+          "https://www.brooklynparamount.com/",
+          "https://www.brooklynparamount.com/our-story",
+          "https://assets.livenationcdn.com/uploads/b45a1613-7992-405b-b311-22a21d14b5c3.jpg"
+        ]
+      }
+    },
+    {
+      "id": "terra-blues",
+      "name": "Terra Blues",
+      "area": "Greenwich Village",
+      "vibe": "Second-floor blues saloon over Bleecker Street since 1990 — an arched ceiling, photos of the greats on the walls, and two live bands every night of the week.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/terra-blues/01.webp",
+          "alt": "Terra Blues"
+        }
+      ],
+      "website": "https://www.terrablues.com/",
+      "instagram": "https://www.instagram.com/terrabluesnewyork/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-08",
+        "image_ok": true,
+        "notes": "Daily 2026-10-08. Official site: 149 Bleecker St; 'Live Blues since 1990'; second-floor view of Bleecker Street, arched ceiling; past players incl. Hubert Sumlin, Little Milton, Magic Slim; open daily 6:30pm Sun–Fri, 6pm Sat. Calendar Oct 2026: sets at 7pm and 10pm nightly, e.g. Lightnin' Malcolm / Robert Kimbrough Band Oct 8, Adjua Ajamu Trio / Jr Mack Band Oct 9, Doc French Trio / SaRon Crenshaw Band Oct 10. Single venue. Photo: official storefront image (outside.jpg) with Terra Blues awning.",
+        "sources": [
+          "https://www.terrablues.com/",
+          "https://www.terrablues.com/calendar",
+          "https://images.squarespace-cdn.com/content/v1/60b40d208d582847f085d582/1622574896111-WL4GD7RVYNW4AZ5CEP8Y/outside.jpg"
         ]
       }
     }
