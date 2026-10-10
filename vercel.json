@@ -1,4 +1,10 @@
 {
+  "functions": {
+    "api/mcp.ts": {
+      "includeFiles": "public/data/*.json,public/cities.json",
+      "maxDuration": 10
+    }
+  },
   "headers": [
     {
       "source": "/(.*)",
