@@ -449,19 +449,6 @@
       ]
     },
     {
-      "id": "broadway-shopping-centre",
-      "name": "Broadway Shopping Centre",
-      "area": "London",
-      "vibe": "Broadway Shopping Centre is Bexleyheath’s premier shopping destination, with more than 60 stores and 1,200 car parking spaces. We’re easy to get to too, with excellent transport links available.",
-      "website": "https://www.broadwayshoppingcentre.com/",
-      "images": [
-        {
-          "url": "/assets/opt/date/broadway-shopping-centre/01.webp",
-          "alt": "Broadway Shopping Centre"
-        }
-      ]
-    },
-    {
       "id": "brunel-museum",
       "name": "Brunel Museum",
       "area": "London",
@@ -722,19 +709,6 @@
       ]
     },
     {
-      "id": "galerie-artima",
-      "name": "Galerie Artima",
-      "area": "London",
-      "vibe": "Galerie d'art contemporain - Paris - Agent de l'artiste américain Charles Fazzino",
-      "website": "https://www.galerie-artima.com/",
-      "images": [
-        {
-          "url": "/assets/opt/date/galerie-artima/01.webp",
-          "alt": "Galerie Artima"
-        }
-      ]
-    },
-    {
       "id": "gallery-midnight",
       "name": "Gallery Midnight.",
       "area": "London",
@@ -757,19 +731,6 @@
         {
           "url": "/assets/opt/date/gladwell-and-patterson/01.webp",
           "alt": "Gladwell & Patterson"
-        }
-      ]
-    },
-    {
-      "id": "greenway-orchard-green-gym-newham",
-      "name": "Greenway Orchard Green Gym (Newham)",
-      "area": "London",
-      "vibe": "The Conservation Volunteers (TCV) works with people across the UK to create healthier and happier communities. We connect people and green spaces to deliver lasting outcomes for both.",
-      "website": "https://www.tcv.org.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/date/greenway-orchard-green-gym-newham/01.webp",
-          "alt": "Greenway Orchard Green Gym (Newham)"
         }
       ]
     },
@@ -855,27 +816,23 @@
       "id": "imperial-war-museum",
       "name": "Imperial War Museum",
       "area": "Lambeth",
-      "vibe": "Our London museum tells the stories of people’s experiences of modern war from WW1 to conflicts today",
+      "vibe": "Free on Lambeth Road: the First World War galleries hold 1,300 objects, from the trenches to the Blitz and the Cold War. Then the Blavatnik art, film and photography galleries.",
       "website": "https://www.iwm.org.uk/visits/iwm-london",
       "images": [
         {
           "url": "/assets/opt/date/imperial-war-museum/01.webp",
           "alt": "Imperial War Museum"
         }
-      ]
-    },
-    {
-      "id": "imperial-war-museum-london",
-      "name": "Imperial War Museum London",
-      "area": "London",
-      "vibe": "Our London museum tells the stories of people’s experiences of modern war from WW1 to conflicts today",
-      "website": "https://www.iwm.org.uk/visits/iwm-london",
-      "images": [
-        {
-          "url": "/assets/opt/date/imperial-war-museum-london/01.webp",
-          "alt": "Imperial War Museum London"
-        }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from the official visit page (old line was the meta description). Duplicate card imperial-war-museum-london removed.",
+        "sources": [
+          "https://www.iwm.org.uk/visits/iwm-london"
+        ]
+      }
     },
     {
       "id": "international-heritage-centre",
@@ -1102,14 +1059,23 @@
       "id": "photographers-gallery",
       "name": "Photographers' Gallery",
       "area": "Soho",
-      "vibe": "Discover what exhibitions, events, talks and workshops are going on, and coming up, in the Gallery and online.",
+      "vibe": "Ramillies Street, a minute from Oxford Circus — photography exhibitions and a Camera Obscura. Open till 8pm Thursdays and Fridays, free after 5pm on the first Friday.",
       "website": "https://thephotographersgallery.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/photographers-gallery/01.webp",
           "alt": "Photographers' Gallery"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from the official visit page (old line was generic). Duplicate card the-photographers-gallery removed.",
+        "sources": [
+          "https://thephotographersgallery.org.uk/visit"
+        ]
+      }
     },
     {
       "id": "queens-house",
@@ -1216,19 +1182,6 @@
       ]
     },
     {
-      "id": "shipton-street-gallery",
-      "name": "Shipton Street Gallery",
-      "area": "London",
-      "vibe": "TOKEKWIN memusatkan pengaturan akun, riwayat aktivitas, dan kontrol sesi dalam satu tampilan agar pengguna lebih mudah mengelola akses harian.",
-      "website": "http://www.shiptonstreetgallery.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/date/shipton-street-gallery/01.webp",
-          "alt": "Shipton Street Gallery"
-        }
-      ]
-    },
-    {
       "id": "sir-john-soanes-museum",
       "name": "Sir John Soane's Museum",
       "area": "Lincoln's Inn Fields",
@@ -1316,32 +1269,6 @@
         {
           "url": "/assets/opt/date/the-fan-museum/01.webp",
           "alt": "The Fan Museum"
-        }
-      ]
-    },
-    {
-      "id": "the-fine-art-society",
-      "name": "The Fine Art Society",
-      "area": "London",
-      "vibe": "Established in 1876, The Fine Art Society’s elegant gallery space in Edinburgh handles exceptional works of British art and design.",
-      "website": "https://thefineartsociety.com/",
-      "images": [
-        {
-          "url": "/assets/opt/date/the-fine-art-society/01.webp",
-          "alt": "The Fine Art Society"
-        }
-      ]
-    },
-    {
-      "id": "the-photographers-gallery",
-      "name": "The Photographers' Gallery",
-      "area": "London",
-      "vibe": "Who we are and what we do Home for the next generation of photography About us Contact us Work with us",
-      "website": "https://thephotographersgallery.org.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/date/the-photographers-gallery/01.webp",
-          "alt": "The Photographers' Gallery"
         }
       ]
     },
@@ -1474,6 +1401,72 @@
           "alt": "Young V&A"
         }
       ]
+    },
+    {
+      "id": "dennis-severs-house",
+      "name": "Dennis Severs' House",
+      "area": "Spitalfields",
+      "vibe": "18 Folgate Street: rooms dressed as if the 18th-century residents have just stepped out. Book the Silent Night visit — candlelight, ticking clocks, perfume and cloves.",
+      "website": "https://www.dennissevershouse.co.uk/",
+      "images": [
+        {
+          "url": "/assets/opt/date/dennis-severs-house/01.webp",
+          "alt": "The red-shuttered front of Dennis Severs' House on Folgate Street"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: 'Dennis Severs' House 2026-05-17' by Bex Walton, CC BY 4.0, Wikimedia Commons.",
+        "sources": [
+          "https://www.dennissevershouse.co.uk/"
+        ]
+      }
+    },
+    {
+      "id": "shakespeares-globe",
+      "name": "Shakespeare's Globe",
+      "area": "Bankside",
+      "vibe": "Shakespeare on the Thames at Bankside, in the open-air wooden Globe Theatre — dress for the weather. Or by candlelight in the Sam Wanamaker Playhouse on the same site.",
+      "website": "https://www.shakespearesglobe.com/visit/",
+      "images": [
+        {
+          "url": "/assets/opt/date/shakespeares-globe/01.webp",
+          "alt": "The stage and galleries inside Shakespeare's Globe"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line from the official visit page. Photo: 'Shakespeare's Globe, London, UK (Ank Kumar, Infosys Limited) 01' by Ank Kumar, CC BY-SA 4.0, Wikimedia Commons.",
+        "sources": [
+          "https://www.shakespearesglobe.com/visit/"
+        ]
+      }
+    },
+    {
+      "id": "garden-museum",
+      "name": "Garden Museum",
+      "area": "Lambeth",
+      "vibe": "Britain's only museum of gardens, on the Thames beside Lambeth Palace, across from Parliament. A peaceful courtyard garden, then lunch at the Garden Café.",
+      "website": "https://gardenmuseum.org.uk/visit/",
+      "images": [
+        {
+          "url": "/assets/opt/date/garden-museum/01.webp",
+          "alt": "The knot garden in the Garden Museum courtyard"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line from the official visit page. Photo: 'Garden of The Garden Museum, London' by DeFacto, CC BY-SA 4.0, Wikimedia Commons.",
+        "sources": [
+          "https://gardenmuseum.org.uk/visit/"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -2447,19 +2440,6 @@
         {
           "url": "/assets/opt/dinner/hot-cut/01.webp",
           "alt": "Hot Cut"
-        }
-      ]
-    },
-    {
-      "id": "ikea-restaurant",
-      "name": "IKEA Restaurant",
-      "area": "London",
-      "vibe": "Visit IKEA Croydon for stylish, affordable furniture, home decor & Swedish food. Check opening times, offers & shop online or in store.",
-      "website": "https://www.ikea.com/gb/en/stores/croydon/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/ikea-restaurant/01.webp",
-          "alt": "IKEA Restaurant"
         }
       ]
     },
@@ -4162,19 +4142,6 @@
       ]
     },
     {
-      "id": "birthdays",
-      "name": "Birthdays",
-      "area": "Dalston",
-      "vibe": "Beli produk ini dan dapatkan produk pilihan dengan harga spesial",
-      "website": "https://www.birthdaysdalston.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/birthdays/01.webp",
-          "alt": "Birthdays"
-        }
-      ]
-    },
-    {
       "id": "cellardoor",
       "name": "CellarDoor",
       "area": "London",
@@ -4204,53 +4171,23 @@
       "id": "cuckoo-club",
       "name": "Cuckoo Club",
       "area": "Mayfair",
-      "vibe": "Experience London nightlife redefined. Music, design and luxury come together at The Cuckoo Club where the magic happens.",
+      "vibe": "Mirrors, mahogany and velvet across two Mayfair floors. Cosmo glows under a starlit ceiling; The Garden downstairs is built for late dancing.",
       "website": "https://www.thecuckooclub.com/",
       "images": [
         {
           "url": "/assets/opt/dance/cuckoo-club/01.webp",
-          "alt": "Cuckoo Club"
+          "alt": "The Cosmo room at The Cuckoo Club under its lit ceiling"
         }
-      ]
-    },
-    {
-      "id": "e1",
-      "name": "E1",
-      "area": "London",
-      "vibe": "E1 London â Visuals and Sound, Curated for the Dancefloor. Independent since 2017. Nightclub in East London.",
-      "website": "http://e1ldn.co",
-      "images": [
-        {
-          "url": "/assets/opt/dance/e1/01.webp",
-          "alt": "E1"
-        }
-      ]
-    },
-    {
-      "id": "grow",
-      "name": "Grow",
-      "area": "Hackney Wick",
-      "vibe": "Grow is an independent and sustainable canalside bar, kitchen and live music venue in Hackney Wick, close to Queen Elizabeth Olympic Park, East Bank and Stratford.",
-      "website": "https://www.growhackney.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/grow/01.webp",
-          "alt": "Grow"
-        }
-      ]
-    },
-    {
-      "id": "here-at-outernet",
-      "name": "Here at Outernet",
-      "area": "Tottenham Court Road",
-      "vibe": "Find out all about Outernet London - retail, restaurants, leisure, hotel, live music venue, broadcast studio and much more.",
-      "website": "https://www.outernet.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/here-at-outernet/01.webp",
-          "alt": "Here at Outernet"
-        }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line from the official 'The Club' page. Logo image replaced with the Cosmo room photo from the club's own site. Duplicate card the-cuckoo-club removed.",
+        "sources": [
+          "https://www.thecuckooclub.com/the-club"
+        ]
+      }
     },
     {
       "id": "infernos",
@@ -4262,19 +4199,6 @@
         {
           "url": "/assets/opt/dance/infernos/01.webp",
           "alt": "Infernos"
-        }
-      ]
-    },
-    {
-      "id": "jako-london",
-      "name": "Jako London",
-      "area": "London",
-      "vibe": "Casa Jako is a private-hire venue in Holborn, Central London, ideal for small to large events, club nights, ticketed events, birthdays and corporate receptions for up to 220 guests.",
-      "website": "https://www.jakolondon.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/jako-london/01.webp",
-          "alt": "Jako London"
         }
       ]
     },
@@ -4357,43 +4281,26 @@
       ]
     },
     {
-      "id": "nightjar",
-      "name": "Nightjar",
-      "area": "London",
-      "vibe": "Experience Nightjar's renowned reputation for breathing new life into cocktails, explore our bar's extensive spirit list, including vintage options, along with delectable snacks.",
-      "website": "https://barnightjar.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/nightjar/01.webp",
-          "alt": "Nightjar"
-        }
-      ]
-    },
-    {
       "id": "nightjar-shoreditch",
       "name": "Nightjar Shoreditch",
       "area": "Shoreditch",
-      "vibe": "Experience Nightjar's renowned reputation for breathing new life into cocktails, explore our bar's extensive spirit list, including vintage options, along with delectable snacks. Enjoy the best vintage jazz, blues, ragtime, and swing in Shoreditch, East London.",
+      "vibe": "Fifteen years of theatrical cocktails built on rare and vintage spirits, in the heart of Shoreditch. Live jazz, blues, ragtime and swing set the night.",
       "website": "https://www.barnightjar.com/",
       "images": [
         {
           "url": "/assets/opt/dance/nightjar-shoreditch/01.webp",
-          "alt": "Nightjar Shoreditch"
+          "alt": "The back bar at Nightjar Shoreditch"
         }
-      ]
-    },
-    {
-      "id": "nightjar-soho",
-      "name": "Nightjar Soho",
-      "area": "Soho",
-      "vibe": "Experience Nightjar's renowned reputation for breathing new life into cocktails, explore our bar's extensive spirit list, including vintage options, along with delectable snacks. Enjoy the best vintage jazz, blues, ragtime, and swing in Shoreditch, East London.",
-      "website": "https://www.barnightjar.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/nightjar-soho/01.webp",
-          "alt": "Nightjar Soho"
-        }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line from the official site. Logo image replaced with the bar photo from the venue's own site. Duplicate card nightjar removed; Nightjar Carnaby (nightjar-soho) removed as the site lists its closure.",
+        "sources": [
+          "https://www.barnightjar.com/"
+        ]
+      }
     },
     {
       "id": "o2-academy-brixton",
@@ -4448,19 +4355,6 @@
       ]
     },
     {
-      "id": "oslo-hackney",
-      "name": "Oslo Hackney",
-      "area": "Hackney",
-      "vibe": "Late night venue in Hackney serving 2 for £12 cocktails til 12am. DJs every weekend and gigs all week ?",
-      "website": "https://oslohackney.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/oslo-hackney/01.webp",
-          "alt": "Oslo Hackney"
-        }
-      ]
-    },
-    {
       "id": "silverworks-island",
       "name": "Silverworks Island",
       "area": "London",
@@ -4470,19 +4364,6 @@
         {
           "url": "/assets/opt/dance/silverworks-island/01.webp",
           "alt": "Silverworks Island"
-        }
-      ]
-    },
-    {
-      "id": "stereo",
-      "name": "STEREO",
-      "area": "London",
-      "vibe": "A heady mix of music, cocktails and dining, in Covent Garden in London.",
-      "website": "https://www.stereocoventgarden.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/stereo/01.webp",
-          "alt": "STEREO"
         }
       ]
     },
@@ -4552,30 +4433,26 @@
       ]
     },
     {
-      "id": "the-cuckoo-club",
-      "name": "The Cuckoo Club",
-      "area": "London",
-      "vibe": "Experience London nightlife redefined. Music, design and luxury come together at The Cuckoo Club where the magic happens.",
-      "website": "https://www.thecuckooclub.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/the-cuckoo-club/01.webp",
-          "alt": "The Cuckoo Club"
-        }
-      ]
-    },
-    {
       "id": "the-garage",
       "name": "The Garage",
       "area": "Highbury",
-      "vibe": "Located in vibrant North London, O2 Academy Islington hosts live music and club nights from established acts looking for an intimate performance atmosphere and new and emerging artists cutting their teeth in the capital.",
-      "website": "https://www.o2academyislington.co.uk/",
+      "vibe": "Highbury Corner's indie rite of passage since 1993 — Pulp opened it, Muse and Arctic Monkeys followed. Gigs and club nights in an old Temperance Billiard Hall.",
+      "website": "https://www.dhpfamily.com/venues/garage/",
       "images": [
         {
           "url": "/assets/opt/dance/the-garage/01.webp",
-          "alt": "The Garage"
+          "alt": "The Garage frontage on Highbury Corner"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from operator DHP's venue page (old line was O2 Academy Islington copy). Photo: 'Garage, Highbury, N5' by Ewan-M, CC BY-SA 4.0, Wikimedia Commons (2025).",
+        "sources": [
+          "https://www.dhpfamily.com/venues/garage/"
+        ]
+      }
     },
     {
       "id": "the-hatch-club",
