@@ -451,15 +451,24 @@
     {
       "id": "brunel-museum",
       "name": "Brunel Museum",
-      "area": "London",
-      "vibe": "The Brunel Museum is an educational charity run by volunteers that tells the story of one of the world’s great engineering dynasties",
+      "area": "Rotherhithe",
+      "vibe": "The Brunels dug the world's first tunnel under a navigable river here, and threw the first underwater concert party in 1827. See the Engine House and the Grade II* listed Tunnel Shaft.",
       "website": "https://thebrunelmuseum.com",
       "images": [
         {
           "url": "/assets/opt/date/brunel-museum/01.webp",
           "alt": "Brunel Museum"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local photo of the Engine House kept.",
+        "sources": [
+          "https://thebrunelmuseum.com"
+        ]
+      }
     },
     {
       "id": "cadogan-contemporary",
@@ -478,14 +487,23 @@
       "id": "camden-market",
       "name": "Camden Market",
       "area": "Camden",
-      "vibe": "Plan your visit to Camden Market in London. Discover a melting pot of experiences, shops and food, with 1,000 independent traders across Lock, Stables and Hawley Wharf.",
+      "vibe": "More than 1,000 shops, stalls, bars and cafés across the Lock, Stables and Hawley Wharf. Boat trips on Regent's Canal leave from the West Yard.",
       "website": "https://camdenmarket.com/",
       "images": [
         {
           "url": "/assets/opt/date/camden-market/01.webp",
           "alt": "Camden Market"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local photo of Camden Lock kept.",
+        "sources": [
+          "https://camdenmarket.com/"
+        ]
+      }
     },
     {
       "id": "castle-cinema",
@@ -568,15 +586,24 @@
     {
       "id": "cutty-sark",
       "name": "Cutty Sark",
-      "area": "London",
-      "vibe": "Step aboard the historic sailing ship, the fastest of its time",
+      "area": "Greenwich",
+      "vibe": "Board the historic ship in Greenwich, where volunteer explainers bring its story to life. The café sits on the lower deck, under the gleaming copper hull.",
       "website": "https://www.rmg.co.uk/cuttysark",
       "images": [
         {
           "url": "/assets/opt/date/cutty-sark/01.webp",
           "alt": "Cutty Sark"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local photo aboard the ship kept.",
+        "sources": [
+          "https://www.rmg.co.uk/cutty-sark"
+        ]
+      }
     },
     {
       "id": "c-pperfield",
@@ -915,15 +942,24 @@
     {
       "id": "london-museum-docklands",
       "name": "London Museum Docklands",
-      "area": "London",
-      "vibe": "Pop along to our beautiful riverside setting and step into 400 years of London Docklands history – free and open to all.",
+      "area": "West India Quay",
+      "vibe": "Nine free galleries on 400 years of Docklands history, in a riverside warehouse. Stories of slavery in London, the wartime docks and how Canary Wharf came to be.",
       "website": "https://www.londonmuseum.org.uk/docklands/",
       "images": [
         {
           "url": "/assets/opt/date/london-museum-docklands/01.webp",
           "alt": "London Museum Docklands"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local photo of the museum building kept.",
+        "sources": [
+          "https://www.londonmuseum.org.uk/docklands/"
+        ]
+      }
     },
     {
       "id": "london-transport-museum",
@@ -1080,15 +1116,24 @@
     {
       "id": "queens-house",
       "name": "Queen's House",
-      "area": "London",
-      "vibe": "See extraordinary art for free inside one of London's most beautiful buildings",
+      "area": "Greenwich",
+      "vibe": "Free to visit in Greenwich, with new displays installed each year from its growing collection. Special exhibitions run through the year.",
       "website": "https://www.rmg.co.uk/queens-house",
       "images": [
         {
           "url": "/assets/opt/date/queens-house/01.webp",
           "alt": "Queen's House"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local photo of the Queen's House kept.",
+        "sources": [
+          "https://www.rmg.co.uk/queens-house"
+        ]
+      }
     },
     {
       "id": "royal-academy-of-arts",
@@ -1146,14 +1191,23 @@
       "id": "serpentine-galleries",
       "name": "Serpentine Galleries",
       "area": "Kensington Gardens",
-      "vibe": "Free contemporary art gallery in London's Kensington gardens with a year-round programme taking place across two galleries, in the park and online.",
+      "vibe": "Two free contemporary art galleries, Serpentine South and Serpentine North, in Kensington Gardens. Shows span painting, sculpture, sound and film.",
       "website": "https://www.serpentinegalleries.org/",
       "images": [
         {
           "url": "/assets/opt/date/serpentine-galleries/01.webp",
           "alt": "Serpentine Galleries"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local aerial photo of Serpentine South kept.",
+        "sources": [
+          "https://www.serpentinegalleries.org/"
+        ]
+      }
     },
     {
       "id": "severndroog-castle",
@@ -1171,15 +1225,24 @@
     {
       "id": "sherlock-holmes-museum",
       "name": "Sherlock Holmes Museum",
-      "area": "London",
-      "vibe": "Test your knowledge. Are you a Sherlock super sleuth? Take our fun quiz to test your knowledge about Sherlock Holmes, his adversaries and adventures",
+      "area": "Marylebone",
+      "vibe": "Gaslight, Victorian curiosities and objects from Holmes's most famous cases. At 221B Baker Street, open daily 9:30am to 6pm.",
       "website": "https://www.sherlock-holmes.co.uk/",
       "images": [
         {
           "url": "/assets/opt/date/sherlock-holmes-museum/01.webp",
           "alt": "Sherlock Holmes Museum"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local photo of the 221B frontage kept.",
+        "sources": [
+          "https://www.sherlock-holmes.co.uk/"
+        ]
+      }
     },
     {
       "id": "sir-john-soanes-museum",
@@ -1275,28 +1338,46 @@
     {
       "id": "the-postal-museum",
       "name": "The Postal Museum",
-      "area": "London",
-      "vibe": "An unmissable day out for everyone. Journey through time, ride Mail Rail, and explore interactive exhibitions.",
+      "area": "Clerkenwell",
+      "vibe": "Ride Mail Rail, the museum's underground train, then step into The Jolly Postman exhibition. Open Tuesday to Sunday, 10am to 5pm.",
       "website": "https://www.postalmuseum.org/",
       "images": [
         {
           "url": "/assets/opt/date/the-postal-museum/01.webp",
           "alt": "The Postal Museum"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local photo inside Mail Rail kept.",
+        "sources": [
+          "https://www.postalmuseum.org/"
+        ]
+      }
     },
     {
       "id": "tower-bridge-exhibition",
       "name": "Tower Bridge Exhibition",
-      "area": "London",
-      "vibe": "Explore inside Tower Bridge. Take in panoramic views from the High-level Walkways and Glass Floors.",
+      "area": "Tower Bridge",
+      "vibe": "Walk the High-Level Walkways for panoramic views and stand on the Glass Floors. Below, the Victorian Engine Rooms once powered the bridge lifts.",
       "website": "https://www.towerbridge.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/tower-bridge-exhibition/01.webp",
           "alt": "Tower Bridge Exhibition"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local photo of Tower Bridge kept.",
+        "sources": [
+          "https://www.towerbridge.org.uk/"
+        ]
+      }
     },
     {
       "id": "trent-park-house-of-secrets",
@@ -1340,15 +1421,24 @@
     {
       "id": "whitechapel-gallery",
       "name": "Whitechapel Gallery",
-      "area": "London",
-      "vibe": "Exhibitions, Talks & Events, Whitechapel Gallery Archives, Education, Limited Edition Prints, Films, Publications",
+      "area": "Whitechapel",
+      "vibe": "Exhibitions, talks and limited-edition prints next to Aldgate East. Alba Caffè and the bookshop are downstairs.",
       "website": "https://www.whitechapelgallery.org/",
       "images": [
         {
           "url": "/assets/opt/date/whitechapel-gallery/01.webp",
           "alt": "Whitechapel Gallery"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local facade photo kept.",
+        "sources": [
+          "https://www.whitechapelgallery.org/"
+        ]
+      }
     },
     {
       "id": "willer",
@@ -2008,14 +2098,23 @@
       "id": "alain-ducasse-at-the-dorchester",
       "name": "Alain Ducasse at The Dorchester",
       "area": "Mayfair",
-      "vibe": "Awarded 3 Michelin stars since 2010, and re-imagined in January 2020, Alain Ducasse at the Dorchester offers contemporary French cuisine in a modern, bright and elegant setting. Located in Mayfair, the restaurant overlooks Hyde Park.",
+      "vibe": "Three Michelin stars inside The Dorchester on Park Lane. Contemporary French haute cuisine in a light, elegantly informal room.",
       "website": "https://www.alainducasse-dorchester.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/alain-ducasse-at-the-dorchester/01.webp",
-          "alt": "Alain Ducasse at The Dorchester"
+          "alt": "The dining room at Alain Ducasse at The Dorchester, with the light-curtained Table Lumière"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Photo from the official site (dining room); replaced an unrelated vineyard image.",
+        "sources": [
+          "https://www.alainducasse-dorchester.com/"
+        ]
+      }
     },
     {
       "id": "ave-mario",
@@ -2096,14 +2195,23 @@
       "id": "bibi",
       "name": "Bibi",
       "area": "Mayfair",
-      "vibe": "BiBi is a contemporary Indian restaurant from Chef Patron Chet Sharma, located on North Audley Street in Mayfair, London.",
+      "vibe": "Chet Sharma's progressive cooking draws on ingredients and memories from the Indian subcontinent. A Chef's Selection tasting menu at dinner, and BiBi Lates à la carte after 9pm.",
       "website": "https://bibirestaurants.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/bibi/01.webp",
-          "alt": "Bibi"
+          "alt": "BiBi on North Audley Street at night"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Exterior photo from the official site.",
+        "sources": [
+          "https://www.bibirestaurants.com/"
+        ]
+      }
     },
     {
       "id": "bun-and-sum",
@@ -2171,19 +2279,6 @@
       ]
     },
     {
-      "id": "chacarero",
-      "name": "Chacarero",
-      "area": "London",
-      "vibe": "At Chacarero London we do Premium Argentine-style handmade empanadas, chimichurri sauce and alfajores filled with dulce de leche. Everything we do is fresh, made with premium quality ingredients and with lots of love.",
-      "website": "https://www.chacarerolondon.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/chacarero/01.webp",
-          "alt": "Chacarero"
-        }
-      ]
-    },
-    {
       "id": "chets",
       "name": "Chet's",
       "area": "London",
@@ -2210,19 +2305,6 @@
       ]
     },
     {
-      "id": "chicos",
-      "name": "Chicos",
-      "area": "Leyton",
-      "vibe": "https://chicoslondon.co.uk/storage/2025/10/Website-Video-Chicos.mp4 HOME OF THE LEGENDARYSMASH Take a bite out of a real burger,take your pick at Chicos!",
-      "website": "https://chicoslondon.co.uk",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/chicos/01.webp",
-          "alt": "Chicos"
-        }
-      ]
-    },
-    {
       "id": "chino-latino",
       "name": "Chino Latino",
       "area": "London",
@@ -2238,15 +2320,24 @@
     {
       "id": "chishuru",
       "name": "Chishuru",
-      "area": "London",
-      "vibe": "A Michelin-starred modern west African restaurant in Fitzrovia, London.",
+      "area": "Fitzrovia",
+      "vibe": "Joké Bakare's modern west African cooking on Great Titchfield Street. Yoruba, Igbo and Hausa dishes, with ingredients like uziza pepper and daddawa.",
       "website": "https://www.chishuru.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/chishuru/01.webp",
-          "alt": "Chishuru"
+          "alt": "Dishes on a wooden table at Chishuru"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Food photo from the official site.",
+        "sources": [
+          "https://www.chishuru.com/"
+        ]
+      }
     },
     {
       "id": "cinquecento",
@@ -2275,32 +2366,6 @@
       ]
     },
     {
-      "id": "de-amicis",
-      "name": "De Amicis",
-      "area": "London",
-      "vibe": "Traditional family run Italian restaurant located in the heart of Notting Hill",
-      "website": "https://www.deamicis.co.uk",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/de-amicis/01.webp",
-          "alt": "De Amicis"
-        }
-      ]
-    },
-    {
-      "id": "dumbo-shoreditch",
-      "name": "Dumbo Shoreditch",
-      "area": "London",
-      "vibe": "Dumbo in London: Shoreditch, Soho. Addresses, opening hours and directions. No reservations, first come first served.",
-      "website": "https://www.dumboparis.com/shoreditch",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/dumbo-shoreditch/01.webp",
-          "alt": "Dumbo Shoreditch"
-        }
-      ]
-    },
-    {
       "id": "eat-vietnam",
       "name": "Eat Vietnam",
       "area": "London",
@@ -2310,19 +2375,6 @@
         {
           "url": "/assets/opt/dinner/eat-vietnam/01.webp",
           "alt": "Eat Vietnam"
-        }
-      ]
-    },
-    {
-      "id": "eaturkish",
-      "name": "EaTurkish",
-      "area": "London",
-      "vibe": "EaTurkish | Authentic Turkish Cuisine in the Heart of London. Signature Kebabs Served in Homemade Bread",
-      "website": "https://www.eaturkish.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/eaturkish/01.webp",
-          "alt": "EaTurkish"
         }
       ]
     },
@@ -2343,14 +2395,23 @@
       "id": "empire-empire",
       "name": "Empire Empire",
       "area": "Notting Hill",
-      "vibe": "Empire Empire — a celebration of food, art and music in Notting Hill. Punjabi cuisine, jukeboxes, polaroids and murals.",
+      "vibe": "Jukeboxes, polaroids and murals on All Saints Road. Comforting Indian food in a nostalgic room built around food, art and music.",
       "website": "https://empire-empire.restaurant/",
       "images": [
         {
           "url": "/assets/opt/dinner/empire-empire/01.webp",
           "alt": "Empire Empire"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local food photo kept.",
+        "sources": [
+          "https://empire-empire.restaurant/"
+        ]
+      }
     },
     {
       "id": "ev",
@@ -2375,19 +2436,6 @@
         {
           "url": "/assets/opt/dinner/four-hundred-rabbits/01.webp",
           "alt": "Four Hundred Rabbits"
-        }
-      ]
-    },
-    {
-      "id": "golden-chippy",
-      "name": "Golden Chippy",
-      "area": "London",
-      "vibe": "The number one traditional fish and chip shop in London. Our customers travel from all over the world to visit us. Read our reviews on Tripadvisor.",
-      "website": "https://www.thegoldenchippy.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/golden-chippy/01.webp",
-          "alt": "Golden Chippy"
         }
       ]
     },
@@ -2420,54 +2468,46 @@
     {
       "id": "hide",
       "name": "Hide",
-      "area": "Mayfair",
-      "vibe": "Located in prestigious Mayfair, London, Hide restaurant offers a refined dining experience. Explore contemporary dishes in a sophisticated setting. Book your table today.",
+      "area": "Piccadilly",
+      "vibe": "Josh Angus's Michelin-starred kitchen at 85 Piccadilly, with tasting and à la carte menus. Downstairs, The Bar Below pours cocktails late.",
       "website": "https://hide.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/hide/01.webp",
-          "alt": "Hide"
+          "alt": "The Bar Below at Hide, 85 Piccadilly"
         }
-      ]
-    },
-    {
-      "id": "hot-cut",
-      "name": "Hot Cut",
-      "area": "London",
-      "vibe": "#Join The Meatwave Enjoy your 10th toastie on us. Join our loyalty scheme on the app or in-store loyalty card. Lunch Crunch Toastie + Chips + Drink | 12:00 To 17:00 Mama Schnitzel £10 Broken Joe £10 Hot Dog £10",
-      "website": "https://www.hotcut.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/hot-cut/01.webp",
-          "alt": "Hot Cut"
-        }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Bar photo from the official site.",
+        "sources": [
+          "https://hide.co.uk/"
+        ]
+      }
     },
     {
       "id": "ikoyi",
       "name": "Ikoyi",
-      "area": "St James's",
-      "vibe": "Ikoyi builds its own spice-based cuisine around British micro-seasonality: vegetables slowly grown for flavour, sustainable line-caught fish, and aged native beef.",
+      "area": "Strand",
+      "vibe": "Spice-led cooking built on British micro-seasonality at 180 Strand. Line-caught fish and aged native beef on a tasting menu, at tables for two to four.",
       "website": "https://ikoyilondon.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/ikoyi/01.webp",
-          "alt": "Ikoyi"
+          "alt": "The dining room at Ikoyi, 180 Strand"
         }
-      ]
-    },
-    {
-      "id": "jack-the-chipper",
-      "name": "Jack The Chipper",
-      "area": "London",
-      "vibe": "Treat yourself to a unique experience at Jack The Chipper! Our delicious food and friendly atmosphere make for a perfect breakfast, lunch or dinner spot.",
-      "website": "https://www.jackthechipper.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/jack-the-chipper/01.webp",
-          "alt": "Jack The Chipper"
-        }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Dining-room photo from the official site; replaced a logo image.",
+        "sources": [
+          "https://ikoyilondon.com/"
+        ]
+      }
     },
     {
       "id": "jamavar",
@@ -2535,19 +2575,6 @@
       ]
     },
     {
-      "id": "le-swine",
-      "name": "Le Swine",
-      "area": "East Sheen",
-      "vibe": "Our mission was simple... to take the humble bacon butty to exciting new heights! This is a bacon butty like no other, delivered to your door!",
-      "website": "https://leswine.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/le-swine/01.webp",
-          "alt": "Le Swine"
-        }
-      ]
-    },
-    {
       "id": "lime-orange",
       "name": "Lime Orange",
       "area": "London",
@@ -2563,28 +2590,46 @@
     {
       "id": "love-shack",
       "name": "Love Shack",
-      "area": "London",
-      "vibe": "100% plant-based restaurant & craft cocktail bar in Cambridge Heath, East London. Fungi-forward, pickle-obsessed, dog-friendly. A candle lit gem spanning three exposed brick victorian arches.",
+      "area": "Cambridge Heath",
+      "vibe": "A vegan restaurant and cocktail bar in three exposed-brick Victorian arches in Cambridge Heath. Gourmet and functional mushrooms run through the menu, with pickled cocktails and pickle backs.",
       "website": "https://www.loveshackldn.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/love-shack/01.webp",
-          "alt": "Love Shack"
+          "alt": "Parasols hung from the ceiling inside Love Shack"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Interior photo from the official site; replaced a logo image.",
+        "sources": [
+          "https://www.loveshackldn.com/"
+        ]
+      }
     },
     {
       "id": "marcella",
       "name": "Marcella",
-      "area": "London",
-      "vibe": "Easygoing local eatery for homemade pasta & changing sauces plus meats, seafood & Italian wines.",
+      "area": "Deptford",
+      "vibe": "Seasonal Italian and British produce on Deptford High Street. The wine list is strictly all Italian.",
       "website": "https://marcella.london/",
       "images": [
         {
           "url": "/assets/opt/dinner/marcella/01.webp",
           "alt": "Marcella"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local interior photo kept.",
+        "sources": [
+          "https://marcella.london/"
+        ]
+      }
     },
     {
       "id": "midpoint-restaurant",
@@ -2596,19 +2641,6 @@
         {
           "url": "/assets/opt/dinner/midpoint-restaurant/01.webp",
           "alt": "Midpoint Restaurant"
-        }
-      ]
-    },
-    {
-      "id": "naan-staap",
-      "name": "Naan Staap",
-      "area": "Tooting",
-      "vibe": "Experience the flavors of Naanstaap! Indulge in our mouthwatering menu featuring a variety of naan breads, delectable chicken and lamb dishes, cheesy delights, sweet treats, and more.",
-      "website": "https://naanstaap.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/naan-staap/01.webp",
-          "alt": "Naan Staap"
         }
       ]
     },
@@ -2675,56 +2707,26 @@
       ]
     },
     {
-      "id": "pad-thai-story-hammersmith",
-      "name": "Pad Thai Story (Hammersmith)",
-      "area": "London",
-      "vibe": "Pad Thai Story best Thai restaurants in Wandsworth, Try our delicious Thai street food also we have food delivery service.",
-      "website": "https://www.padthaistory.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/pad-thai-story-hammersmith/01.webp",
-          "alt": "Pad Thai Story (Hammersmith)"
-        }
-      ]
-    },
-    {
       "id": "padella-shoreditch",
       "name": "Padella Shoreditch",
       "area": "Shoreditch",
-      "vibe": "Searching for an Italian restaurant in Shoreditch, Borough Market or Soho? Padella serves authentic, handmade pasta daily. Come and discover why we're one of London's most-loved pasta restaurants.",
+      "vibe": "Handmade pasta like pici cacio e pepe and pappardelle with 8-hour beef shin ragù. The menu is dated and changes daily.",
       "website": "https://www.padella.co/",
       "images": [
         {
           "url": "/assets/opt/dinner/padella-shoreditch/01.webp",
           "alt": "Padella Shoreditch"
         }
-      ]
-    },
-    {
-      "id": "papis-munchies",
-      "name": "Papi's Munchies",
-      "area": "London",
-      "vibe": "We source our ingredients from the best producers possible around the globe, to ensure that every bite of pizza is the best that it can possibly be.",
-      "website": "https://www.papismunchiespizza.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/papis-munchies/01.webp",
-          "alt": "Papi's Munchies"
-        }
-      ]
-    },
-    {
-      "id": "peninsula",
-      "name": "Peninsula",
-      "area": "London",
-      "vibe": "Your Flavour Stop. 141-143 Greenwich S St, London SE10 8NX 02033457116/ 07776723413",
-      "website": "https://peninsula-london.co.uk/greenwich/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/peninsula/01.webp",
-          "alt": "Peninsula"
-        }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local interior photo kept.",
+        "sources": [
+          "https://www.padella.co/"
+        ]
+      }
     },
     {
       "id": "pierino",
@@ -2769,53 +2771,67 @@
       "id": "quo-vadis",
       "name": "Quo Vadis",
       "area": "Soho",
-      "vibe": "Quo Vadis is a historic Soho restaurant and private members’ club with a colourful past and a timeless allure.",
+      "vibe": "A Dean Street institution that was once a brothel and home to Karl Marx. Jeremy Lee cooks seasonal, regional British fare.",
       "website": "https://www.quovadissoho.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/quo-vadis/01.webp",
           "alt": "Quo Vadis"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": false,
+        "notes": "Existing image is the restaurant's own illustration of the building, not a photo; needs a real photo later.",
+        "sources": [
+          "https://www.quovadissoho.co.uk/"
+        ]
+      }
     },
     {
       "id": "restaurant-gordon-ramsay",
       "name": "Restaurant Gordon Ramsay",
       "area": "Chelsea",
-      "vibe": "Gordon Ramsay's eponymous Michelin star restaurant is the ultimate venue for eating out in London. View Restaurant Gordon Ramsay menus and book online.",
+      "vibe": "Gordon Ramsay's first wholly owned restaurant, on Royal Hospital Road since 1998. Three Michelin stars held since 2001, with elegant modern French cooking.",
       "website": "https://www.gordonramsayrestaurants.com/restaurant-gordon-ramsay/",
       "images": [
         {
           "url": "/assets/opt/dinner/restaurant-gordon-ramsay/01.webp",
           "alt": "Restaurant Gordon Ramsay"
         }
-      ]
-    },
-    {
-      "id": "ristorante-franco",
-      "name": "Ristorante Franco",
-      "area": "London",
-      "vibe": "Da Franco is a friendly and long-established Italian restaurant in Barnet,North London. Call on 020 8368 6224 for traditional Italian food.",
-      "website": "https://www.dafrancorestaurant.co.uk",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/ristorante-franco/01.webp",
-          "alt": "Ristorante Franco"
-        }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local kitchen photo kept.",
+        "sources": [
+          "https://www.gordonramsayrestaurants.com/restaurant-gordon-ramsay/"
+        ]
+      }
     },
     {
       "id": "rotunda",
       "name": "Rotunda",
-      "area": "London",
-      "vibe": "Enjoy waterside dining at Rotunda, Kings Cross. Our bar and restaurant offers seasonal menus, a large canal-side terrace, and private hire spaces.",
+      "area": "King's Cross",
+      "vibe": "A canal-side restaurant and bar by King's Cross, looking over Regent's Canal. Sharing cuts of beef and lamb come from its own Northumberland farm.",
       "website": "https://rotundabarandrestaurant.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/rotunda/01.webp",
           "alt": "Rotunda"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Existing local food photo kept.",
+        "sources": [
+          "https://rotundabarandrestaurant.co.uk/"
+        ]
+      }
     },
     {
       "id": "samad-al-iraqi",
@@ -2935,19 +2951,6 @@
       ]
     },
     {
-      "id": "the-kati-roll-company",
-      "name": "The Kati Roll Company",
-      "area": "London",
-      "vibe": "The Kati Roll Company London in UK at 24 Poland St. Open Monday to Sunday from 11:30am to 10:30pm.",
-      "website": "https://www.tkrc.co.uk/location/poland-street-the-kati-roll-company-london/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/the-kati-roll-company/01.webp",
-          "alt": "The Kati Roll Company"
-        }
-      ]
-    },
-    {
       "id": "trejo-s-tacos",
       "name": "Trejo‘s Tacos",
       "area": "London",
@@ -3054,6 +3057,28 @@
         "notes": "Photograph of the Air Street dining room from the official page.",
         "sources": [
           "https://thehawksmoor.com/locations/airstreet/"
+        ]
+      }
+    },
+    {
+      "id": "sabor",
+      "name": "Sabor",
+      "area": "Mayfair",
+      "vibe": "A journey from Andalucían tapas bars to the asadors of Castile and the seafood restaurants of Galicia. On Heddon Street, with the Counter and Bar downstairs and El Asador upstairs.",
+      "website": "https://www.saborrestaurants.co.uk/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sabor/01.webp",
+          "alt": "Octopus with potatoes at Sabor"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Dish photo from the official site, upscaled 1.5x to spec.",
+        "sources": [
+          "https://www.saborrestaurants.co.uk/"
         ]
       }
     }
@@ -4377,19 +4402,6 @@
         {
           "url": "/assets/opt/dance/studio-338/01.webp",
           "alt": "Studio 338"
-        }
-      ]
-    },
-    {
-      "id": "the-blues-kitchen",
-      "name": "The Blues Kitchen",
-      "area": "London",
-      "vibe": "Restaurant, bar & club hosting the best food, burgers & cocktails as well as live blues, soul & funk, with live music until late every night.",
-      "website": "https://theblueskitchen.com/shoreditch/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/the-blues-kitchen/01.webp",
-          "alt": "The Blues Kitchen"
         }
       ]
     },
