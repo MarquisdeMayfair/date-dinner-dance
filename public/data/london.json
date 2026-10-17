@@ -470,16 +470,26 @@
     },
     {
       "id": "british-library-exhibition-space",
-      "name": "British Library Exhibition Space",
-      "area": "London",
-      "vibe": "We are the UK's national library. Open to everyone and free to use. Explore our buildings, study, meet friends, attend an event and get free access to over 170 million items.",
+      "name": "British Library",
+      "area": "King's Cross",
+      "vibe": "The UK's national library, free and open to everyone. Its permanent exhibition shows some of the world's most significant books, maps and manuscripts.",
       "website": "https://www.bl.uk/",
       "images": [
         {
           "url": "/assets/opt/date/british-library-exhibition-space/01.webp",
-          "alt": "British Library Exhibition Space"
+          "alt": "The glass-walled King's Library tower inside the British Library"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description). Photo replaced 2026-10-17: Photo: Wikimedia Commons \"British Library (14).jpg\" by Immanuel Giel (CC0).",
+        "sources": [
+          "https://www.bl.uk/",
+          "https://commons.wikimedia.org/wiki/File:British_Library_(14).jpg"
+        ]
+      }
     },
     {
       "id": "brunel-museum",
@@ -728,15 +738,24 @@
     {
       "id": "firepit-art-gallery",
       "name": "Firepit Art Gallery",
-      "area": "London",
-      "vibe": "An independent gallery, artist studios and bar at 10 Cutter Lane, North Greenwich. Free entry Tuesday to Saturday â exhibitions, workshops, spoken word and life drawing.",
+      "area": "Greenwich Peninsula",
+      "vibe": "A not-for-profit gallery, open studios and licensed bar on Greenwich Peninsula, free to enter Tuesday to Saturday. Monthly nights in the Red Room run from jazz to spoken word around the room's own firepit.",
       "website": "https://www.firepit.art/",
       "images": [
         {
           "url": "/assets/opt/date/firepit-art-gallery/01.webp",
           "alt": "Firepit Art Gallery"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description).",
+        "sources": [
+          "https://www.firepit.art/"
+        ]
+      }
     },
     {
       "id": "foundling-museum",
@@ -776,15 +795,24 @@
     {
       "id": "frith-street-gallery",
       "name": "Frith Street Gallery",
-      "area": "London",
-      "vibe": "A venue for international contemporary visual artists working in painting, photography, sculpture, film and video.",
+      "area": "Soho",
+      "vibe": "International contemporary art on Golden Square: painting, photography, sculpture, film and video. Colin Self's first London retrospective fills two floors until 7 November.",
       "website": "https://www.frithstreetgallery.com/",
       "images": [
         {
           "url": "/assets/opt/date/frith-street-gallery/01.webp",
           "alt": "Frith Street Gallery"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description).",
+        "sources": [
+          "https://www.frithstreetgallery.com/"
+        ]
+      }
     },
     {
       "id": "gagosian-gallery",
@@ -800,69 +828,70 @@
       ]
     },
     {
-      "id": "gallery-midnight",
-      "name": "Gallery Midnight.",
-      "area": "London",
-      "vibe": "Contemporary limited edition art inspired by London, mountains and the sea. Original paintings and collectible prints for modern interiors.",
-      "website": "https://gallerymidnight.com/",
-      "images": [
-        {
-          "url": "/assets/opt/date/gallery-midnight/01.webp",
-          "alt": "Gallery Midnight."
-        }
-      ]
-    },
-    {
       "id": "gladwell-and-patterson",
       "name": "Gladwell & Patterson",
       "area": "London",
-      "vibe": "Discover Gladwell & Patterson, London’s oldest art gallery, presenting exceptional Post-Impressionist, Modern, and Contemporary artworks shaped by over 280 years of expertise.",
+      "vibe": "London's oldest gallery, founded in the City in 1746 and now in the hands of a third generation of the Fuller family. Landscapes, still life and sculpture, from Post-Impressionist to contemporary.",
       "website": "https://www.gladwellpatterson.com/",
       "images": [
         {
           "url": "/assets/opt/date/gladwell-and-patterson/01.webp",
           "alt": "Gladwell & Patterson"
         }
-      ]
-    },
-    {
-      "id": "gregg-baker-asian-art",
-      "name": "Gregg Baker Asian Art",
-      "area": "London",
-      "vibe": "Gregg Baker Asian Art established in 1985 specialises in Japanese art and antiques.",
-      "website": "https://japanesescreens.com/",
-      "images": [
-        {
-          "url": "/assets/opt/date/gregg-baker-asian-art/01.webp",
-          "alt": "Gregg Baker Asian Art"
-        }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description).",
+        "sources": [
+          "https://gladwellpatterson.com/"
+        ]
+      }
     },
     {
       "id": "guildhall-art-gallery",
       "name": "Guildhall Art Gallery",
-      "area": "London",
-      "vibe": "Guildhall Art Gallery is located in the heart of the City of London and is home to the City of London Corporation's art collection.",
+      "area": "City of London",
+      "vibe": "The City of London's own collection: 4,500 works from 1670 to today, strong on Victorian and Pre-Raphaelite painting. Entry is free, and London's Roman Amphitheatre is part of the same visit.",
       "website": "https://www.thecityofldn.com/directory/guildhall-art-gallery/",
       "images": [
         {
           "url": "/assets/opt/date/guildhall-art-gallery/01.webp",
           "alt": "Guildhall Art Gallery"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description).",
+        "sources": [
+          "https://onecitylondon.com/directory/guildhall-art-gallery/"
+        ]
+      }
     },
     {
       "id": "hackelbury",
       "name": "HackelBury",
       "area": "London",
-      "vibe": "HackelBury Fine Art deals in 20th and 21st-century artworks from a carefully selected stable of artists.",
+      "vibe": "A gallery opened in 1998 for 20th- and 21st-century work. William Klein: 100, its centenary retrospective of the photographer, runs until 2 February 2027.",
       "website": "https://hackelbury.co.uk/",
       "images": [
         {
           "url": "/assets/opt/date/hackelbury/01.webp",
           "alt": "HackelBury"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description).",
+        "sources": [
+          "https://hackelbury.co.uk/"
+        ]
+      }
     },
     {
       "id": "hayward-gallery",
@@ -971,43 +1000,26 @@
       ]
     },
     {
-      "id": "josephine-clavel-gallery",
-      "name": "Josephine Clavel Gallery",
-      "area": "London",
-      "vibe": "The Artists I represent are people I have, for most of them, exhibited in the past and I know well.",
-      "website": "http://josephineclavelproject.com/",
-      "images": [
-        {
-          "url": "/assets/opt/date/josephine-clavel-gallery/01.webp",
-          "alt": "Josephine Clavel Gallery"
-        }
-      ]
-    },
-    {
-      "id": "kempton-steam-museum",
-      "name": "Kempton Steam Museum",
-      "area": "Hanworth",
-      "vibe": "Home to one of the world's largest working steam engines, just outside London. Visit on a steaming weekend and see history come to life. Book your tickets now!",
-      "website": "https://www.kemptonsteam.org/",
-      "images": [
-        {
-          "url": "/assets/opt/date/kempton-steam-museum/01.webp",
-          "alt": "Kempton Steam Museum"
-        }
-      ]
-    },
-    {
       "id": "ken-artspace",
       "name": "Ken Artspace",
-      "area": "London",
-      "vibe": "Ken artspace is a small new art space in the heart of Kennington. Run by artists and founders Rob Kesseler and Agalis Manessi is dedicated to a mix of occasional exhibitions, window installations ﻿ and pop-up events.",
+      "area": "Kennington",
+      "vibe": "A small art space in Kennington, run by the artists Rob Kesseler and Agalis Manessi. Occasional exhibitions and window installations.",
       "website": "https://www.kenart.space/",
       "images": [
         {
           "url": "/assets/opt/date/ken-artspace/01.webp",
           "alt": "Ken Artspace"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description).",
+        "sources": [
+          "https://www.kenart.space/"
+        ]
+      }
     },
     {
       "id": "london-museum-docklands",
@@ -1047,28 +1059,47 @@
     {
       "id": "museum-of-brands",
       "name": "Museum of Brands",
-      "area": "London",
-      "vibe": "Hire a unique Notting Hill venue for away days, brand launches and celebrations — 200 years of brand history as your backdrop. Open to visit daily.",
+      "area": "Notting Hill",
+      "vibe": "A Time Tunnel through 200 years of consumer culture, from Victorian packaging to the digital age. History told through the things families threw away.",
       "website": "https://museumofbrands.com/",
       "images": [
         {
           "url": "/assets/opt/date/museum-of-brands/01.webp",
-          "alt": "Museum of Brands"
+          "alt": "Shelves of vintage packaging in the Time Tunnel at the Museum of Brands"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description).",
+        "sources": [
+          "https://museumofbrands.com/"
+        ]
+      }
     },
     {
       "id": "museum-of-richmond",
       "name": "Museum of Richmond",
       "area": "Richmond",
-      "vibe": "The Museum has exhibitions on Richmond's history from prehistory to the modern day and also has regularly changing temporary exhibitions.",
+      "vibe": "Richmond's story from prehistory to royal residence to today, in the Old Town Hall. Free entry, Tuesday to Saturday.",
       "website": "https://www.museumofrichmond.com/",
       "images": [
         {
           "url": "/assets/opt/date/museum-of-richmond/01.webp",
-          "alt": "Museum of Richmond"
+          "alt": "Richmond Old Town Hall, home of the Museum of Richmond"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description). Photo replaced 2026-10-17: Photo: Wikimedia Commons \"Richmond Old Town Hall and Museum (London).jpg\" by Ricardalovesmonuments (CC BY-SA 4.0).",
+        "sources": [
+          "https://www.museumofrichmond.com/",
+          "https://commons.wikimedia.org/wiki/File:Richmond_Old_Town_Hall_and_Museum_(London).jpg"
+        ]
+      }
     },
     {
       "id": "museum-of-the-home",
@@ -1139,41 +1170,69 @@
     {
       "id": "netil-market",
       "name": "Netil Market",
-      "area": "London",
-      "vibe": "Netil Market is a destination for food, fashion, and unique shopping experiences.",
+      "area": "London Fields",
+      "vibe": "Independent traders and food stalls a step from Broadway Market and London Fields. Netil Radio plays over the market.",
       "website": "https://eatworkart.com/netil-market",
       "images": [
         {
           "url": "/assets/opt/date/netil-market/01.webp",
           "alt": "Netil Market"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description).",
+        "sources": [
+          "https://eatworkart.com/netil-market"
+        ]
+      }
     },
     {
       "id": "orleans-house-gallery",
       "name": "Orleans House Gallery",
       "area": "Twickenham",
-      "vibe": "Orleans House Gallery is a free public art gallery in the London Borough of Richmond upon Thames.",
+      "vibe": "A free contemporary art gallery in wild woodland above the Thames at Twickenham. Shows draw on the Richmond Borough Art Collection and its emerging artists.",
       "website": "https://www.orleanshousegallery.org/",
       "images": [
         {
           "url": "/assets/opt/date/orleans-house-gallery/01.webp",
-          "alt": "Orleans House Gallery"
+          "alt": "The Octagon at Orleans House Gallery, Twickenham"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description). Photo replaced 2026-10-17: Photo: Wikimedia Commons \"Orleans House Gallery.jpg\" by Matt Brown (CC BY 2.0).",
+        "sources": [
+          "https://orleanshousegallery.org/",
+          "https://commons.wikimedia.org/wiki/File:Orleans_House_Gallery.jpg"
+        ]
+      }
     },
     {
       "id": "peckham-platform",
       "name": "Peckham Platform",
-      "area": "London",
-      "vibe": "Peckham Platform is a creative and educational charity based in Peckham, south London. We bring local communities and leading artists together.",
+      "area": "Peckham",
+      "vibe": "An arts charity that brings Peckham's communities and leading artists together. It has just opened a new space in the Bussey Building.",
       "website": "https://www.peckhamplatform.com/",
       "images": [
         {
           "url": "/assets/opt/date/peckham-platform/01.webp",
           "alt": "Peckham Platform"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description).",
+        "sources": [
+          "https://peckhamplatform.com/"
+        ]
+      }
     },
     {
       "id": "photographers-gallery",
@@ -1557,19 +1616,6 @@
       }
     },
     {
-      "id": "ventique",
-      "name": "Ventique",
-      "area": "London",
-      "vibe": "Contemporary glass sculpture with embedded real crystals by the artist Matt Marga part of his Galassia Collection of work.",
-      "website": "https://www.ventique.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/date/ventique/01.webp",
-          "alt": "Ventique"
-        }
-      ]
-    },
-    {
       "id": "wallace-collection",
       "name": "Wallace Collection",
       "area": "Marylebone",
@@ -1613,19 +1659,6 @@
           "https://www.whitechapelgallery.org/"
         ]
       }
-    },
-    {
-      "id": "willer",
-      "name": "Willer",
-      "area": "London",
-      "vibe": "The essential source for designers architects and private clients. An exclusive selection of objects, furniture, lighting, tableware and textiles.",
-      "website": "https://www.willer.co.uk/home/",
-      "images": [
-        {
-          "url": "/assets/opt/date/willer/01.webp",
-          "alt": "Willer"
-        }
-      ]
     },
     {
       "id": "william-morris-society",
@@ -1748,6 +1781,236 @@
         "notes": "Line from the official visit page. Photo: 'Garden of The Garden Museum, London' by DeFacto, CC BY-SA 4.0, Wikimedia Commons.",
         "sources": [
           "https://gardenmuseum.org.uk/visit/"
+        ]
+      }
+    },
+    {
+      "id": "kenwood-house",
+      "name": "Kenwood",
+      "area": "Hampstead",
+      "website": "https://www.english-heritage.org.uk/visit/places/kenwood/",
+      "vibe": "Free, on the edge of Hampstead Heath: Rembrandt's Self-Portrait with Two Circles hangs alongside Vermeer, Gainsborough and Turner. Then 112 acres of Humphry Repton parkland.",
+      "images": [
+        {
+          "url": "/assets/opt/date/kenwood-house/01.webp",
+          "alt": "Kenwood House across the lawn on Hampstead Heath"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official site. Photo: Wikimedia Commons \"Kenwood House in Hampstead Heath.jpg\" by Peter Cooper (CC BY-SA 4.0).",
+        "sources": [
+          "https://www.english-heritage.org.uk/visit/places/kenwood/",
+          "https://commons.wikimedia.org/wiki/File:Kenwood_House_in_Hampstead_Heath.jpg"
+        ]
+      }
+    },
+    {
+      "id": "eltham-palace",
+      "name": "Eltham Palace and Gardens",
+      "area": "Eltham",
+      "website": "https://www.english-heritage.org.uk/visit/places/eltham-palace-and-gardens/",
+      "vibe": "The Courtaulds' 1930s art deco mansion, built onto the 1470s Great Hall where Henry VIII spent his childhood. See the deco dining room and Virginia Courtauld's gold-plated bathroom, then the café in the glasshouse.",
+      "images": [
+        {
+          "url": "/assets/opt/date/eltham-palace/01.webp",
+          "alt": "The medieval Great Hall at Eltham Palace"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official site. Weekends only from 2 November. Photo: Wikimedia Commons \"Eltham Palace Great Hall.jpg\" by JRennocks (CC BY 4.0).",
+        "sources": [
+          "https://www.english-heritage.org.uk/visit/places/eltham-palace-and-gardens/",
+          "https://commons.wikimedia.org/wiki/File:Eltham_Palace_Great_Hall.jpg"
+        ]
+      }
+    },
+    {
+      "id": "chelsea-physic-garden",
+      "name": "Chelsea Physic Garden",
+      "area": "Chelsea",
+      "website": "https://www.chelseaphysicgarden.co.uk/visit/",
+      "vibe": "A walled garden beside the Thames, home to around 5,000 edible, useful, medicinal and historical plants. The Glasshouses come with your ticket, and the café does sit-down lunch.",
+      "images": [
+        {
+          "url": "/assets/opt/date/chelsea-physic-garden/01.webp",
+          "alt": "A brick path between planted beds at Chelsea Physic Garden"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official site. Open Sunday to Friday, 11am to 5pm. Photo: Wikimedia Commons \"Walkway - Chelsea Physic Garden - DSC02735.jpg\" by Daderot (CC0).",
+        "sources": [
+          "https://www.chelseaphysicgarden.co.uk/visit/",
+          "https://commons.wikimedia.org/wiki/File:Walkway_-_Chelsea_Physic_Garden_-_DSC02735.jpg"
+        ]
+      }
+    },
+    {
+      "id": "old-operating-theatre",
+      "name": "The Old Operating Theatre",
+      "area": "London Bridge",
+      "website": "https://oldoperatingtheatre.com/",
+      "vibe": "Europe's oldest surviving operating theatre, up a 52-step spiral staircase in the Herb Garret. Surgical instruments and anatomical specimens show what surgery was before anaesthetic.",
+      "images": [
+        {
+          "url": "/assets/opt/date/old-operating-theatre/01.webp",
+          "alt": "The tower of St Thomas's Church, home of the Old Operating Theatre and Herb Garret"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official site. Photo: Wikimedia Commons \"St. Thomas Church and Old Operating Theatre.jpg\" by Calstanhope (CC BY-SA 4.0).",
+        "sources": [
+          "https://oldoperatingtheatre.com/",
+          "https://commons.wikimedia.org/wiki/File:St._Thomas_Church_and_Old_Operating_Theatre.jpg"
+        ]
+      }
+    },
+    {
+      "id": "leadenhall-market",
+      "name": "Leadenhall Market",
+      "area": "City of London",
+      "website": "https://leadenhallmarket.co.uk/",
+      "vibe": "Victorian arches on the site of Roman London's forum, with a market here since the 14th century. Wine bars, restaurants and an award-winning pub under the covered roof.",
+      "images": [
+        {
+          "url": "/assets/opt/date/leadenhall-market/01.webp",
+          "alt": "Painted Victorian arches and shopfronts inside Leadenhall Market"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official site. Photo: Wikimedia Commons \"Leadenhall Market, City of London (Interior Corner - 01).jpg\" by Doyle of London (CC BY-SA 4.0).",
+        "sources": [
+          "https://leadenhallmarket.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Leadenhall_Market,_City_of_London_(Interior_Corner_-_01).jpg"
+        ]
+      }
+    },
+    {
+      "id": "columbia-road-flower-market",
+      "name": "Columbia Road Flower Market",
+      "area": "Columbia Road",
+      "website": "https://columbiaroad.info/",
+      "vibe": "The East End's flower market, every Sunday from 8am till 3-ish. Shoreditch is to the west, with Brick Lane and Spitalfields close by.",
+      "images": [
+        {
+          "url": "/assets/opt/date/columbia-road-flower-market/01.webp",
+          "alt": "Buckets of cut flowers on the stalls at Columbia Road Flower Market"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official site. Sundays only. Photo: Wikimedia Commons \"London - Columbia Flower Market - 2164.jpg\" by Jorge Royan (CC BY-SA 3.0).",
+        "sources": [
+          "https://columbiaroad.info/",
+          "https://commons.wikimedia.org/wiki/File:London_-_Columbia_Flower_Market_-_2164.jpg"
+        ]
+      }
+    },
+    {
+      "id": "electric-cinema-portobello",
+      "name": "Electric Cinema Portobello",
+      "area": "Notting Hill",
+      "website": "https://www.electriccinema.co.uk/",
+      "vibe": "The original Electric on Portobello Road: leather armchairs, two-person sofas and beds in the front row. Speedboat Bar at the Electric serves Bangkok Chinatown flavours from noon daily.",
+      "images": [
+        {
+          "url": "/assets/opt/date/electric-cinema-portobello/01.webp",
+          "alt": "The domed frontage of the Electric Cinema on Portobello Road"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official site. Photo: Wikimedia Commons \"Electric Cinema Notting Hill 2009.jpg\" by Ewan Munro from London, UK (CC BY-SA 2.0).",
+        "sources": [
+          "https://www.electriccinema.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Electric_Cinema_Notting_Hill_2009.jpg"
+        ]
+      }
+    },
+    {
+      "id": "design-museum",
+      "name": "Design Museum",
+      "area": "Kensington",
+      "website": "https://designmuseum.org/plan-your-visit",
+      "vibe": "On Kensington High Street, the collection display Designer Maker User is free on Level 2. The Design Kitchen is on the same floor, open until 6pm Friday to Sunday.",
+      "images": [
+        {
+          "url": "/assets/opt/date/design-museum/01.webp",
+          "alt": "The Design Museum building on Kensington High Street"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official site. Photo: Wikimedia Commons \"Design Museum, Kensington, London, March 2017 (07).JPG\" by Ardfern (CC BY-SA 4.0).",
+        "sources": [
+          "https://designmuseum.org/plan-your-visit",
+          "https://commons.wikimedia.org/wiki/File:Design_Museum,_Kensington,_London,_March_2017_(07).JPG"
+        ]
+      }
+    },
+    {
+      "id": "wellcome-collection",
+      "name": "Wellcome Collection",
+      "area": "Euston Road",
+      "website": "https://wellcomecollection.org/visit-us",
+      "vibe": "Every exhibition here is free, and most events too, on health, medicine, life and art. Browse the books, artworks and objects, then a drink in the café.",
+      "images": [
+        {
+          "url": "/assets/opt/date/wellcome-collection/01.webp",
+          "alt": "The Wellcome Building on Euston Road, lit up at dusk"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official site. Photo: Wikimedia Commons \"The Wellcome Building.jpg\" by David Samuel, User:Hellodavey1902 (CC BY-SA 3.0).",
+        "sources": [
+          "https://wellcomecollection.org/visit-us",
+          "https://commons.wikimedia.org/wiki/File:The_Wellcome_Building.jpg"
+        ]
+      }
+    },
+    {
+      "id": "chiswick-house",
+      "name": "Chiswick House and Gardens",
+      "area": "Chiswick",
+      "website": "https://chiswickhouseandgardens.org.uk/plan-your-visit/opening-times-and-prices/",
+      "vibe": "William Kent and Lord Burlington's Neo-Palladian villa, in gardens that are free and open daily from 7am until dusk. The house itself reopens in early summer 2027.",
+      "images": [
+        {
+          "url": "/assets/opt/date/chiswick-house/01.webp",
+          "alt": "The front of Chiswick House seen from the gardens"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official site. Photo: Wikimedia Commons \"Chiswick House, front elevation, Chiswick, London.jpg\" by DanielCahen01 (CC BY 4.0).",
+        "sources": [
+          "https://chiswickhouseandgardens.org.uk/plan-your-visit/opening-times-and-prices/",
+          "https://commons.wikimedia.org/wiki/File:Chiswick_House,_front_elevation,_Chiswick,_London.jpg"
         ]
       }
     }
@@ -2884,9 +3147,9 @@
     {
       "id": "noble-rot-mayfair",
       "name": "Noble Rot Mayfair",
-      "area": "London",
-      "vibe": "Noble Rot is three award-winning restaurants in London's Bloomsbury, Soho and Mayfair. It's also a magazine about wine, food and popular culture.",
-      "website": "https://noblerot.co.uk/",
+      "area": "Mayfair",
+      "vibe": "In the alleys of Shepherd Market, on the site of the original late-1600s May Fair. Hidden from Mayfair's grander byways, it's still something of a London secret.",
+      "website": "https://noblerot.co.uk/restaurant/mayfair",
       "images": [
         {
           "url": "/assets/opt/dinner/noble-rot-mayfair/01.webp",
@@ -2895,9 +3158,9 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-10-05",
+        "checked_at": "2026-10-17",
         "image_ok": true,
-        "notes": "Replaced logo/wordmark with the official Mayfair dining-room photograph from noblerot.co.uk.",
+        "notes": "Replaced logo/wordmark with the official Mayfair dining-room photograph from noblerot.co.uk. Line rewritten from official site 2026-10-17 (old line was the meta description).",
         "sources": [
           "https://noblerot.co.uk/restaurant/mayfair",
           "https://cdn.noblerot.co.uk/nr_mayfair_hero_03.webp"
