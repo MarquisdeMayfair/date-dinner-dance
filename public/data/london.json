@@ -3584,7 +3584,7 @@
       "id": "606-club",
       "name": "606 Club",
       "area": "London",
-      "vibe": "Chelsea basement jazz. Members’ feel, serious players, supper through the late set.",
+      "vibe": "A 120-seat Chelsea basement club and restaurant putting on British jazz, soul, Latin and funk seven nights a week since 1976. Sunday is singers' night; book ahead for Fridays and Saturdays.",
       "website": "https://www.606club.co.uk",
       "images": [
         {
@@ -3594,9 +3594,13 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
-      }
+        "checked_at": "2026-10-17T04:00:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Gwyneth Herbert at 606 Club on 7 September 2014.jpg by Robert Smith, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Gwyneth_Herbert_at_606_Club_on_7_September_2014.jpg."
+      },
+      "sources": [
+        "https://www.606club.co.uk/about/"
+      ]
     },
     {
       "id": "annabels",
@@ -4268,8 +4272,9 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-17T04:00:00+01:00",
+        "image_ok": false,
+        "notes": "2026-10-17: current photo is wrong (unrelated logo/ad); no free or own-site venue photo found yet."
       }
     },
     {
@@ -4286,9 +4291,9 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true,
-        "notes": "nightlife top-up"
+        "checked_at": "2026-10-17T04:00:00+01:00",
+        "image_ok": false,
+        "notes": "nightlife top-up 2026-10-17: current photo is wrong (unrelated logo/ad); no free or own-site venue photo found yet."
       }
     },
     {
@@ -4819,39 +4824,66 @@
       "id": "o2-academy-brixton",
       "name": "O2 Academy Brixton",
       "area": "Brixton",
-      "vibe": "O2 Academy Brixton is an internationally renowned, Grade II listed, award-winning concert venue hosting live music, club nights, comedy shows and more with visitors travelling from all over the world it truly is a destination in its own right for music fans.",
+      "vibe": "A 1929 Art Deco cinema under a 140ft dome, with sloping floors and a stage modelled on Venice's Rialto bridge. Gigs, club nights and the first headline shows bands call a rite of passage.",
       "website": "https://www.academymusicgroup.com/o2academybrixton/",
       "images": [
         {
           "url": "/assets/opt/dance/o2-academy-brixton/01.webp",
           "alt": "O2 Academy Brixton"
         }
+      ],
+      "verified": {
+        "confidence": 4,
+        "image_ok": true,
+        "checked_at": "2026-10-17T04:00:00+01:00",
+        "notes": "Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Brixton Academy, London.jpg by Drew de F Fawkes, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Brixton_Academy,_London.jpg."
+      },
+      "sources": [
+        "https://www.academymusicgroup.com/o2academybrixton/about-us"
       ]
     },
     {
       "id": "o2-academy-islington",
       "name": "O2 Academy Islington",
       "area": "Islington",
-      "vibe": "Located in vibrant North London, O2 Academy Islington hosts live music and club nights from established acts looking for an intimate performance atmosphere and new and emerging artists cutting their teeth in the capital.",
+      "vibe": "An intimate North London room opened in 2003 and best known for rock and metal shows. Muse, The Cure, Eminem and KISS all played here, alongside club nights and rising acts.",
       "website": "https://www.academymusicgroup.com/o2academyislington/",
       "images": [
         {
           "url": "/assets/opt/dance/o2-academy-islington/01.webp",
           "alt": "O2 Academy Islington"
         }
+      ],
+      "verified": {
+        "confidence": 4,
+        "image_ok": true,
+        "checked_at": "2026-10-17T04:00:00+01:00",
+        "notes": "Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:O2 Academy Islington.jpg by Magnus Manske, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:O2_Academy_Islington.jpg."
+      },
+      "sources": [
+        "https://www.academymusicgroup.com/o2academyislington/about-us"
       ]
     },
     {
       "id": "o2-forum-kentish-town",
       "name": "O2 Forum Kentish Town",
       "area": "Kentish Town",
-      "vibe": "O2 Forum Kentish Town is a major live entertainment venue in London and one of the UK’s best preserved, original cinematic theatres.",
+      "vibe": "A 1934 Art Deco cinema, one of the UK's best preserved, that became the Town & Country Club on the indie circuit. The Velvet Underground and Pixies played here, and it is still a must-play room.",
       "website": "https://www.academymusicgroup.com/o2forumkentishtown/",
       "images": [
         {
           "url": "/assets/opt/dance/o2-forum-kentish-town/01.webp",
           "alt": "O2 Forum Kentish Town"
         }
+      ],
+      "verified": {
+        "confidence": 4,
+        "image_ok": true,
+        "checked_at": "2026-10-17T04:00:00+01:00",
+        "notes": "Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:The Forum, Kentish Town 2024-11-27.jpg by Matt Brown, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_Forum,_Kentish_Town_2024-11-27.jpg."
+      },
+      "sources": [
+        "https://www.academymusicgroup.com/o2forumkentishtown/about-us"
       ]
     },
     {
@@ -4894,13 +4926,19 @@
       "name": "Studio 338",
       "area": "Greenwich",
       "vibe": "Music and Arts Venue based on the Greenwich Peninsula. Includes one of the largest terrace arena's in Europe.",
-      "website": "https://studio338.co.uk/",
+      "website": "https://www.studio338.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dance/studio-338/01.webp",
           "alt": "Studio 338"
         }
-      ]
+      ],
+      "verified": {
+        "image_ok": true,
+        "confidence": 3,
+        "checked_at": "2026-10-17T04:00:00+01:00",
+        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Studio 338, North Greenwich, SE10.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Studio_338,_North_Greenwich,_SE10.jpg."
+      }
     },
     {
       "id": "the-blues-kitchen-brixton",
@@ -4926,7 +4964,13 @@
           "url": "/assets/opt/dance/the-blues-kitchen-camden/01.webp",
           "alt": "The Blues Kitchen Camden"
         }
-      ]
+      ],
+      "verified": {
+        "image_ok": true,
+        "confidence": 3,
+        "checked_at": "2026-10-17T04:00:00+01:00",
+        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Blues Kitchen, Camden Town, NW1.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Blues_Kitchen,_Camden_Town,_NW1.jpg."
+      }
     },
     {
       "id": "the-blues-kitchen-shoreditch",
@@ -4990,9 +5034,9 @@
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17T02:55:00+01:00",
-        "image_ok": false,
-        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "checked_at": "2026-10-17T04:00:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Old Blue Last, Shoreditch, EC2.jpg by Ewan Munro, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Old_Blue_Last,_Shoreditch,_EC2.jpg.",
         "sources": [
           "https://www.theoldbluelast.com"
         ]
@@ -5015,7 +5059,7 @@
       "id": "the-social",
       "name": "The Social",
       "area": "London",
-      "vibe": "Leather booths, a basement and a members' scheme running since 1999. Now open until 3am Thursday to Saturday, with gigs and DJ takeovers.",
+      "vibe": "A two-floor bar near Oxford Circus, born in 1999 out of the Heavenly Sunday Social nights that helped launch the Chemical Brothers. Somewhere between a speakeasy and a local, with gigs and DJs late.",
       "website": "https://www.thesocial.com/",
       "images": [
         {
@@ -5024,14 +5068,17 @@
         }
       ],
       "verified": {
-        "confidence": 3,
-        "checked_at": "2026-10-17T02:55:00+01:00",
-        "image_ok": false,
-        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "confidence": 4,
+        "checked_at": "2026-10-17T04:00:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing. Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 with the venue's own-site interior photo (previous was a gig poster).",
         "sources": [
           "https://www.thesocial.com/"
         ]
-      }
+      },
+      "sources": [
+        "https://www.thesocial.com/history/"
+      ]
     },
     {
       "id": "the-vaults",
