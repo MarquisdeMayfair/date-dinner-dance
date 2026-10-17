@@ -567,28 +567,48 @@
     {
       "id": "churchill-war-rooms",
       "name": "Churchill War Rooms",
-      "area": "London",
-      "vibe": "Discover the life and legacy of Winston Churchill in the bunker and museum hidden beneath the streets of Westminster where he ran WW2.",
+      "area": "Westminster",
+      "vibe": "The secret underground headquarters of the Second World War, hidden beneath the streets of Westminster. The historic rooms are left as they were in 1945; open every day, 9.30am to 6pm.",
       "website": "https://www.iwm.org.uk/visits/churchill-war-rooms",
       "images": [
         {
           "url": "/assets/opt/date/churchill-war-rooms/01.webp",
-          "alt": "Churchill War Rooms"
+          "alt": "The Map Room at Churchill War Rooms"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T06:20:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description). Photo replaced (was a portrait of Churchill, not the venue): Wikimedia Commons \"Churchill War Rooms - the map room.JPG\" by Frankemann (CC BY-SA 3.0).",
+        "sources": [
+          "https://www.iwm.org.uk/visits/churchill-war-rooms",
+          "https://commons.wikimedia.org/wiki/File:Churchill_War_Rooms_-_the_map_room.JPG"
+        ]
+      }
     },
     {
       "id": "clink-prison-museum",
       "name": "Clink Prison Museum",
-      "area": "London",
-      "vibe": "The Clink Prison Museum is built upon the original site of the Clink Prison which dates back to 1144 making it probably the oldest prison of England.",
+      "area": "Bankside",
+      "vibe": "Built on the site of the Clink, a prison dating back to 1144 and one of England's most notorious. See the archaeological finds and handle the torture devices in the prison that gave its name to all others.",
       "website": "https://www.clink.co.uk/",
       "images": [
         {
           "url": "/assets/opt/date/clink-prison-museum/01.webp",
-          "alt": "Clink Prison Museum"
+          "alt": "Clink Street with the Clink Prison Museum sign"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T06:20:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description). Photo replaced (was a close-up of a shackle): Wikimedia Commons \"Clink Street Prison Museum.jpg\" by DanielMichaelPerry (CC0).",
+        "sources": [
+          "https://www.clink.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Clink_Street_Prison_Museum.jpg"
+        ]
+      }
     },
     {
       "id": "cricket-fine-art",
@@ -693,15 +713,25 @@
     {
       "id": "fashion-and-textile-museum",
       "name": "Fashion and Textile Museum",
-      "area": "London",
-      "vibe": "The Fashion and Textile Museum presents varied, creative, and engaging exhibitions, alongside workshops, talks and events.",
+      "area": "Bermondsey",
+      "vibe": "Now showing Ossie Clark + Celia Birtwell, the duo whose designs and prints shaped 1960s and early 1970s fashion, until 11 April 2027. Alongside it, Sequinology traces the sequin from the 16th century to now.",
       "website": "https://fashiontextilemuseum.org/",
       "images": [
         {
           "url": "/assets/opt/date/fashion-and-textile-museum/01.webp",
-          "alt": "Fashion and Textile Museum"
+          "alt": "The orange and pink Fashion and Textile Museum on Bermondsey Street"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T06:20:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description). Photo replaced (was a scarf exhibit, not the venue): Wikimedia Commons \"Fashion & Textile Museum, Bermondsey Street 2026-05-22.jpg\" by Bex Walton (CC BY 4.0).",
+        "sources": [
+          "https://fashiontextilemuseum.org/",
+          "https://commons.wikimedia.org/wiki/File:Fashion_%26_Textile_Museum,_Bermondsey_Street_2026-05-22.jpg"
+        ]
+      }
     },
     {
       "id": "firepit-art-gallery",
@@ -720,14 +750,23 @@
       "id": "foundling-museum",
       "name": "Foundling Museum",
       "area": "Bloomsbury",
-      "vibe": "Discover the Foundling Museum, one of London's most interesting museums, including our art collection and 18th-century music displays.",
+      "vibe": "More than 275 years of London history in objects, stories and spaces at 40 Brunswick Square. A ticket covers the collection and exhibition, and gets you in free for a year.",
       "website": "https://foundlingmuseum.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/foundling-museum/01.webp",
           "alt": "Foundling Museum"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T06:20:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description).",
+        "sources": [
+          "https://foundlingmuseum.org.uk/visit/"
+        ]
+      }
     },
     {
       "id": "four-corners",
@@ -1317,14 +1356,23 @@
       "id": "sir-john-soanes-museum",
       "name": "Sir John Soane's Museum",
       "area": "Lincoln's Inn Fields",
-      "vibe": "Future Ruins will bring together a selection of the artist's new drawings imagining iconic buildings in decay, exploring themes of consumerism, nostalgia and destruction.",
+      "vibe": "Sir John Soane's extraordinary Regency home, left as it was at his death in 1837. Entry is free, Wednesday to Sunday; the Picture Room panels open on A Rake's Progress at 2pm.",
       "website": "https://www.soane.org/",
       "images": [
         {
           "url": "/assets/opt/date/sir-john-soanes-museum/01.webp",
           "alt": "Sir John Soane's Museum"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T06:20:00+01:00",
+        "image_ok": false,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description). Current photo is an exhibition drawing, not the museum; needs a real photo.",
+        "sources": [
+          "https://www.soane.org/visit"
+        ]
+      }
     },
     {
       "id": "south-london-gallery",
@@ -3675,6 +3723,120 @@
           "https://commons.wikimedia.org/wiki/File:Smoking_Goat,_Shoreditch,_E1.jpg"
         ]
       }
+    },
+    {
+      "id": "veeraswamy",
+      "name": "Veeraswamy",
+      "area": "Regent Street",
+      "website": "https://www.veeraswamy.com/",
+      "vibe": "London's oldest surviving Indian restaurant, on the first floor above Regent Street since 1926. Palace cooking from Hyderabad and the Mughal courts, like the shahi patalia raan: lamb shank wrapped in golden puff pastry.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/veeraswamy/01.webp",
+          "alt": "The dining room at Veeraswamy under coloured lanterns"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T06:20:00+01:00",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official home page. Photo: Wikimedia Commons \"Inside Veeraswamy.jpg\" by stephenrwalli (CC BY-SA 2.0).",
+        "sources": [
+          "https://www.veeraswamy.com/",
+          "https://commons.wikimedia.org/wiki/File:Inside_Veeraswamy.jpg"
+        ]
+      }
+    },
+    {
+      "id": "gauthier-soho",
+      "name": "Gauthier Soho",
+      "area": "Soho",
+      "website": "https://www.gauthiersoho.co.uk/",
+      "vibe": "An unmodernised Regency townhouse on Romilly Street, with intimate dining rooms over three floors and courses served under silver cloches. The cooking is modern French and entirely plant-based.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/gauthier-soho/01.webp",
+          "alt": "The townhouse frontage of Gauthier Soho on Romilly Street"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T06:20:00+01:00",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official About page. Photo: Wikimedia Commons \"Gauthier, 21 Romilly Street 2025-08-21.jpg\" by Ewan Munro (CC BY-SA 4.0).",
+        "sources": [
+          "https://www.gauthiersoho.co.uk/about",
+          "https://commons.wikimedia.org/wiki/File:Gauthier,_21_Romilly_Street_2025-08-21.jpg"
+        ]
+      }
+    },
+    {
+      "id": "the-delaunay",
+      "name": "The Delaunay",
+      "area": "Aldwych",
+      "website": "https://www.thedelaunay.com/",
+      "vibe": "A grand café on the corner of Aldwych and Drury Lane, inspired by the great cafés of Vienna and Paris. Holstein schnitzel and tartes flambées in the evening, a short walk from the West End theatres.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-delaunay/01.webp",
+          "alt": "The entrance of The Delaunay on Aldwych"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T06:20:00+01:00",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official home page. Photo: the restaurant's own site (entrance with name over the door).",
+        "sources": [
+          "https://www.thedelaunay.com/"
+        ]
+      }
+    },
+    {
+      "id": "scotts",
+      "name": "Scott's",
+      "area": "Mayfair",
+      "website": "https://www.scotts-restaurant.com/",
+      "vibe": "Serving British seafood since 1851, on Mayfair's Mount Street. Traditional fish and shellfish dishes, oysters and Champagne, with a terrace out front.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/scotts/01.webp",
+          "alt": "Scott's restaurant frontage on Mount Street"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T06:20:00+01:00",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official home page. Photo: Wikimedia Commons \"Scott's Restaurant, Mount Street, London - geograph.org.uk - 948875.jpg\" by Oast House Archive (CC BY-SA 2.0); source is 640px, upscaled.",
+        "sources": [
+          "https://www.scotts-restaurant.com/",
+          "https://commons.wikimedia.org/wiki/File:Scott%27s_Restaurant,_Mount_Street,_London_-_geograph.org.uk_-_948875.jpg"
+        ]
+      }
+    },
+    {
+      "id": "bentleys-oyster-bar",
+      "name": "Bentley's Oyster Bar & Grill",
+      "area": "Mayfair",
+      "website": "https://www.bentleys.org/",
+      "vibe": "An oyster bar and seafood restaurant in Mayfair since 1916, moments from Piccadilly Circus. Native oysters and wild British seafood, or late-night oyster platters with Champagne at the bar.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bentleys-oyster-bar/01.webp",
+          "alt": "Bentley's on Swallow Place with its awning and terrace"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T06:20:00+01:00",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official home page. Photo: Wikimedia Commons \"Bentley's - Swallow Place - geograph.org.uk - 5487231.jpg\" by Mr Ignavy (CC BY-SA 2.0); source is 640px, upscaled.",
+        "sources": [
+          "https://www.bentleys.org/",
+          "https://commons.wikimedia.org/wiki/File:Bentley%27s_-_Swallow_Place_-_geograph.org.uk_-_5487231.jpg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -4398,7 +4560,7 @@
       "id": "the-box",
       "name": "The Box",
       "area": "Soho",
-      "vibe": "Soho variety nightclub. Cabaret that goes too far — invitation energy on Sheep Street.",
+      "vibe": "Soho variety nightclub. Cabaret that goes too far — invitation energy on Walker's Court.",
       "website": "https://www.theboxsoho.com/",
       "images": [
         {
@@ -4410,7 +4572,10 @@
         "confidence": 5,
         "checked_at": "2026-10-17T04:00:00+01:00",
         "image_ok": false,
-        "notes": "nightlife top-up 2026-10-17: current photo is wrong (unrelated logo/ad); no free or own-site venue photo found yet."
+        "notes": "nightlife top-up 2026-10-17: current photo is wrong (unrelated logo/ad); no free or own-site venue photo found yet. 2026-10-17 06:20: street corrected to Walker's Court (official site address 11-12 Walker's Court); photo still wrong, no free or own-site venue photo found.",
+        "sources": [
+          "https://www.theboxsoho.com/"
+        ]
       }
     },
     {
@@ -4801,14 +4966,23 @@
       "id": "infernos",
       "name": "Infernos",
       "area": "Clapham",
-      "vibe": "London’s iconic disco nightclub in the heart of Clapham. Infernos delivers huge anthems, big nights out and the city’s most loved party atmosphere.",
+      "vibe": "Clapham's disco nightclub, with a legendary carpeted dance floor. Glitter, big anthems and disco till dawn.",
       "website": "https://www.infernos.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dance/infernos/01.webp",
           "alt": "Infernos"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T06:20:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description).",
+        "sources": [
+          "https://www.infernos.co.uk/"
+        ]
+      }
     },
     {
       "id": "jazzbourne",
@@ -5235,15 +5409,24 @@
     {
       "id": "thirt3en",
       "name": "Thirt3en",
-      "area": "London",
-      "vibe": "Our award winning cocktail bar and club - Thirteen serves drinks, Japanese inspired dishes and good times with great beats by Tottenham Court Road station and Outernet.",
+      "area": "Soho",
+      "vibe": "An award-winning cocktail bar at the start of Denmark Street, just off Charing Cross Road. Japanese-inspired small plates with the drinks, and an underground haunt, dial8, for those who know.",
       "website": "https://www.thirteenldn.com/",
       "images": [
         {
           "url": "/assets/opt/dance/thirt3en/01.webp",
           "alt": "Thirt3en"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T06:20:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description).",
+        "sources": [
+          "https://www.thirteenldn.com/"
+        ]
+      }
     },
     {
       "id": "trailer-happiness",
