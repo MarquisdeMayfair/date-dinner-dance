@@ -1966,29 +1966,6 @@
       }
     },
     {
-      "id": "red-dog-saloon",
-      "name": "Red Dog Saloon",
-      "area": "Soho",
-      "vibe": "Texas BBQ on Berwick Street. Brisket, ribs, Nashville heat. A saloon in Soho.",
-      "website": "https://www.reddogsaloon.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/red-dog-saloon/01.webp",
-          "alt": "Red Dog Saloon"
-        }
-      ],
-      "verified": {
-        "confidence": 2,
-        "checked_at": "2026-09-20",
-        "image_ok": true,
-        "notes": "Dropped Commons file Berwick_Street_-_Nicolas,_The_Dining_Plaice.jpg — Nicolas off-licence and The Dining Plaice, not Red Dog Saloon. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
-        "sources": [
-          "https://www.reddogsaloon.co.uk/",
-          "https://commons.wikimedia.org/wiki/File:Berwick_Street_-_Nicolas,_The_Dining_Plaice.jpg"
-        ]
-      }
-    },
-    {
       "id": "rules",
       "name": "Rules",
       "area": "Covent Garden",
@@ -2045,20 +2022,20 @@
     {
       "id": "tao-tao-ju",
       "name": "Tao Tao Ju",
-      "area": "London",
-      "vibe": "Lisle Street since 2011. Dim sum made on site and steamed to order, plus home-style Chinese.",
+      "area": "Chinatown",
+      "vibe": "A light, airy dining room on Lisle Street, in Chinatown since 2011. Dim sum is made on site every day and steamed fresh to order.",
       "website": "https://www.taotaoju.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/tao-tao-ju/01.webp",
-          "alt": "Tao Tao Ju"
+          "alt": "Dim sum baskets and cheung fun at Tao Tao Ju"
         }
       ],
       "verified": {
-        "confidence": 2,
-        "checked_at": "2026-09-20",
-        "image_ok": false,
-        "notes": "Dropped Lisle Street Chinatown street shot. Foreground shopfront is HongkongBuffet, not Tao Tao Ju. Sales hook rewrite: plate/room/night, no hours.",
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Dropped Lisle Street Chinatown street shot. Foreground shopfront is HongkongBuffet, not Tao Tao Ju. Sales hook rewrite: plate/room/night, no hours. Own-site dim sum photo (taotaoju.co.uk) replaced Chinatown street shot 2026-10-17.",
         "sources": [
           "https://www.taotaoju.co.uk/",
           "https://commons.wikimedia.org/wiki/File:Lisle_Street,_Chinatown.jpg"
@@ -2210,30 +2187,26 @@
       }
     },
     {
-      "id": "bao-borough",
-      "name": "Bao Borough",
-      "area": "Borough",
-      "vibe": "Experience Michelin Bib Gourmand Taiwanese at BAO London. From classic pork to 40 day aged steak rice. Book now or order delivery",
-      "website": "https://baolondon.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/bao-borough/01.webp",
-          "alt": "Bao Borough"
-        }
-      ]
-    },
-    {
       "id": "bao-soho",
       "name": "Bao Soho",
       "area": "Soho",
-      "vibe": "Experience Michelin Bib Gourmand Taiwanese at BAO London. From classic pork to 40 day aged steak rice. Book now or order delivery",
+      "vibe": "Bao's Taiwanese kitchen in Soho, from the team that grew from art students to street food. Order the charcoal-grilled XL beef rice with Taipei butter and cured egg yolk.",
       "website": "https://baolondon.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/bao-soho/01.webp",
           "alt": "Bao Soho"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://baolondon.com/"
+        ]
+      }
     },
     {
       "id": "barrafina-adelaide-street",
@@ -2295,19 +2268,6 @@
       }
     },
     {
-      "id": "bun-and-sum",
-      "name": "Bun & Sum",
-      "area": "London",
-      "vibe": "Select a location from Bun and Sum and order online. Get the best prices and service by ordering direct!",
-      "website": "https://www.bunandsum.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/bun-and-sum/01.webp",
-          "alt": "Bun & Sum"
-        }
-      ]
-    },
-    {
       "id": "bun-house",
       "name": "Bun House",
       "area": "Chinatown",
@@ -2330,19 +2290,6 @@
       }
     },
     {
-      "id": "burger-and-beyond",
-      "name": "Burger & Beyond",
-      "area": "London",
-      "vibe": "Championing modern refinement since 2015. Visit our Shoreditch, Soho & Borough locations.",
-      "website": "https://burgerandbeyond.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/burger-and-beyond/01.webp",
-          "alt": "Burger & Beyond"
-        }
-      ]
-    },
-    {
       "id": "carousel",
       "name": "Carousel",
       "area": "Fitzrovia",
@@ -2351,16 +2298,17 @@
       "images": [
         {
           "url": "/assets/opt/dinner/carousel/01.webp",
-          "alt": "Carousel"
+          "alt": "Carousel and No. 23 building on Charlotte Street, Fitzrovia"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17T02:55:00+01:00",
-        "image_ok": false,
-        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; Photo replaced 2026-10-17 with Wikimedia Commons \"Carousel & No. 23, Fitzrovia, W1.jpg\" by Ewan-M (CC BY-SA 4.0).",
         "sources": [
-          "https://carousel-london.com/"
+          "https://carousel-london.com/",
+          "https://commons.wikimedia.org/wiki/File:Carousel_%26_No._23,_Fitzrovia,_W1.jpg"
         ]
       }
     },
@@ -2375,7 +2323,12 @@
           "url": "/assets/opt/dinner/cha-louis/01.webp",
           "alt": "Cha-Louis"
         }
-      ]
+      ],
+      "verified": {
+        "image_ok": false,
+        "checked_at": "2026-10-17",
+        "notes": "2026-10-17: current photo is a menu; site has no usable venue photo. Line not yet rewritten."
+      }
     },
     {
       "id": "chets",
@@ -2424,15 +2377,24 @@
     {
       "id": "chino-latino",
       "name": "Chino Latino",
-      "area": "London",
-      "vibe": "Discover Chino Latino London – a vibrant Pan‑Asian restaurant and bar offering bold fusion flavours, innovative cocktails, and riverside views. Experience contemporary dining with Latin spice in the heart of London.",
+      "area": "Lambeth",
+      "vibe": "A Pan-Asian restaurant with a Latin cocktail bar in the Park Plaza on Albert Embankment, looking out over the river. Live entertainment fills the room on Friday and Saturday nights.",
       "website": "https://chinolatino.co.uk/locations/london/",
       "images": [
         {
           "url": "/assets/opt/dinner/chino-latino/01.webp",
           "alt": "Chino Latino"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://chinolatino.co.uk/locations/london/"
+        ]
+      }
     },
     {
       "id": "chishuru",
@@ -2493,30 +2455,26 @@
       }
     },
     {
-      "id": "eat-vietnam",
-      "name": "Eat Vietnam",
-      "area": "London",
-      "vibe": "At Eat Vietnam, you will experience the vibrancy of Vietnamese culture through a tantalising array of classic and street food dishes, all created using fresh, authentic ingredients.",
-      "website": "https://www.eat-vietnam.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/eat-vietnam/01.webp",
-          "alt": "Eat Vietnam"
-        }
-      ]
-    },
-    {
       "id": "el-alquimista",
       "name": "El Alquimista",
-      "area": "London",
-      "vibe": "Discover El Alquimista in Greenwich, SE10 – a fine dining restaurant offering bold flavours, creative dishes & cocktails In the heart of Greenwich",
+      "area": "Greenwich",
+      "vibe": "Modern Peruvian cooking on Stockwell Street in Greenwich, from chef Walter Pineda, whose CV runs through Le Pont de la Tour and Maze. The bar pours premium pisco, house infusions and Andes-inspired cocktails.",
       "website": "https://elalquimista.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/el-alquimista/01.webp",
           "alt": "El Alquimista"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://elalquimista.co.uk/"
+        ]
+      }
     },
     {
       "id": "empire-empire",
@@ -2578,28 +2536,46 @@
     {
       "id": "hakata-ramen",
       "name": "Hakata Ramen",
-      "area": "London",
-      "vibe": "HAKATA RAMEN + BAR BRINGS EVERYTHING THAT RAMEN-YA IN JAPAN ARE FAMOUS FOR - QUALITY ‘COMFORT FOOD’, SERVED IN A VIBRANT ATMOSPHERE WITH FRIENDLY AND EFFICIENT SERVICE.",
+      "area": "Bermondsey",
+      "vibe": "A Bermondsey Street ramen bar cooking the comfort food Japan's ramen-ya are known for. Walk-ins only, with an izakaya bar in the basement while you wait.",
       "website": "https://www.hakata.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/hakata-ramen/01.webp",
           "alt": "Hakata Ramen"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": false,
+        "notes": "Line from official site 2026-10-17; current photo is an abstract graphic, not the venue; needs a real photo.",
+        "sources": [
+          "https://www.hakata.co.uk/contact"
+        ]
+      }
     },
     {
       "id": "hera",
       "name": "Hera",
-      "area": "London",
-      "vibe": "Indulge in the vibrant flavours of Greece at our top-rated Greek restaurant. Our meticulously curated menu showcases culinary artistry.",
+      "area": "Stratford",
+      "vibe": "A Greek restaurant at Stratford Cross with an open kitchen, a cocktail bar and floor-to-ceiling windows. Plates draw on dishes from across Greece's regions, made for sharing.",
       "website": "https://herarestaurant.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/hera/01.webp",
           "alt": "Hera"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://herarestaurant.co.uk/"
+        ]
+      }
     },
     {
       "id": "hide",
@@ -2671,14 +2647,23 @@
       "id": "kol",
       "name": "Kol",
       "area": "Marylebone",
-      "vibe": "Championing wild food and seasonality, KOL is a modern Mexican restaurant in Marylebone, London, from Chef Patron Santiago Lastra. Private Dining Room Available.",
+      "vibe": "Santiago Lastra's Mexican restaurant in Marylebone, cooking Mexican soul with British ingredients. Wild food and the seasons shape the menu, with a private dining room too.",
       "website": "https://kolrestaurant.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/kol/01.webp",
           "alt": "Kol"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://kolrestaurant.com/"
+        ]
+      }
     },
     {
       "id": "kolamba-east",
@@ -2689,14 +2674,14 @@
       "images": [
         {
           "url": "/assets/opt/dinner/kolamba-east/01.webp",
-          "alt": "Kolamba East"
+          "alt": "String hoppers at Kolamba East"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17T02:55:00+01:00",
-        "image_ok": false,
-        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; Photo replaced 2026-10-17 with own-site gallery image (string hoppers) from kolamba.co.uk/kolamba-east.",
         "sources": [
           "https://www.kolamba.co.uk/kolamba-east"
         ]
@@ -2705,41 +2690,46 @@
     {
       "id": "la-delizia",
       "name": "La Delizia",
-      "area": "London",
-      "vibe": "La Delizia is the most special neighbourhood restaurant. It is a place for all occasions, no matter how formal. Tucked away in the quiet but friendly, Chelsea Manor Street,it is the colourful and happy haven.",
+      "area": "Chelsea",
+      "vibe": "A colourful Italian on quiet Chelsea Manor Street, open since 1986. Traditional Italian cooking with a list of Italian wines.",
       "website": "https://www.ladelizia.org.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/la-delizia/01.webp",
           "alt": "La Delizia"
         }
-      ]
-    },
-    {
-      "id": "lasagneria",
-      "name": "Lasagneria",
-      "area": "London",
-      "vibe": "Two authentic Italian restaurant concepts in London.",
-      "website": "https://lasagneriaitaliana.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/lasagneria/01.webp",
-          "alt": "Lasagneria"
-        }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://www.ladelizia.org.uk/"
+        ]
+      }
     },
     {
       "id": "lime-orange",
       "name": "Lime Orange",
-      "area": "London",
-      "vibe": "Family run Korean Restaurant steps from Victoria Station, we offer authentic Korean cuisine. Ideal for casual dinners and pre-theatre dining near the Apollo Victoria (Wicked) and Victoria Palace (Hamilton) theatres.",
+      "area": "Victoria",
+      "vibe": "A family-run Korean restaurant on Vauxhall Bridge Road in Victoria. Korean fried chicken, sizzling bulgogi and traditional stews, steps from the Apollo Victoria and Victoria Palace theatres.",
       "website": "https://www.limeorange.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/lime-orange/01.webp",
           "alt": "Lime Orange"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://www.limeorange.co.uk/"
+        ]
+      }
     },
     {
       "id": "love-shack",
@@ -2788,15 +2778,24 @@
     {
       "id": "midpoint-restaurant",
       "name": "Midpoint Restaurant",
-      "area": "London",
-      "vibe": "Midpoint Restaurant in Greenwich offers the finest authentic Turkish food. We cook everything using the highest quality ingredients and serve to you with a beautiful smile.",
+      "area": "Greenwich",
+      "vibe": "Turkish cooking in a warm-lit Greenwich dining room with views over the Thames. Watch the boats go by over a romantic dinner.",
       "website": "https://www.midpointrestaurant.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/midpoint-restaurant/01.webp",
           "alt": "Midpoint Restaurant"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://www.midpointrestaurant.co.uk/"
+        ]
+      }
     },
     {
       "id": "niu-hotpot",
@@ -2807,14 +2806,14 @@
       "images": [
         {
           "url": "/assets/opt/dinner/niu-hotpot/01.webp",
-          "alt": "Niu Hotpot"
+          "alt": "Plates of sliced beef for hot pot at Niu Hotpot"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17T02:55:00+01:00",
-        "image_ok": false,
-        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; Photo replaced 2026-10-17 with own-site image of sliced beef for the hot pot (niuhotpot.co.uk), cropped to remove text.",
         "sources": [
           "https://www.niuhotpot.co.uk/"
         ]
@@ -2846,28 +2845,46 @@
     {
       "id": "okko",
       "name": "OKKO",
-      "area": "London",
-      "vibe": "OKKO Sushi restaurant London. Your friendly & chilled izakaya in Hackney & Victoria Park Village. Enjoy a fusion of Japanese cuisine and a Pacific beach-side lifestyle on your plate.",
+      "area": "Hackney",
+      "vibe": "An independent Japanese restaurant on Broadway Market, mixing Japanese precision with a Pacific beach-side mood. Sushi, sashimi, ramen and poke, with the Bento Box private room downstairs.",
       "website": "https://www.okko-uk.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/okko/01.webp",
-          "alt": "OKKO"
+          "alt": "Grilled dish and a cocktail at OKKO, Broadway Market"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line from official site 2026-10-17; logo photo replaced with own-site dish photo (okko-uk.com).",
+        "sources": [
+          "https://www.okko-uk.com/"
+        ]
+      }
     },
     {
       "id": "ornella",
       "name": "Ornella",
-      "area": "London",
-      "vibe": "Ornella, Wilton Way. The new Milanese restaurant from the team behind Lupa.",
+      "area": "Hackney",
+      "vibe": "A Milanese ristorante at 51 Wilton Way in Hackney. It comes from the team behind Lupa.",
       "website": "https://www.ornella.restaurant/",
       "images": [
         {
           "url": "/assets/opt/dinner/ornella/01.webp",
           "alt": "Ornella"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": false,
+        "notes": "Line from official site 2026-10-17; current photo is the Ornella logo; site has no venue photo yet.",
+        "sources": [
+          "https://www.ornella.restaurant/"
+        ]
+      }
     },
     {
       "id": "padella-shoreditch",
@@ -2894,41 +2911,46 @@
     {
       "id": "pierino",
       "name": "Pierino",
-      "area": "London",
-      "vibe": "Fine dining to make a fuss over | Cooking pizza, pasta & antipasti that’s full of flavour| Italian-inspired",
+      "area": "Kensington",
+      "vibe": "An Italian restaurant-bar in Kensington serving antipasti, pizza, pasta and drinks all day. Made for a long lunch or a cosy dinner.",
       "website": "https://pierinorestaurant.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/pierino/01.webp",
           "alt": "Pierino"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://pierinorestaurant.com/"
+        ]
+      }
     },
     {
       "id": "pizza-east",
       "name": "Pizza East",
-      "area": "London",
-      "vibe": "Situated in a old tea factory on Shoreditch high street and Bethnal Green road, we serve rustic pizza and cocktails.",
+      "area": "Shoreditch",
+      "vibe": "Wood-fired pizzas and hearty lasagne in the old Tea Building on Shoreditch High Street. Italian, produce-led comfort food with drinks to match.",
       "website": "https://www.pizzaeast.com/shoreditch",
       "images": [
         {
           "url": "/assets/opt/dinner/pizza-east/01.webp",
           "alt": "Pizza East"
         }
-      ]
-    },
-    {
-      "id": "poppies",
-      "name": "Poppie's",
-      "area": "London",
-      "vibe": "Visit Poppies restaurants for the best fish and chips in London. Where tradition meets excellence and your meal is served with love and care.",
-      "website": "https://www.poppiesfishandchips.co.uk",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/poppies/01.webp",
-          "alt": "Poppie's"
-        }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://www.pizzaeast.com/shoreditch"
+        ]
+      }
     },
     {
       "id": "quo-vadis",
@@ -3001,14 +3023,23 @@
       "id": "samad-al-iraqi",
       "name": "Samad Al Iraqi",
       "area": "London",
-      "vibe": "Samad Al Iraqi Restaurant – Authentic Arabic cuisine in London. Enjoy traditional Iraqi and Middle Eastern dishes. Order now!",
+      "vibe": "Traditional Iraqi cooking in a room inspired by Mesopotamian culture. Grilled masgouf fish, kebabs and Middle Eastern specialities.",
       "website": "https://www.samadaliraqirestaurant.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/samad-al-iraqi/01.webp",
-          "alt": "Samad Al Iraqi"
+          "alt": "A spread of Iraqi dishes at Samad Al Iraqi"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line from official site 2026-10-17; logo replaced with own-site food photo.",
+        "sources": [
+          "https://www.samadaliraqirestaurant.co.uk/"
+        ]
+      }
     },
     {
       "id": "samarkand",
@@ -3026,28 +3057,46 @@
     {
       "id": "schnitzel-forever",
       "name": "Schnitzel Forever",
-      "area": "London",
-      "vibe": "Schnitzel Forever brings you an experience you can't find anywhere else. Each schnitzel is prepared fresh per order, allowing you to enjoy the full taste.",
+      "area": "Stoke Newington",
+      "vibe": "A Stoke Newington schnitzel house, each one fried fresh to order. Wiener, Jäger, katsu, cordon bleu and Napolitana share the menu with the house Stokey Schnitzel.",
       "website": "https://www.schnitzelforever.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/schnitzel-forever/01.webp",
           "alt": "Schnitzel Forever"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://www.schnitzelforever.co.uk/"
+        ]
+      }
     },
     {
       "id": "sushi-kyu",
       "name": "Sushi Kyu",
-      "area": "London",
-      "vibe": "Sushi Kyu is a hidden gem located in the heart of Soho, London. As a sister sushi restaurant of Cubé, it offers a unique and intimate dining experience with only 10 seats.",
+      "area": "Soho",
+      "vibe": "A ten-seat sushi bar hidden in Soho, sister to Cubé in Mayfair. Chefs trained under head chef Mogi serve omakase from ingredients sourced at origin.",
       "website": "http://sushikyu.com",
       "images": [
         {
           "url": "/assets/opt/dinner/sushi-kyu/01.webp",
           "alt": "Sushi Kyu"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://sushikyu.com/"
+        ]
+      }
     },
     {
       "id": "tawa-roti",
@@ -3093,14 +3142,14 @@
       "images": [
         {
           "url": "/assets/opt/dinner/the-bugis-singaporean-restaurant/01.webp",
-          "alt": "The Bugis Singaporean Restaurant"
+          "alt": "Dishes on the table at The Bugis, South Kensington"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17T02:55:00+01:00",
-        "image_ok": false,
-        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; Photo replaced 2026-10-17 with own-site food photo from thebugisrestaurant.com.",
         "sources": [
           "https://thebugisrestaurant.com/"
         ]
@@ -3109,54 +3158,68 @@
     {
       "id": "the-india-fleet-street",
       "name": "The India - Fleet Street",
-      "area": "London",
-      "vibe": "Discover authentic flavors at our Indian restaurant in Fleet street. Taste the best of India right here. Reserve your table now!",
+      "area": "Fleet Street",
+      "vibe": "An Indian restaurant on Fleet Street with private dining. Tandoori dishes, fragrant biryanis and rich curries, plus thali sets at lunch.",
       "website": "https://theindia4.restaurant/",
       "images": [
         {
           "url": "/assets/opt/dinner/the-india-fleet-street/01.webp",
           "alt": "The India - Fleet Street"
         }
-      ]
-    },
-    {
-      "id": "trejo-s-tacos",
-      "name": "Trejo‘s Tacos",
-      "area": "London",
-      "vibe": "FRESH MEXICAN STREET TACOS IN NOTTING HILL ON PORTOBELLO ROAD. SERVING BURRITOS, NACHOS & TACO CATERING ACROSS LONDON. VISIT TREJO’S TACOS TODAY. FEATURING A COCKTAIL BAR AND PRIVATE ROOM FOR PRIVATE EVENTS.",
-      "website": "https://trejostacos.co.uk",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/trejo-s-tacos/01.webp",
-          "alt": "Trejo‘s Tacos"
-        }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://theindia4.restaurant/"
+        ]
+      }
     },
     {
       "id": "turo-turo-tooting",
       "name": "Turo Turo Tooting",
-      "area": "London",
-      "vibe": "Discover the bold flavours of the Philippines at Turo Turo, a top-rated Filipino BBQ & Grill in Tooting Broadway, London.",
+      "area": "Tooting",
+      "vibe": "A Filipino bar and grill on Tooting High Street with tropical cocktails, BBQ and karaoke. Weekend brunch and boodle fights bring the noise.",
       "website": "https://www.turoturo.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/turo-turo-tooting/01.webp",
-          "alt": "Turo Turo Tooting"
+          "alt": "Karaoke night at Turo Turo, Tooting"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line from official site 2026-10-17; logo replaced with own-site karaoke photo.",
+        "sources": [
+          "https://www.turoturo.co.uk/"
+        ]
+      }
     },
     {
       "id": "tziganos",
       "name": "Tziganos",
       "area": "Blackheath",
-      "vibe": "Tziganos is an Italian and Spanish Restaurant in South East London. Our Mediterranean restaurant is set just south of Greenwich Park in Blackheath village.",
+      "vibe": "Spanish tapas and Italian pasta under one roof in Blackheath Village, just south of Greenwich Park. Meat, fish and veggie tapas mixed with Italian flavours.",
       "website": "https://www.tziganos.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/tziganos/01.webp",
           "alt": "Tziganos"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "sources": [
+          "https://www.tziganos.uk/"
+        ]
+      }
     },
     {
       "id": "unity-diner",
@@ -3179,19 +3242,6 @@
           "https://www.unitydiner.co.uk/"
         ]
       }
-    },
-    {
-      "id": "zero-degrees",
-      "name": "Zero Degrees",
-      "area": "Blackheath",
-      "vibe": "Craft beer brewed on-site, wood-fired pizza & fresh mussels in Blackheath Village. Book a table or a private party from 40 to 250 - 3 mins from the station.",
-      "website": "https://www.zerodegrees.co.uk/restaurants/blackheath/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/zero-degrees/01.webp",
-          "alt": "Zero Degrees"
-        }
-      ]
     },
     {
       "id": "dishoom-carnaby",
@@ -3556,6 +3606,73 @@
         "sources": [
           "https://www.dinnerbyheston.co.uk/",
           "https://commons.wikimedia.org/wiki/File:Meat_Fruit_at_Dinner_by_Heston.jpg"
+        ]
+      }
+    },
+    {
+      "id": "andrew-edmunds",
+      "name": "Andrew Edmunds",
+      "area": "Soho",
+      "website": "https://www.andrewedmunds.com/",
+      "vibe": "A candlelit 18th-century townhouse on Lexington Street, cooking a seasonal menu since 1985. The wine list is famous, with older vintages at prices close to auction.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/andrew-edmunds/01.webp",
+          "alt": "Candlelit tables outside Andrew Edmunds, Soho"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Shopfront photo from the official site gallery.",
+        "sources": [
+          "https://www.andrewedmunds.com/"
+        ]
+      }
+    },
+    {
+      "id": "barshu",
+      "name": "Barshu",
+      "area": "Soho",
+      "website": "https://barshurestaurant.co.uk/",
+      "vibe": "A Sichuan pioneer a whisper from Chinatown, cooking since 2006 in a room of dark wooden floors and Chinese accents. Come for the numbing-and-hot dishes.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/barshu/01.webp",
+          "alt": "Tables by the window at Barshu, Soho"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Dining-room photo from the official site.",
+        "sources": [
+          "https://barshurestaurant.co.uk/"
+        ]
+      }
+    },
+    {
+      "id": "smoking-goat",
+      "name": "Smoking Goat",
+      "area": "Shoreditch",
+      "website": "https://www.smokinggoatbar.com/",
+      "vibe": "A Thai bar and grill at 64 Shoreditch High Street. A feasting menu runs alongside lunch and dinner.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/smoking-goat/01.webp",
+          "alt": "Smoking Goat on the corner of Shoreditch High Street"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Photo: Wikimedia Commons \"Smoking Goat, Shoreditch, E1.jpg\" by Ewan-M (CC BY-SA 2.0).",
+        "sources": [
+          "https://www.smokinggoatbar.com/",
+          "https://commons.wikimedia.org/wiki/File:Smoking_Goat,_Shoreditch,_E1.jpg"
         ]
       }
     }
@@ -4531,14 +4648,14 @@
       "images": [
         {
           "url": "/assets/opt/dance/alaska-waterloo/01.webp",
-          "alt": "Alaska - Waterloo"
+          "alt": "Crowd on a night out at Alaska Waterloo"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17T02:55:00+01:00",
-        "image_ok": false,
-        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; Photo replaced 2026-10-17 with own-site header photo of a crowd at Alaska (alaskawaterloo.com).",
         "sources": [
           "https://www.alaskawaterloo.com/"
         ]
@@ -4750,14 +4867,14 @@
       "images": [
         {
           "url": "/assets/opt/dance/nancys/01.webp",
-          "alt": "Nancy's"
+          "alt": "The bar and lounge at Nancy's, London Bridge"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17T02:55:00+01:00",
-        "image_ok": false,
-        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; Photo replaced 2026-10-17 with own-site photo of the bar and room at Nancy's (nancys.co.uk).",
         "sources": [
           "https://www.nancys.co.uk/"
         ]
