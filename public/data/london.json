@@ -45,13 +45,18 @@
       "images": [
         {
           "url": "/assets/opt/date/charles-dickens-museum/01.webp",
-          "alt": "Charles Dickens Museum"
+          "alt": "Charles Dickens Museum, 48 Doughty Street"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Peter Trimming, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Charles_Dickens_Museum_(2018-12-21).jpg).",
+        "sources": [
+          "https://dickensmuseum.com/",
+          "https://commons.wikimedia.org/wiki/File:Charles_Dickens_Museum_(2018-12-21).jpg"
+        ]
       }
     },
     {
@@ -207,13 +212,18 @@
       "images": [
         {
           "url": "/assets/opt/date/rio-cinema/01.webp",
-          "alt": "Rio Cinema"
+          "alt": "Rio Cinema, Dalston"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Andrew Woodyatt, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:The_RIO_Cinema_Dalston.jpg).",
+        "sources": [
+          "http://riocinema.com/",
+          "https://commons.wikimedia.org/wiki/File:The_RIO_Cinema_Dalston.jpg"
+        ]
       }
     },
     {
@@ -369,13 +379,18 @@
       "images": [
         {
           "url": "/assets/opt/date/victoria-and-albert-museum/01.webp",
-          "alt": "Victoria and Albert Museum"
+          "alt": "John Madejski Garden at the V&A"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, The wub, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:John_Madejski_Garden,_V%26A_(3)_-_2024-01-05.jpg).",
+        "sources": [
+          "https://www.vam.ac.uk/",
+          "https://commons.wikimedia.org/wiki/File:John_Madejski_Garden,_V%26A_(3)_-_2024-01-05.jpg"
+        ]
       }
     },
     {
@@ -413,27 +428,45 @@
       "id": "barbican-centre",
       "name": "Barbican Centre",
       "area": "Barbican",
-      "vibe": "A world-class arts and learning centre, the Barbican pushes the boundaries of all major art forms including dance, film, music, theatre and visual arts.",
+      "vibe": "Art, cinema, music, theatre and dance under one roof, with a Conservatory and a library inside. End the night at the Martini bar.",
       "website": "https://www.barbican.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/barbican-centre/01.webp",
           "alt": "Barbican Centre"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.barbican.org.uk/"
+        ]
+      }
     },
     {
       "id": "borough-market",
       "name": "Borough Market",
       "area": "Borough",
-      "vibe": "Welcome to Borough Market: a historic market in central London with an emphasis on high quality food, sustainable production and social connection",
+      "vibe": "London's premier food market at 8 Southwark Street, where traders celebrate good food and the people who made it. Come with an appetite, or book an official tour for the stories.",
       "website": "https://boroughmarket.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/borough-market/01.webp",
           "alt": "Borough Market"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://boroughmarket.org.uk/"
+        ]
+      }
     },
     {
       "id": "british-library-exhibition-space",
@@ -830,14 +863,23 @@
       "id": "ica",
       "name": "ICA",
       "area": "The Mall",
-      "vibe": "The Institute of Contemporary Arts (ICA) is London’s leading space for contemporary culture. We commission, produce and present new work in film, music, performance and the visual arts by today’s most progressive artists.",
+      "vibe": "A leading space for contemporary culture since 1946, in a landmark home on The Mall. Exhibitions, artists' film, talks and performance.",
       "website": "https://www.ica.art/",
       "images": [
         {
           "url": "/assets/opt/date/ica/01.webp",
           "alt": "ICA"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.ica.art/"
+        ]
+      }
     },
     {
       "id": "imperial-war-museum",
@@ -1043,14 +1085,23 @@
       "id": "natural-history-museum",
       "name": "Natural History Museum",
       "area": "South Kensington",
-      "vibe": "Book tickets. Explore our galleries, science, news, videos and amazing images. South Kensington Tube. London, UK.",
+      "vibe": "The UK's most popular museum, open every day 10:00–17:50 in South Kensington. Dinosaurs, Jurassic sea monsters and Wildlife Photographer of the Year.",
       "website": "https://www.nhm.ac.uk/",
       "images": [
         {
           "url": "/assets/opt/date/natural-history-museum/01.webp",
           "alt": "Natural History Museum"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.nhm.ac.uk/"
+        ]
+      }
     },
     {
       "id": "netil-market",
@@ -1138,28 +1189,46 @@
     {
       "id": "royal-academy-of-arts",
       "name": "Royal Academy of Arts",
-      "area": "London",
-      "vibe": "The Royal Academy of Arts, located in the heart of London, is a place where art is made, exhibited and debated.",
+      "area": "Piccadilly",
+      "vibe": "Exhibitions at Burlington House on Piccadilly, open until 9pm on Fridays and Saturdays. The John Madejski Fine Rooms display is free.",
       "website": "https://www.royalacademy.org.uk",
       "images": [
         {
           "url": "/assets/opt/date/royal-academy-of-arts/01.webp",
           "alt": "Royal Academy of Arts"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.royalacademy.org.uk"
+        ]
+      }
     },
     {
       "id": "saatchi-gallery",
       "name": "Saatchi Gallery",
       "area": "Chelsea",
-      "vibe": "Since 1985, Saatchi Gallery has presented contemporary art exhibitions showcasing the work of emerging artists.",
+      "vibe": "Contemporary art in Chelsea since 1985, with a reputation for introducing artists who later found worldwide recognition. Open every day of the week.",
       "website": "https://www.saatchigallery.com/",
       "images": [
         {
           "url": "/assets/opt/date/saatchi-gallery/01.webp",
           "alt": "Saatchi Gallery"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.saatchigallery.com/"
+        ]
+      }
     },
     {
       "id": "seen-fifteen-south-kiosk",
@@ -1312,15 +1381,24 @@
     {
       "id": "the-courtauld-gallery",
       "name": "The Courtauld Gallery",
-      "area": "London",
-      "vibe": "Courtauld Gallery The Courtauld is an internationally renowned centre for the teaching and research of art history and a major public gallery.",
+      "area": "Strand",
+      "vibe": "One of the greatest art collections in the UK, in a human-sized gallery at Somerset House. Focused exhibitions and contemporary commissions run through the year.",
       "website": "https://courtauld.ac.uk/gallery/",
       "images": [
         {
           "url": "/assets/opt/date/the-courtauld-gallery/01.webp",
           "alt": "The Courtauld Gallery"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://courtauld.ac.uk/gallery/"
+        ]
+      }
     },
     {
       "id": "the-fan-museum",
@@ -1409,14 +1487,24 @@
       "id": "wallace-collection",
       "name": "Wallace Collection",
       "area": "Marylebone",
-      "vibe": "Discover exceptional paintings, sculpture, ceramics, furniture and arms and armour, gifted to Britain in 1900, in a historic London house museum.",
+      "vibe": "Fragonard's The Swing hangs here among paintings by Boucher and Reynolds and furniture by Boulle. A historic Marylebone house museum, with galleries of arms and armour.",
       "website": "https://www.wallacecollection.org/",
       "images": [
         {
           "url": "/assets/opt/date/wallace-collection/01.webp",
-          "alt": "Wallace Collection"
+          "alt": "Hertford House, home of the Wallace Collection"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, oyxman, CC BY 2.5 (https://commons.wikimedia.org/wiki/File:Hertford_House_Wallace_Collection.jpg). Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.wallacecollection.org/",
+          "https://commons.wikimedia.org/wiki/File:Hertford_House_Wallace_Collection.jpg"
+        ]
+      }
     },
     {
       "id": "whitechapel-gallery",
@@ -1563,8 +1651,8 @@
     {
       "id": "akoko",
       "name": "Akoko",
-      "area": "London",
-      "vibe": "Akoko is a culinary journey into the depth, richness, vibrancy and diversity of West African cuisine.",
+      "area": "Fitzrovia",
+      "vibe": "Aji Akokomi's fine-dining West African restaurant in Fitzrovia, where tradition meets culinary creativity. One tasting menu at lunch and dinner; allow two and a half hours.",
       "website": "https://akoko.co.uk/",
       "images": [
         {
@@ -1574,8 +1662,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://akoko.co.uk/"
+        ]
       }
     },
     {
@@ -1668,17 +1760,18 @@
       "images": [
         {
           "url": "/assets/opt/dinner/buster-mantis/01.webp",
-          "alt": "Buster Mantis"
+          "alt": "Buster Mantis railway arch, Deptford"
         }
       ],
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-09-20",
+        "checked_at": "2026-10-17T02:55:00+01:00",
         "image_ok": true,
-        "notes": "Official bustermantis.com + /book. Site does not describe the food. No photos to name-check. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
+        "notes": "Official bustermantis.com + /book. Site does not describe the food. No photos to name-check. Official og:image added. Sales hook rewrite: plate/room/night, no hours. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Ewan-M, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Buster_Mantis,_Deptford,_SE8.jpg).",
         "sources": [
           "https://www.bustermantis.com/",
-          "https://www.bustermantis.com/book"
+          "https://www.bustermantis.com/book",
+          "https://commons.wikimedia.org/wiki/File:Buster_Mantis,_Deptford,_SE8.jpg"
         ]
       }
     },
@@ -1896,28 +1989,6 @@
       }
     },
     {
-      "id": "ristorante-sorrento",
-      "name": "Ristorante Sorrento",
-      "area": "Twickenham",
-      "vibe": "Italian on Heath Road, Twickenham. Regional plates, no gimmick — book if it’s a rugby day.",
-      "website": "https://www.ballaro.co.uk",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/ristorante-sorrento/01.webp",
-          "alt": "Ristorante Sorrento"
-        }
-      ],
-      "verified": {
-        "confidence": 2,
-        "checked_at": "2026-09-20",
-        "image_ok": true,
-        "notes": "Dropped 2019 Twickenham street photo. Shopfronts are Ballarò, Nationwide and MEL Drycleaners, not Ristorante Sorrento. Official og:image added. Sales hook rewrite: plate/room/night, no hours.",
-        "sources": [
-          "https://www.sorrentotwickenham.com/"
-        ]
-      }
-    },
-    {
       "id": "rules",
       "name": "Rules",
       "area": "Covent Garden",
@@ -2119,15 +2190,24 @@
     {
       "id": "ave-mario",
       "name": "Ave Mario",
-      "area": "London",
-      "vibe": "Italian restaurant in Covent Garden serving wood-fired pizza a ruota di carretto, fresh pasta and 100% Italian specialities.",
+      "area": "Covent Garden",
+      "vibe": "Big Mamma's Florentine-palazzo trattoria in Covent Garden: six-metre ceilings and a bar lined with 3,500 bottles. The Gran Carbonara is served in a 4kg pecorino wheel.",
       "website": "https://www.bigmammagroup.com/en/trattorias/ave-mario",
       "images": [
         {
           "url": "/assets/opt/dinner/ave-mario/01.webp",
           "alt": "Ave Mario"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.bigmammagroup.com/en/trattorias/ave-mario"
+        ]
+      }
     },
     {
       "id": "bao-borough",
@@ -2159,7 +2239,7 @@
       "id": "barrafina-adelaide-street",
       "name": "Barrafina Adelaide Street",
       "area": "Covent Garden",
-      "vibe": "Find out more about Barrafina Adelaide Street, our award-winning Spanish tapas counter-dining restaurant in London's Charing Cross area.",
+      "vibe": "The curve-fronted Barrafina on the corner of Adelaide Street, a stone's throw from Trafalgar Square. Wraparound windows, a horseshoe marble counter, and the day's specials on ice behind the bar.",
       "website": "https://www.barrafina.co.uk/restaurants/adelaide-street",
       "images": [
         {
@@ -2169,10 +2249,11 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-10-05",
+        "checked_at": "2026-10-17T02:55:00+01:00",
         "image_ok": true,
-        "notes": "Replaced logo/wordmark with the official Adelaide Street counter photograph from barrafina.com.",
+        "notes": "Replaced logo/wordmark with the official Adelaide Street counter photograph from barrafina.com. Line rewritten from official site 2026-10-17.",
         "sources": [
+          "https://www.barrafina.co.uk/restaurants/adelaide-street",
           "https://www.barrafina.com/locations/adelaide-street/",
           "https://www.barrafina.com/wp-content/uploads/2025/02/240709_Barrafina_Adelaide_Interior_003-scaled.jpg"
         ]
@@ -2229,15 +2310,24 @@
     {
       "id": "bun-house",
       "name": "Bun House",
-      "area": "London",
-      "vibe": "London Hot Asian Buns, Playful Cantonese Small Plates.",
+      "area": "Chinatown",
+      "vibe": "Handmade custard buns, wontons and playful Cantonese small plates on Lisle Street in Chinatown. Walk-in only.",
       "website": "https://bun.house/",
       "images": [
         {
           "url": "/assets/opt/dinner/bun-house/01.webp",
           "alt": "Bun House"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://bun.house/"
+        ]
+      }
     },
     {
       "id": "burger-and-beyond",
@@ -2255,15 +2345,24 @@
     {
       "id": "carousel",
       "name": "Carousel",
-      "area": "London",
-      "vibe": "Home to a revolving line-up of extraordinary experiences, from international guest chefs and award-winning events, to contemporary Mexican restaurant, Cometa.",
+      "area": "Fitzrovia",
+      "vibe": "Guest-chef residencies from around the world rotate through Carousel's new Charlotte Street home. Alongside them sits Cometa, a Mexican seafood restaurant cooking British waters.",
       "website": "https://carousel-london.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/carousel/01.webp",
           "alt": "Carousel"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": false,
+        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "sources": [
+          "https://carousel-london.com/"
+        ]
+      }
     },
     {
       "id": "cha-louis",
@@ -2281,28 +2380,46 @@
     {
       "id": "chets",
       "name": "Chet's",
-      "area": "London",
-      "vibe": "Chet's is an LA Thai-influenced restaurant with fiery food and an informal, easy dining experience open from morning to night.",
+      "area": "Shepherd's Bush",
+      "vibe": "A Thai-American spot on Shepherd's Bush Green, pairing Thailand's smoky, fragrant flavours with classic American diner comforts. Open every day, with the night menu running until midnight.",
       "website": "https://www.chetsrestaurant.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/chets/01.webp",
           "alt": "Chet's"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.chetsrestaurant.co.uk/"
+        ]
+      }
     },
     {
       "id": "chicome",
       "name": "Chicome",
-      "area": "London",
-      "vibe": "Chicome is a top Mexican restaurant in London. Visit us for an unforgettable experience at the ultimate Mexican fusion restaurant in St. Katharine Docks.",
+      "area": "St Katharine Docks",
+      "vibe": "Family-run Mexican fusion on St Katharine's Way, led by head chef Tomasz Baranski. Cactus tempura, Peruvian ceviche and Iberico pork carnitas head the menu.",
       "website": "https://chicome.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/chicome/01.webp",
           "alt": "Chicome"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://chicome.co.uk/"
+        ]
+      }
     },
     {
       "id": "chino-latino",
@@ -2361,9 +2478,19 @@
       "images": [
         {
           "url": "/assets/opt/dinner/cubana/01.webp",
-          "alt": "Cubana"
+          "alt": "Cubana on Lower Marsh, Waterloo"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Ewan-M, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Cubana,_Waterloo,_SE1.jpg).",
+        "sources": [
+          "https://www.cubana.co.uk/find-us/",
+          "https://commons.wikimedia.org/wiki/File:Cubana,_Waterloo,_SE1.jpg"
+        ]
+      }
     },
     {
       "id": "eat-vietnam",
@@ -2416,15 +2543,24 @@
     {
       "id": "ev",
       "name": "EV",
-      "area": "London",
-      "vibe": "Visit EV Restaurant on Isabella Street, Southwark SE1, serving Anatolian and Mediterranean cuisine near Southwark station, Waterloo, The Old Vic and Young Vic.",
+      "area": "Southwark",
+      "vibe": "Traditional Anatolian and Mediterranean dishes in a contemporary room next to Southwark tube. Order the meze, then move on to cocktails at Ev Bar.",
       "website": "https://evrestaurant.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/ev/01.webp",
           "alt": "EV"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://evrestaurant.co.uk/"
+        ]
+      }
     },
     {
       "id": "four-hundred-rabbits",
@@ -2513,14 +2649,23 @@
       "id": "jamavar",
       "name": "Jamavar",
       "area": "Mayfair",
-      "vibe": "Discover Jamavar’s Michelin-starred Indian restaurants in London, Dubai, Doha & India, serving Indian cuisine and fine dining experiences",
+      "vibe": "Named after the 16th-century shawls of Kashmir and inspired by India's palaces and princely states. Michelin-starred Indian cooking, in Mayfair since 2016.",
       "website": "https://jamavarrestaurants.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/jamavar/01.webp",
           "alt": "Jamavar"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://jamavarrestaurants.com/"
+        ]
+      }
     },
     {
       "id": "kol",
@@ -2538,15 +2683,24 @@
     {
       "id": "kolamba-east",
       "name": "Kolamba East",
-      "area": "London",
-      "vibe": "Kolamba East is an Authentic Sri Lankan Restaurant Near Liverpool Street, Serving Iconic Dishes Made with the Best Ingredients. Find Us Near Shoreditch & Spitalfields.",
+      "area": "Spitalfields",
+      "vibe": "Sri Lankan feasting plates and island classics at 12 Blossom Street, Spitalfields. Cocktails come from a central bar; on Saturdays there is an island feast with unlimited hoppers.",
       "website": "https://www.kolamba.co.uk/kolamba-east",
       "images": [
         {
           "url": "/assets/opt/dinner/kolamba-east/01.webp",
           "alt": "Kolamba East"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": false,
+        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "sources": [
+          "https://www.kolamba.co.uk/kolamba-east"
+        ]
+      }
     },
     {
       "id": "la-delizia",
@@ -2648,14 +2802,23 @@
       "id": "niu-hotpot",
       "name": "Niu Hotpot",
       "area": "London",
-      "vibe": "London's Chaoshan beef hotpot, charcoal grill, and private KTV room experience.",
+      "vibe": "Chaoshan beef hotpot with beef hand-cut in the traditional style, plus charcoal-grilled skewers. After dinner, a neon-lit private KTV room keeps the night going.",
       "website": "https://www.niuhotpot.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/niu-hotpot/01.webp",
           "alt": "Niu Hotpot"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": false,
+        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "sources": [
+          "https://www.niuhotpot.co.uk/"
+        ]
+      }
     },
     {
       "id": "noble-rot-mayfair",
@@ -2776,16 +2939,17 @@
       "images": [
         {
           "url": "/assets/opt/dinner/quo-vadis/01.webp",
-          "alt": "Quo Vadis"
+          "alt": "Quo Vadis on Dean Street, Soho"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17",
-        "image_ok": false,
-        "notes": "Existing image is the restaurant's own illustration of the building, not a photo; needs a real photo later.",
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Existing image is the restaurant's own illustration of the building, not a photo; needs a real photo later. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, No Swan So Fine, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Quo_Vadis,_29_Dean_Street,_Soho,_June_2023.jpg).",
         "sources": [
-          "https://www.quovadissoho.co.uk/"
+          "https://www.quovadissoho.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Quo_Vadis,_29_Dean_Street,_Soho,_June_2023.jpg"
         ]
       }
     },
@@ -2888,15 +3052,24 @@
     {
       "id": "tawa-roti",
       "name": "Tawa Roti",
-      "area": "London",
-      "vibe": "A taste from the islands, just like nani used to make it.",
+      "area": "Clapham",
+      "vibe": "Trinidadian roti made on a traditional cast-iron tawa at 12 Clapham High Street. Dhal puri, buss up shut, doubles and curry goat, cooked from scratch.",
       "website": "https://tawaroti.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/tawa-roti/01.webp",
           "alt": "Tawa Roti"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://tawaroti.com/"
+        ]
+      }
     },
     {
       "id": "terroirs",
@@ -2915,27 +3088,23 @@
       "id": "the-bugis-singaporean-restaurant",
       "name": "The Bugis Singaporean Restaurant",
       "area": "South Kensington",
-      "vibe": "Experience the vibrant flavors of Singapore and Malaysia. Enjoy traditional, street food-inspired dishes crafted with authentic ingredients.",
+      "vibe": "Singaporean cooking on the ground floor of Bailey's Hotel, a nod to the hawker halls near Haji Lane. A seasonal menu built for sharing, with Eastern-influenced cocktails.",
       "website": "https://thebugisrestaurant.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/the-bugis-singaporean-restaurant/01.webp",
           "alt": "The Bugis Singaporean Restaurant"
         }
-      ]
-    },
-    {
-      "id": "the-good-front-room",
-      "name": "The Good Front Room",
-      "area": "London",
-      "vibe": "The Good Front Room Caribbean restaurant offers a unique dining experience that celebrates the fusion of classical training with authentic, yet modern, interpretations of traditional dishes.",
-      "website": "https://www.thegoodfrontroom.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/the-good-front-room/01.webp",
-          "alt": "The Good Front Room"
-        }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": false,
+        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "sources": [
+          "https://thebugisrestaurant.com/"
+        ]
+      }
     },
     {
       "id": "the-india-fleet-street",
@@ -2992,15 +3161,24 @@
     {
       "id": "unity-diner",
       "name": "Unity Diner",
-      "area": "London",
-      "vibe": "Unity Diner is a 100% vegan, non profit restaurant and cocktail bar in Spitalfields, London, serving vegan comfort food, cocktails, Sunday carvery.",
+      "area": "Spitalfields",
+      "vibe": "A vegan diner and cocktail bar that gives its profits to Surge Sanctuary, home to over 150 rescued farm animals. Sundays bring the UK's only vegan carvery, Yorkshire puddings included.",
       "website": "https://www.unitydiner.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/unity-diner/01.webp",
           "alt": "Unity Diner"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.unitydiner.co.uk/"
+        ]
+      }
     },
     {
       "id": "zero-degrees",
@@ -3081,6 +3259,305 @@
           "https://www.saborrestaurants.co.uk/"
         ]
       }
+    },
+    {
+      "id": "the-wolseley",
+      "name": "The Wolseley",
+      "area": "Piccadilly",
+      "vibe": "The original Wolseley on Piccadilly: Art Deco details, landmark architecture and dining all day. Dinner comes from an à la carte inspired by the grand cafés of Europe.",
+      "website": "https://www.thewolseleypiccadilly.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-wolseley/01.webp",
+          "alt": "The Wolseley dining room on Piccadilly"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, Michaelmas1957, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:WolseleyRestaurantInterior2014.jpg).",
+        "sources": [
+          "https://www.thewolseleypiccadilly.com/",
+          "https://commons.wikimedia.org/wiki/File:WolseleyRestaurantInterior2014.jpg"
+        ]
+      }
+    },
+    {
+      "id": "simpsons-in-the-strand",
+      "name": "Simpson's in the Strand",
+      "area": "Strand",
+      "vibe": "The Grand Divan is the historic home of the English roast: an Edwardian dining room where Master Carvers work the silver trolleys. At 100 Strand since 1904, on the edge of Theatreland.",
+      "website": "https://www.simpsonsinthestrand.co.uk/grand-divan/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/simpsons-in-the-strand/01.webp",
+          "alt": "Simpson's in the Strand entrance at 100 Strand"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, Matt Brown, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Simpson%27s-in-the-Strand_2023-12-04.jpg).",
+        "sources": [
+          "https://www.simpsonsinthestrand.co.uk/grand-divan/",
+          "https://commons.wikimedia.org/wiki/File:Simpson%27s-in-the-Strand_2023-12-04.jpg"
+        ]
+      }
+    },
+    {
+      "id": "wiltons",
+      "name": "Wiltons",
+      "area": "St James's",
+      "vibe": "Seafood and game since 1742, now at 55 Jermyn Street in St James's. Sit at the oyster bar or wait for the carving trolley; there is a dress code.",
+      "website": "https://www.wiltons.co.uk/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/wiltons/01.webp",
+          "alt": "Wiltons at 55 Jermyn Street"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, Spudgun67, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Wiltons_Restaurant_55_Jermyn_Street_London_SW1Y_6LX.jpg).",
+        "sources": [
+          "https://www.wiltons.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Wiltons_Restaurant_55_Jermyn_Street_London_SW1Y_6LX.jpg"
+        ]
+      }
+    },
+    {
+      "id": "the-ivy",
+      "name": "The Ivy",
+      "area": "Covent Garden",
+      "vibe": "The original Ivy on West Street, a Theatreland icon since 1917. Stained-glass windows, a shimmering central bar and an art-filled room for dinner before or after the show.",
+      "website": "https://ivycollection.com/restaurants-near-me/the-ivy-london/the-ivy-west-street-covent-garden/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-ivy/01.webp",
+          "alt": "The Ivy on West Street, Covent Garden"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, DanielCahen01, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:The_Ivy_Restaurant,_West_Street,_London.jpg).",
+        "sources": [
+          "https://ivycollection.com/restaurants-near-me/the-ivy-london/the-ivy-west-street-covent-garden/",
+          "https://commons.wikimedia.org/wiki/File:The_Ivy_Restaurant,_West_Street,_London.jpg"
+        ]
+      }
+    },
+    {
+      "id": "l-escargot",
+      "name": "L'Escargot",
+      "area": "Soho",
+      "vibe": "London's oldest French restaurant, at 48 Greek Street since 1927. A prix fixe gets you to the theatre on time; a late-night menu runs Thursday to Saturday.",
+      "website": "https://www.lescargot.co.uk/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/l-escargot/01.webp",
+          "alt": "L'Escargot frontage on Greek Street, Soho"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, 40Dover, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Frontage_of_L%27Escargot_Restaurant_Soho_London_-_2024.jpg).",
+        "sources": [
+          "https://www.lescargot.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Frontage_of_L%27Escargot_Restaurant_Soho_London_-_2024.jpg"
+        ]
+      }
+    },
+    {
+      "id": "the-ritz-restaurant",
+      "name": "The Ritz Restaurant",
+      "area": "Piccadilly",
+      "vibe": "Two Michelin stars beneath chandeliers, mirrors and a glass-roofed atrium at The Ritz on Piccadilly. John Williams MBE cooks seasonal British produce, and jacket and tie are required.",
+      "website": "https://www.theritzlondon.com/dine-with-us/the-ritz-restaurant/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-ritz-restaurant/01.webp",
+          "alt": "The Ritz Restaurant dining room"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, RT6HPU, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:The_Ritz_Restaurant.jpg).",
+        "sources": [
+          "https://www.theritzlondon.com/dine-with-us/the-ritz-restaurant/",
+          "https://commons.wikimedia.org/wiki/File:The_Ritz_Restaurant.jpg"
+        ]
+      }
+    },
+    {
+      "id": "galvin-la-chapelle",
+      "name": "Galvin La Chapelle",
+      "area": "Spitalfields",
+      "vibe": "Michelin-starred Mediterranean cooking in St Botolph's Hall, a 130-year-old Grade II listed building. Large arched windows and soaring stone ceilings, moments from Liverpool Street.",
+      "website": "https://galvinrestaurants.com/galvin-la-chapelle/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/galvin-la-chapelle/01.webp",
+          "alt": "Galvin La Chapelle entrance, St Botolph's Hall"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, Oleg Yunakov, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Galvin_La_Chapelle.jpg).",
+        "sources": [
+          "https://galvinrestaurants.com/galvin-la-chapelle/",
+          "https://commons.wikimedia.org/wiki/File:Galvin_La_Chapelle.jpg"
+        ]
+      }
+    },
+    {
+      "id": "langans-brasserie",
+      "name": "Langan's Brasserie",
+      "area": "Mayfair",
+      "vibe": "Born 1976, reborn 2021: the Stratton Street brasserie of British elegance with French tradition. Upstairs, a cocktail bar with DJs, live music and a retractable-roof terrace.",
+      "website": "https://www.langansbrasserie.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/langans-brasserie/01.webp",
+          "alt": "Langan's Brasserie on Stratton Street at night"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, BeeCeeMayfair, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Langan%27s_Brasserie_Mayfair_London_Exterior_Night.jpg).",
+        "sources": [
+          "https://www.langansbrasserie.com/",
+          "https://commons.wikimedia.org/wiki/File:Langan%27s_Brasserie_Mayfair_London_Exterior_Night.jpg"
+        ]
+      }
+    },
+    {
+      "id": "bocca-di-lupo",
+      "name": "Bocca di Lupo",
+      "area": "Soho",
+      "vibe": "Jacob Kenedy's regional Italian in Soho, with a menu spanning the twenty main dialects of Italian cooking, updated twice a day. Take the chef's counter facing the open kitchen; open until midnight Monday to Saturday.",
+      "website": "https://www.boccadilupo.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bocca-di-lupo/01.webp",
+          "alt": "Bocca di Lupo frontage, Soho"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, Andrew_Davidson, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Bocca_Di_Lupo.JPG).",
+        "sources": [
+          "https://www.boccadilupo.com/",
+          "https://commons.wikimedia.org/wiki/File:Bocca_Di_Lupo.JPG"
+        ]
+      }
+    },
+    {
+      "id": "the-guinea-grill",
+      "name": "The Guinea Grill",
+      "area": "Mayfair",
+      "vibe": "An inn has stood on this Bruton Place site since 1423, and the restaurant has grilled dry-aged, grass-fed British beef since 1952. Silver service past the grill, Young's ales at the bar.",
+      "website": "https://www.theguinea.co.uk/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-guinea-grill/01.webp",
+          "alt": "The Guinea Grill on Bruton Place, Mayfair"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, Ewan-M, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Guinea,_Mayfair,_W1.jpg).",
+        "sources": [
+          "https://www.theguinea.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Guinea,_Mayfair,_W1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "mon-plaisir",
+      "name": "Mon Plaisir",
+      "area": "Covent Garden",
+      "vibe": "A family-run French bistro at 21 Monmouth Street, its dining rooms hung with vintage French artefacts and echoes of Montmartre. Onion soup, escargots and confit de canard, with set menus before and after the theatre.",
+      "website": "https://www.monplaisir.co.uk/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/mon-plaisir/01.webp",
+          "alt": "Mon Plaisir on Monmouth Street, Covent Garden"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, Edward Hands, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Mon_Plaisir,_Monmouth_Street,_Covent_Garden_01.jpg).",
+        "sources": [
+          "https://www.monplaisir.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Mon_Plaisir,_Monmouth_Street,_Covent_Garden_01.jpg"
+        ]
+      }
+    },
+    {
+      "id": "berners-tavern",
+      "name": "Berners Tavern",
+      "area": "Fitzrovia",
+      "vibe": "Jason Atherton's modern British cooking in one of London's most iconic dining rooms, inside The London EDITION. At dinner, a smoked salmon trolley does the rounds.",
+      "website": "https://www.bernerstavern.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/berners-tavern/01.webp",
+          "alt": "Berners Tavern at The London EDITION, Berners Street"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, Ewan-M, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Berners_Tavern,_Fitzrovia,_2025-10-07.jpg).",
+        "sources": [
+          "https://www.bernerstavern.com/",
+          "https://commons.wikimedia.org/wiki/File:Berners_Tavern,_Fitzrovia,_2025-10-07.jpg"
+        ]
+      }
+    },
+    {
+      "id": "dinner-by-heston-blumenthal",
+      "name": "Dinner by Heston Blumenthal",
+      "area": "Knightsbridge",
+      "vibe": "Two Michelin stars at the Mandarin Oriental Hyde Park, with modern dishes inspired by historic British gastronomy. For a front-row seat on the kitchen, book the Chef's Table.",
+      "website": "https://www.dinnerbyheston.co.uk/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/dinner-by-heston-blumenthal/01.webp",
+          "alt": "Meat Fruit at Dinner by Heston Blumenthal"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line from the official site. Photo: Wikimedia Commons, irene., CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Meat_Fruit_at_Dinner_by_Heston.jpg).",
+        "sources": [
+          "https://www.dinnerbyheston.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Meat_Fruit_at_Dinner_by_Heston.jpg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -3149,14 +3626,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/brixton-jamm/01.webp",
-          "alt": "Brixton Jamm"
+          "alt": "Brixton Jamm building"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-17T02:55:00+01:00",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, PAUL FARMER, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Brixton_Jamm_-_geograph.org.uk_-_6152696.jpg).",
+        "sources": [
+          "https://www.brixtonjamm.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Brixton_Jamm_-_geograph.org.uk_-_6152696.jpg"
+        ]
       }
     },
     {
@@ -3179,39 +3660,26 @@
       }
     },
     {
-      "id": "circa-soho",
-      "name": "Circa Soho",
-      "area": "Soho",
-      "vibe": "Soho queer bar and club. Terrace energy, DJs after dark.",
-      "website": "https://www.circasoho.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/circa-soho/01.webp",
-          "alt": "Circa Soho"
-        }
-      ],
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
-      }
-    },
-    {
       "id": "colour-factory",
       "name": "Colour Factory",
       "area": "Hackney Wick",
       "vibe": "Hackney Wick railway arches. Queer and underground nights that run late.",
-      "website": "https://www.colourfactory.co.uk/",
+      "website": "https://www.colourfactory.com/",
       "images": [
         {
           "url": "/assets/opt/dance/colour-factory/01.webp",
-          "alt": "Colour Factory"
+          "alt": "Colour Factory, Hackney Wick"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Ewan-M, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Colour_Factory,_Hackney_Wick,_E9.jpg).",
+        "sources": [
+          "https://www.colourfactory.com/",
+          "https://commons.wikimedia.org/wiki/File:Colour_Factory,_Hackney_Wick,_E9.jpg"
+        ]
       }
     },
     {
@@ -3260,14 +3728,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/eagle-london/01.webp",
-          "alt": "Eagle London"
+          "alt": "Eagle London, Vauxhall"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-17T02:55:00+01:00",
         "image_ok": true,
-        "notes": "curated quality overnight"
+        "notes": "curated quality overnight Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Ewan Munro from London, UK, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Eagle,_Vauxhall,_SE11_(2920142292).jpg).",
+        "sources": [
+          "https://www.eaglelondon.com/",
+          "https://commons.wikimedia.org/wiki/File:Eagle,_Vauxhall,_SE11_(2920142292).jpg"
+        ]
       }
     },
     {
@@ -3404,7 +3876,7 @@
       "id": "grow-hackney-wick",
       "name": "Grow Hackney Wick",
       "area": "Hackney Wick",
-      "vibe": "Grow is an independent and sustainable canalside bar, kitchen and live music venue in Hackney Wick, close to Queen Elizabeth Olympic Park, East Bank and Stratford. Join us for brunch, seasonal food, organic drinks, craft beers, cocktails, DJs, jazz and community events by the Riv",
+      "vibe": "A sustainable canalside bar, kitchen and live-music venue by the River Lea in Hackney Wick, close to the Olympic Park. Weekly live jazz, Canalside Sessions, DJs and organic drinks to go with them.",
       "website": "https://www.growhackney.co.uk/",
       "images": [
         {
@@ -3414,9 +3886,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-17T02:55:00+01:00",
         "image_ok": true,
-        "notes": "site vibe verified"
+        "notes": "site vibe verified Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.growhackney.co.uk/"
+        ]
       }
     },
     {
@@ -3448,25 +3923,6 @@
         {
           "url": "/assets/opt/dance/here-outernet/01.webp",
           "alt": "Here Outernet"
-        }
-      ],
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true,
-        "notes": "nightlife top-up"
-      }
-    },
-    {
-      "id": "horse-meat-disco",
-      "name": "Horse Meat Disco",
-      "area": "Vauxhall",
-      "vibe": "Sunday at the Eagle. Disco royalty — the party that defined a generation.",
-      "website": "https://www.eaglelondon.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/horse-meat-disco/01.webp",
-          "alt": "Horse Meat Disco"
         }
       ],
       "verified": {
@@ -3799,25 +4255,6 @@
       }
     },
     {
-      "id": "studio-9294",
-      "name": "Studio 9294",
-      "area": "Hackney Wick",
-      "vibe": "Hackney Wick canal-side rooms. Independent club nights and live.",
-      "website": "https://www.studio9294.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/studio-9294/01.webp",
-          "alt": "Studio 9294"
-        }
-      ],
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true,
-        "notes": "nightlife top-up"
-      }
-    },
-    {
       "id": "tape-london",
       "name": "Tape London",
       "area": "Mayfair",
@@ -3881,14 +4318,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/the-glory/01.webp",
-          "alt": "The Glory"
+          "alt": "The Glory, Kingsland Road"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-17T02:55:00+01:00",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Ewan-M, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Glory,_Hoxton,_2025-12-29.jpg).",
+        "sources": [
+          "https://www.theglory.co/",
+          "https://commons.wikimedia.org/wiki/File:Glory,_Hoxton,_2025-12-29.jpg"
+        ]
       }
     },
     {
@@ -3915,29 +4356,10 @@
       }
     },
     {
-      "id": "the-pickle-factory",
-      "name": "The Pickle Factory",
-      "area": "Bethnal Green",
-      "vibe": "Bethnal Green sister to Oval Space. Tight dancefloor, underground bookings.",
-      "website": "https://www.picklefactory.co/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/the-pickle-factory/01.webp",
-          "alt": "The Pickle Factory"
-        }
-      ],
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true,
-        "notes": "nightlife top-up"
-      }
-    },
-    {
       "id": "the-roxy",
       "name": "The Roxy",
-      "area": "London",
-      "vibe": "Welcome to The Roxy – your go-to late-night bar & club in Soho, London. Cocktails, DJs & unforgettable nights in the heart of the city.",
+      "area": "Soho",
+      "vibe": "A late-night Soho bar and club with a weekly run of themed nights, from D.A.N.C.E Wednesdays to Saturday afternoon raves. Free live music and karaoke too.",
       "website": "https://www.theroxy.co.uk/",
       "images": [
         {
@@ -3947,9 +4369,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-17T02:55:00+01:00",
         "image_ok": true,
-        "notes": "site vibe verified"
+        "notes": "site vibe verified Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.theroxy.co.uk/"
+        ]
       }
     },
     {
@@ -3976,18 +4401,22 @@
       "name": "The Yard",
       "area": "Soho",
       "vibe": "Soho courtyard queer bar. Summer garden, winter dancefloor — a Wardour Street staple.",
-      "website": "https://www.yardbar.co.uk/",
+      "website": "https://theyardbarsoho.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dance/the-yard/01.webp",
-          "alt": "The Yard"
+          "alt": "The Yard bar, Soho"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-17T02:55:00+01:00",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Ewan Munro from London, UK, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Yard,_Soho,_W1_(4949445946).jpg).",
+        "sources": [
+          "https://theyardbarsoho.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Yard,_Soho,_W1_(4949445946).jpg"
+        ]
       }
     },
     {
@@ -4091,15 +4520,24 @@
     {
       "id": "alaska-waterloo",
       "name": "Alaska - Waterloo",
-      "area": "London",
-      "vibe": "Alaska Waterloo Music Bar and Events Venue Offering enough space for 150 people to standing, this unique location is located in the centre of Waterloo.",
+      "area": "Waterloo",
+      "vibe": "A 150-capacity music bar in the centre of Waterloo, with industry-standard sound and LED lighting. Cocktails, DJs and a busy calendar of events.",
       "website": "https://www.alaskawaterloo.com/",
       "images": [
         {
           "url": "/assets/opt/dance/alaska-waterloo/01.webp",
           "alt": "Alaska - Waterloo"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": false,
+        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "sources": [
+          "https://www.alaskawaterloo.com/"
+        ]
+      }
     },
     {
       "id": "alexandra-palace",
@@ -4128,69 +4566,92 @@
       ]
     },
     {
-      "id": "barrio",
-      "name": "Barrio",
-      "area": "Brixton",
-      "vibe": "Barrio. Bringing a slap of Latin attitude to your neighbourhood. Slammin’ parties in Shoreditch...",
-      "website": "https://www.barriobars.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/barrio/01.webp",
-          "alt": "Barrio"
-        }
-      ]
-    },
-    {
       "id": "beachcomber",
       "name": "Beachcomber",
-      "area": "London",
-      "vibe": "The Beachcomber is London's best late-night tiki bar, specialising in Rhum Agricole. Situated on Queensway, it's located right at the heart of London.",
+      "area": "Bayswater",
+      "vibe": "A tiki bar hidden beneath Queensway, all Polynesian decor and the UK's largest selection of Rhum Agricole. Malaysian food from the Malay Kitchen soaks it up.",
       "website": "https://thebeachcomber.co.uk",
       "images": [
         {
           "url": "/assets/opt/dance/beachcomber/01.webp",
           "alt": "Beachcomber"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://thebeachcomber.co.uk"
+        ]
+      }
     },
     {
       "id": "behind-this-wall",
       "name": "Behind This Wall",
-      "area": "London",
-      "vibe": "Lo-Fi Bar, Hi-Fi Intentions ✓ Hidden Basement Bar Under Narrow Way, Hackney Central | Cocktails, Pizza + Vinyl ✓ Vintage Sound System ✓ Behind This Wall",
+      "area": "Hackney",
+      "vibe": "A lo-fi basement bar with hi-fi intentions under the Narrow Way in Hackney Central, built around a warm vintage sound system. There is no menu: tell them what you like and they'll make it.",
       "website": "https://www.behindthiswall.com/",
       "images": [
         {
           "url": "/assets/opt/dance/behind-this-wall/01.webp",
           "alt": "Behind This Wall"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": false,
+        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "sources": [
+          "https://www.behindthiswall.com/"
+        ]
+      }
     },
     {
       "id": "cellardoor",
       "name": "CellarDoor",
-      "area": "London",
-      "vibe": "An intimate cocktail bar beneath Covent Garden — open for secret rendezvous and dangerous liaisons in the shadows - with live acts every night from 9pm.",
+      "area": "Covent Garden",
+      "vibe": "Covent Garden's smallest bar, in a former Victorian gents once frequented by Wilde, Orton and Gielgud. Live acts every night from 9pm, open until 1am.",
       "website": "https://cellardoor.london/",
       "images": [
         {
           "url": "/assets/opt/dance/cellardoor/01.webp",
           "alt": "CellarDoor"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://cellardoor.london/"
+        ]
+      }
     },
     {
       "id": "clapham-grand",
       "name": "Clapham Grand",
       "area": "Clapham",
-      "vibe": "London's iconic, palace of modern variety since 1900. SHOWS! COMEDY! MOVIE NIGHTS! LIVE MUSIC! DRAG! SPORT! BRUNCH!",
+      "vibe": "London's palace of variety since 1900. Club nights run until 3am, between comedy, cabaret and drag shows.",
       "website": "https://claphamgrand.com/",
       "images": [
         {
           "url": "/assets/opt/dance/clapham-grand/01.webp",
           "alt": "Clapham Grand"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://claphamgrand.com/"
+        ]
+      }
     },
     {
       "id": "cuckoo-club",
@@ -4231,14 +4692,23 @@
       "id": "jazzbourne",
       "name": "Jazzbourne",
       "area": "London",
-      "vibe": "Jazzbourne is an intimate live music and cabaret venue in South London. Book now for jazz, theatre, dance, cabaret, burlesque, comedy, film, art and more.",
+      "vibe": "One of London's smallest performance spaces, a speakeasy for up to 50 in South London. Swing dancing, jazz and life drawing, with drinks from ethical, sustainable brands.",
       "website": "https://www.jazzbourne.com/",
       "images": [
         {
           "url": "/assets/opt/dance/jazzbourne/01.webp",
           "alt": "Jazzbourne"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.jazzbourne.com/"
+        ]
+      }
     },
     {
       "id": "le-fez",
@@ -4269,15 +4739,24 @@
     {
       "id": "nancys",
       "name": "Nancy's",
-      "area": "London",
-      "vibe": "Market-to-glass cocktails with skyline views at London Bridge. 1970s glamour meets Borough Market inspiration. Book your table today.",
+      "area": "London Bridge",
+      "vibe": "A cocktail bar in Colechurch House at London Bridge, pouring market-to-glass drinks inspired by Borough Market. Skyline views, DJs and 1970s glamour, open until 2am Thursday to Saturday.",
       "website": "https://www.nancys.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dance/nancys/01.webp",
           "alt": "Nancy's"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": false,
+        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "sources": [
+          "https://www.nancys.co.uk/"
+        ]
+      }
     },
     {
       "id": "new-cross-inn",
@@ -4296,14 +4775,23 @@
       "id": "night-tales",
       "name": "Night Tales",
       "area": "Hackney",
-      "vibe": "East London's largest terrace bar, nightclub & event space.",
+      "vibe": "A cornerstone of East London nightlife for over 12 years: a heated terrace for 200, the Palm Bar in Arch 14, and a club room. The dance floor runs on a Funktion-One sound system.",
       "website": "https://nighttales.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dance/night-tales/01.webp",
           "alt": "Night Tales"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://nighttales.co.uk/"
+        ]
+      }
     },
     {
       "id": "nightjar-shoreditch",
@@ -4369,15 +4857,24 @@
     {
       "id": "opium",
       "name": "Opium",
-      "area": "London",
-      "vibe": "Our award-winning parlour of speakeasy cocktail bars situated on Gerrard Street, Chinatown, London, warmly welcomes you to experience our explorative cocktail and dim sum menus.",
+      "area": "Chinatown",
+      "vibe": "Hidden behind a jade door in Chinatown, Opium is a speakeasy spread over floors of separate bars. Experimental cocktails, with a dim sum menu to match.",
       "website": "https://www.opiumchinatown.com/",
       "images": [
         {
           "url": "/assets/opt/dance/opium/01.webp",
           "alt": "Opium"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.opiumchinatown.com/"
+        ]
+      }
     },
     {
       "id": "silverworks-island",
@@ -4482,15 +4979,24 @@
     {
       "id": "the-old-blue-last",
       "name": "The Old Blue Last",
-      "area": "London",
-      "vibe": "Refurbished pub in the heart of Shoreditch, with a live music venue upstairs, attracting a trendy young crowd.",
+      "area": "Shoreditch",
+      "vibe": "A 300-year-old Shoreditch boozer whose upstairs room hosted early shows by Arctic Monkeys and Amy Winehouse. Gigs seven days a week, open until 3am at weekends.",
       "website": "https://www.theoldbluelast.com",
       "images": [
         {
           "url": "/assets/opt/dance/the-old-blue-last/01.webp",
           "alt": "The Old Blue Last"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": false,
+        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "sources": [
+          "https://www.theoldbluelast.com"
+        ]
+      }
     },
     {
       "id": "the-shacklewell-arms",
@@ -4509,27 +5015,45 @@
       "id": "the-social",
       "name": "The Social",
       "area": "London",
-      "vibe": "Official Website for The Social London. Find all Upcoming Events with Lineups and set times, latest news and announcements and contact information.",
+      "vibe": "Leather booths, a basement and a members' scheme running since 1999. Now open until 3am Thursday to Saturday, with gigs and DJ takeovers.",
       "website": "https://www.thesocial.com/",
       "images": [
         {
           "url": "/assets/opt/dance/the-social/01.webp",
           "alt": "The Social"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": false,
+        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "sources": [
+          "https://www.thesocial.com/"
+        ]
+      }
     },
     {
       "id": "the-vaults",
       "name": "The Vaults",
-      "area": "London",
-      "vibe": "The Vaults is a multi-disciplinary space located in the underground world of Waterloo station",
+      "area": "Waterloo",
+      "vibe": "London's home for immersive theatre and alternative arts, deep under Waterloo station. Drinks before and after at its pub, Vaulty Towers.",
       "website": "https://www.thevaults.london",
       "images": [
         {
           "url": "/assets/opt/dance/the-vaults/01.webp",
           "alt": "The Vaults"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://www.thevaults.london"
+        ]
+      }
     },
     {
       "id": "thirst-bar",
@@ -4560,15 +5084,24 @@
     {
       "id": "trailer-happiness",
       "name": "Trailer Happiness",
-      "area": "London",
-      "vibe": "Trailer Happiness is an award winning cocktail Rum Lounge & Cocktail Bar in Notting Hill. Serving the finest classic and original cocktails with a Tropical Tiki twist.",
+      "area": "Notting Hill",
+      "vibe": "A low-lit, retro-tropical basement rum lounge on Portobello Road, mixing Tiki-twisted cocktails since 2003. DJs every weekend; upstairs, sharing plates nod to Caribbean and Japanese BBQ.",
       "website": "https://trailerh.com/",
       "images": [
         {
           "url": "/assets/opt/dance/trailer-happiness/01.webp",
           "alt": "Trailer Happiness"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17T02:55:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17.",
+        "sources": [
+          "https://trailerh.com/"
+        ]
+      }
     },
     {
       "id": "zebrano",
