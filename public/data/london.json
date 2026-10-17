@@ -542,14 +542,23 @@
       "id": "castle-cinema",
       "name": "Castle Cinema",
       "area": "London",
-      "vibe": "We are an independent, crowdfunded, community cinema on Chatsworth Road, Hackney.",
+      "vibe": "An independent, crowdfunded community cinema on Brooksby's Walk in Hackney. There's a bar with food, and tickets are £6 on Mondays.",
       "website": "https://thecastlecinema.com/",
       "images": [
         {
           "url": "/assets/opt/date/castle-cinema/01.webp",
           "alt": "Castle Cinema"
         }
-      ]
+      ],
+      "verified": {
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://thecastlecinema.com/"
+        ],
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description).",
+        "confidence": 3
+      }
     },
     {
       "id": "catharine-miller",
@@ -1056,19 +1065,6 @@
       ]
     },
     {
-      "id": "mehmet-efendi-1953",
-      "name": "Mehmet Efendi 1953",
-      "area": "London",
-      "vibe": "Experience the taste of authentic, handcrafted baklava at our Central London store.",
-      "website": "https://mehmetefendi.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/date/mehmet-efendi-1953/01.webp",
-          "alt": "Mehmet Efendi 1953"
-        }
-      ]
-    },
-    {
       "id": "museum-of-brands",
       "name": "Museum of Brands",
       "area": "London",
@@ -1098,27 +1094,45 @@
       "id": "museum-of-the-home",
       "name": "Museum of the Home",
       "area": "London",
-      "vibe": "We are the only Museum of the Home in the world, revealing and rethinking the ways we live in order to live better together.",
+      "vibe": "Rooms Through Time walks through four centuries of home life, and entry is free. Drop-in tours of a restored 18th-century almshouse run on Wednesdays and weekends.",
       "website": "https://www.museumofthehome.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/museum-of-the-home/01.webp",
           "alt": "Museum of the Home"
         }
-      ]
+      ],
+      "verified": {
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.museumofthehome.org.uk/"
+        ],
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description).",
+        "confidence": 3
+      }
     },
     {
       "id": "museum-of-the-order-of-st-john",
       "name": "Museum of the Order of St John",
       "area": "London",
-      "vibe": "A hidden jewel which tells the unique story of an ancient religious military Order. Their gatehouse and secret gardens are available for event hire.",
+      "vibe": "The story of an ancient religious military Order, from caring for sick pilgrims in eleventh-century Jerusalem to St John Ambulance today. Guided tours take in the Priory Church, the Crypt and the Cloister Garden.",
       "website": "https://museumstjohn.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/museum-of-the-order-of-st-john/01.webp",
           "alt": "Museum of the Order of St John"
         }
-      ]
+      ],
+      "verified": {
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://museumstjohn.org.uk/"
+        ],
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description).",
+        "confidence": 3
+      }
     },
     {
       "id": "natural-history-museum",
@@ -1361,16 +1375,17 @@
       "images": [
         {
           "url": "/assets/opt/date/sir-john-soanes-museum/01.webp",
-          "alt": "Sir John Soane's Museum"
+          "alt": "Sir John Soane's Museum: the Dome area with Apollo cast and antique fragments"
         }
       ],
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-10-17T06:20:00+01:00",
-        "image_ok": false,
-        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description). Current photo is an exhibition drawing, not the museum; needs a real photo.",
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description). Current photo is an exhibition drawing, not the museum; needs a real photo. 2026-10-17 07:10: photo replaced with a real interior of the museum (Daderot, CC0, Wikimedia Commons).",
         "sources": [
-          "https://www.soane.org/visit"
+          "https://www.soane.org/visit",
+          "https://commons.wikimedia.org/wiki/File:Interior_view_-_Sir_John_Soane%27s_Museum_-_DSC00041.jpg"
         ]
       }
     },
@@ -1378,27 +1393,45 @@
       "id": "south-london-gallery",
       "name": "South London Gallery",
       "area": "London",
-      "vibe": "Free and open to the public for more than 125 years, the gallery presents contemporary art exhibitions, film and performance events.",
+      "vibe": "Free contemporary art on Peckham Road for more than 125 years. Open until 9pm on Wednesdays.",
       "website": "https://www.southlondongallery.org/",
       "images": [
         {
           "url": "/assets/opt/date/south-london-gallery/01.webp",
           "alt": "South London Gallery"
         }
-      ]
+      ],
+      "verified": {
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.southlondongallery.org/"
+        ],
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description).",
+        "confidence": 3
+      }
     },
     {
       "id": "studio-voltaire",
       "name": "Studio Voltaire",
       "area": "London",
-      "vibe": "Studio Voltaire is one of the UK’s leading not-for-profit contemporary art galleries and artists studios, based in Clapham, South London.",
+      "vibe": "A not-for-profit contemporary art gallery in award-winning, architect-designed buildings on Nelsons Row in Clapham. Crispin runs a 50-cover restaurant and counter bar on site.",
       "website": "https://studiovoltaire.org/",
       "images": [
         {
           "url": "/assets/opt/date/studio-voltaire/01.webp",
           "alt": "Studio Voltaire"
         }
-      ]
+      ],
+      "verified": {
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://studiovoltaire.org/"
+        ],
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description).",
+        "confidence": 3
+      }
     },
     {
       "id": "the-arts-catalyst",
@@ -1452,14 +1485,24 @@
       "id": "the-fan-museum",
       "name": "The Fan Museum",
       "area": "London",
-      "vibe": "Celebrating the history of fans and the art of fan making. The Fan Museum in Greenwich, London houses an extensive collection of fans from around the world.",
+      "vibe": "The only museum in Britain devoted entirely to fans, open since 1991. It fills a pair of restored Grade II* listed Georgian townhouses in Greenwich.",
       "website": "https://www.thefanmuseum.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/the-fan-museum/01.webp",
-          "alt": "The Fan Museum"
+          "alt": "The Fan Museum exhibition room, Greenwich"
         }
-      ]
+      ],
+      "verified": {
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.thefanmuseum.org.uk/",
+          "https://commons.wikimedia.org/wiki/File:The_Fan_Museum_exhibition_room.jpg"
+        ],
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description). 2026-10-17 07:10: photo replaced (was a close-up of a single fan exhibit) with a real photo of the venue (Wikimedia Commons, CC0).",
+        "confidence": 3
+      }
     },
     {
       "id": "the-postal-museum",
@@ -1509,14 +1552,24 @@
       "id": "trent-park-house-of-secrets",
       "name": "Trent Park House of Secrets",
       "area": "Barnet",
-      "vibe": "Discover one of London’s grandest houses and the incredible story of the Secret Listeners that has remained hidden for over 70 years.",
+      "vibe": "A glittering 1930s social hub that became a covert WWII surveillance centre. The house now tells the untold story of its espionage and deception.",
       "website": "https://trentparkhouse.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/trent-park-house-of-secrets/01.webp",
-          "alt": "Trent Park House of Secrets"
+          "alt": "Trent Park House, south front"
         }
-      ]
+      ],
+      "verified": {
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://trentparkhouse.org.uk/",
+          "https://commons.wikimedia.org/wiki/File:Trent_Park_House,_south_front.JPG"
+        ],
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description). 2026-10-17 07:10: photo replaced (was an illustration, not a photo) with a real photo of the venue (Wikimedia Commons, CC0).",
+        "confidence": 3
+      }
     },
     {
       "id": "ventique",
@@ -1593,14 +1646,23 @@
       "id": "william-morris-society",
       "name": "William Morris Society",
       "area": "London",
-      "vibe": "Visit our Museum Welcome to Kelmscott House, Hammersmith Step into the world of William Morris at Kelmscott House, where he lived, designed, and dreamt by the Thames.",
+      "vibe": "Kelmscott House in Hammersmith, where William Morris lived and designed by the Thames. Original designs and his personal things fill the Coach House and lower rooms.",
       "website": "https://williammorrissociety.org/our-museum/",
       "images": [
         {
           "url": "/assets/opt/date/william-morris-society/01.webp",
           "alt": "William Morris Society"
         }
-      ]
+      ],
+      "verified": {
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://williammorrissociety.org/our-museum/"
+        ],
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description).",
+        "confidence": 3
+      }
     },
     {
       "id": "wilson-stephens-and-jones",
@@ -1619,14 +1681,24 @@
       "id": "young-v-and-a",
       "name": "Young V&A",
       "area": "London",
-      "vibe": "Sparking creativity now and for the future with a space to imagine, play and design",
+      "vibe": "The V&A's free Bethnal Green museum for imagining, play and design, Art Fund Museum of the Year 2024. Open daily from 10am.",
       "website": "https://www.vam.ac.uk/young",
       "images": [
         {
           "url": "/assets/opt/date/young-v-and-a/01.webp",
-          "alt": "Young V&A"
+          "alt": "Young V&A entrance, Bethnal Green"
         }
-      ]
+      ],
+      "verified": {
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.vam.ac.uk/young",
+          "https://commons.wikimedia.org/wiki/File:Young_V%26A_2026-06-04.jpg"
+        ],
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description). 2026-10-17 07:10: photo replaced (was a Wallace & Gromit promo image) with a real photo of the venue (Wikimedia Commons, CC0).",
+        "confidence": 3
+      }
     },
     {
       "id": "dennis-severs-house",
@@ -2361,24 +2433,6 @@
       }
     },
     {
-      "id": "cha-louis",
-      "name": "Cha-Louis",
-      "area": "London",
-      "vibe": "Cha-Louis authentic Thai cuisine in the heart of Blackheath Village",
-      "website": "https://www.chalouis.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/cha-louis/01.webp",
-          "alt": "Cha-Louis"
-        }
-      ],
-      "verified": {
-        "image_ok": false,
-        "checked_at": "2026-10-17",
-        "notes": "2026-10-17: current photo is a menu; site has no usable venue photo. Line not yet rewritten."
-      }
-    },
-    {
       "id": "chets",
       "name": "Chet's",
       "area": "Shepherd's Bush",
@@ -2465,19 +2519,6 @@
           "https://www.chishuru.com/"
         ]
       }
-    },
-    {
-      "id": "cinquecento",
-      "name": "Cinquecento",
-      "area": "London",
-      "vibe": "Experience the finest Neapolitan-style pizza in London! From fresh ingredients to traditional techniques, find the top pizzerias serving true Italian flavours. Book a table today by visiting us on our website.",
-      "website": "https://cinquecentopizzeria.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/cinquecento/01.webp",
-          "alt": "Cinquecento"
-        }
-      ]
     },
     {
       "id": "cubana",
@@ -2569,19 +2610,6 @@
       }
     },
     {
-      "id": "four-hundred-rabbits",
-      "name": "Four Hundred Rabbits",
-      "area": "London",
-      "vibe": "Four Hundred Rabbits Bring Certified Sourdough Pizza and Craft Beer with Seasonal and Unexpected Specials.",
-      "website": "https://www.400rabbits.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/four-hundred-rabbits/01.webp",
-          "alt": "Four Hundred Rabbits"
-        }
-      ]
-    },
-    {
       "id": "hakata-ramen",
       "name": "Hakata Ramen",
       "area": "Bermondsey",
@@ -2590,16 +2618,17 @@
       "images": [
         {
           "url": "/assets/opt/dinner/hakata-ramen/01.webp",
-          "alt": "Hakata Ramen"
+          "alt": "Gyoza at Hakata Ramen, Bermondsey Street"
         }
       ],
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-10-17",
-        "image_ok": false,
-        "notes": "Line from official site 2026-10-17; current photo is an abstract graphic, not the venue; needs a real photo.",
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "notes": "Line from official site 2026-10-17; current photo is an abstract graphic, not the venue; needs a real photo. 2026-10-17 07:10: photo replaced with the restaurant's own gyoza photo from hakata.co.uk.",
         "sources": [
-          "https://www.hakata.co.uk/contact"
+          "https://www.hakata.co.uk/contact",
+          "https://www.hakata.co.uk/"
         ]
       }
     },
@@ -2921,14 +2950,14 @@
       "images": [
         {
           "url": "/assets/opt/dinner/ornella/01.webp",
-          "alt": "Ornella"
+          "alt": "Ornella's dining room on Wilton Way, Hackney"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17",
-        "image_ok": false,
-        "notes": "Line from official site 2026-10-17; current photo is the Ornella logo; site has no venue photo yet.",
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "notes": "Line from official site 2026-10-17; current photo is the Ornella logo; site has no venue photo yet. 2026-10-17 07:10: logo replaced with the restaurant's own dining-room photo from ornella.restaurant.",
         "sources": [
           "https://www.ornella.restaurant/"
         ]
@@ -4546,14 +4575,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/tape-london/01.webp",
-          "alt": "Tape London"
+          "alt": "Club crowd under stage lights (stock photo, not Tape London)"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-10-17T04:00:00+01:00",
-        "image_ok": false,
-        "notes": "2026-10-17: current photo is wrong (unrelated logo/ad); no free or own-site venue photo found yet."
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "notes": "2026-10-17: current photo is wrong (unrelated logo/ad); no free or own-site venue photo found yet. 2026-10-17 07:10: own site shows only event posters; no free photo of the room found. Lifestyle stock photo used, NOT the venue: club crowd, rawpixel CC0.",
+        "sources": [
+          "https://www.tapelondon.com/",
+          "https://www.rawpixel.com/image/3338041/free-photo-image-concert-aircraft-cc0"
+        ]
       }
     },
     {
@@ -4565,16 +4598,17 @@
       "images": [
         {
           "url": "/assets/opt/dance/the-box/01.webp",
-          "alt": "The Box"
+          "alt": "Mirror ball (stock photo, not The Box)"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-10-17T04:00:00+01:00",
-        "image_ok": false,
-        "notes": "nightlife top-up 2026-10-17: current photo is wrong (unrelated logo/ad); no free or own-site venue photo found yet. 2026-10-17 06:20: street corrected to Walker's Court (official site address 11-12 Walker's Court); photo still wrong, no free or own-site venue photo found.",
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "notes": "nightlife top-up 2026-10-17: current photo is wrong (unrelated logo/ad); no free or own-site venue photo found yet. 2026-10-17 06:20: street corrected to Walker's Court (official site address 11-12 Walker's Court); photo still wrong, no free or own-site venue photo found. 2026-10-17 07:10: no free or own-site photo of The Box exists (site shows only video and a favicon). Lifestyle stock photo used, NOT the venue: mirror ball, rawpixel CC0.",
         "sources": [
-          "https://www.theboxsoho.com/"
+          "https://www.theboxsoho.com/",
+          "https://www.rawpixel.com/image/5921078/photo-image-background-public-domain-sparkle"
         ]
       }
     },
@@ -4840,19 +4874,6 @@
       ]
     },
     {
-      "id": "ballie-ballerson",
-      "name": "Ballie Ballerson",
-      "area": "Shoreditch",
-      "vibe": "London’s ball pit cocktail bar in Shoreditch. Bottomless brunch, karaoke and VIP booths. Best activity bar - Time Out. Book from £8pp",
-      "website": "https://www.ballieballerson.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/ballie-ballerson/01.webp",
-          "alt": "Ballie Ballerson"
-        }
-      ]
-    },
-    {
       "id": "beachcomber",
       "name": "Beachcomber",
       "area": "Bayswater",
@@ -4883,16 +4904,17 @@
       "images": [
         {
           "url": "/assets/opt/dance/behind-this-wall/01.webp",
-          "alt": "Behind This Wall"
+          "alt": "DJ decks at Behind This Wall, Hackney"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17T02:55:00+01:00",
-        "image_ok": false,
-        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing.",
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-17; current photo is a logo/poster/off-venue image and still needs replacing. 2026-10-17 07:10: photo replaced with the venue's own DJ-booth photo from its private-hire page.",
         "sources": [
-          "https://www.behindthiswall.com/"
+          "https://www.behindthiswall.com/",
+          "https://www.behindthiswall.com/private-hire"
         ]
       }
     },
@@ -5023,14 +5045,23 @@
       "id": "lightbox",
       "name": "Lightbox",
       "area": "London",
-      "vibe": "About Us Opened in 2008, Lightbox is a 3 roomed club venue located in Lambeth, South London.",
+      "vibe": "A three-room, 600-capacity club in Lambeth, named after the LED walls that cover its main room. Techno, house, UK garage and drum & bass on a Danley Sound Labs system.",
       "website": "https://www.lightboxlondon.net/",
       "images": [
         {
           "url": "/assets/opt/dance/lightbox/01.webp",
           "alt": "Lightbox"
         }
-      ]
+      ],
+      "verified": {
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.lightboxlondon.net/"
+        ],
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description).",
+        "confidence": 3
+      }
     },
     {
       "id": "nancys",
@@ -5337,14 +5368,23 @@
       "id": "the-shacklewell-arms",
       "name": "The Shacklewell Arms",
       "area": "London",
-      "vibe": "The Shacklewell Arms is a pub and live music venue in Dalston, East London, hosting gigs, DJ nights, club events and late-night programming curated by Lanzarote Works.",
+      "vibe": "A Dalston pub and gig room at 71 Shacklewell Lane, programmed by LNZRT. It stays open until 3am on Fridays and Saturdays.",
       "website": "http://www.shacklewellarms.com/",
       "images": [
         {
           "url": "/assets/opt/dance/the-shacklewell-arms/01.webp",
           "alt": "The Shacklewell Arms"
         }
-      ]
+      ],
+      "verified": {
+        "checked_at": "2026-10-17T07:10:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "http://www.shacklewellarms.com/"
+        ],
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description).",
+        "confidence": 3
+      }
     },
     {
       "id": "the-social",
