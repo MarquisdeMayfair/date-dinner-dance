@@ -635,15 +635,24 @@
     {
       "id": "crossbones-graveyard",
       "name": "Crossbones Graveyard",
-      "area": "London",
-      "vibe": "← back to places OPENING TIMES Crossbones Graveyard is opened and run by volunteer wardens, so times may vary.",
+      "area": "Borough",
+      "vibe": "A garden of remembrance on Redcross Way, opened by volunteer wardens. Open Wednesday to Friday and the first Saturday of the month, 12 to 2pm.",
       "website": "https://bost.org.uk/crossbones-graveyard",
       "images": [
         {
           "url": "/assets/opt/date/crossbones-graveyard/01.webp",
           "alt": "Crossbones Graveyard"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "2026-10-17: line rewritten from the Bankside Open Spaces Trust page (was pasted page text).",
+        "sources": [
+          "https://bost.org.uk/crossbones-graveyard"
+        ]
+      }
     },
     {
       "id": "cutty-sark",
@@ -681,19 +690,6 @@
       ]
     },
     {
-      "id": "eclectic-gallery",
-      "name": "Eclectic Gallery",
-      "area": "London",
-      "vibe": "Eclectic Gallery, located in Fitzrovia, Central London, specialises in fine art and represents contemporary British and international artists.",
-      "website": "https://eclecticgallery.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/date/eclectic-gallery/01.webp",
-          "alt": "Eclectic Gallery"
-        }
-      ]
-    },
-    {
       "id": "everard-read",
       "name": "Everard Read",
       "area": "London",
@@ -703,19 +699,6 @@
         {
           "url": "/assets/opt/date/everard-read/01.webp",
           "alt": "Everard Read"
-        }
-      ]
-    },
-    {
-      "id": "everyman",
-      "name": "Everyman",
-      "area": "London",
-      "vibe": "Everyman Crystal Palace is redefining cinema - experience the latest movies with luxury sofa seating, amazing food, cocktails & more - book online today!",
-      "website": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/",
-      "images": [
-        {
-          "url": "/assets/opt/date/everyman/01.webp",
-          "alt": "Everyman"
         }
       ]
     },
@@ -884,15 +867,25 @@
     {
       "id": "hayward-gallery",
       "name": "Hayward Gallery",
-      "area": "London",
-      "vibe": "Explore the Hayward Gallery: current and upcoming visual art exhibitions and installations, opening hours, visitor information, and ticket booking options.",
+      "area": "South Bank",
+      "vibe": "A landmark of brutalist architecture on the South Bank. Big contemporary shows upstairs, free small ones in the HENI Project Space.",
       "website": "https://www.southbankcentre.co.uk/venues/hayward-gallery",
       "images": [
         {
           "url": "/assets/opt/date/hayward-gallery/01.webp",
-          "alt": "Hayward Gallery"
+          "alt": "Hayward Gallery from Belvedere Road"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "2026-10-17: line rewritten from the official Southbank Centre page (was pasted meta description); photo replaced (was an illustration, not the building). Photo: Wikimedia Commons \"A view of the Hayward Gallery from Belvedere Road.jpg\" by Robert-brook (CC0).",
+        "sources": [
+          "https://www.southbankcentre.co.uk/venues/hayward-gallery",
+          "https://commons.wikimedia.org/wiki/File:A_view_of_the_Hayward_Gallery_from_Belvedere_Road.jpg"
+        ]
+      }
     },
     {
       "id": "hj-art-gallery",
@@ -1013,19 +1006,6 @@
         {
           "url": "/assets/opt/date/ken-artspace/01.webp",
           "alt": "Ken Artspace"
-        }
-      ]
-    },
-    {
-      "id": "london-lighthouse",
-      "name": "London Lighthouse",
-      "area": "London",
-      "vibe": "Art Gallery, Photography Studio & Gift Shop. A unique and exciting space, for Artists, Photographer & all Creatives. Place for Events Performances & Workshops",
-      "website": "https://www.londonlighthousestudio.com/",
-      "images": [
-        {
-          "url": "/assets/opt/date/london-lighthouse/01.webp",
-          "alt": "London Lighthouse"
         }
       ]
     },
@@ -1334,15 +1314,24 @@
     {
       "id": "severndroog-castle",
       "name": "Severndroog Castle",
-      "area": "London",
-      "vibe": "At the heart of Shooters Hill, Severndroog Castle weaves together history, elegance, and nature — a timeless retreat. Plan your visit today.",
+      "area": "Shooters Hill",
+      "vibe": "A castle tower in the woods at the top of Shooters Hill. The viewing platform is closed while cracks are investigated; the tea room is open 9am to 4pm.",
       "website": "https://www.severndroogcastle.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/severndroog-castle/01.webp",
           "alt": "Severndroog Castle"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "2026-10-17: line rewritten from the official site (was pasted meta description); site says viewing platform closed, tea room open.",
+        "sources": [
+          "https://www.severndroogcastle.org.uk/"
+        ]
+      }
     },
     {
       "id": "sherlock-holmes-museum",
@@ -1434,30 +1423,26 @@
       }
     },
     {
-      "id": "the-arts-catalyst",
-      "name": "The Arts Catalyst",
-      "area": "London",
-      "vibe": "Arts Catalyst is a visual arts organisation creating projects about the world around us.",
-      "website": "https://artscatalyst.org/",
-      "images": [
-        {
-          "url": "/assets/opt/date/the-arts-catalyst/01.webp",
-          "alt": "The Arts Catalyst"
-        }
-      ]
-    },
-    {
       "id": "the-cinema-museum",
       "name": "The Cinema Museum",
-      "area": "London",
-      "vibe": "The Cinema Museum in Kennington, South London - discover the history of 'going to the pictures' and enjoy a wide range of film screenings and other events.",
+      "area": "Kennington",
+      "vibe": "The history of cinemagoing, kept by volunteers in Kennington. Book a tour of the collection or catch one of its film screenings.",
       "website": "https://cinemamuseum.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/the-cinema-museum/01.webp",
           "alt": "The Cinema Museum"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "2026-10-17: line rewritten from the official site (was pasted meta description). Photo unchanged (interior corridor of posters).",
+        "sources": [
+          "https://cinemamuseum.org.uk/"
+        ]
+      }
     },
     {
       "id": "the-courtauld-gallery",
@@ -3866,6 +3851,75 @@
           "https://commons.wikimedia.org/wiki/File:Bentley%27s_-_Swallow_Place_-_geograph.org.uk_-_5487231.jpg"
         ]
       }
+    },
+    {
+      "id": "moro",
+      "name": "Moro",
+      "area": "Exmouth Market",
+      "website": "https://moro.co.uk/",
+      "vibe": "Southern Mediterranean cooking on Exmouth Market since 1997, from Sam and Sam Clark. Their route ran by camper van through Spain, Morocco and the Sahara.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/moro/01.webp",
+          "alt": "Wine at the bar at Moro"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official History page. Photo: Moro own site (Susan Bell photography), interior of the restaurant.",
+        "sources": [
+          "https://moro.co.uk/history/",
+          "https://moro.co.uk/"
+        ]
+      }
+    },
+    {
+      "id": "ognisko",
+      "name": "Ognisko",
+      "area": "South Kensington",
+      "website": "https://ogniskorestaurant.co.uk/",
+      "vibe": "Eastern and Central European cooking in the Victorian home of the Polish Hearth Club on Exhibition Road. House-infused vodkas, and a terrace over the gardens open all year.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/ognisko/01.webp",
+          "alt": "Dining room at Ognisko, 55 Exhibition Road"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official site. Photo: Wikimedia Commons \"Ognisko polskie londyn4.JPG\" by Kerim44 (CC BY-SA 4.0), dining room.",
+        "sources": [
+          "https://ogniskorestaurant.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Ognisko_polskie_londyn4.JPG"
+        ]
+      }
+    },
+    {
+      "id": "the-eagle-farringdon",
+      "name": "The Eagle",
+      "area": "Farringdon",
+      "website": "https://www.theeaglefarringdon.co.uk/",
+      "vibe": "The Farringdon Road pub whose first chef called the food \"on holiday all around the Mediterranean\". The grill chef chalks up the menu twice a day, five minutes before service.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-eagle-farringdon/01.webp",
+          "alt": "The Eagle on Farringdon Road"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-17",
+        "image_ok": true,
+        "notes": "Added 2026-10-17. Line from the official site. Photo: Wikimedia Commons \"Eagle, Clerkenwell, EC1 (2587948043).jpg\" by Ewan Munro (CC BY-SA 2.0).",
+        "sources": [
+          "https://www.theeaglefarringdon.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Eagle,_Clerkenwell,_EC1_(2587948043).jpg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -5029,19 +5083,6 @@
       }
     },
     {
-      "id": "le-fez",
-      "name": "Le Fez",
-      "area": "London",
-      "vibe": "Nightclub in Putney with the best DJ's, word-class cocktails, secret bar & VIP guest list. Atmospheric late night bar and club in southwest London",
-      "website": "https://www.lefez.co.uk/putney",
-      "images": [
-        {
-          "url": "/assets/opt/dance/le-fez/01.webp",
-          "alt": "Le Fez"
-        }
-      ]
-    },
-    {
       "id": "lightbox",
       "name": "Lightbox",
       "area": "London",
@@ -5263,19 +5304,6 @@
       }
     },
     {
-      "id": "the-blues-kitchen-brixton",
-      "name": "The Blues Kitchen Brixton",
-      "area": "Brixton",
-      "vibe": "Restaurant, bar & club hosting the best barbecue, burgers and cocktails as well as live blues, soul & funk, with live music until late every night.",
-      "website": "https://www.theblueskitchen.com/brixton",
-      "images": [
-        {
-          "url": "/assets/opt/dance/the-blues-kitchen-brixton/01.webp",
-          "alt": "The Blues Kitchen Brixton"
-        }
-      ]
-    },
-    {
       "id": "the-blues-kitchen-camden",
       "name": "The Blues Kitchen Camden",
       "area": "Camden",
@@ -5293,19 +5321,6 @@
         "checked_at": "2026-10-17T04:00:00+01:00",
         "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Blues Kitchen, Camden Town, NW1.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Blues_Kitchen,_Camden_Town,_NW1.jpg."
       }
-    },
-    {
-      "id": "the-blues-kitchen-shoreditch",
-      "name": "The Blues Kitchen Shoreditch",
-      "area": "Shoreditch",
-      "vibe": "Restaurant, bar & club hosting the best food, burgers & cocktails as well as live blues, soul & funk, with live music until late every night.",
-      "website": "https://www.theblueskitchen.com/shoreditch",
-      "images": [
-        {
-          "url": "/assets/opt/dance/the-blues-kitchen-shoreditch/01.webp",
-          "alt": "The Blues Kitchen Shoreditch"
-        }
-      ]
     },
     {
       "id": "the-garage",
@@ -5328,19 +5343,6 @@
           "https://www.dhpfamily.com/venues/garage/"
         ]
       }
-    },
-    {
-      "id": "the-hatch-club",
-      "name": "The Hatch Club",
-      "area": "London",
-      "vibe": "The Hatch is an exclusive nightclub with a vibrant atmosphere, perfect for a social occasion.",
-      "website": "https://www.thehatchclub.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/the-hatch-club/01.webp",
-          "alt": "The Hatch Club"
-        }
-      ]
     },
     {
       "id": "the-old-blue-last",
