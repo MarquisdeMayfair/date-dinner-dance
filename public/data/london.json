@@ -414,15 +414,24 @@
     {
       "id": "8-holland-street",
       "name": "8 Holland Street",
-      "area": "London",
-      "vibe": "8 Holland Street is a gallery and design store, specialising in art and design from the 1900 onwards, alongside objects and textiles from across the globe.",
+      "area": "Kensington",
+      "vibe": "Tobias Vernon opened his gallery in 2018 in a characterful old building on Holland Street, Kensington. Modern and contemporary art shares the rooms with vintage furniture, ceramics, rare textiles and lighting.",
       "website": "https://8hollandstreet.com/",
       "images": [
         {
           "url": "/assets/opt/date/8-holland-street/01.webp",
-          "alt": "8 Holland Street"
+          "alt": "Inside 8 Holland Street gallery, Kensington"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://8hollandstreet.com/about"
+        ]
+      }
     },
     {
       "id": "barbican-centre",
@@ -450,21 +459,22 @@
       "id": "borough-market",
       "name": "Borough Market",
       "area": "Borough",
-      "vibe": "London's premier food market at 8 Southwark Street, where traders celebrate good food and the people who made it. Come with an appetite, or book an official tour for the stories.",
+      "vibe": "A market has traded at the foot of London Bridge for around 1,000 years, and on this spot since 1756. Today a charitable trust runs it, with food from all over Britain and the rest of the world.",
       "website": "https://boroughmarket.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/borough-market/01.webp",
-          "alt": "Borough Market"
+          "alt": "Shoppers under the glass roof at Borough Market"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17T02:55:00+01:00",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "Line rewritten from official site 2026-10-17.",
+        "notes": "Line rewritten from official site 2026-10-17. Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo replaced 2026-10-18 (previous had a \"Borough Market Established 1756\" logo overlay): Wikimedia Commons \"Borough Market - 2026-05-24.jpg\" by lamblukas (CC BY 4.0).",
         "sources": [
-          "https://boroughmarket.org.uk/"
+          "https://boroughmarket.org.uk/",
+          "https://commons.wikimedia.org/wiki/File:Borough_Market_-_2026-05-24.jpg"
         ]
       }
     },
@@ -515,16 +525,25 @@
     },
     {
       "id": "cadogan-contemporary",
-      "name": "Cadogan Contemporary",
-      "area": "London",
-      "vibe": "Cadogan is an independent contemporary art gallery with spaces in London and Milan.",
-      "website": "https://www.cadogancontemporary.com/",
+      "name": "Cadogan Gallery",
+      "area": "Knightsbridge",
+      "vibe": "An independent contemporary gallery at 7-9 Harriet Street, backing emerging and established artists for more than forty years. Elise Ansel's show wall window table light runs until 14 November.",
+      "website": "https://cadogangallery.com/",
       "images": [
         {
           "url": "/assets/opt/date/cadogan-contemporary/01.webp",
           "alt": "Cadogan Contemporary"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Now trading as Cadogan Gallery (old domain redirects). Open Tuesday to Saturday, 11am to 6pm.",
+        "sources": [
+          "https://cadogangallery.com/about/"
+        ]
+      }
     },
     {
       "id": "camden-market",
@@ -573,15 +592,25 @@
     {
       "id": "catharine-miller",
       "name": "Catharine Miller",
-      "area": "London",
-      "vibe": "Catharine Miller is a London-based art gallery specialising in contemporary, figurative, affordable paintings and sculpture from Europe and South America.",
+      "area": "Chelsea",
+      "vibe": "A Chelsea gallery at 12 Hollywood Road, showing figurative paintings and sculpture from Europe and South America. Mid-century modern pieces too, and some works under £500.",
       "website": "https://www.catharinemiller.com/",
       "images": [
         {
           "url": "/assets/opt/date/catharine-miller/01.webp",
           "alt": "Catharine Miller"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://www.catharinemiller.com/en-GB/contact/page_102",
+          "https://www.catharinemiller.com/"
+        ]
+      }
     },
     {
       "id": "churchill-war-rooms",
@@ -632,15 +661,25 @@
     {
       "id": "cricket-fine-art",
       "name": "Cricket Fine Art",
-      "area": "London",
-      "vibe": "Cricket Fine Art is a fine art gallery based in Chelsea, London offering the very best fine art from a range of British and International artists.",
+      "area": "Chelsea",
+      "vibe": "Leslie founded Cricket Fine Art in 1996 to help people bring art home, and the gallery sits at 2 Park Walk, Chelsea. Clare Granger's solo show Parallels runs 21 October to 6 November.",
       "website": "https://www.cricketfineart.co.uk/",
       "images": [
         {
           "url": "/assets/opt/date/cricket-fine-art/01.webp",
           "alt": "Cricket Fine Art"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://www.cricketfineart.co.uk/about/",
+          "https://www.cricketfineart.co.uk/"
+        ]
+      }
     },
     {
       "id": "crossbones-graveyard",
@@ -703,14 +742,23 @@
       "id": "everard-read",
       "name": "Everard Read",
       "area": "London",
-      "vibe": "Everard Read London presents modern and contemporary art from South Africa and the diaspora.",
+      "vibe": "The London gallery of Everard Read, founded in South Africa in 1913 and Africa's oldest commercial art gallery. Modern and contemporary art from South Africa and its diaspora, with recent shows by Gerhard Marx and Caryn Scrimgeour.",
       "website": "https://www.everardlondon.com/",
       "images": [
         {
           "url": "/assets/opt/date/everard-read/01.webp",
           "alt": "Everard Read"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://www.everardlondon.com/about/"
+        ]
+      }
     },
     {
       "id": "fashion-and-textile-museum",
@@ -782,15 +830,24 @@
     {
       "id": "four-corners",
       "name": "Four Corners",
-      "area": "London",
-      "vibe": "Visit our film and photography centre in East London, where we host exhibitions and talks, and we support filmmakers and photographers through training and facilities.",
+      "area": "Bethnal Green",
+      "vibe": "A film and photography charity at 121 Roman Road, Bethnal Green, with almost 50 years of socially engaged work behind it. The gallery opens Wednesday to Saturday, 11am to 6pm.",
       "website": "https://www.fourcornersfilm.co.uk/",
       "images": [
         {
           "url": "/assets/opt/date/four-corners/01.webp",
           "alt": "Four Corners"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://www.fourcornersfilm.co.uk/about"
+        ]
+      }
     },
     {
       "id": "frith-street-gallery",
@@ -817,15 +874,24 @@
     {
       "id": "gagosian-gallery",
       "name": "Gagosian Gallery",
-      "area": "London",
-      "vibe": "Contact information and hours for Gagosian Davies Street, London.",
-      "website": "https://gagosian.com/locations/london-davies-street/",
+      "area": "Mayfair",
+      "vibe": "Gagosian's gallery at 17–19 Davies Street in Mayfair, open Tuesday to Saturday, 10am to 6pm. Cady Noland's exhibition runs until 19 December.",
+      "website": "https://gagosian.com/locations/davies-street-london/",
       "images": [
         {
           "url": "/assets/opt/date/gagosian-gallery/01.webp",
-          "alt": "Gagosian Gallery"
+          "alt": "Gagosian gallery frontage on Davies Street, Mayfair"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://gagosian.com/locations/davies-street-london/"
+        ]
+      }
     },
     {
       "id": "gladwell-and-patterson",
@@ -976,28 +1042,46 @@
     {
       "id": "international-heritage-centre",
       "name": "International Heritage Centre",
-      "area": "London",
-      "vibe": "Telling the story of The Salvation Army from its origins in the 1860s to today.",
-      "website": "https://www.salvationarmy.org.uk/international-heritage-centre",
+      "area": "Denmark Hill",
+      "vibe": "The Salvation Army's museum, telling its story from the 1860s to today, on the third floor of William Booth College opposite Denmark Hill station. Entry is free, Tuesday to Friday, 9.30am to 4pm.",
+      "website": "https://www.salvationarmy.org.uk/about-us/international-heritage-centre",
       "images": [
         {
           "url": "/assets/opt/date/international-heritage-centre/01.webp",
-          "alt": "International Heritage Centre"
+          "alt": "Archive photograph of William Booth, from the Salvation Army heritage collection"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo is an archive image (not the building); kept as image_ok because it is not a logo/menu/poster or another venue.",
+        "sources": [
+          "https://www.salvationarmy.org.uk/about-us/international-heritage-centre/contact-international-heritage-centre"
+        ]
+      }
     },
     {
       "id": "jonathan-cooper",
       "name": "Jonathan Cooper",
-      "area": "London",
-      "vibe": "Founded in 1988, Jonathan Cooper promotes contemporary artists specialising in representational drawing, painting and sculpture.",
+      "area": "Chelsea",
+      "vibe": "Jonathan Cooper opened his Chelsea gallery in 1988, after five years with sporting art specialists Frost & Reid on Bond Street. Representational drawing, painting and sculpture; Gerard Stamp's Visions of Venice runs 21 October to 9 December.",
       "website": "https://www.jonathancooper.co.uk/",
       "images": [
         {
           "url": "/assets/opt/date/jonathan-cooper/01.webp",
           "alt": "Jonathan Cooper"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://www.jonathancooper.co.uk/"
+        ]
+      }
     },
     {
       "id": "ken-artspace",
@@ -1046,15 +1130,24 @@
     {
       "id": "london-transport-museum",
       "name": "London Transport Museum",
-      "area": "London",
-      "vibe": "Discover the powerful link between transport and the growth of London since 1800 at the world's leading museum of urban transport online, in our Museum and at our Depot - an award-winning day out.",
+      "area": "Covent Garden",
+      "vibe": "Two hundred years of London's buses, trams and trains, including the only surviving 1860s steam engine from the world's first Underground. The Global Poster Gallery's art deco show is on now, and it's open daily 10am to 6pm.",
       "website": "https://www.ltmuseum.co.uk",
       "images": [
         {
           "url": "/assets/opt/date/london-transport-museum/01.webp",
-          "alt": "London Transport Museum"
+          "alt": "London Transport Museum in the old flower market, Covent Garden"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://www.ltmuseum.co.uk/visit/museum-guide"
+        ]
+      }
     },
     {
       "id": "museum-of-brands",
@@ -1323,30 +1416,26 @@
       }
     },
     {
-      "id": "seen-fifteen-south-kiosk",
-      "name": "Seen Fifteen / South Kiosk",
-      "area": "London",
-      "vibe": "Seen Fifteen is a contemporary photography space based in Peckham, South East London.",
-      "website": "http://seenfifteen.com/",
-      "images": [
-        {
-          "url": "/assets/opt/date/seen-fifteen-south-kiosk/01.webp",
-          "alt": "Seen Fifteen / South Kiosk"
-        }
-      ]
-    },
-    {
       "id": "select-gallery",
       "name": "Select Gallery",
-      "area": "London",
-      "vibe": "Set in the heart of Notting Hill, Select Gallery offers a range of multi-media contemporary artwork reflective of this vibrant West London borough.",
+      "area": "Notting Hill",
+      "vibe": "Opened in summer 2019 a few steps from Portobello Market, focused on contemporary and pop art. Bold screen prints, detailed oil paintings and one-off multi-media works.",
       "website": "https://selectgallery.art/",
       "images": [
         {
           "url": "/assets/opt/date/select-gallery/01.webp",
-          "alt": "Select Gallery"
+          "alt": "Select Gallery shopfront, Notting Hill"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://selectgallery.art/"
+        ]
+      }
     },
     {
       "id": "serpentine-galleries",
@@ -1684,16 +1773,25 @@
     },
     {
       "id": "wilson-stephens-and-jones",
-      "name": "Wilson Stephens & Jones",
-      "area": "London",
-      "vibe": "Art Gallery specialising in fine and decorative art by 20th century and contemporary artists.",
-      "website": "http://www.wilsonstephensandjones.com/",
+      "name": "WSJ Gallery",
+      "area": "Westbourne Park",
+      "vibe": "Founded in 2012 by Rosanna Wilson Stephens and Rita Jones at 71 Westbourne Park Road, mixing fine and decorative art. Ben McLaughlin's exhibition Radio Times runs 13 to 30 October.",
+      "website": "https://www.wsjgallery.com/",
       "images": [
         {
           "url": "/assets/opt/date/wilson-stephens-and-jones/01.webp",
           "alt": "Wilson Stephens & Jones"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Gallery now trades as WSJ Gallery (old wilsonstephensandjones.com domain redirects); same venue and address.",
+        "sources": [
+          "https://www.wsjgallery.com/"
+        ]
+      }
     },
     {
       "id": "young-v-and-a",
@@ -2011,6 +2109,29 @@
         "sources": [
           "https://chiswickhouseandgardens.org.uk/plan-your-visit/opening-times-and-prices/",
           "https://commons.wikimedia.org/wiki/File:Chiswick_House,_front_elevation,_Chiswick,_London.jpg"
+        ]
+      }
+    },
+    {
+      "id": "leighton-house",
+      "name": "Leighton House",
+      "area": "Holland Park",
+      "website": "https://www.rbkc.gov.uk/museums/leighton-house",
+      "vibe": "The home and studio of Victorian painter Frederic, Lord Leighton, built to show how a great artist should live. See the Arab Hall, then catch a chamber concert or life drawing class in his studio.",
+      "images": [
+        {
+          "url": "/assets/opt/date/leighton-house/01.webp",
+          "alt": "The tiled Arab Hall at Leighton House"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Added 2026-10-18. Line from the official site. Open 10am to 5.30pm, closed Tuesdays. Photo: Wikimedia Commons \"Arab Hall - Leighton House Museum - London - DSC01698.jpg\" by Daderot (CC0).",
+        "sources": [
+          "https://www.rbkc.gov.uk/museums/leighton-house",
+          "https://commons.wikimedia.org/wiki/File:Arab_Hall_-_Leighton_House_Museum_-_London_-_DSC01698.jpg"
         ]
       }
     }
@@ -2771,8 +2892,8 @@
     {
       "id": "cubana",
       "name": "Cubana",
-      "area": "London",
-      "vibe": "If you need to ask a question about either of our London Cuban Restaurants, all our contact information is here. Find us at Cubana Resturant & Cocktail Bar",
+      "area": "Waterloo",
+      "vibe": "Latin American plates and cocktails at 48 Lower Marsh, by Waterloo. Late on Fridays and Saturdays it turns into a salsa club, with Latin DJs from 11.15pm to 3am.",
       "website": "https://www.cubana.co.uk/find-us/",
       "images": [
         {
@@ -2782,10 +2903,11 @@
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17T02:55:00+01:00",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Ewan-M, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Cubana,_Waterloo,_SE1.jpg).",
+        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Ewan-M, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Cubana,_Waterloo,_SE1.jpg). Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
         "sources": [
+          "https://www.cubana.co.uk/live-music/",
           "https://www.cubana.co.uk/find-us/",
           "https://commons.wikimedia.org/wiki/File:Cubana,_Waterloo,_SE1.jpg"
         ]
@@ -5181,14 +5303,23 @@
       "id": "alexandra-palace",
       "name": "Alexandra Palace",
       "area": "Alexandra Palace",
-      "vibe": "Enjoy a fantastic day out with panoramic views of London or an extraordinary event in our iconic venue. It's Your Ally Pally, Discover It Today.",
+      "vibe": "Opened in 1873 as the 'Palace for the People', it burnt down 16 days later and reopened in 1875. A charity now runs the listed Palace's year-round entertainment and its 196 acres of parkland.",
       "website": "https://www.alexandrapalace.com/",
       "images": [
         {
           "url": "/assets/opt/dance/alexandra-palace/01.webp",
           "alt": "Alexandra Palace"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://www.alexandrapalace.com/about-us/the-charity/"
+        ]
+      }
     },
     {
       "id": "beachcomber",
@@ -5393,14 +5524,23 @@
       "id": "new-cross-inn",
       "name": "New Cross Inn",
       "area": "New Cross",
-      "vibe": "New Cross Inn, in south-east London, hosts live music 7 days a week with performances by international touring artists and local talent.",
+      "vibe": "A 350-capacity live room at 323 New Cross Road, with touring bands, local bands and party nights seven nights a week. Stocks Bar is downstairs, and it's open until 4am on Fridays and Saturdays.",
       "website": "https://www.newcrossinn.com/",
       "images": [
         {
           "url": "/assets/opt/dance/new-cross-inn/01.webp",
           "alt": "New Cross Inn"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://www.newcrossinn.com/about/"
+        ]
+      }
     },
     {
       "id": "night-tales",
@@ -5537,15 +5677,24 @@
     {
       "id": "silverworks-island",
       "name": "Silverworks Island",
-      "area": "London",
-      "vibe": "Silverworks Island is London's premier open-air music destination, located at the water's edge in the Royal Docks.",
+      "area": "Royal Docks",
+      "vibe": "An open-air site on the water at Royal Victoria Dock, a short walk from Custom House on the Elizabeth line. Independent electronic music festivals run here in summer, returning in 2027.",
       "website": "https://silverworksisland.com/",
       "images": [
         {
           "url": "/assets/opt/dance/silverworks-island/01.webp",
           "alt": "Silverworks Island"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Seasonal: summer festival site, next season 2027.",
+        "sources": [
+          "https://silverworksisland.com/"
+        ]
+      }
     },
     {
       "id": "studio-338",
@@ -5701,15 +5850,24 @@
     {
       "id": "thirst-bar",
       "name": "Thirst Bar",
-      "area": "London",
-      "vibe": "Soho's late-night institution and now in Oxford. Award-winning cocktails, live DJs, open until 3am.",
-      "website": "https://www.thirstbar.com/",
+      "area": "Soho",
+      "vibe": "One of Soho's longest-running independent bars, at 53 Greek Street since 2002. Cocktails and chic interiors upstairs, DJs and dancing downstairs until 3am.",
+      "website": "https://thirstbar.com/soho/",
       "images": [
         {
           "url": "/assets/opt/dance/thirst-bar/01.webp",
           "alt": "Thirst Bar"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://thirstbar.com/soho/"
+        ]
+      }
     },
     {
       "id": "thirt3en",
@@ -5758,15 +5916,24 @@
     {
       "id": "zebrano",
       "name": "Zebrano",
-      "area": "London",
-      "vibe": "Zebrano Soho – Cocktails, dining, karaoke, interactive darts & rooftop fun. Private hire and late-night parties with DJ in the heart of London’s Soho.",
-      "website": "http://www.zebranobars.com",
+      "area": "Soho",
+      "vibe": "A cocktail bar, nightclub and restaurant at 18 Greek Street, with a rooftop terrace. Karaoke and interactive darts too, and late parties with DJs.",
+      "website": "https://www.zebranolondon.com/",
       "images": [
         {
           "url": "/assets/opt/dance/zebrano/01.webp",
           "alt": "Zebrano"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "sources": [
+          "https://www.zebranolondon.com/"
+        ]
+      }
     }
   ]
 }
