@@ -631,7 +631,7 @@
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-18T06:00:00+01:00",
+        "checked_at": "2026-10-18T05:40:00+01:00",
         "image_ok": true,
         "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo replaced 2026-10-18 (previous was an artwork image, not the gallery): gallery's own \"Trading since 1980\" page photo of the 12 Hollywood Road shopfront, https://www.catharinemiller.com/upload/images/page/301/301_1_size1.jpg.",
         "sources": [
@@ -701,7 +701,7 @@
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-18T06:00:00+01:00",
+        "checked_at": "2026-10-18T05:40:00+01:00",
         "image_ok": true,
         "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo replaced 2026-10-18 (previous was an artwork image, not the gallery): gallery's own contact-page photo of the 2 Park Walk shopfront with its name sign, https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-cricket/usr/images/pages/slideshow_data/25/cri_170216-031-f.jpg.",
         "sources": [
@@ -792,7 +792,7 @@
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-18T06:00:00+01:00",
+        "checked_at": "2026-10-18T05:40:00+01:00",
         "image_ok": true,
         "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo replaced 2026-10-18 (previous was an artwork image, not the gallery): gallery's own About-page installation photo of the London gallery room (Summer 2022, Damian Griffiths), https://www.everardlondon.com/images/25188_hw600gt.5.jpg.",
         "sources": [
@@ -1105,7 +1105,7 @@
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-18T06:00:00+01:00",
+        "checked_at": "2026-10-18T05:40:00+01:00",
         "image_ok": true,
         "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo replaced 2026-10-18 (previous was an artwork image, not the gallery): gallery's own installation view of the Park Walk room (\"From Palm Beach to Chelsea\" show), https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/ws-jonathancooper/usr/exhibitions/images/exhibitions/183/dsc_1699.jpg.",
         "sources": [
@@ -1818,7 +1818,7 @@
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-18T06:00:00+01:00",
+        "checked_at": "2026-10-18T05:40:00+01:00",
         "image_ok": true,
         "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Gallery now trades as WSJ Gallery (old wilsonstephensandjones.com domain redirects); same venue and address. Photo replaced 2026-10-18 (previous was an artwork image, not the gallery): gallery's own homepage interior photo (interior_09_2016), https://static-assets.artlogic.net/w_2000,h_2000,c_limit,f_auto,fl_lossy,q_auto/ws-wilsonstephensjonesllp/usr/images/pages/slideshow_data/1/interior_09_2016-1.jpg.",
         "sources": [
@@ -4634,17 +4634,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/fabric/01.webp",
-          "alt": "Fabric"
+          "alt": "The Fabric building on Charterhouse Street, Smithfield, with the club entrance at street level"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-18T05:45:00+01:00",
         "image_ok": true,
         "sources": [
-          "https://www.fabriclondon.com/"
+          "https://www.fabriclondon.com/",
+          "https://commons.wikimedia.org/wiki/File:Fabric,_Smithfield,_EC1_-_54727374281.jpg"
         ],
-        "notes": "Website fixed 2026-10-18 (http://www.fabriclondon.com/ did not load)."
+        "notes": "Website fixed 2026-10-18 (http://www.fabriclondon.com/ did not load). Photo replaced 2026-10-18 (previous was a generic crowd/stage shot with no source, not identifiable as this venue): Wikimedia Commons File:Fabric, Smithfield, EC1 - 54727374281.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Fabric,_Smithfield,_EC1_-_54727374281.jpg."
       }
     },
     {
@@ -4743,14 +4744,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/heaven/01.webp",
-          "alt": "Heaven"
+          "alt": "The rainbow-painted entrance doors of Heaven under the arches by Charing Cross"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18T05:45:00+01:00",
         "image_ok": true,
-        "notes": "curated quality overnight"
+        "notes": "curated quality overnight Photo replaced 2026-10-18 (previous was a generic crowd/stage shot with no source, not identifiable as this venue): Wikimedia Commons File:Heaven-Nightclub-Entrance-2025.jpg by AbstractLakx, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Heaven-Nightclub-Entrance-2025.jpg.",
+        "sources": [
+          "https://heaven-live.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Heaven-Nightclub-Entrance-2025.jpg"
+        ]
       }
     },
     {
@@ -4804,13 +4809,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/koko/01.webp",
-          "alt": "KOKO"
+          "alt": "KOKO, the old Camden Palace theatre on Camden High Street, with its green dome"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T05:45:00+01:00",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-18 (previous was a generic crowd/stage shot with no source, not identifiable as this venue): Wikimedia Commons File:KOKO, Camden Town, NW1 (2570837815).jpg by Ewan Munro from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:KOKO,_Camden_Town,_NW1_(2570837815).jpg.",
+        "sources": [
+          "https://www.koko.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:KOKO,_Camden_Town,_NW1_(2570837815).jpg"
+        ]
       }
     },
     {
@@ -4956,14 +4966,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/oslo/01.webp",
-          "alt": "Oslo"
+          "alt": "The Oslo building by Hackney Central station, with the OSLO sign on the roofline"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18T05:45:00+01:00",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Photo replaced 2026-10-18 (previous was a generic crowd/stage shot with no source, not identifiable as this venue): Wikimedia Commons File:Oslo, Hackney, 2025-12-30.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Oslo,_Hackney,_2025-12-30.jpg.",
+        "sources": [
+          "https://oslohackney.com/",
+          "https://commons.wikimedia.org/wiki/File:Oslo,_Hackney,_2025-12-30.jpg"
+        ]
       }
     },
     {
@@ -5331,14 +5345,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/xoyo/01.webp",
-          "alt": "XOYO"
+          "alt": "The XOYO frontage on Cowper Street, Shoreditch, with its big black XOYO banner"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18T05:45:00+01:00",
         "image_ok": true,
-        "notes": "curated quality overnight"
+        "notes": "curated quality overnight Photo replaced 2026-10-18 (previous was a generic crowd/stage shot with no source, not identifiable as this venue): Wikimedia Commons File:XOYO Nightclub London.jpg by Paul Hudson, CC BY 2.0, https://commons.wikimedia.org/wiki/File:XOYO_Nightclub_London.jpg.",
+        "sources": [
+          "https://xoyo.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:XOYO_Nightclub_London.jpg"
+        ]
       }
     },
     {
