@@ -626,15 +626,16 @@
       "images": [
         {
           "url": "/assets/opt/date/catharine-miller/01.webp",
-          "alt": "Catharine Miller"
+          "alt": "The shopfront of Catharine Miller gallery at 12 Hollywood Road, Chelsea, with the door open onto the hung room"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-18T06:00:00+01:00",
         "image_ok": true,
-        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo replaced 2026-10-18 (previous was an artwork image, not the gallery): gallery's own \"Trading since 1980\" page photo of the 12 Hollywood Road shopfront, https://www.catharinemiller.com/upload/images/page/301/301_1_size1.jpg.",
         "sources": [
+          "https://www.catharinemiller.com/en-GB/trading-since-1980/page_301",
           "https://www.catharinemiller.com/en-GB/contact/page_102",
           "https://www.catharinemiller.com/"
         ]
@@ -695,15 +696,16 @@
       "images": [
         {
           "url": "/assets/opt/date/cricket-fine-art/01.webp",
-          "alt": "Cricket Fine Art"
+          "alt": "The Cricket Fine Art shopfront at 2 Park Walk, Chelsea, lit up with paintings in the window"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-18T06:00:00+01:00",
         "image_ok": true,
-        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo replaced 2026-10-18 (previous was an artwork image, not the gallery): gallery's own contact-page photo of the 2 Park Walk shopfront with its name sign, https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-cricket/usr/images/pages/slideshow_data/25/cri_170216-031-f.jpg.",
         "sources": [
+          "https://www.cricketfineart.co.uk/contact/",
           "https://www.cricketfineart.co.uk/about/",
           "https://www.cricketfineart.co.uk/"
         ]
@@ -785,14 +787,14 @@
       "images": [
         {
           "url": "/assets/opt/date/everard-read/01.webp",
-          "alt": "Everard Read"
+          "alt": "Inside Everard Read London: a white gallery room with paintings and standing sculptures"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-18T06:00:00+01:00",
         "image_ok": true,
-        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo replaced 2026-10-18 (previous was an artwork image, not the gallery): gallery's own About-page installation photo of the London gallery room (Summer 2022, Damian Griffiths), https://www.everardlondon.com/images/25188_hw600gt.5.jpg.",
         "sources": [
           "https://www.everardlondon.com/about/"
         ]
@@ -1098,15 +1100,16 @@
       "images": [
         {
           "url": "/assets/opt/date/jonathan-cooper/01.webp",
-          "alt": "Jonathan Cooper"
+          "alt": "Inside Jonathan Cooper gallery on Park Walk, Chelsea: the front room with its street window and hung drawings"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-18T06:00:00+01:00",
         "image_ok": true,
-        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo replaced 2026-10-18 (previous was an artwork image, not the gallery): gallery's own installation view of the Park Walk room (\"From Palm Beach to Chelsea\" show), https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/ws-jonathancooper/usr/exhibitions/images/exhibitions/183/dsc_1699.jpg.",
         "sources": [
+          "https://www.jonathancooper.co.uk/exhibitions/183-from-palm-beach-to-chelsea-an-art-fair/installation_shots/",
           "https://www.jonathancooper.co.uk/"
         ]
       }
@@ -1810,14 +1813,14 @@
       "images": [
         {
           "url": "/assets/opt/date/wilson-stephens-and-jones/01.webp",
-          "alt": "Wilson Stephens & Jones"
+          "alt": "Inside WSJ Gallery on Westbourne Park Road: a warm room with paintings, ceramics and a long sideboard"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-18T06:00:00+01:00",
         "image_ok": true,
-        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Gallery now trades as WSJ Gallery (old wilsonstephensandjones.com domain redirects); same venue and address.",
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Gallery now trades as WSJ Gallery (old wilsonstephensandjones.com domain redirects); same venue and address. Photo replaced 2026-10-18 (previous was an artwork image, not the gallery): gallery's own homepage interior photo (interior_09_2016), https://static-assets.artlogic.net/w_2000,h_2000,c_limit,f_auto,fl_lossy,q_auto/ws-wilsonstephensjonesllp/usr/images/pages/slideshow_data/1/interior_09_2016-1.jpg.",
         "sources": [
           "https://www.wsjgallery.com/"
         ]
