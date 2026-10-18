@@ -37,8 +37,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.britishmuseum.org"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -123,8 +127,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.iwm.org.uk/visits/hms-belfast"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -163,8 +171,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.londoneye.com/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -181,8 +193,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.english-heritage.org.uk/visit/places/marble-hill-house/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -222,8 +238,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.rmg.co.uk/national-maritime-museum"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -263,8 +283,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.rmg.co.uk/royal-observatory"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -281,8 +305,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://skygarden.london/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -322,8 +350,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.tate.org.uk/visit/tate-britain"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -340,8 +372,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.tate.org.uk/visit/tate-modern"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -349,7 +385,7 @@
       "name": "The Regent's Park",
       "area": "Regent's Park",
       "vibe": "Eight thousand roses in Queen Mary’s Gardens. A boat on the lake, then the Open Air Theatre.",
-      "website": "https://www.royalparks.org.uk/parks/the-regents-park",
+      "website": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill",
       "images": [
         {
           "url": "/assets/opt/date/the-regents-park/01.webp",
@@ -358,8 +394,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "notes": "Website updated 2026-10-18 (https://www.royalparks.org.uk/parks/the-regents-park now redirects here). Official page checked live 2026-10-18 and stamped as source.",
+        "sources": [
+          "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill"
+        ]
       }
     },
     {
@@ -376,8 +416,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.the-shard.com/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -394,8 +438,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.hrp.org.uk/toweroflondon"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -435,8 +483,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.theviewfromtheshard.com"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -1083,7 +1135,7 @@
         "confidence": 3,
         "checked_at": "2026-10-18T04:40:00+01:00",
         "image_ok": true,
-        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo is an archive image (not the building); kept as image_ok because it is not a logo/menu/poster or another venue. Photo replaced 2026-10-18 (previous was an archival portrait photograph, not the venue): Wikimedia Commons File:Booth statue.jpg by Fæ, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Booth_statue.jpg.",
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo replaced 2026-10-18 (previous was an archival portrait photograph, not the venue): Wikimedia Commons File:Booth statue.jpg by Fæ, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Booth_statue.jpg. 2026-10-18 06:45: stale note removed; current photo is the William Booth statue outside William Booth College, Denmark Hill, which houses the Centre.",
         "sources": [
           "https://www.salvationarmy.org.uk/about-us/international-heritage-centre/contact-international-heritage-centre",
           "https://www.salvationarmy.org.uk/about-us/international-heritage-centre",
@@ -2275,8 +2327,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.bobbobricard.com/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -2293,8 +2349,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.brasseriezedel.com/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -2335,8 +2395,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.closmaggiore.com/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -2353,8 +2417,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.corebyclaresmyth.com/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -2362,7 +2430,7 @@
       "name": "Duck & Waffle",
       "area": "City of London",
       "vibe": "Forty floors up on Heron Tower. Duck & waffle, all night, City lights below.",
-      "website": "https://www.duckandwaffle.com/",
+      "website": "https://www.duckandwaffle.com/london/",
       "images": [
         {
           "url": "/assets/opt/dinner/duck-and-waffle/01.webp",
@@ -2371,8 +2439,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "notes": "Website updated 2026-10-18 (https://www.duckandwaffle.com/ now redirects here). Official page checked live 2026-10-18 and stamped as source.",
+        "sources": [
+          "https://www.duckandwaffle.com/london/"
+        ]
       }
     },
     {
@@ -2389,8 +2461,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.j-sheekey.co.uk/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -2409,7 +2485,7 @@
         "confidence": 5,
         "checked_at": "2026-10-18T04:40:00+01:00",
         "image_ok": true,
-        "notes": "Official site now trades as Kerridge's (was Kerridge's Bar & Grill). Image is Kerridge and his chef, not another shop. Sales hook rewrite: plate/room/night, no hours. 2026-10-18: reopened 5 September 2026 as Kerridge's (was Kerridge's Bar & Grill) after a refurbishment that split off Georgie's Bar; name typo fixed (was 'Kerridges's'); line rewritten from the official home page (old line called the restaurant Michelin-starred, the site says the chef is). Photo replaced (previous was a portrait of Tom Kerridge and a chef, not the venue) with the official dining-room photo from corinthia.com (owned-photography/kerridges/untitled-design-3.png).",
+        "notes": "Official site now trades as Kerridge's (was Kerridge's Bar & Grill). Sales hook rewrite: plate/room/night, no hours. 2026-10-18: reopened 5 September 2026 as Kerridge's (was Kerridge's Bar & Grill) after a refurbishment that split off Georgie's Bar; name typo fixed (was 'Kerridges's'); line rewritten from the official home page (old line called the restaurant Michelin-starred, the site says the chef is). Photo replaced (previous was a portrait of Tom Kerridge and a chef, not the venue) with the official dining-room photo from corinthia.com (owned-photography/kerridges/untitled-design-3.png).",
         "sources": [
           "https://www.kerridgesbarandgrill.co.uk/",
           "https://www.corinthia.com/en-gb/london/kerridges/"
@@ -2430,8 +2506,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.medlarrestaurant.co.uk/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -2515,8 +2595,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://thequalitychophouse.com/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -2533,8 +2617,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://rules.co.uk/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -2574,8 +2662,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://stjohnrestaurant.com/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -2661,8 +2753,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://rivercafe.co.uk/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -2679,8 +2775,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.trullorestaurant.com/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -2697,8 +2797,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.tokyodiner.com/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -4421,9 +4525,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-10-17T04:00:00+01:00",
+        "checked_at": "2026-10-18T06:45:00+01:00",
         "image_ok": true,
-        "notes": "Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Gwyneth Herbert at 606 Club on 7 September 2014.jpg by Robert Smith, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Gwyneth_Herbert_at_606_Club_on_7_September_2014.jpg."
+        "notes": "Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Gwyneth Herbert at 606 Club on 7 September 2014.jpg by Robert Smith, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Gwyneth_Herbert_at_606_Club_on_7_September_2014.jpg. Official page checked live 2026-10-18 and stamped as source.",
+        "sources": [
+          "https://www.606club.co.uk"
+        ]
       },
       "sources": [
         "https://www.606club.co.uk/about/"
@@ -4579,9 +4686,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18T06:45:00+01:00",
         "image_ok": true,
-        "notes": "curated quality overnight"
+        "notes": "curated quality overnight Official page checked live 2026-10-18 and stamped as source.",
+        "sources": [
+          "https://www.egglondon.co.uk/"
+        ]
       }
     },
     {
@@ -4621,9 +4731,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18T06:45:00+01:00",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Official page checked live 2026-10-18 and stamped as source.",
+        "sources": [
+          "https://www.eventimapollo.com/"
+        ]
       }
     },
     {
@@ -4710,8 +4823,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "sources": [
+          "https://www.freedombarsoho.com/"
+        ],
+        "notes": "Official page checked live 2026-10-18 and stamped as source."
       }
     },
     {
@@ -4764,7 +4881,7 @@
       "name": "Here Outernet",
       "area": "Tottenham Court Road",
       "vibe": "Outernet’s Here venue. Tottenham Court Road’s new late room — screens, sound, club.",
-      "website": "https://www.outernetglobal.com/",
+      "website": "https://www.outernet.com/",
       "images": [
         {
           "url": "/assets/opt/dance/here-outernet/01.webp",
@@ -4773,9 +4890,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18T06:45:00+01:00",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Website updated 2026-10-18 (https://www.outernetglobal.com/ now redirects here). Official page checked live 2026-10-18 and stamped as source.",
+        "sources": [
+          "https://www.outernet.com/"
+        ]
       }
     },
     {
@@ -4953,9 +5073,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18T06:45:00+01:00",
         "image_ok": true,
-        "notes": "curated quality overnight"
+        "notes": "curated quality overnight Official page checked live 2026-10-18 and stamped as source.",
+        "sources": [
+          "https://www.nottinghillartsclub.com/"
+        ]
       }
     },
     {
@@ -5017,9 +5140,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18T06:45:00+01:00",
         "image_ok": true,
-        "notes": "curated quality overnight"
+        "notes": "curated quality overnight Official page checked live 2026-10-18 and stamped as source.",
+        "sources": [
+          "https://www.ronniescotts.co.uk/"
+        ]
       }
     },
     {
@@ -5218,9 +5344,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18T06:45:00+01:00",
         "image_ok": true,
-        "notes": "curated quality overnight"
+        "notes": "curated quality overnight Official page checked live 2026-10-18 and stamped as source.",
+        "sources": [
+          "https://theunderworldcamden.co.uk/"
+        ]
       }
     },
     {
@@ -5662,8 +5791,11 @@
       "verified": {
         "confidence": 4,
         "image_ok": true,
-        "checked_at": "2026-10-17T04:00:00+01:00",
-        "notes": "Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Brixton Academy, London.jpg by Drew de F Fawkes, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Brixton_Academy,_London.jpg."
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "notes": "Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Brixton Academy, London.jpg by Drew de F Fawkes, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Brixton_Academy,_London.jpg. Official page checked live 2026-10-18 and stamped as source.",
+        "sources": [
+          "https://www.academymusicgroup.com/o2academybrixton/"
+        ]
       },
       "sources": [
         "https://www.academymusicgroup.com/o2academybrixton/about-us"
@@ -5684,8 +5816,11 @@
       "verified": {
         "confidence": 4,
         "image_ok": true,
-        "checked_at": "2026-10-17T04:00:00+01:00",
-        "notes": "Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:O2 Academy Islington.jpg by Magnus Manske, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:O2_Academy_Islington.jpg."
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "notes": "Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:O2 Academy Islington.jpg by Magnus Manske, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:O2_Academy_Islington.jpg. Official page checked live 2026-10-18 and stamped as source.",
+        "sources": [
+          "https://www.academymusicgroup.com/o2academyislington/"
+        ]
       },
       "sources": [
         "https://www.academymusicgroup.com/o2academyislington/about-us"
@@ -5706,8 +5841,11 @@
       "verified": {
         "confidence": 4,
         "image_ok": true,
-        "checked_at": "2026-10-17T04:00:00+01:00",
-        "notes": "Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:The Forum, Kentish Town 2024-11-27.jpg by Matt Brown, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_Forum,_Kentish_Town_2024-11-27.jpg."
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "notes": "Line rewritten from official page 2026-10-17. Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:The Forum, Kentish Town 2024-11-27.jpg by Matt Brown, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_Forum,_Kentish_Town_2024-11-27.jpg. Official page checked live 2026-10-18 and stamped as source.",
+        "sources": [
+          "https://www.academymusicgroup.com/o2forumkentishtown/"
+        ]
       },
       "sources": [
         "https://www.academymusicgroup.com/o2forumkentishtown/about-us"
@@ -6114,6 +6252,29 @@
           "https://earthackney.co.uk/club-nights-in-earth-hall/",
           "https://earthackney.co.uk/wp-content/uploads/2026/04/Website-EartH-Deck-Live-Club-Events.pdf",
           "https://commons.wikimedia.org/wiki/File:Anna_Calvi_at_Earth_(Evolutionary_Arts_Hackney)_in_2025_27.jpg"
+        ]
+      }
+    },
+    {
+      "id": "the-divine",
+      "name": "The Divine",
+      "area": "Dalston",
+      "vibe": "A queer bar, drag hothouse and nightclub on Stoke Newington Road, from the team behind The Glory. Catch a show in the new performance space, then stay for the late dance at the weekend.",
+      "website": "https://thedivine.co.uk/",
+      "images": [
+        {
+          "url": "/assets/opt/dance/the-divine/01.webp",
+          "alt": "The Divine's pink-pillared front at 33 Stoke Newington Road, Dalston, shutters down by day"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18T06:45:00+01:00",
+        "image_ok": true,
+        "notes": "Added 2026-10-18. The Divine, 33 Stoke Newington Road, N16 8BJ; opened February 2024 by Jonny Woo, John Sizzle and Colin Rothbart (The Glory team). Line from the official About page (queer bar, drag hothouse, LGBTQ+ performance venue and nightclub; performance space; late dance at the weekend). Own site shows only event posters, so photo is Wikimedia Commons File:Divine, Dalston, N16.jpg by Ewan-M, CC BY-SA 4.0, 2025-12-29 (exterior of this building, 33-35 Stoke Newington Road), https://commons.wikimedia.org/wiki/File:Divine,_Dalston,_N16.jpg.",
+        "sources": [
+          "https://thedivine.co.uk/about/",
+          "https://commons.wikimedia.org/wiki/File:Divine,_Dalston,_N16.jpg"
         ]
       }
     }
