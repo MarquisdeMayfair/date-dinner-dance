@@ -728,15 +728,25 @@
     {
       "id": "c-pperfield",
       "name": "Cøpperfield",
-      "area": "London",
-      "vibe": "Copperfield is an independent contemporary art gallery in South London",
+      "area": "Southwark",
+      "vibe": "A contemporary gallery in a converted former church at 6 Copperfield Street, just south of Tate Modern. Its joint show Muscle Memory runs until 21 November; open Wednesday to Saturday, 12 to 6pm, during exhibitions.",
       "website": "https://www.copperfieldgallery.com/",
       "images": [
         {
           "url": "/assets/opt/date/c-pperfield/01.webp",
-          "alt": "Cøpperfield"
+          "alt": "Installation view inside Cøpperfield gallery"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "2026-10-18: line rewritten from the official contact and exhibitions pages (old line was the meta description). Photo carried over: installation view in a gallery room under arched roof beams, consistent with the converted church; not re-sourced this run.",
+        "sources": [
+          "https://www.copperfieldgallery.com/contact.html",
+          "https://www.copperfieldgallery.com/exhibitions.html"
+        ]
+      }
     },
     {
       "id": "everard-read",
@@ -981,19 +991,6 @@
           "https://commons.wikimedia.org/wiki/File:A_view_of_the_Hayward_Gallery_from_Belvedere_Road.jpg"
         ]
       }
-    },
-    {
-      "id": "hj-art-gallery",
-      "name": "HJ Art Gallery",
-      "area": "London",
-      "vibe": "An art gallery located in the heart of Kensington, London, specialising in contemporary art and antiques.",
-      "website": "https://hjartgallery.com/",
-      "images": [
-        {
-          "url": "/assets/opt/date/hj-art-gallery/01.webp",
-          "alt": "HJ Art Gallery"
-        }
-      ]
     },
     {
       "id": "ica",
@@ -2134,6 +2131,29 @@
           "https://commons.wikimedia.org/wiki/File:Arab_Hall_-_Leighton_House_Museum_-_London_-_DSC01698.jpg"
         ]
       }
+    },
+    {
+      "id": "kew-gardens",
+      "name": "Kew Gardens",
+      "area": "Kew",
+      "website": "https://www.kew.org/kew-gardens",
+      "vibe": "More than 50,000 living plants across 320 acres, a UNESCO World Heritage site. Step into the Palm House's indoor rainforest, then the Rose Garden's hundreds of roses.",
+      "images": [
+        {
+          "url": "/assets/opt/date/kew-gardens/01.webp",
+          "alt": "The Palm House at Kew Gardens across the Palm House Pond"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Added 2026-10-18. Line from the official site. Open daily 10am to 6pm. Photo: Wikimedia Commons \"Kew Gardens, The Palm House with waterlilies in the Palm House Pond (1).jpg\" by AndyScott (CC0); a seasonal lantern installation sits on the pond.",
+        "sources": [
+          "https://www.kew.org/kew-gardens",
+          "https://commons.wikimedia.org/wiki/File:Kew_Gardens,_The_Palm_House_with_waterlilies_in_the_Palm_House_Pond_(1).jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -2559,7 +2579,7 @@
       "name": "The Don Restaurant",
       "area": "London",
       "vibe": "City dining in the old Sandeman Port house. Seasonal British produce, a serious Port list, cellars under St Swithin’s Lane.",
-      "website": "https://www.thedonrestaurant.com/",
+      "website": "https://thedonlondon.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/the-don-restaurant/01.webp",
@@ -2568,9 +2588,9 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-20",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "Official site is thedonlondon.com (old thedonrestaurant.com 500s). Image is the listed building at 20 St Swithin's Lane — the restaurant address, not another shop. Sales hook rewrite: plate/room/night, no hours.",
+        "notes": "Official site is thedonlondon.com (old thedonrestaurant.com 500s). Image is the listed building at 20 St Swithin's Lane — the restaurant address, not another shop. Sales hook rewrite: plate/room/night, no hours. 2026-10-18: old website (thedonrestaurant.com) dead; official site is thedonlondon.com and confirms the line (Sandeman Port house, seasonal British produce, Port list, listed cellars).",
         "sources": [
           "https://thedonlondon.com/",
           "https://thedonlondon.com/about/"
@@ -2720,19 +2740,6 @@
           "https://www.barrafina.com/wp-content/uploads/2025/02/240709_Barrafina_Adelaide_Interior_003-scaled.jpg"
         ]
       }
-    },
-    {
-      "id": "bebe-bob",
-      "name": "Bebe Bob",
-      "area": "London",
-      "vibe": "Glamorous rotisserie chicken, caviar, fine wine and Champagne. Cocktails from Mr Lyan.",
-      "website": "https://bebebob.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dinner/bebe-bob/01.webp",
-          "alt": "Bebe Bob"
-        }
-      ]
     },
     {
       "id": "bibi",
@@ -3570,15 +3577,24 @@
     {
       "id": "terroirs",
       "name": "Terroirs",
-      "area": "London",
-      "vibe": "Terroirs natural wine bar and restaurant in Covent Garden and East Dulwich has been serving natural wines with energy and food with respect since 2009.",
-      "website": "http://www.terroirswinebar.com",
+      "area": "Charing Cross",
+      "vibe": "A natural wine bar and bistro tucked behind the Strand, just off Trafalgar Square, with an earthy menu to go with the bottles. Downstairs, The Cellar runs beneath Charing Cross Station.",
+      "website": "https://www.terroirswinebar.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/terroirs/01.webp",
-          "alt": "Terroirs"
+          "alt": "Natural wine bottles in the window at Terroirs"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "2026-10-18: line rewritten from the official Food page (old line was the meta description). Photo carried over (wine bottles in a bar window); not re-sourced this run.",
+        "sources": [
+          "https://www.terroirswinebar.com/food"
+        ]
+      }
     },
     {
       "id": "the-bugis-singaporean-restaurant",
@@ -4392,25 +4408,6 @@
       }
     },
     {
-      "id": "cafe-de-paris",
-      "name": "Café de Paris",
-      "area": "Piccadilly",
-      "vibe": "Piccadilly’s art-deco ballroom. Dinner, show, then dance under the chandelier.",
-      "website": "https://www.cafedeparis.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/cafe-de-paris/01.webp",
-          "alt": "Café de Paris"
-        }
-      ],
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true,
-        "notes": "nightlife top-up"
-      }
-    },
-    {
       "id": "colour-factory",
       "name": "Colour Factory",
       "area": "Hackney Wick",
@@ -4454,9 +4451,9 @@
     {
       "id": "e1-london",
       "name": "E1 London",
-      "area": "Whitechapel",
-      "vibe": "Whitechapel independent nightclub. Visuals and sound curated for the dancefloor.",
-      "website": "https://e1london.com/",
+      "area": "Wapping",
+      "vibe": "A 1,600-capacity independent club at 110 Pennington Street, Wapping, open since 2017. Techno, house and trance on a Funktion-One system, Fridays and Saturdays 10pm to 6am.",
+      "website": "https://www.e1ldn.co/",
       "images": [
         {
           "url": "/assets/opt/dance/e1-london/01.webp",
@@ -4465,9 +4462,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up 2026-10-18: old website (e1london.com) dead; official site is e1ldn.co. Area corrected from Whitechapel to Wapping and line rewritten from its Info page.",
+        "sources": [
+          "https://www.e1ldn.co/info"
+        ]
       }
     },
     {
@@ -4684,25 +4684,6 @@
       }
     },
     {
-      "id": "jako",
-      "name": "Jako",
-      "area": "Holborn",
-      "vibe": "Holborn private-hire and club nights. Central London rooms that go late.",
-      "website": "https://www.casajako.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/jako/01.webp",
-          "alt": "Jako"
-        }
-      ],
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true,
-        "notes": "nightlife top-up"
-      }
-    },
-    {
       "id": "jazz-cafe",
       "name": "Jazz Cafe",
       "area": "Camden",
@@ -4779,24 +4760,6 @@
           "https://ku-bar.co.uk/little-ku",
           "https://commons.wikimedia.org/wiki/File:Ku_Bar,_Soho,_W1_(6377865779).jpg"
         ]
-      }
-    },
-    {
-      "id": "mahiki",
-      "name": "Mahiki",
-      "area": "Mayfair",
-      "vibe": "Mayfair tiki nightclub. Rum, dancing, a West End late classic.",
-      "website": "https://www.mahiki.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/mahiki/01.webp",
-          "alt": "Mahiki"
-        }
-      ],
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
       }
     },
     {
@@ -4908,25 +4871,6 @@
         "confidence": 5,
         "checked_at": "2026-09-21",
         "image_ok": true
-      }
-    },
-    {
-      "id": "public",
-      "name": "Public",
-      "area": "King's Cross",
-      "vibe": "King’s Cross nightlife room — late house and techno in the northern triangle.",
-      "website": "https://egglondon.co.uk/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/public/01.webp",
-          "alt": "Public"
-        }
-      ],
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true,
-        "notes": "nightlife top-up"
       }
     },
     {
@@ -5203,7 +5147,7 @@
       "name": "Village",
       "area": "Soho",
       "vibe": "81 Wardour Street. Laid-back by day, DJs and go-go after dark.",
-      "website": "http://www.village-soho.co.uk",
+      "website": "https://www.villagesoho.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dance/village/01.webp",
@@ -5212,8 +5156,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "2026-10-18: old website (village-soho.co.uk) dead; official site is villagesoho.co.uk and confirms 81 Wardour Street, laid-back by day, DJs and go-go boys at night.",
+        "sources": [
+          "https://www.villagesoho.co.uk/"
+        ]
       }
     },
     {
@@ -5700,7 +5648,7 @@
       "id": "studio-338",
       "name": "Studio 338",
       "area": "Greenwich",
-      "vibe": "Music and Arts Venue based on the Greenwich Peninsula. Includes one of the largest terrace arena's in Europe.",
+      "vibe": "A club on Boord Street, Greenwich Peninsula, with one of the largest terrace arenas in Europe. DJ Mag voted it number 20 in its Top 100 Clubs; 18+ with photo ID.",
       "website": "https://www.studio338.co.uk/",
       "images": [
         {
@@ -5711,15 +5659,18 @@
       "verified": {
         "image_ok": true,
         "confidence": 3,
-        "checked_at": "2026-10-17T04:00:00+01:00",
-        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Studio 338, North Greenwich, SE10.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Studio_338,_North_Greenwich,_SE10.jpg."
+        "checked_at": "2026-10-18",
+        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Studio 338, North Greenwich, SE10.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Studio_338,_North_Greenwich,_SE10.jpg. 2026-10-18: line rewritten from the official site (old line was the meta description).",
+        "sources": [
+          "https://www.studio338.co.uk/"
+        ]
       }
     },
     {
       "id": "the-blues-kitchen-camden",
       "name": "The Blues Kitchen Camden",
       "area": "Camden",
-      "vibe": "Restaurant, bar & club hosting the best barbecue, burgers and cocktails as well as live blues, soul & funk, with live music until late every night.",
+      "vibe": "On Saturdays, three sets of live soul, Motown, R&B and neo-soul, then DJs until 3am at 111-113 Camden High Street. The kitchen does smoked meats and dry-aged steaks.",
       "website": "https://www.theblueskitchen.com/camden",
       "images": [
         {
@@ -5730,8 +5681,12 @@
       "verified": {
         "image_ok": true,
         "confidence": 3,
-        "checked_at": "2026-10-17T04:00:00+01:00",
-        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Blues Kitchen, Camden Town, NW1.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Blues_Kitchen,_Camden_Town,_NW1.jpg."
+        "checked_at": "2026-10-18",
+        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image): Wikimedia Commons File:Blues Kitchen, Camden Town, NW1.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Blues_Kitchen,_Camden_Town,_NW1.jpg. 2026-10-18: line rewritten from the official live music and restaurant pages (old line was the meta description).",
+        "sources": [
+          "https://theblueskitchen.com/camden/event/live-music-djs-til-3am-66/",
+          "https://theblueskitchen.com/camden/restaurant/"
+        ]
       }
     },
     {
