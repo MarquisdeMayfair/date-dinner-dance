@@ -68,13 +68,17 @@
       "images": [
         {
           "url": "/assets/opt/date/frameless/01.webp",
-          "alt": "Frameless"
+          "alt": "Visitors standing inside a floor-to-ceiling projection of a ship in a storm at Frameless"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-18 (previous was a logo/wordmark): own-site photo (frameless.com, The World Around Us gallery).",
+        "sources": [
+          "https://frameless.com/"
+        ]
       }
     },
     {
@@ -86,13 +90,18 @@
       "images": [
         {
           "url": "/assets/opt/date/greenwich-park/01.webp",
-          "alt": "Greenwich Park"
+          "alt": "The view from Greenwich Park over the Queen's House and National Maritime Museum to Canary Wharf"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-18 (previous was an illustration, not a photo): Wikimedia Commons File:A panorama of the National Maritime Museum and beyond - geograph.org.uk - 2028155.jpg by Richard Hoare, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:A_panorama_of_the_National_Maritime_Museum_and_beyond_-_geograph.org.uk_-_2028155.jpg.",
+        "sources": [
+          "https://www.royalparks.org.uk/parks/greenwich-park/",
+          "https://commons.wikimedia.org/wiki/File:A_panorama_of_the_National_Maritime_Museum_and_beyond_-_geograph.org.uk_-_2028155.jpg"
+        ]
       }
     },
     {
@@ -118,7 +127,7 @@
       "name": "Horniman Museum",
       "area": "Forest Hill",
       "vibe": "Forest Hill gardens and a free museum. Aquarium and butterflies if you want to linger.",
-      "website": "http://www.horniman.ac.uk/",
+      "website": "https://www.horniman.ac.uk/",
       "images": [
         {
           "url": "/assets/opt/date/horniman-museum/01.webp",
@@ -127,8 +136,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "sources": [
+          "https://www.horniman.ac.uk/"
+        ],
+        "notes": "Website fixed 2026-10-18 (http://www.horniman.ac.uk/ did not load)."
       }
     },
     {
@@ -176,13 +189,18 @@
       "images": [
         {
           "url": "/assets/opt/date/national-gallery/01.webp",
-          "alt": "National Gallery"
+          "alt": "The National Gallery portico and dome above Trafalgar Square"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-18 (previous was a close-up of a painting, not the gallery): Wikimedia Commons File:The National Gallery, Trafalgar Square, London (53158780828).jpg by . Ray in Manila, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_National_Gallery,_Trafalgar_Square,_London_(53158780828).jpg.",
+        "sources": [
+          "https://www.nationalgallery.org.uk/",
+          "https://commons.wikimedia.org/wiki/File:The_National_Gallery,_Trafalgar_Square,_London_(53158780828).jpg"
+        ]
       }
     },
     {
@@ -208,7 +226,7 @@
       "name": "Rio Cinema",
       "area": "Dalston",
       "vibe": "Dalston’s independent cinema since 1909. A drink at the bar, then the screen upstairs.",
-      "website": "http://riocinema.com/",
+      "website": "https://riocinema.org.uk/",
       "images": [
         {
           "url": "/assets/opt/date/rio-cinema/01.webp",
@@ -217,11 +235,11 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-10-17T02:55:00+01:00",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Andrew Woodyatt, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:The_RIO_Cinema_Dalston.jpg).",
+        "notes": "Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Andrew Woodyatt, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:The_RIO_Cinema_Dalston.jpg). Website fixed 2026-10-18 (http://riocinema.com/ did not load).",
         "sources": [
-          "http://riocinema.com/",
+          "https://riocinema.org.uk/",
           "https://commons.wikimedia.org/wiki/File:The_RIO_Cinema_Dalston.jpg"
         ]
       }
@@ -271,13 +289,18 @@
       "images": [
         {
           "url": "/assets/opt/date/southbank-centre/01.webp",
-          "alt": "Southbank Centre"
+          "alt": "The Royal Festival Hall at the Southbank Centre"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-18 (previous was an illustration, not a photo): Wikimedia Commons File:Royal Festival Hall and Southbank Centre, Belvedere Road, London S.E.1 (October 2019) (2).jpg by User:Hassocks5489, CC0, https://commons.wikimedia.org/wiki/File:Royal_Festival_Hall_and_Southbank_Centre,_Belvedere_Road,_London_S.E.1_(October_2019)_(2).jpg.",
+        "sources": [
+          "https://www.southbankcentre.co.uk",
+          "https://commons.wikimedia.org/wiki/File:Royal_Festival_Hall_and_Southbank_Centre,_Belvedere_Road,_London_S.E.1_(October_2019)_(2).jpg"
+        ]
       }
     },
     {
@@ -355,7 +378,7 @@
     {
       "id": "tower-of-london",
       "name": "Tower of London",
-      "area": "London",
+      "area": "Tower Hill",
       "vibe": "The Crown Jewels, a Yeoman Warder, ravens on the green. A fortress dating to 1078.",
       "website": "https://www.hrp.org.uk/toweroflondon",
       "images": [
@@ -1284,7 +1307,7 @@
       "name": "Orleans House Gallery",
       "area": "Twickenham",
       "vibe": "A free contemporary art gallery in wild woodland above the Thames at Twickenham. Shows draw on the Richmond Borough Art Collection and its emerging artists.",
-      "website": "https://www.orleanshousegallery.org/",
+      "website": "https://orleanshousegallery.org/",
       "images": [
         {
           "url": "/assets/opt/date/orleans-house-gallery/01.webp",
@@ -1293,9 +1316,9 @@
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description). Photo replaced 2026-10-17: Photo: Wikimedia Commons \"Orleans House Gallery.jpg\" by Matt Brown (CC BY 2.0).",
+        "notes": "Line rewritten from official site 2026-10-17 (old line was the meta description). Photo replaced 2026-10-17: Photo: Wikimedia Commons \"Orleans House Gallery.jpg\" by Matt Brown (CC BY 2.0). Website fixed 2026-10-18 (https://www.orleanshousegallery.org/ did not load).",
         "sources": [
           "https://orleanshousegallery.org/",
           "https://commons.wikimedia.org/wiki/File:Orleans_House_Gallery.jpg"
@@ -2207,7 +2230,7 @@
       "name": "BKC Biryani Kebab Chai",
       "area": "London",
       "vibe": "Awadhi cooking — dum pukht biryani, galawat kebabs, chai. Lucknow via Marble Arch, served in earthen pots.",
-      "website": "http://www.pakhtoonuk.com/",
+      "website": "https://bkclondon.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/bkc-biryani-kebab-chai/01.webp",
@@ -2216,9 +2239,9 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-20",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "Replaced pakhtoonuk.com (wrong brand) with official bkclondon.uk. Official shopfront photo at no. 7. Sales hook rewrite: plate/room/night, no hours.",
+        "notes": "Replaced pakhtoonuk.com (wrong brand) with official bkclondon.uk. Official shopfront photo at no. 7. Sales hook rewrite: plate/room/night, no hours. Website fixed 2026-10-18 (http://www.pakhtoonuk.com/ did not load).",
         "sources": [
           "https://bkclondon.uk/"
         ]
@@ -2323,7 +2346,7 @@
     {
       "id": "duck-and-waffle",
       "name": "Duck & Waffle",
-      "area": "London",
+      "area": "City of London",
       "vibe": "Forty floors up on Heron Tower. Duck & waffle, all night, City lights below.",
       "website": "https://www.duckandwaffle.com/",
       "images": [
@@ -2359,7 +2382,7 @@
     {
       "id": "kerridgess-bar-and-grill",
       "name": "Kerridges's Bar & Grill",
-      "area": "London",
+      "area": "Whitehall",
       "vibe": "Tom Kerridge at the Corinthia. Modern British, Michelin-starred, tableside theatre. Georgie’s Bar next door.",
       "website": "https://www.kerridgesbarandgrill.co.uk/menus",
       "images": [
@@ -2382,7 +2405,7 @@
     {
       "id": "medlar",
       "name": "Medlar",
-      "area": "London",
+      "area": "Chelsea",
       "vibe": "Chelsea, King’s Road. Joe Mercer’s room since 2011 — seasonal British and European, cooked simply.",
       "website": "https://www.medlarrestaurant.co.uk/",
       "images": [
@@ -2406,13 +2429,17 @@
       "images": [
         {
           "url": "/assets/opt/dinner/naifs/01.webp",
-          "alt": "Naïfs"
+          "alt": "A plated salad with a glass of wine at Naïfs, Peckham"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-18 (previous was a logo/wordmark): own-site photo (naifs.co.uk, dish).",
+        "sources": [
+          "https://www.naifs.co.uk/"
+        ]
       }
     },
     {
@@ -2452,8 +2479,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Photo checked 2026-10-18: matches Padella's own Borough Market image.",
+        "sources": [
+          "https://www.padella.co/borough-market/"
+        ]
       }
     },
     {
@@ -3349,14 +3380,14 @@
       "images": [
         {
           "url": "/assets/opt/dinner/padella-shoreditch/01.webp",
-          "alt": "Padella Shoreditch"
+          "alt": "The bar and wooden booths at Padella Shoreditch"
         }
       ],
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-10-17",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "Existing local interior photo kept.",
+        "notes": "Existing local interior photo kept. Photo replaced 2026-10-18 (previous was Padella Borough's interior (wrong branch)): own-site photo (padella.co, Shoreditch).",
         "sources": [
           "https://www.padella.co/"
         ]
@@ -3498,15 +3529,25 @@
     {
       "id": "samarkand",
       "name": "Samarkand",
-      "area": "London",
-      "vibe": "Traditional Uzbek dishes in the heart of east London. Plov, lagman, samsa and more.",
+      "area": "Dalston",
+      "vibe": "An Uzbek restaurant on Stoke Newington Road in Dalston, cooking plov, samsa, manty dumplings, lagman noodles and lamb cutlets. The menu also runs to Middle Eastern dishes.",
       "website": "https://www.samarkandlondon.co.uk",
       "images": [
         {
           "url": "/assets/opt/dinner/samarkand/01.webp",
-          "alt": "Samarkand"
+          "alt": "The dining room at Samarkand, Stoke Newington Road, with pendant lamps and Uzbek plates on the walls"
         }
-      ]
+      ],
+      "verified": {
+        "confidence": 2,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Verified block added 2026-10-18. Still trading at 30 Stoke Newington Road, N16 (OpenTable menu and FSA rating updated May 2026). The official site samarkandlondon.co.uk has had no DNS records since about May 2026, so the line comes from the site's own pages as indexed by search (home-copy pages); the old line was its meta-style summary. Local photo kept: same pendant lamps, wooden shelving and Uzbek plates as the restaurant's OpenTable photos.",
+        "sources": [
+          "https://www.samarkandlondon.co.uk/",
+          "https://www.opentable.co.uk/r/samarkand-london"
+        ]
+      }
     },
     {
       "id": "schnitzel-forever",
@@ -3535,7 +3576,7 @@
       "name": "Sushi Kyu",
       "area": "Soho",
       "vibe": "A ten-seat sushi bar hidden in Soho, sister to Cubé in Mayfair. Chefs trained under head chef Mogi serve omakase from ingredients sourced at origin.",
-      "website": "http://sushikyu.com",
+      "website": "https://sushikyu.com/",
       "images": [
         {
           "url": "/assets/opt/dinner/sushi-kyu/01.webp",
@@ -3544,9 +3585,9 @@
       ],
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-10-17",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "Line rewritten from official site 2026-10-17; photo checked.",
+        "notes": "Line rewritten from official site 2026-10-17; photo checked. Website fixed 2026-10-18 (http://sushikyu.com did not load).",
         "sources": [
           "https://sushikyu.com/"
         ]
@@ -4280,7 +4321,7 @@
       "id": "ognisko",
       "name": "Ognisko",
       "area": "South Kensington",
-      "website": "https://ogniskorestaurant.co.uk/",
+      "website": "https://www.ogniskorestaurant.co.uk/",
       "vibe": "Eastern and Central European cooking in the Victorian home of the Polish Hearth Club on Exhibition Road. House-infused vodkas, and a terrace over the gardens open all year.",
       "images": [
         {
@@ -4290,11 +4331,11 @@
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "Added 2026-10-17. Line from the official site. Photo: Wikimedia Commons \"Ognisko polskie londyn4.JPG\" by Kerim44 (CC BY-SA 4.0), dining room.",
+        "notes": "Added 2026-10-17. Line from the official site. Photo: Wikimedia Commons \"Ognisko polskie londyn4.JPG\" by Kerim44 (CC BY-SA 4.0), dining room. Website fixed 2026-10-18 (https://ogniskorestaurant.co.uk/ did not load).",
         "sources": [
-          "https://ogniskorestaurant.co.uk/",
+          "https://www.ogniskorestaurant.co.uk/",
           "https://commons.wikimedia.org/wiki/File:Ognisko_polskie_londyn4.JPG"
         ]
       }
@@ -4333,20 +4374,24 @@
       "images": [
         {
           "url": "/assets/opt/dance/100-club/01.webp",
-          "alt": "100 Club"
+          "alt": "The red awning of the 100 Club at 100 Oxford Street"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "curated quality overnight"
+        "notes": "curated quality overnight Photo replaced 2026-10-18 (previous was generic concert stock shared with MOTH Club): Wikimedia Commons File:100-club-oxford-st-london.jpg by Le Deluge, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:100-club-oxford-st-london.jpg.",
+        "sources": [
+          "https://www.the100club.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:100-club-oxford-st-london.jpg"
+        ]
       }
     },
     {
       "id": "606-club",
       "name": "606 Club",
-      "area": "London",
+      "area": "Chelsea",
       "vibe": "A 120-seat Chelsea basement club and restaurant putting on British jazz, soul, Latin and funk seven nights a week since 1976. Sunday is singers' night; book ahead for Fridays and Saturdays.",
       "website": "https://www.606club.co.uk",
       "images": [
@@ -4433,9 +4478,9 @@
     {
       "id": "dalston-superstore",
       "name": "Dalston Superstore",
-      "area": "London",
+      "area": "Dalston",
       "vibe": "Dalston Superstore is the beating heart of queer East London — café by day, dancefloor after dark.",
-      "website": "http://dalstonsuperstore.com/",
+      "website": "https://dalstonsuperstore.com/",
       "images": [
         {
           "url": "/assets/opt/dance/dalston-superstore/01.webp",
@@ -4444,8 +4489,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "sources": [
+          "https://dalstonsuperstore.com/"
+        ],
+        "notes": "Website fixed 2026-10-18 (http://dalstonsuperstore.com/ did not load)."
       }
     },
     {
@@ -4521,14 +4570,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/electric-brixton/01.webp",
-          "alt": "Electric Brixton"
+          "alt": "Electric Brixton on Town Hall Parade, Brixton Hill"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "curated quality overnight"
+        "notes": "curated quality overnight Photo replaced 2026-10-18 (previous was a portrait of a person, not the venue): Wikimedia Commons File:Electric Brixton, Brixton Hill SW2 - geograph.org.uk - 2996209.jpg by Robin Sones, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Electric_Brixton,_Brixton_Hill_SW2_-_geograph.org.uk_-_2996209.jpg.",
+        "sources": [
+          "https://www.electricbrixton.uk.com/",
+          "https://commons.wikimedia.org/wiki/File:Electric_Brixton,_Brixton_Hill_SW2_-_geograph.org.uk_-_2996209.jpg"
+        ]
       }
     },
     {
@@ -4555,7 +4608,7 @@
       "name": "Fabric",
       "area": "Farringdon",
       "vibe": "Three rooms under Charterhouse Street. Brick, concrete, a 24-hour licence. Still the Farringdon night.",
-      "website": "http://www.fabriclondon.com/",
+      "website": "https://www.fabriclondon.com/",
       "images": [
         {
           "url": "/assets/opt/dance/fabric/01.webp",
@@ -4564,8 +4617,12 @@
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "sources": [
+          "https://www.fabriclondon.com/"
+        ],
+        "notes": "Website fixed 2026-10-18 (http://www.fabriclondon.com/ did not load)."
       }
     },
     {
@@ -4573,18 +4630,22 @@
       "name": "Fire",
       "area": "Vauxhall",
       "vibe": "Vauxhall arches. South London’s late queer warehouse — rooms that don’t quit.",
-      "website": "https://www.fireclub.co.uk/",
+      "website": "https://www.firelondon.net/",
       "images": [
         {
           "url": "/assets/opt/dance/fire/01.webp",
-          "alt": "Fire"
+          "alt": "The Fire club entrance under the railway arches in Vauxhall"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Photo replaced 2026-10-18 (previous was a cafe interior, not Fire): Wikimedia Commons File:Fire London.jpg by Tom Morris, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Fire_London.jpg. Website changed 2026-10-18: fireclub.co.uk is now a for-sale parked domain; firelondon.net is the club's live site (sister club Lightbox).",
+        "sources": [
+          "https://www.firelondon.net/",
+          "https://commons.wikimedia.org/wiki/File:Fire_London.jpg"
+        ]
       }
     },
     {
@@ -4692,14 +4753,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/jazz-cafe/01.webp",
-          "alt": "Jazz Cafe"
+          "alt": "The Jazz Cafe frontage on Parkway, Camden"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Photo replaced 2026-10-18 (previous was Jazzbourne's photo, not the Jazz Cafe): Wikimedia Commons File:Jazz Cafe, Camden Town, NW1 - 2025-08-07.jpg by Ewan Munro, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Jazz_Cafe,_Camden_Town,_NW1_-_2025-08-07.jpg.",
+        "sources": [
+          "https://thejazzcafelondon.com/",
+          "https://commons.wikimedia.org/wiki/File:Jazz_Cafe,_Camden_Town,_NW1_-_2025-08-07.jpg"
+        ]
       }
     },
     {
@@ -4729,14 +4794,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/ku-bar/01.webp",
-          "alt": "Ku Bar"
+          "alt": "Ku Bar on the corner of Lisle Street, Chinatown, under lanterns"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Photo replaced 2026-10-18 (previous was a poolside promo shot, not the Lisle Street bar): Wikimedia Commons File:Ku Bar, Chinatown, 2025-10-12.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ku_Bar,_Chinatown,_2025-10-12.jpg.",
+        "sources": [
+          "https://www.ku-bar.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Ku_Bar,_Chinatown,_2025-10-12.jpg"
+        ]
       }
     },
     {
@@ -4771,13 +4840,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/ministry-of-sound/01.webp",
-          "alt": "Ministry of Sound"
+          "alt": "Lasers over the dancefloor at Ministry of Sound"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-18 (previous was generic crowd stock shared with Phonox and Scala): Wikimedia Commons File:Ministry of Sound Nightclub London Dance Floor 1.jpg by uclu photosoc, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Ministry_of_Sound_Nightclub_London_Dance_Floor_1.jpg.",
+        "sources": [
+          "https://www.ministryofsound.com/",
+          "https://commons.wikimedia.org/wiki/File:Ministry_of_Sound_Nightclub_London_Dance_Floor_1.jpg"
+        ]
       }
     },
     {
@@ -4789,32 +4863,41 @@
       "images": [
         {
           "url": "/assets/opt/dance/moth-club/01.webp",
-          "alt": "MOTH Club"
+          "alt": "The Old Trades Hall on Valette Street, home of MOTH Club"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-18 (previous was generic concert stock shared with 100 Club): Wikimedia Commons File:Moth Club, Hackney, E9.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Moth_Club,_Hackney,_E9.jpg.",
+        "sources": [
+          "https://www.mothclub.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Moth_Club,_Hackney,_E9.jpg"
+        ]
       }
     },
     {
       "id": "netil360",
       "name": "Netil360",
       "area": "London Fields",
-      "vibe": "Hackney rooftop over London Fields. Sunset into DJ sets — East London skyline.",
-      "website": "https://netil360.com/",
+      "vibe": "A rooftop bar on top of Netil House with panoramic views over London, natural wine and stone-baked Neapolitan pizza. DJs play soul, hip-hop, house and disco on the sky-high dancefloor every Friday and Saturday.",
+      "website": "https://www.netil360.com/",
       "images": [
         {
           "url": "/assets/opt/dance/netil360/01.webp",
-          "alt": "Netil360"
+          "alt": "The entrance to Netil360 at Netil House, Westgate Street, Hackney"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Photo replaced 2026-10-18 (previous was a promo graphic with text overlay): Wikimedia Commons File:Netil360, Hackney, E8.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Netil360,_Hackney,_E8.jpg. Line rewritten 2026-10-18 from the official site.",
+        "sources": [
+          "https://www.netil360.com/",
+          "https://commons.wikimedia.org/wiki/File:Netil360,_Hackney,_E8.jpg"
+        ]
       }
     },
     {
@@ -4864,13 +4947,17 @@
       "images": [
         {
           "url": "/assets/opt/dance/phonox/01.webp",
-          "alt": "Phonox"
+          "alt": "The DJ booth at Phonox under orange lights"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-18 (previous was generic crowd stock shared with Ministry of Sound and Scala): own-site photo (phonox.co.uk, DJ booth and floor).",
+        "sources": [
+          "https://phonox.co.uk/"
+        ]
       }
     },
     {
@@ -4920,14 +5007,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/scala/01.webp",
-          "alt": "Scala"
+          "alt": "Scala lit up at night on Pentonville Road, King's Cross"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "curated quality overnight"
+        "notes": "curated quality overnight Photo replaced 2026-10-18 (previous was generic crowd stock shared with Ministry of Sound and Phonox): Wikimedia Commons File:Scala at night, King's Cross, August 2024 06.jpg by No Swan So Fine, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Scala_at_night,_King%27s_Cross,_August_2024_06.jpg.",
+        "sources": [
+          "https://scala.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Scala_at_night,_King%27s_Cross,_August_2024_06.jpg"
+        ]
       }
     },
     {
@@ -4939,14 +5030,17 @@
       "images": [
         {
           "url": "/assets/opt/dance/stereo-covent-garden/01.webp",
-          "alt": "Stereo Covent Garden"
+          "alt": "Diners under rows of globe lights at Stereo, Covent Garden"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Photo replaced 2026-10-18 (previous was a text graphic): own-site photo (stereocoventgarden.com, opening night by Freddie Pearson).",
+        "sources": [
+          "https://www.stereocoventgarden.com/"
+        ]
       }
     },
     {
@@ -5011,29 +5105,6 @@
         "confidence": 5,
         "checked_at": "2026-09-21",
         "image_ok": true
-      }
-    },
-    {
-      "id": "the-glory",
-      "name": "The Glory",
-      "area": "Haggerston",
-      "vibe": "Haggerston queer cabaret and club. Drag downstairs, dance upstairs.",
-      "website": "https://www.theglory.co/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/the-glory/01.webp",
-          "alt": "The Glory, Kingsland Road"
-        }
-      ],
-      "verified": {
-        "confidence": 5,
-        "checked_at": "2026-10-17T02:55:00+01:00",
-        "image_ok": true,
-        "notes": "nightlife top-up Photo replaced 2026-10-17 (previous was a logo/poster/wrong image). Photo: Wikimedia Commons, Ewan-M, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Glory,_Hoxton,_2025-12-29.jpg).",
-        "sources": [
-          "https://www.theglory.co/",
-          "https://commons.wikimedia.org/wiki/File:Glory,_Hoxton,_2025-12-29.jpg"
-        ]
       }
     },
     {
@@ -5132,14 +5203,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/troxy/01.webp",
-          "alt": "Troxy"
+          "alt": "The Art Deco north front of the Troxy on Commercial Road, Limehouse"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "curated quality overnight"
+        "notes": "curated quality overnight Photo replaced 2026-10-18 (previous was a promo portrait, not the venue): Wikimedia Commons File:Troxy, Limehouse (North Face - 01).jpg by Doyle of London, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Troxy,_Limehouse_(North_Face_-_01).jpg.",
+        "sources": [
+          "https://www.troxy.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Troxy,_Limehouse_(North_Face_-_01).jpg"
+        ]
       }
     },
     {
@@ -5189,21 +5264,25 @@
     },
     {
       "id": "waiting-room",
-      "name": "Waiting Room",
+      "name": "The Waiting Room",
       "area": "Stoke Newington",
-      "vibe": "Stoke Newington basement. Disco and house under the station — small, sweaty, perfect.",
-      "website": "https://www.waitingroomn16.com/",
+      "vibe": "A live music room and club in the basement of The Three Crowns on Stoke Newington High Street, booking grassroots bands. On Friday and Saturday nights it turns into an intimate club for leftfield electronic DJs.",
+      "website": "https://www.thewaitingroomn16.com/",
       "images": [
         {
           "url": "/assets/opt/dance/waiting-room/01.webp",
-          "alt": "Waiting Room"
+          "alt": "The Three Crowns on Stoke Newington High Street, with The Waiting Room in its basement"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Photo replaced 2026-10-18 (previous was a portrait of a person, not the venue): Wikimedia Commons File:Three Crowns, Stoke Newington, N16 - 2025-12-29.jpg by Ewan-M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Three_Crowns,_Stoke_Newington,_N16_-_2025-12-29.jpg. Line rewritten 2026-10-18 from the official site (old line said 'under the station'; venue is beneath The Three Crowns pub). Website changed 2026-10-18: old domain waitingroomn16.com now serves adult spam.",
+        "sources": [
+          "https://commons.wikimedia.org/wiki/File:Three_Crowns,_Stoke_Newington,_N16_-_2025-12-29.jpg",
+          "https://www.thewaitingroomn16.com/about.php"
+        ]
       }
     },
     {
@@ -5405,7 +5484,7 @@
     {
       "id": "lightbox",
       "name": "Lightbox",
-      "area": "London",
+      "area": "Vauxhall",
       "vibe": "A three-room, 600-capacity club in Lambeth, named after the LED walls that cover its main room. Techno, house, UK garage and drum & bass on a Danley Sound Labs system.",
       "website": "https://www.lightboxlondon.net/",
       "images": [
@@ -5714,9 +5793,9 @@
     {
       "id": "the-shacklewell-arms",
       "name": "The Shacklewell Arms",
-      "area": "London",
+      "area": "Dalston",
       "vibe": "A Dalston pub and gig room at 71 Shacklewell Lane, programmed by LNZRT. It stays open until 3am on Fridays and Saturdays.",
-      "website": "http://www.shacklewellarms.com/",
+      "website": "https://www.shacklewellarms.com/",
       "images": [
         {
           "url": "/assets/opt/dance/the-shacklewell-arms/01.webp",
@@ -5724,12 +5803,12 @@
         }
       ],
       "verified": {
-        "checked_at": "2026-10-17T07:10:00+01:00",
+        "checked_at": "2026-10-18",
         "image_ok": true,
         "sources": [
-          "http://www.shacklewellarms.com/"
+          "https://www.shacklewellarms.com/"
         ],
-        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description).",
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description). Website fixed 2026-10-18 (http://www.shacklewellarms.com/ did not load).",
         "confidence": 3
       }
     },
@@ -5955,6 +6034,30 @@
         "notes": "Added 2026-10-18. Successor to the Prince of Wales / POW at 467-469 Brixton Road, SW9. Line from the official site; club nights listed for October 2026. Photo: the venue's own site (main club room).",
         "sources": [
           "https://www.brixtonstoreys.com/"
+        ]
+      }
+    },
+    {
+      "id": "earth",
+      "name": "EartH",
+      "area": "Dalston",
+      "vibe": "The late-night hall at EartH, the arts venue in Dalston's old Savoy cinema, lined with arched mirrors under a mesh ceiling of acoustic baffles. Up to 1,200 on the floor, an L-Acoustics system and weekend club nights into the small hours.",
+      "website": "https://earthackney.co.uk/",
+      "images": [
+        {
+          "url": "/assets/opt/dance/earth/01.webp",
+          "alt": "Anna Calvi on stage at EartH, Dalston, under red light"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Added 2026-10-18. EartH (Evolutionary Arts Hackney), 11-17 Stoke Newington Road, N16 8BH. Line from the official club-nights page and venue deck; club nights listed into December 2026. Photo: Wikimedia Commons File:Anna Calvi at Earth (Evolutionary Arts Hackney) in 2025 27.jpg by p_a_h, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Anna_Calvi_at_Earth_(Evolutionary_Arts_Hackney)_in_2025_27.jpg (live show at EartH).",
+        "sources": [
+          "https://earthackney.co.uk/club-nights-in-earth-hall/",
+          "https://earthackney.co.uk/wp-content/uploads/2026/04/Website-EartH-Deck-Live-Club-Events.pdf",
+          "https://commons.wikimedia.org/wiki/File:Anna_Calvi_at_Earth_(Evolutionary_Arts_Hackney)_in_2025_27.jpg"
         ]
       }
     }
