@@ -9,13 +9,18 @@
       "images": [
         {
           "url": "/assets/opt/date/bankside-gallery/01.webp",
-          "alt": "Bankside Gallery"
+          "alt": "Bankside Gallery entrance and sign on the riverside by Tate Modern"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T04:40:00+01:00",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-18 (previous was a close-up of an artwork, not the gallery): Wikimedia Commons File:Bankside Gallery (1).jpg by the wub, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bankside_Gallery_(1).jpg.",
+        "sources": [
+          "https://www.banksidegallery.com/",
+          "https://commons.wikimedia.org/wiki/File:Bankside_Gallery_(1).jpg"
+        ]
       }
     },
     {
@@ -1024,16 +1029,17 @@
       "images": [
         {
           "url": "/assets/opt/date/ica/01.webp",
-          "alt": "ICA"
+          "alt": "The ICA entrance and sign on The Mall"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-17T02:55:00+01:00",
+        "checked_at": "2026-10-18T04:40:00+01:00",
         "image_ok": true,
-        "notes": "Line rewritten from official site 2026-10-17.",
+        "notes": "Line rewritten from official site 2026-10-17. Photo replaced 2026-10-18 (previous was a performance-art image, not the venue): own-site photo of the entrance on The Mall (ica.art/media/13591.jpg).",
         "sources": [
-          "https://www.ica.art/"
+          "https://www.ica.art/",
+          "https://www.ica.art/visit"
         ]
       }
     },
@@ -1068,16 +1074,18 @@
       "images": [
         {
           "url": "/assets/opt/date/international-heritage-centre/01.webp",
-          "alt": "Archive photograph of William Booth, from the Salvation Army heritage collection"
+          "alt": "William Booth statue outside William Booth College, Denmark Hill, home of the International Heritage Centre"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-18T04:40:00+01:00",
         "image_ok": true,
-        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo is an archive image (not the building); kept as image_ok because it is not a logo/menu/poster or another venue.",
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Photo is an archive image (not the building); kept as image_ok because it is not a logo/menu/poster or another venue. Photo replaced 2026-10-18 (previous was an archival portrait photograph, not the venue): Wikimedia Commons File:Booth statue.jpg by Fæ, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Booth_statue.jpg.",
         "sources": [
-          "https://www.salvationarmy.org.uk/about-us/international-heritage-centre/contact-international-heritage-centre"
+          "https://www.salvationarmy.org.uk/about-us/international-heritage-centre/contact-international-heritage-centre",
+          "https://www.salvationarmy.org.uk/about-us/international-heritage-centre",
+          "https://commons.wikimedia.org/wiki/File:Booth_statue.jpg"
         ]
       }
     },
@@ -1356,16 +1364,18 @@
       "images": [
         {
           "url": "/assets/opt/date/photographers-gallery/01.webp",
-          "alt": "Photographers' Gallery"
+          "alt": "The Photographers' Gallery building on Ramillies Street, Soho"
         }
       ],
       "verified": {
         "confidence": 4,
-        "checked_at": "2026-10-17",
+        "checked_at": "2026-10-18T04:40:00+01:00",
         "image_ok": true,
-        "notes": "Line rewritten from the official visit page (old line was generic). Duplicate card the-photographers-gallery removed.",
+        "notes": "Line rewritten from the official visit page (old line was generic). Duplicate card the-photographers-gallery removed. Photo replaced 2026-10-18 (previous was an artwork image, not the gallery): Wikimedia Commons File:The Photographers Gallery - panoramio.jpg by N19±, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:The_Photographers_Gallery_-_panoramio.jpg.",
         "sources": [
-          "https://thephotographersgallery.org.uk/visit"
+          "https://thephotographersgallery.org.uk/visit",
+          "https://thephotographersgallery.org.uk/",
+          "https://commons.wikimedia.org/wiki/File:The_Photographers_Gallery_-_panoramio.jpg"
         ]
       }
     },
@@ -2381,21 +2391,21 @@
     },
     {
       "id": "kerridgess-bar-and-grill",
-      "name": "Kerridges's Bar & Grill",
+      "name": "Kerridge's",
       "area": "Whitehall",
-      "vibe": "Tom Kerridge at the Corinthia. Modern British, Michelin-starred, tableside theatre. Georgie’s Bar next door.",
-      "website": "https://www.kerridgesbarandgrill.co.uk/menus",
+      "vibe": "Tom Kerridge's modern British dining room at Corinthia London, a few steps from the Thames: comforting classics with inventive twists and a touch of tableside theatre. Next door, Georgie's Bar is named after his Boxer, whose paw print was made in the wet concrete of The Hand and Flowers' kitchen.",
+      "website": "https://www.kerridgesbarandgrill.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dinner/kerridgess-bar-and-grill/01.webp",
-          "alt": "Kerridges's Bar & Grill"
+          "alt": "Burgundy leather banquette and a laid table at Kerridge's, Corinthia London"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-20",
+        "checked_at": "2026-10-18T04:40:00+01:00",
         "image_ok": true,
-        "notes": "Official site now trades as Kerridge's (was Kerridge's Bar & Grill). Image is Kerridge and his chef, not another shop. Sales hook rewrite: plate/room/night, no hours.",
+        "notes": "Official site now trades as Kerridge's (was Kerridge's Bar & Grill). Image is Kerridge and his chef, not another shop. Sales hook rewrite: plate/room/night, no hours. 2026-10-18: reopened 5 September 2026 as Kerridge's (was Kerridge's Bar & Grill) after a refurbishment that split off Georgie's Bar; name typo fixed (was 'Kerridges's'); line rewritten from the official home page (old line called the restaurant Michelin-starred, the site says the chef is). Photo replaced (previous was a portrait of Tom Kerridge and a chef, not the venue) with the official dining-room photo from corinthia.com (owned-photography/kerridges/untitled-design-3.png).",
         "sources": [
           "https://www.kerridgesbarandgrill.co.uk/",
           "https://www.corinthia.com/en-gb/london/kerridges/"
@@ -2532,13 +2542,18 @@
       "images": [
         {
           "url": "/assets/opt/dinner/sketch/01.webp",
-          "alt": "Sketch"
+          "alt": "Sketch on Conduit Street, Mayfair, with the dog sculpture on the facade"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T04:40:00+01:00",
+        "image_ok": true,
+        "notes": "Photo replaced 2026-10-18 (previous was an abstract 3D graphic, not the venue): Wikimedia Commons File:Sketch, Mayfair, W1 (2711095325).jpg by Ewan Munro from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Sketch,_Mayfair,_W1_(2711095325).jpg.",
+        "sources": [
+          "https://sketch.london/",
+          "https://commons.wikimedia.org/wiki/File:Sketch,_Mayfair,_W1_(2711095325).jpg"
+        ]
       }
     },
     {
@@ -4419,14 +4434,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/annabels/01.webp",
-          "alt": "Annabel's"
+          "alt": "46 Berkeley Square, Mayfair, home of Annabel's"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18T04:40:00+01:00",
         "image_ok": true,
-        "notes": "nightlife top-up"
+        "notes": "nightlife top-up Photo replaced 2026-10-18 (previous was a stylised illustration-like image of a door, not a photo of the club): Wikimedia Commons File:46 Berkeley Square, Mayfair, January 2022 01.jpg by No Swan So Fine, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:46_Berkeley_Square,_Mayfair,_January_2022_01.jpg.",
+        "sources": [
+          "https://www.annabels.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:46_Berkeley_Square,_Mayfair,_January_2022_01.jpg"
+        ]
       }
     },
     {
@@ -4651,19 +4670,25 @@
     {
       "id": "fold",
       "name": "FOLD",
-      "area": "Stephenson Street",
-      "vibe": "Stephenson Street. Main room plus The Steam Room. Dress to sweat.",
+      "area": "Canning Town",
+      "vibe": "An artist-led club at Gillian House on Stephenson Street in Canning Town, built so artists can thrive in music and lighting. A maze of spaces runs from the distinctive main room to the roof.",
       "website": "https://www.fold.london/",
       "images": [
         {
           "url": "/assets/opt/dance/fold/01.webp",
-          "alt": "FOLD"
+          "alt": "The main room at FOLD, Canning Town, under white light rigs"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T04:40:00+01:00",
+        "image_ok": true,
+        "notes": "2026-10-18: line rewritten from the official Rent a Studio, Shoot Spaces and Contact pages (old line named a 'Steam Room' not on the site). Photo replaced (previous was the site's graphic header art, not a photo) with the venue's own main-room photo (fold.london shoot spaces, Camelphat3.jpg).",
+        "sources": [
+          "https://www.fold.london/",
+          "https://www.fold.london/shoot-spaces",
+          "https://www.fold.london/rent-a-studio"
+        ]
       }
     },
     {
@@ -4988,14 +5013,18 @@
       "images": [
         {
           "url": "/assets/opt/dance/roundhouse/01.webp",
-          "alt": "Roundhouse"
+          "alt": "The Roundhouse on Chalk Farm Road, Camden"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
+        "checked_at": "2026-10-18T04:40:00+01:00",
         "image_ok": true,
-        "notes": "curated quality overnight"
+        "notes": "curated quality overnight Photo replaced 2026-10-18 (previous was a promo portrait of two performers, not the venue): Wikimedia Commons File:Camden Roundhouse - Chalk Farm Road Camden Town London NW1 8EH.jpg by Spudgun67, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Camden_Roundhouse_-_Chalk_Farm_Road_Camden_Town_London_NW1_8EH.jpg.",
+        "sources": [
+          "https://www.roundhouse.org.uk/",
+          "https://commons.wikimedia.org/wiki/File:Camden_Roundhouse_-_Chalk_Farm_Road_Camden_Town_London_NW1_8EH.jpg"
+        ]
       }
     },
     {
@@ -5093,18 +5122,23 @@
       "id": "the-cause",
       "name": "The Cause",
       "area": "Silvertown",
-      "vibe": "Warehouse nights by the Lea. Brut, Hothouse — festival energy, 18+.",
+      "vibe": "Getting away with it since 2018, now at 60 Dock Road in Silvertown, five to ten minutes' walk from West Silvertown DLR. A strictly 18+ club with bars and food traders outside; Modeselektor headlines Halloween on 31 October.",
       "website": "https://supportthecause.co.uk/",
       "images": [
         {
           "url": "/assets/opt/dance/the-cause/01.webp",
-          "alt": "The Cause"
+          "alt": "Crowd on the outdoor yard at The Cause, 60 Dock Road, Silvertown, at sunset"
         }
       ],
       "verified": {
         "confidence": 5,
-        "checked_at": "2026-09-21",
-        "image_ok": true
+        "checked_at": "2026-10-18T04:40:00+01:00",
+        "image_ok": true,
+        "notes": "2026-10-18: confirmed still trading at 60 Dock Road, E16 (moved from Tottenham in 2022). Line rewritten from the official home and FAQ pages (old line named the Lea and nights not on the site). Photo replaced (previous was a dark, unidentifiable silhouette) with the venue's own photo of its yard (supportthecause.co.uk, HNKC_250510_DANSHAKE_TheCause-3392.jpg).",
+        "sources": [
+          "https://supportthecause.co.uk/",
+          "https://supportthecause.co.uk/faqs"
+        ]
       }
     },
     {
