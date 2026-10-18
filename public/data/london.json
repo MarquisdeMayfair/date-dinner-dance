@@ -560,14 +560,14 @@
       "images": [
         {
           "url": "/assets/opt/date/cadogan-contemporary/01.webp",
-          "alt": "Cadogan Contemporary"
+          "alt": "The Cadogan Gallery shopfront in Knightsbridge, a glass front under the CADOGAN sign"
         }
       ],
       "verified": {
         "confidence": 3,
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-18T05:50:00+01:00",
         "image_ok": true,
-        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Now trading as Cadogan Gallery (old domain redirects). Open Tuesday to Saturday, 11am to 6pm.",
+        "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover). Now trading as Cadogan Gallery (old domain redirects). Open Tuesday to Saturday, 11am to 6pm. Photo replaced 2026-10-18 (previous was mostly a single painting, not the gallery): the gallery's own About-page photo captioned 'Cadogan Gallery | London', https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy/ws-cadogancontemporary2/usr/images/feature_panels/image/items/ff/fff496fd8ff34ee3891c7056764d0fd5/cadogan_pietrastudio-_24-3-.jpg.",
         "sources": [
           "https://cadogangallery.com/about/"
         ]
@@ -1584,22 +1584,23 @@
     {
       "id": "studio-voltaire",
       "name": "Studio Voltaire",
-      "area": "London",
+      "area": "Clapham",
       "vibe": "A not-for-profit contemporary art gallery in award-winning, architect-designed buildings on Nelsons Row in Clapham. Crispin runs a 50-cover restaurant and counter bar on site.",
       "website": "https://studiovoltaire.org/",
       "images": [
         {
           "url": "/assets/opt/date/studio-voltaire/01.webp",
-          "alt": "Studio Voltaire"
+          "alt": "The Studio Voltaire buildings on Nelsons Row, Clapham, with the red-brick gallery and its vertical blue sign"
         }
       ],
       "verified": {
-        "checked_at": "2026-10-17T07:10:00+01:00",
+        "checked_at": "2026-10-18T05:50:00+01:00",
         "image_ok": true,
         "sources": [
+          "https://studiovoltaire.org/about/",
           "https://studiovoltaire.org/"
         ],
-        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description).",
+        "notes": "2026-10-17 07:10: line rewritten from official site (old line was the meta description). Photo replaced 2026-10-18 (previous was a close-up of an artwork installation, not the gallery): the gallery's own About-page exterior photo (Studio Voltaire 2021, photo French & Tye), https://images.prismic.io/studiovoltaire/c09213ff-5ef9-47e5-8856-8a34c3be76d7_Studio+Voltaire_+2021.+Photo-+FRENCH+%26+TYE20211129_0022.jpeg. Area corrected from \"London\" to Clapham (Nelsons Row, per official site).",
         "confidence": 3
       }
     },
