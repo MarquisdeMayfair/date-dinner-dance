@@ -5359,28 +5359,6 @@
       }
     },
     {
-      "id": "cuckoo-club",
-      "name": "Cuckoo Club",
-      "area": "Mayfair",
-      "vibe": "Mirrors, mahogany and velvet across two Mayfair floors. Cosmo glows under a starlit ceiling; The Garden downstairs is built for late dancing.",
-      "website": "https://www.thecuckooclub.com/",
-      "images": [
-        {
-          "url": "/assets/opt/dance/cuckoo-club/01.webp",
-          "alt": "The Cosmo room at The Cuckoo Club under its lit ceiling"
-        }
-      ],
-      "verified": {
-        "confidence": 4,
-        "checked_at": "2026-10-17",
-        "image_ok": true,
-        "notes": "Line from the official 'The Club' page. Logo image replaced with the Cosmo room photo from the club's own site. Duplicate card the-cuckoo-club removed.",
-        "sources": [
-          "https://www.thecuckooclub.com/the-club"
-        ]
-      }
-    },
-    {
       "id": "infernos",
       "name": "Infernos",
       "area": "Clapham",
@@ -5887,6 +5865,96 @@
         "notes": "Line rewritten from official site 2026-10-18 (old line was the meta description or a leftover).",
         "sources": [
           "https://www.zebranolondon.com/"
+        ]
+      }
+    },
+    {
+      "id": "the-cross",
+      "name": "The Cross",
+      "area": "King's Cross",
+      "vibe": "The ’90s King’s Cross club, back across six floors on Wharfdale Road with a rooftop terrace looking over the London skyline. DJs play the club on Fridays and Saturdays, 7pm to 3am, for guests 25 and over.",
+      "website": "https://www.thecrosslondon.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dance/the-cross/01.webp",
+          "alt": "A crowd dancing behind the DJ decks at The Cross, King's Cross"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Added 2026-10-18. The original club closed in 2008; its founder reopened The Cross at 2-4 Wharfdale Road in September 2022 (bar, restaurant, rooftop and club). Club open Fri-Sat 7pm-3am with events listed through November 2026. Line from the official site. Photo: the venue's own site (club page Instagram gallery, a night at The Cross).",
+        "sources": [
+          "https://www.thecrosslondon.com/club",
+          "https://www.thecrosslondon.com/"
+        ]
+      }
+    },
+    {
+      "id": "hootananny-brixton",
+      "name": "Hootananny Brixton",
+      "area": "Brixton",
+      "vibe": "A striking Victorian building in Brixton with a big beer garden, a live music venue since 2007. Gigs and club nights run through jungle, disco, reggae, highlife, house and electronic.",
+      "website": "https://hootanannybrixton.co.uk/",
+      "images": [
+        {
+          "url": "/assets/opt/dance/hootananny-brixton/01.webp",
+          "alt": "The red-brick Victorian Hootananny building on Effra Road, Brixton"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Added 2026-10-18. Line from the official site; club nights and gigs listed for October 2026. Photo: Wikimedia Commons \"Hootananny, Brixton - geograph.org.uk - 4577274.jpg\" by Chris Whippet (CC BY-SA 2.0), exterior, 2015.",
+        "sources": [
+          "https://hootanannybrixton.co.uk/",
+          "https://commons.wikimedia.org/wiki/File:Hootananny,_Brixton_-_geograph.org.uk_-_4577274.jpg"
+        ]
+      }
+    },
+    {
+      "id": "bermondsey-social-club",
+      "name": "Bermondsey Social Club",
+      "area": "Bermondsey",
+      "vibe": "A railway arch on Almond Road with room for 120, plus a hidden courtyard garden where the train lines split. House, techno and drum and bass club nights and gigs on a 4am licence.",
+      "website": "https://www.bermondseysocialclub.co.uk/",
+      "images": [
+        {
+          "url": "/assets/opt/dance/bermondsey-social-club/01.webp",
+          "alt": "Inside the railway arch at Bermondsey Social Club under coloured lights"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Added 2026-10-18. Line from the official site (Arch 19 Almond Road, SE16). Club nights and gigs listed for October-November 2026. Photo: the venue's own site (the arch room with its lighting rig).",
+        "sources": [
+          "https://www.bermondseysocialclub.co.uk/"
+        ]
+      }
+    },
+    {
+      "id": "brixton-storeys",
+      "name": "Brixton Storeys",
+      "area": "Brixton",
+      "vibe": "Built on the old Prince of Wales site, a 750-capacity Brixton venue with a rare 24-hour licence. The 500-capacity club room has immersive lighting, and the two-tier rooftop has its own DJ booths and a retractable roof.",
+      "website": "https://www.brixtonstoreys.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dance/brixton-storeys/01.webp",
+          "alt": "The main club room at Brixton Storeys under a mirror ball and red lights"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18",
+        "image_ok": true,
+        "notes": "Added 2026-10-18. Successor to the Prince of Wales / POW at 467-469 Brixton Road, SW9. Line from the official site; club nights listed for October 2026. Photo: the venue's own site (main club room).",
+        "sources": [
+          "https://www.brixtonstoreys.com/"
         ]
       }
     }
