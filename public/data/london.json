@@ -6277,6 +6277,29 @@
           "https://commons.wikimedia.org/wiki/File:Divine,_Dalston,_N16.jpg"
         ]
       }
+    },
+    {
+      "id": "drumsheds",
+      "name": "Drumsheds",
+      "area": "Meridian Water",
+      "vibe": "A vast former warehouse in North London where the dancefloor is always bigger than the DJ. Multi-room and multi-level, with big sound for era-defining big-room shows and genre-spanning club nights.",
+      "website": "https://drumshedslondon.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dance/drumsheds/01.webp",
+          "alt": "A crowd under the steel roof trusses of Drumsheds' warehouse hall in Meridian Water, facing a lit stage"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-18T23:45:00+01:00",
+        "image_ok": true,
+        "notes": "Added 2026-10-18. Drumsheds, 6 Glover Drive, N18 3HF (Meridian Water, Tottenham/Edmonton), multi-room warehouse music venue, capacity 450 to 15,000. Line from the official About us page (dancefloor bigger than the DJ; vast former warehouse in North London; multi-room, multi-level; big-room shows and genre-spanning club nights). drumsheds.com is a parked domain, so the official site is drumshedslondon.com. Photo is the venue's own-site photo of its warehouse hall (SAULT show, Dec 2023, by Jake Davis), cropped to 720x900. Commons 'The Drumsheds' photos show the earlier, closed 2022 venue and were not used.",
+        "sources": [
+          "https://drumshedslondon.com/about-us/",
+          "https://drumshedslondon.com/location/"
+        ]
+      }
     }
   ]
 }
