@@ -3084,6 +3084,106 @@
           "https://www.weeksvillesociety.org/wp-content/uploads/2023/03/WHC-Houses-2-1-scaled-e1679431530555.jpg"
         ]
       }
+    },
+    {
+      "id": "icp",
+      "name": "International Center of Photography",
+      "area": "Lower East Side",
+      "vibe": "Photography museum on Ludlow Street — galleries open daily with new shows of Japanese women photographers and Laia Abril’s On Rape and Institutional Failure through mid-January.",
+      "images": [
+        {
+          "url": "/assets/opt/date/icp/01.webp",
+          "alt": "International Center of Photography"
+        }
+      ],
+      "website": "https://www.icp.org/",
+      "instagram": "https://www.instagram.com/icp/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-19",
+        "image_ok": true,
+        "notes": "Daily 2026-10-19. Official Visit: 84 Ludlow St between Delancey and Broome; museum hours Mon–Sun 10:30am–6:30pm, Thu until 8pm; adults $18; last ticket 30 min before close. Exhibitions page: I'm So Happy You Are Here: Japanese Women Photographers from the 1950s to Now and Laia Abril: On Rape and Institutional Failure, both Oct 15, 2026–Jan 11, 2027 (reopened after Oct 12–14 install closure). Photo: official gallery banner (101525_Bascom_9N4A0526) from exhibitions page — color-block galleries with framed photographs.",
+        "sources": [
+          "https://www.icp.org/visit",
+          "https://www.icp.org/exhibitions",
+          "https://www.icp.org/",
+          "https://www.icp.org/sites/default/files/2025-10/101525_Bascom_9N4A0526.jpeg"
+        ]
+      }
+    },
+    {
+      "id": "bartow-pell",
+      "name": "Bartow-Pell Mansion Museum",
+      "area": "Pelham Bay",
+      "vibe": "Greek Revival country house in Pelham Bay Park — guided tours of the mansion and carriage house Wednesdays and weekends, with gardens open daily from morning until dusk.",
+      "images": [
+        {
+          "url": "/assets/opt/date/bartow-pell/01.webp",
+          "alt": "Bartow-Pell Mansion Museum"
+        }
+      ],
+      "website": "https://www.bartowpellmansionmuseum.org/",
+      "instagram": "https://www.instagram.com/bartow_pell/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-19",
+        "image_ok": true,
+        "notes": "Daily 2026-10-19. Official Plan Your Visit: 895 Shore Road, Pelham Bay Park, Bronx; mansion & carriage house open Wed/Sat/Sun 12–4pm; guided tours 12:15/1:15/2:15/3:15; adults $15. Gardens & grounds open daily 8:30am–dusk. Site: only grand 19th-c country house still on Pelham Bay; Greek Revival interiors, furnishings, formal garden. Homepage notes Oct 18, 2026 Red Monkey Theater performance. Photo: Wikimedia Commons exterior 'Bartow-Pell Mansion 2007' (CC BY-SA 3.0).",
+        "sources": [
+          "https://www.bartowpellmansionmuseum.org/visit/plan-your-visit/",
+          "https://www.bartowpellmansionmuseum.org/",
+          "https://commons.wikimedia.org/wiki/File:Bartow-Pell_Mansion_2007.jpg"
+        ]
+      }
+    },
+    {
+      "id": "mount-vernon-hotel",
+      "name": "Mount Vernon Hotel Museum & Garden",
+      "area": "Upper East Side",
+      "vibe": "Landmarked 1799 stone house on East 61st — New York’s last surviving day hotel, with guided period-room tours weekdays and a quiet garden behind the facade.",
+      "images": [
+        {
+          "url": "/assets/opt/date/mount-vernon-hotel/01.webp",
+          "alt": "Mount Vernon Hotel Museum & Garden"
+        }
+      ],
+      "website": "https://mvhm.org/",
+      "instagram": "https://www.instagram.com/mvhmuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-19",
+        "image_ok": true,
+        "notes": "Daily 2026-10-19. Official site: 421 East 61st St; built 1799, converted to a popular day resort in 1826; guided tours Mon–Fri (hours Mon–Tue 10:15am–4:30pm, Wed 1:15–4:30pm, Thu–Fri 10:15am–1:30pm); owned by The Colonial Dames of America; period rooms and garden. Photo: official exterior with original building and sign (with-original-bilding-and-new-sign2.jpg).",
+        "sources": [
+          "https://mvhm.org/",
+          "https://mvhm.org/wp-content/uploads/2019/09/with-original-bilding-and-new-sign2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "old-stone-house",
+      "name": "The Old Stone House",
+      "area": "Park Slope",
+      "vibe": "Rebuilt Dutch farmhouse in Washington Park — the Vechte–Cortelyou house that sat at the centre of the Battle of Brooklyn, open Friday through Sunday afternoons.",
+      "images": [
+        {
+          "url": "/assets/opt/date/old-stone-house/01.webp",
+          "alt": "The Old Stone House"
+        }
+      ],
+      "website": "https://theoldstonehouse.org/",
+      "instagram": "https://www.instagram.com/oldstonehousebklyn/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-19",
+        "image_ok": true,
+        "notes": "Daily 2026-10-19. Official Visit: 336 Third Street, Brooklyn (JJ Byrne Playground / Washington Park); open Fri–Sun 12–4pm. History: site of the 1776 Battle of Brooklyn; reconstructed Vechte–Cortelyou House. Photo: Wikimedia Commons exterior 'Old-stone-house-brooklyn.JPG' (CC BY-SA).",
+        "sources": [
+          "https://theoldstonehouse.org/visit/",
+          "https://theoldstonehouse.org/history/",
+          "https://commons.wikimedia.org/wiki/File:Old-stone-house-brooklyn.JPG"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -5982,6 +6082,81 @@
           "https://images.getbento.com/accounts/b2adc7202c613d8d32788fbe45e0627f/media/images/31382CafeÌ_Carmellini_Interior_Hero_WA.jpeg"
         ]
       }
+    },
+    {
+      "id": "sofreh",
+      "name": "Sofreh",
+      "area": "Prospect Heights",
+      "vibe": "Nasim Alikhani’s Persian dining room on St Marks Avenue — bright minimalist space with house breads, jewel rice, braised lamb shank and dried-lime beef stew.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sofreh/01.webp",
+          "alt": "Sofreh"
+        }
+      ],
+      "website": "https://www.sofrehnyc.com/",
+      "instagram": "https://www.instagram.com/sofreh_brooklyn/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-19",
+        "image_ok": true,
+        "notes": "Daily 2026-10-19. Official Reservations: 75 Saint Marks Ave, Brooklyn; Mon closed; Tue–Sun 5:30–9:30pm; online reservations up to 6, 4 weeks ahead. About: chef Nasim Alikhani opened summer 2018; Sofreh as Persian gathering cloth; Rozhia Tabnak interior — bright, uncluttered, modern. Menu: eggplant & whey dip, jewel rice, lamb shank, dried lime & herb beef stew, house bread, tahdig. Single restaurant (café is separate concept). Photo: official house flatbreads on blue-and-white sofreh cloth.",
+        "sources": [
+          "https://www.sofrehnyc.com/",
+          "https://www.sofrehnyc.com/reservations",
+          "https://www.sofrehnyc.com/menu",
+          "https://images.squarespace-cdn.com/content/v1/5bf80e5d5ffd203cac0f1f82/1542996740912-5UV9UCLYIQIWYUM9HLCA/An+assortment+of+breads+on+a+blue+and+white+stamped+fabric"
+        ]
+      }
+    },
+    {
+      "id": "wild-cherry",
+      "name": "Wild Cherry",
+      "area": "West Village",
+      "vibe": "Lee Hanson and Riad Nasr’s intimate supper club inside the Cherry Lane Theatre lobby — green banquettes, checkered floor and a U-shaped bar for pre- and post-show dinners.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/wild-cherry/01.webp",
+          "alt": "Wild Cherry"
+        }
+      ],
+      "website": "https://www.wildcherrynyc.com/",
+      "instagram": "https://www.instagram.com/wildcherrynyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-19",
+        "image_ok": true,
+        "notes": "Daily 2026-10-19. Official site: 38 Commerce St inside Cherry Lane Theatre lobby; nightly 5–11pm, dinner served until 9:30pm; from the Frenchette / Le Rock / Le Veau d'Or team; 'intimate supper club' for theatre-goers and night-out dining. Single location. Photo: official dining-room shot (SHOT_09) — green banquette, checkered floor, empty place-setting glasses (not alcohol-forward).",
+        "sources": [
+          "https://www.wildcherrynyc.com/",
+          "https://www.wildcherrynyc.com/location/wildcherry/",
+          "https://images.getbento.com/accounts/809e6e99faa212d4ad7e9947829ddbb1/media/images/50804251005_WILD_CHERRY_SHOT_09_006.png"
+        ]
+      }
+    },
+    {
+      "id": "zoli",
+      "name": "Zoli",
+      "area": "East Williamsburg",
+      "vibe": "Ned Baldwin’s seafood-leaning room inside the Amant art campus — honey wood stair, Pierre Huyghe aquarium tanks dividing the bar from the dining floor.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/zoli/01.webp",
+          "alt": "Zoli"
+        }
+      ],
+      "website": "https://www.zolirestaurant.com/",
+      "instagram": "https://www.instagram.com/zolirestaurant/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-19",
+        "image_ok": true,
+        "notes": "Daily 2026-10-19. Official site: 312 Maujer St within Amant campus, Brooklyn; Wed–Sun 5pm–close; 'neighborhood restaurant serving (mostly) American, seafood-focused dishes'; Huyghe aquarium installation linked from site. Sister kitchen Houseman is a separate Greenwich St restaurant. Photo: official interior — bar, stools, triple aquariums, cherrywood stair.",
+        "sources": [
+          "https://www.zolirestaurant.com/",
+          "https://static.wixstatic.com/media/41c624_58b376d6922e40369f02cb5c25fdd515~mv2.png"
+        ]
+      }
     }
   ],
   "dance": [
@@ -7930,6 +8105,82 @@
           "https://www.terrablues.com/",
           "https://www.terrablues.com/calendar",
           "https://images.squarespace-cdn.com/content/v1/60b40d208d582847f085d582/1622574896111-WL4GD7RVYNW4AZ5CEP8Y/outside.jpg"
+        ]
+      }
+    },
+    {
+      "id": "racket",
+      "name": "Racket",
+      "area": "Chelsea",
+      "vibe": "Bowery Presents’ renovated Chelsea room across from Chelsea Market — a 650-capacity standing floor, balcony sightlines and a proper stage for mid-size shows.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/racket/01.webp",
+          "alt": "Racket"
+        }
+      ],
+      "website": "https://www.racketnyc.com/",
+      "instagram": "https://www.instagram.com/racketnewyork/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-19",
+        "image_ok": true,
+        "notes": "Daily 2026-10-19. Official Venue Info: 431 West 16th St; standing concert capacity 650; 'upstairs hideaway' / Bowery Presents' most intimate Manhattan venue; across from Chelsea Market; newly renovated stage, sound + lighting. Photo: official gallery empty-room shot from balcony toward stage and bar.",
+        "sources": [
+          "https://www.racketnyc.com/",
+          "https://racketnyc.com/venue-info/",
+          "https://aegwebprod.blob.core.windows.net/content/photo_gallery_images/334/O8efaUygtAwOMqqqIX7FeUPeHDCvbFiEXkAnV671.jpg"
+        ]
+      }
+    },
+    {
+      "id": "ibeam-brooklyn",
+      "name": "IBeam Brooklyn",
+      "area": "Gowanus",
+      "vibe": "Musician-owned listening room on 7th Street in Gowanus — white-brick walls, paper lanterns and a packed calendar of creative-jazz sets most nights.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/ibeam-brooklyn/01.webp",
+          "alt": "IBeam Brooklyn"
+        }
+      ],
+      "website": "https://www.ibeambrooklyn.com/",
+      "instagram": "https://www.instagram.com/ibeambrooklyn/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-19",
+        "image_ok": true,
+        "notes": "Daily 2026-10-19. Official About: 168 7th Street, Brooklyn; musician-owned performance & rehearsal space founded by Brian Drye; mission to foster innovative creative musicians in Gowanus. Homepage Oct 2026 calendar lists Adam Lane Band / Tim Berne Oct 23, Unscripted Soundscapes Oct 24, etc. Photo: official room photo (Ibeam Matt) — lanterns, acoustic panels, live duo with seated audience.",
+        "sources": [
+          "https://www.ibeambrooklyn.com/",
+          "https://www.ibeambrooklyn.com/about-1",
+          "https://images.squarespace-cdn.com/content/v1/58d1e7a3414fb56e75885afb/3e3cb41f-0e74-43d5-a021-222f20e7d36b/Ibeam+Matt.jpg"
+        ]
+      }
+    },
+    {
+      "id": "drom",
+      "name": "DROM",
+      "area": "East Village",
+      "vibe": "Alphabet City world-music room on Avenue A since 2007 — a multidisciplinary stage for global jazz, funk and folk under the motto #DromIsHome.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/drom/01.webp",
+          "alt": "DROM"
+        }
+      ],
+      "website": "https://dromnyc.com/",
+      "instagram": "https://www.instagram.com/dromnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-19",
+        "image_ok": true,
+        "notes": "Daily 2026-10-19. Official About: 85 Avenue A; founded 2007 by Serdar Ilhan; motto #DromIsHome; Romani 'drom'=journey; world music / progressive jazz / funk / electronica; Wall St Journal 'New York’s premiere venue for world music.' Photo: official gallery live-stage shot (2022/01/5.jpg) — blue spots, drom signage; source ~449×300 → ~1.6× upscale.",
+        "sources": [
+          "https://dromnyc.com/about/",
+          "https://dromnyc.com/",
+          "https://dromnyc.com/gallery/",
+          "https://dromnyc.com/wp-content/uploads/2022/01/5.jpg"
         ]
       }
     }
