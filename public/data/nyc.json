@@ -3184,6 +3184,108 @@
           "https://commons.wikimedia.org/wiki/File:Old-stone-house-brooklyn.JPG"
         ]
       }
+    },
+    {
+      "id": "van-cortlandt-house",
+      "name": "Van Cortlandt House Museum",
+      "area": "Van Cortlandt Park",
+      "vibe": "The 1748–49 stone manor at the heart of Van Cortlandt Park, built by Frederick van Cortlandt on his family's old Yonkers plantation. Self-guided tours run Wednesday to Sunday, with Billy Cleary's park photographs on view until November 8.",
+      "images": [
+        {
+          "url": "/assets/opt/date/van-cortlandt-house/01.webp",
+          "alt": "Van Cortlandt House Museum"
+        }
+      ],
+      "website": "https://www.vchm.org/",
+      "instagram": "https://www.instagram.com/vchmnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-20",
+        "image_ok": true,
+        "notes": "Daily 2026-10-20. Official site: 6036 Broadway, Bronx (enter park at Broadway/W 246th St); open for self-guided tours Wed–Sun 11am–4pm (arrive by 3:30); adults $5, free for Bronx residents; guided tours select Saturdays. Now on view: 'Van Cortlandt Park in Pictures' by Billy Cleary, Oct 3–Nov 8; 'Halloween: Wags to Witches' Sun Oct 25 1–5pm. Overview: house built 1748–1749 for Frederick van Cortlandt; operated by the National Society of Colonial Dames in the State of New York; Historic House Trust member. Photo: Wikimedia Commons facade 'Van-cortland-house-bronx.JPG' (CC BY-SA 3.0).",
+        "sources": [
+          "https://www.vchm.org/",
+          "https://www.vchm.org/visit.html",
+          "https://www.vchm.org/museum-overview.html",
+          "https://commons.wikimedia.org/wiki/File:Van-cortland-house-bronx.JPG"
+        ]
+      }
+    },
+    {
+      "id": "king-manor",
+      "name": "King Manor Museum",
+      "area": "Jamaica, Queens",
+      "vibe": "The restored Jamaica Avenue home of Rufus King, a framer and signer of the Constitution and an early antislavery voice. Fall hours run Thursday to Saturday afternoons, with the 'Bicentennial Revisited' exhibition on view through December.",
+      "images": [
+        {
+          "url": "/assets/opt/date/king-manor/01.webp",
+          "alt": "King Manor Museum"
+        }
+      ],
+      "website": "https://www.kingmanor.org/",
+      "instagram": "https://www.instagram.com/kingmanormuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-20",
+        "image_ok": true,
+        "notes": "Daily 2026-10-20. Official site: 150-03 Jamaica Ave, Jamaica, Queens (Rufus King Park); homepage FALL/WINTER HOURS Thu–Sat 12–4pm; Plan Your Visit lists guided tours on the hour 12–4pm (reservation encouraged); luggage storage for layover visitors. Calendar: 'The Bicentennial Revisited: The Spirit of '76?' Sep 22–Dec 19, 2026; 'Bangladesh Not Bhaangadesh' Sep 22, 2026–Dec 19, 2027; 'Talisman for the Perfect Stranger' Oct 13–24, 2026. Mission: interpret antislavery history; King family lived here three generations on a 160-acre farm. Photo: Wikimedia Commons 'King Manor; Fresh Paint, June 2013.JPG' (CC BY-SA 3.0) — house across the lawn behind the park fence.",
+        "sources": [
+          "https://www.kingmanor.org/",
+          "https://www.kingmanor.org/plan-your-visit",
+          "https://commons.wikimedia.org/wiki/File:King_Manor;_Fresh_Paint,_June_2013.JPG"
+        ]
+      }
+    },
+    {
+      "id": "bowne-house",
+      "name": "Bowne House",
+      "area": "Flushing",
+      "vibe": "Built around 1661 by John Bowne, whose 1662 defense of liberty of conscience made history, it is the oldest house in Queens. Guided 45-minute tours run Wednesday afternoons, plus October extras like the 'Haunted By History' evening tour.",
+      "images": [
+        {
+          "url": "/assets/opt/date/bowne-house/01.webp",
+          "alt": "Bowne House"
+        }
+      ],
+      "website": "https://www.bownehouse.org/",
+      "instagram": "https://www.instagram.com/bownehouse/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-20",
+        "image_ok": true,
+        "notes": "Daily 2026-10-20. Official site: 37-01 Bowne Street, Flushing, Queens; guided tours every Wednesday 12–4pm (tours at 12, 1, 2 and 3:15, ~45 min) plus listed weekend/event dates; general $10. Homepage October 2026 events: OHNY Weekend self-guided tours Sun Oct 18; 'Haunted By History' tour Fri Oct 23 7–8:30pm; Halloween storytime + felt ornament workshop Sat Oct 24. History: built c.1661 by John Bowne; 1662 defense of liberty of conscience; later abolitionist/Underground Railroad activity; museum since 1947. Photo: official site image 'Bowne_House_Furnishings-2019-05-26-Debbie_Eynon_Finley' — exterior of the house and garden.",
+        "sources": [
+          "https://www.bownehouse.org/",
+          "https://www.bownehouse.org/tour",
+          "https://www.bownehouse.org/ourhistory",
+          "https://www.bownehouse.org/visit-1"
+        ]
+      }
+    },
+    {
+      "id": "queens-botanical-garden",
+      "name": "Queens Botanical Garden",
+      "area": "Flushing",
+      "vibe": "A Main Street garden that grew out of the 'Gardens on Parade' exhibit at the 1939–40 World's Fair. This fall brings the Ankhlave Garden Project art trail and a Halloween trick-or-treat trail.",
+      "images": [
+        {
+          "url": "/assets/opt/date/queens-botanical-garden/01.webp",
+          "alt": "Queens Botanical Garden"
+        }
+      ],
+      "website": "https://queensbotanical.org/",
+      "instagram": "https://www.instagram.com/queensbotanicalgarden/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-20",
+        "image_ok": true,
+        "notes": "Daily 2026-10-20. Official site: 43-50 Main Street, Flushing; hours Apr–Oct Tue–Sun 8am–6pm, Nov–Mar Tue–Sun 8am–4:30pm; adults $6 (Apr 1–Dec 15), free Dec 16–Mar 31. Homepage: Halloween at the Garden (tickets), Ankhlave Garden Project garden-wide art exhibition, Math in Bloom. About: evolved from the five-acre 'Gardens on Parade' exhibit at the 1939–40 World's Fair; opened 1946, moved to current Main Street site in 1961. Separate institution from Flushing Meadows Corona Park (own domain, own gate). Photo: official site image '2015.10.16-Entrance-Plaza_Anne-Tan-Detchkov' — entrance plaza and tree-lined allée.",
+        "sources": [
+          "https://queensbotanical.org/",
+          "https://queensbotanical.org/about/",
+          "https://queensbotanical.org/wp-content/uploads/2017/03/2015.10.16-Entrance-Plaza_Anne-Tan-Detchkov-scaled.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -6157,6 +6259,83 @@
           "https://static.wixstatic.com/media/41c624_58b376d6922e40369f02cb5c25fdd515~mv2.png"
         ]
       }
+    },
+    {
+      "id": "jupiter-rockefeller",
+      "name": "Jupiter",
+      "area": "Rockefeller Center",
+      "vibe": "The second restaurant from King's Clare de Boer, Annie Shi and Jess Shadbolt, set rinkside at Rockefeller Center. Handmade pastas like pumpkin tortelloni and 8-hour beef ragu pappardelle, plus grilled swordfish and the 30 Rock cake.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/jupiter-rockefeller/01.webp",
+          "alt": "Jupiter"
+        }
+      ],
+      "website": "https://www.jupiterrestaurant.nyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-20",
+        "image_ok": true,
+        "notes": "Daily 2026-10-20. Official site: Rockefeller Center, Rink Level, 20 W 50th St; Mon–Sat 11:30am–10pm; second restaurant from the King team (King already in reel as a separate restaurant; not a chain). Menu page: tortelloni with delica pumpkin, sage and brown butter; pappardelle with 8-hour beef ragu; rigatoni carbonara; grilled swordfish with caponata; chicken Milanese; The 30 Rock Cake. No Instagram link on site. Photo: official 'Workstead_Jupiter_Dining Room 05' — arched banquette room set for dinner (empty water glasses only).",
+        "sources": [
+          "https://www.jupiterrestaurant.nyc/",
+          "https://www.jupiterrestaurant.nyc/menu",
+          "https://images.squarespace-cdn.com/content/v1/64ef4fba2e05713627d05b45/e78e44e4-7de3-4430-8b0c-444d5b4199a9/Workstead_Jupiter_Dining+Room+05_0131.jpg"
+        ]
+      }
+    },
+    {
+      "id": "le-pavillon",
+      "name": "Le Pavillon",
+      "area": "Midtown East",
+      "vibe": "Daniel Boulud's dining room in One Vanderbilt, designed by Isay Weinfeld with lush gardens and tall olive trees under soaring ceilings. The French menu leans seafood and vegetables, from Vanderbilt oysters gratinées to charcoal-grilled Maine lobster.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/le-pavillon/01.webp",
+          "alt": "Le Pavillon"
+        }
+      ],
+      "website": "https://www.lepavillonnyc.com/",
+      "instagram": "https://www.instagram.com/lepavillonnyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-20",
+        "image_ok": true,
+        "notes": "Daily 2026-10-20. Official site: One Vanderbilt Ave (entrance on One Vanderbilt Plaza, north side of 42nd St); dinner Mon–Sat 5–9:30pm, lunch Mon–Fri 11:30am–2pm; executive chef Will Nacev. About: Isay Weinfeld design, gardens and olive trees among the dining room. Dinner menu (three courses $145): 'Vanderbilt' oyster gratinées, rouget bouillabaisse, seared New England scallops with fig, charcoal-grilled Maine lobster, wild Dover sole. Single Le Pavillon (Daniel Boulud's other restaurants are different concepts; Daniel already in reel separately). Photo: official About image 'LP-Web_About_OneVanderbilt_1' — banquettes among the indoor garden.",
+        "sources": [
+          "https://www.lepavillonnyc.com/",
+          "https://www.lepavillonnyc.com/about",
+          "https://www.lepavillonnyc.com/our-menu/dinner",
+          "https://images.prismic.io/le-pavillon/ca609ee0-58d8-44d1-87c3-d9d3f72669b7_LP-Web_About_OneVanderbilt_1.jpg"
+        ]
+      }
+    },
+    {
+      "id": "il-gattopardo",
+      "name": "Il Gattopardo",
+      "area": "Midtown",
+      "vibe": "Southern Italian dining inside the 1897 Rockefeller Townhouses on West 54th Street, designed by Henry Hardenbergh of the Dakota and the Plaza. Think paccheri with slow-cooked Genovese pork ragù, linguine alle vongole, and live jazz on Sundays.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/il-gattopardo/01.webp",
+          "alt": "Il Gattopardo"
+        }
+      ],
+      "website": "https://www.ilgattopardonyc.com/",
+      "instagram": "https://www.instagram.com/ilgattopardonyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-20",
+        "image_ok": true,
+        "notes": "Daily 2026-10-20. Official Hours & Location: 13-15 West 54th St (The Rockefeller Townhouse); lunch Mon–Fri 12–3pm, dinner Mon–Sun 5–11pm (Sun to 10pm), weekend brunch 11:30am–3pm; 'LIVE JAZZ ON SUNDAYS'; smart casual. About: townhouses built 1897 by Henry Hardenbergh on 'Millionaire's Row', home of John D. Rockefeller for nearly forty years; K/R Architects renovation; original Il Gattopardo opened 2001. Menus: paccheri with Genovese sauce of Ibérico pork, Neapolitan linguine alle vongole, squash ravioli, codfish in casseruola. Photo: official gallery IMG_7541 — the townhouse facade and front terrace tables.",
+        "sources": [
+          "https://www.ilgattopardonyc.com/",
+          "https://www.ilgattopardonyc.com/about/",
+          "https://www.ilgattopardonyc.com/location/il-gattopardo-nyc/",
+          "https://www.ilgattopardonyc.com/menus/",
+          "https://images.getbento.com/accounts/3702871d7885456ed743b7cd20edaad5/media/images/53644IMG_7541.jpeg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -8181,6 +8360,82 @@
           "https://dromnyc.com/",
           "https://dromnyc.com/gallery/",
           "https://dromnyc.com/wp-content/uploads/2022/01/5.jpg"
+        ]
+      }
+    },
+    {
+      "id": "palladium-times-square",
+      "name": "Palladium Times Square",
+      "area": "Times Square",
+      "vibe": "The old Loews Astor Plaza cinema at 44th and Broadway, rebuilt by David Rockwell into a concert hall with a big standing floor and two mezzanines. October brings metal tours and the all-night Alegria Halloween party.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/palladium-times-square/01.webp",
+          "alt": "Palladium Times Square"
+        }
+      ],
+      "website": "https://www.palladiumtimessquare.com/",
+      "instagram": "https://www.instagram.com/palladiumtimessquare/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-20",
+        "image_ok": true,
+        "notes": "Daily 2026-10-20. Official About: 1515 Broadway at 44th St; Loews Astor Plaza movie theater 1974–2004, $21M David Rockwell renovation, reopened Sept 2005 as Nokia Theatre (later Best Buy / PlayStation Theater); large standing orchestra, rear seating, two private mezzanines, 85' LED marquee. Homepage upcoming: Wrath Across North America (Arch Enemy, The Black Dahlia Murder) Oct 24, 2026; ROA USA Tour Oct 30/Nov 1; Ric Sena presents ALEGRIA HALLOWEEN Oct 31, 10pm–6am (21+). Photo: official 'Palladium_stage.jpg' — room from the sound desk toward the stage; source 1280×853 (~1.06× upscale).",
+        "sources": [
+          "https://www.palladiumtimessquare.com/",
+          "https://www.palladiumtimessquare.com/about-us/",
+          "https://www.palladiumtimessquare.com/wp-content/uploads/2022/04/Palladium_stage.jpg"
+        ]
+      }
+    },
+    {
+      "id": "rooftop-at-pier-17",
+      "name": "The Rooftop at Pier 17",
+      "area": "Seaport",
+      "vibe": "A 1.5-acre concert rooftop five stories above the East River, with the Brooklyn Bridge, Statue of Liberty and One World Trade Center as backdrop. The season runs late into October, with Steve Aoki on the 24th and a Halloween party on the 31st.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/rooftop-at-pier-17/01.webp",
+          "alt": "The Rooftop at Pier 17"
+        }
+      ],
+      "website": "https://rooftopatpier17.com/",
+      "instagram": "https://www.instagram.com/rooftopatpier17/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-20",
+        "image_ok": true,
+        "notes": "Daily 2026-10-20. Official About: Pier 17, 89 South Street, Seaport; operated by Seaport Entertainment Group, concert series booked with Live Nation since summer 2018; 1.5-acre rooftop five stories above the East River; Pollstar 'Best New Concert Venue'. Homepage upcoming (outdoors): Steve Aoki DIM MAK 30 Tour Sat Oct 24, 2026; PremierX After Dark Fri Oct 30; Project91 Rooftop Halloween Sat Oct 31; Chief Keef Nov 1 marked postponed. Distinct from Pier 57 (date reel). Photo: official 'Aerial-1_The-Rooftop-at-Pier-17_DJI_0082' — aerial of the rooftop show with Brooklyn Bridge behind.",
+        "sources": [
+          "https://rooftopatpier17.com/",
+          "https://rooftopatpier17.com/about-us/",
+          "https://rooftopatpier17.com/wp-content/uploads/2023/03/Aerial-1_The-Rooftop-at-Pier-17_DJI_0082.jpg"
+        ]
+      }
+    },
+    {
+      "id": "the-broadway-brooklyn",
+      "name": "The Broadway",
+      "area": "Bushwick",
+      "vibe": "A multi-story music venue under the J train on the Bushwick–Bed-Stuy border, with a burger shack on the lower level. Rock bills run most nights, like Pet Fox's album release on Oct 23 and Radiator Hospital on Oct 24.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/the-broadway-brooklyn/01.webp",
+          "alt": "The Broadway"
+        }
+      ],
+      "website": "https://www.thebroadway.nyc/",
+      "instagram": "https://www.instagram.com/thebroadwaynyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-20",
+        "image_ok": true,
+        "notes": "Daily 2026-10-20. Official site: 1272 Broadway, Brooklyn 11221; open 4pm–late, kitchen 4–11pm; 'multi-story bar and music venue under the J train along the border of Bushwick and Bedford-Stuyvesant'; weekly programming from rock shows to drag bingo. Show calendar: Oct 21 Bounty; Oct 22 Mia Wilson; Oct 23 Classic Traffic / Pet Fox album release / Dagwood / Candybar (7pm, 21+, $12/$15); Oct 24 Radiator Hospital; Oct 28 Cover Show; Oct 31 Halloween Cover Show. Photo: official gallery '000053660010.jpg' — live band on the venue stage (peace-sign backdrop).",
+        "sources": [
+          "https://www.thebroadway.nyc/",
+          "https://www.thebroadway.nyc/showcalendar",
+          "https://www.thebroadway.nyc/showcalendar/classic-traffic-pet-fox-dagwood-candybar",
+          "https://images.squarespace-cdn.com/content/v1/62bb73eaae40d4671600d300/fe956dc2-0f88-407f-b989-0a94aeb59274/000053660010.jpg"
         ]
       }
     }
