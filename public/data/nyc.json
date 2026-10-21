@@ -3286,6 +3286,110 @@
           "https://queensbotanical.org/wp-content/uploads/2017/03/2015.10.16-Entrance-Plaza_Anne-Tan-Detchkov-scaled.jpg"
         ]
       }
+    },
+    {
+      "id": "paley-center",
+      "name": "The Paley Museum",
+      "area": "Midtown",
+      "vibe": "The Paley Center's museum on West 52nd Street holds an archive of more than 160,000 television and radio programs, screened daily in its own theaters. The NBC100 exhibit fills three floors with costumes and props from Friends, Seinfeld and The West Wing.",
+      "images": [
+        {
+          "url": "/assets/opt/date/paley-center/01.webp",
+          "alt": "The Paley Museum"
+        }
+      ],
+      "website": "https://www.paleycenter.org/",
+      "instagram": "https://www.instagram.com/paleycenter/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-21",
+        "image_ok": true,
+        "notes": "Daily 2026-10-21. Official site: The Paley Museum, 25 West 52 Street (bet. 5th & 6th Ave); Wednesdays–Sundays 12–6pm; nonmembers $20, students/teachers/seniors $16, children 12 & under free. Paley Archive: over 160,000 TV and radio programs and ads; daily screenings in the Bennack and Gillespie theaters ('Spooky Specials' Halloween programs Oct 14–Nov 1, 2026). PaleyExhibit 'NBC100: A Century Together' across three museum floors: Joey's 'many clothes' costume (Friends), an Elaine costume (Seinfeld), The Voice coaches' chair. Photo: Wikimedia Commons 'The Paley Center for Media (48155560156).jpg' by Ajay Suresh, 2019 (CC BY 2.0) — arched entrance facade.",
+        "sources": [
+          "https://www.paleycenter.org/",
+          "https://www.paleycenter.org/events/nbc-100",
+          "https://www.paleycenter.org/events/paley-daily-screenings/",
+          "https://commons.wikimedia.org/wiki/File:The_Paley_Center_for_Media_(48155560156).jpg"
+        ]
+      }
+    },
+    {
+      "id": "leslie-lohman-museum",
+      "name": "Leslie-Lohman Museum of Art",
+      "area": "SoHo",
+      "vibe": "A Wooster Street museum devoted to queer art, grown from the collection Charles Leslie and Fritz Lohman first showed in their downtown loft in 1969. Shu Lea Cheang's 'LOVER LOVE' is on view through January 3, 2027.",
+      "images": [
+        {
+          "url": "/assets/opt/date/leslie-lohman-museum/01.webp",
+          "alt": "Leslie-Lohman Museum of Art"
+        }
+      ],
+      "website": "https://www.leslielohman.org/",
+      "instagram": "https://www.instagram.com/leslielohmanmuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-21",
+        "image_ok": true,
+        "notes": "Daily 2026-10-21. Official site: 26 Wooster Street (between Grand & Canal), SoHo; open Wednesday–Sunday 12–6pm; suggested donation $10. About: 1969 exhibition of art by gay artists in the founders' loft; collectors rescued work of dying artists during the AIDS crisis; foundation 1990, accredited museum 2016; permanent collection of over 30,000 artworks. On view: Shu Lea Cheang 'LOVER LOVE' (through Jan 3, 2027); 'Soft Spaces: Heather Marie Scholl and Eva Wu' (through Nov 15, 2026); Hortensia Mi Kafchin 'Through Different Eyes' (through Jan 3, 2027); upcoming 'PROPS from Barakei: Eikoh Hosoe and Jason Wee' Nov 6. Photo: Wikimedia Commons 'Leslie-Lohman Museum of Gay and Lesbian Art - NYC (48129032106).jpg' by Ajay Suresh, 2019 (CC BY 2.0) — cast-iron corner facade with window banners.",
+        "sources": [
+          "https://www.leslielohman.org/",
+          "https://leslielohman.org/visit",
+          "https://leslielohman.org/about-us",
+          "https://commons.wikimedia.org/wiki/File:Leslie-Lohman_Museum_of_Gay_and_Lesbian_Art_-_NYC_(48129032106).jpg"
+        ]
+      }
+    },
+    {
+      "id": "museum-of-chinese-in-america",
+      "name": "Museum of Chinese in America",
+      "area": "Chinatown",
+      "vibe": "On Centre Street, MOCA tells the story of Chinese in America through its long-running core exhibition 'With a Single Step'. Hilda Shen's 'Their Landscapes' opens October 22, and a Chinatown history walking tour sets out on October 24.",
+      "images": [
+        {
+          "url": "/assets/opt/date/museum-of-chinese-in-america/01.webp",
+          "alt": "Museum of Chinese in America"
+        }
+      ],
+      "website": "https://www.mocanyc.org/",
+      "instagram": "https://www.instagram.com/mocanyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-21",
+        "image_ok": true,
+        "notes": "Daily 2026-10-21. Official site: 215 Centre Street, New York 10013; hours Wed–Sat 11am–6pm, Sun 11am–4pm, closed Mon–Tue; adults $15, seniors/students $10, pay-what-you-wish for NYC residents in person. Homepage: exhibitions 'Hilda Shen: Their Landscapes' Oct 22, 2026–Jan 24, 2027; 'Ed Young's Bright Worlds' (from May 14, 2026); 'With a Single Step' (through Dec 31, 2028). Events: 'MOCA PERFORMS – Echoes of Arrival' Oct 22, 7pm; 'Public Walking Tour – Chinatown: A Walk through History' Oct 24, 11:30am. Photo: Wikimedia Commons 'MOCA Centre St sunny morn jeh.JPG' by Jim.henderson, 2015 (CC BY 3.0) — Centre Street entrance under the MOCA sign.",
+        "sources": [
+          "https://www.mocanyc.org/",
+          "https://www.mocanyc.org/visit/",
+          "https://www.mocanyc.org/visit/plan-your-visit/",
+          "https://commons.wikimedia.org/wiki/File:MOCA_Centre_St_sunny_morn_jeh.JPG"
+        ]
+      }
+    },
+    {
+      "id": "staten-island-museum",
+      "name": "Staten Island Museum",
+      "area": "Staten Island",
+      "vibe": "Founded in 1881 by fourteen young naturalists, this 'mini Smithsonian' on the Snug Harbor campus mixes natural science, art and history. Its new show 'Staten Island: Making History' brings out more than a hundred rarely seen objects, from Lenapehoking to the present day.",
+      "images": [
+        {
+          "url": "/assets/opt/date/staten-island-museum/01.webp",
+          "alt": "Staten Island Museum"
+        }
+      ],
+      "website": "https://www.statenislandmuseum.org/",
+      "instagram": "https://www.instagram.com/statenislandmuseum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-21",
+        "image_ok": true,
+        "notes": "Daily 2026-10-21. Official site: at Snug Harbor Cultural Center, 1000 Richmond Terrace (separate institution and domain from the existing snug-harbor card); hours Wednesday–Sunday 11am–5pm, last entry 4:45pm; suggested admission adults $8, students/seniors $5. Homepage: new exhibition 'Staten Island: Making History' (100+ objects, photographs, oral histories, artwork); 'Here You Are: Staten Island Triennial' closing soon. History page: begun 1881 by 14 young naturalists, public museum 1908, called a 'Mini Smithsonian'. Photo: Wikimedia Commons 'Staten Island Museum.jpg' by LJR Photography, 2016 (CC BY-SA 4.0) — 'The Staten Island Museum on the grounds of Snug Harbor', columned facade with banners.",
+        "sources": [
+          "https://www.statenislandmuseum.org/",
+          "https://www.statenislandmuseum.org/visit/",
+          "https://www.statenislandmuseum.org/about/museum-history/",
+          "https://commons.wikimedia.org/wiki/File:Staten_Island_Museum.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -6336,6 +6440,86 @@
           "https://images.getbento.com/accounts/3702871d7885456ed743b7cd20edaad5/media/images/53644IMG_7541.jpeg"
         ]
       }
+    },
+    {
+      "id": "popina",
+      "name": "Popina",
+      "area": "Columbia Street Waterfront",
+      "vibe": "A Columbia Street restaurant serving southern-inspired Italian food in an intimate bar and dining room, with a backyard and its own bocce court from May through October. Think cacio e pepe, hot chicken Milanese and lamb chops with caponata.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/popina/01.webp",
+          "alt": "Popina"
+        }
+      ],
+      "website": "https://www.popinanyc.com/",
+      "instagram": "https://www.instagram.com/popinanyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-21",
+        "image_ok": true,
+        "notes": "Daily 2026-10-21. Official site: 127 Columbia Street, Brooklyn 11231; dinner Mon–Thu 5–9pm, Fri 5–10pm, Sat lunch 12–3, aperitivo 3–5, dinner 5–10pm, Sun lunch 12–3, dinner 5–9pm; walk-ins welcome, Resy for up to 6. Private events page: 'southern-inspired Italian cuisine'; Bar & Dining Room; backyard May–October with bocce court; covered/heated side dining room with retractable roof. Menus: Roman pastas (cacio e pepe, gricia, carbonara, amatriciana), pappardelle with ham hocks, shishitos + collards; hot chicken milanese with gem lettuce + ranch; lamb chops with caponata + fried capers; branzino. Single location. Held over from the 10-20 daily as backup. Photo: official site image 'IMG_8026' — dining room with banquette, bar stools and window tables (place settings with empty glasses only).",
+        "sources": [
+          "https://www.popinanyc.com/",
+          "https://www.popinanyc.com/location/popina/",
+          "https://www.popinanyc.com/menu-1/",
+          "https://www.popinanyc.com/private-events/",
+          "https://images.getbento.com/accounts/b0d7d7d699cdfb99f589e9e52e52faa5/media/images/83913IMG_8026.jpeg"
+        ]
+      }
+    },
+    {
+      "id": "russian-tea-room",
+      "name": "The Russian Tea Room",
+      "area": "Midtown",
+      "vibe": "Founded in 1926 by members of the Russian Imperial Ballet, the Tea Room sits slightly to the left of Carnegie Hall on West 57th Street. Dinner runs from borscht and house-made pelmeni to chicken Kiev, kulebyaka and boeuf Stroganoff.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/russian-tea-room/01.webp",
+          "alt": "The Russian Tea Room"
+        }
+      ],
+      "website": "https://russiantearoomnyc.com/",
+      "instagram": "https://www.instagram.com/russiantearoom/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-21",
+        "image_ok": true,
+        "notes": "Daily 2026-10-21. Official site: 150 West 57th Street, New York 10019; Mon–Fri 11:30am–11pm, Sat–Sun 11am–11pm; 'Celebrating 100 Years'; 'slightly to the left of Carnegie Hall'. About: founded 1926 by members of the Russian Imperial Ballet; family owned; afternoon tea and dinner daily, lunch weekdays, brunch weekends. Dinner menu: RTR borscht with braised beef pirozhok, pelmeni, pirozhki, kulebyaka (pastry-wrapped salmon), côtelette à la Kiev, boeuf à la Stroganoff, boeuf Wellington. Single location. Photo: Wikimedia Commons 'Russian Tea Room interior, second floor.jpg' by Seasider53, Dec 2025 (CC BY 4.0) — second-floor dining room with chandeliers and red banquettes.",
+        "sources": [
+          "https://russiantearoomnyc.com/",
+          "https://russiantearoomnyc.com/culinary-history/",
+          "https://russiantearoomnyc.com/dinner/",
+          "https://commons.wikimedia.org/wiki/File:Russian_Tea_Room_interior,_second_floor.jpg"
+        ]
+      }
+    },
+    {
+      "id": "tavern-on-the-green",
+      "name": "Tavern on the Green",
+      "area": "Central Park",
+      "vibe": "Calvert Vaux's Gothic Revival sheepfold of 1870 became a Central Park restaurant in 1934 and was reopened in 2014 with wood paneling that recalls the original fold. The seasonal menu runs from French onion soup and crab cakes to hanger steak frites and grilled lamb chops.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/tavern-on-the-green/01.webp",
+          "alt": "Tavern on the Green"
+        }
+      ],
+      "website": "https://www.tavernonthegreen.com/",
+      "instagram": "https://www.instagram.com/tavernonthegreen/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-21",
+        "image_ok": true,
+        "notes": "Daily 2026-10-21. Official site: 67th Street & Central Park West, New York 10023; main restaurant Mon–Thu 11am–10pm, Fri 11am–11pm, Sat 9am–11pm, Sun 9am–10pm; smart casual; reservations by phone/email. History: 1870 Gothic Revival sheepfold for 200 Southdown sheep, designed by Calvert Vaux; restaurant from 1934 (Robert Moses); 1976 Warner LeRoy Crystal Room; reopened April 2014 by Jim Caiola and David Salama with wood paneling reminiscent of the sheepfold. Menus: French onion soup, jumbo lump crab cake, grilled hanger steak frites, grilled lamb chops, autumn country salad with duck confit. Single location. Photo: official site image 'Tavern_Events_Page' — the glass-walled chandelier room set for an evening event (couple dancing, no drinks in focus).",
+        "sources": [
+          "https://www.tavernonthegreen.com/",
+          "https://www.tavernonthegreen.com/history/",
+          "https://www.tavernonthegreen.com/location/tavern-on-the-green/",
+          "https://www.tavernonthegreen.com/menu/",
+          "https://images.getbento.com/accounts/f00864b7095e96646695fc3d0533341a/media/images/51900Tavern_Events_Page.jpg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -8436,6 +8620,57 @@
           "https://www.thebroadway.nyc/showcalendar",
           "https://www.thebroadway.nyc/showcalendar/classic-traffic-pet-fox-dagwood-candybar",
           "https://images.squarespace-cdn.com/content/v1/62bb73eaae40d4671600d300/fe956dc2-0f88-407f-b989-0a94aeb59274/000053660010.jpg"
+        ]
+      }
+    },
+    {
+      "id": "bowery-palace",
+      "name": "Bowery Palace",
+      "area": "Bowery",
+      "vibe": "The Bowery Electric's home at 327 Bowery, now billed as Bowery Palace, with a street-level bar, the Map Room and a bigger main stage downstairs. Rock bills run most nights, from a Cure Halloween party on October 23 to 'Sally Can't Dance: The Cramps' on October 28.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/bowery-palace/01.webp",
+          "alt": "Bowery Palace"
+        }
+      ],
+      "website": "https://www.bowerypalace.com/",
+      "instagram": "https://www.instagram.com/bowerypalace/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-21",
+        "image_ok": true,
+        "notes": "Daily 2026-10-21. Official site (theboweryelectric.com redirects to bowerypalace.com): 327 Bowery, New York 10003; 'Live Music on the Lower East Side'; 'Owned and operated by rock and roll lifers and nightlife impresarios, The Bowery Electric is a staple East Village hangout'; weekend dance parties. FAQs: open Sun–Wed 5pm–2am, Thu–Sat 5pm–4am; 21+; main bar and Map Room upstairs, larger main stage down a flight of stairs. Calendar: Oct 21 Lauren Minear / Sameer Joshi; Oct 22 Nick and the Old Sport; Oct 23 The Cure Halloween Party; Oct 24 Neutral Snap / The Store single release; Oct 28 Sally Can't Dance: The Cramps. Not already in reel (Bowery Ballroom is a different venue). Photo: official gallery image '67716877_…_o.jpeg' (960×1200, no upscale) — singer and dancers on the venue stage.",
+        "sources": [
+          "https://www.bowerypalace.com/",
+          "https://www.bowerypalace.com/faqs/",
+          "https://www.bowerypalace.com/gallery/",
+          "https://www.bowerypalace.com/wp-content/gallery/gallery/67716877_2200502546714979_1779401373025042432_o.jpeg"
+        ]
+      }
+    },
+    {
+      "id": "gramercy-theatre",
+      "name": "Gramercy Theatre",
+      "area": "Gramercy",
+      "vibe": "A concert theatre on East 23rd Street, with a bar serving beer, wine and non-alcoholic drinks through the show. This week brings Carly Pearce's 'Honest Woman: Up Close' on October 22 and BE:FIRST on October 23.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/gramercy-theatre/01.webp",
+          "alt": "Gramercy Theatre"
+        }
+      ],
+      "website": "https://www.thegramercytheatre.com/",
+      "instagram": "https://www.instagram.com/gramercytheatre/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-21",
+        "image_ok": true,
+        "notes": "Daily 2026-10-21. Official site: 127 East 23rd Street, New York 10010 (Live Nation-operated single venue). Upcoming: Kevin Hart works out new jokes / Spill It 3-min mic Oct 21; Carly Pearce 'Honest Woman: Up Close' Oct 22; BE:FIRST Oct 23; Serge Clivio and Friends 6: Rock Royalty Oct 24; Jenna Davis Oct 26; Ivri 'Evidence Of You' Tour Oct 27; NY Comedy Festival Nov 13. Plan Your Visit: bar with beers, wines, spirits and non-alcoholic options, snacks; coat check; clear-bag policy. Confidence 3: site has little room description and the bill mixes comedy with concerts. Photo: Wikimedia Commons 'Gramercy Theatre 127 E23 St sun jeh.jpg' by Jim.henderson, 2013 (CC BY-SA 3.0) — facade and marquee on 23rd St.",
+        "sources": [
+          "https://www.thegramercytheatre.com/",
+          "https://www.thegramercytheatre.com/plan-your-visit",
+          "https://commons.wikimedia.org/wiki/File:Gramercy_Theatre_127_E23_St_sun_jeh.jpg"
         ]
       }
     }
