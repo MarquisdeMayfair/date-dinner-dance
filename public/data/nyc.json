@@ -3390,6 +3390,130 @@
           "https://commons.wikimedia.org/wiki/File:Staten_Island_Museum.jpg"
         ]
       }
+    },
+    {
+      "id": "carnegie-hall",
+      "name": "Carnegie Hall",
+      "area": "Midtown",
+      "vibe": "Since 1891 the stage of Tchaikovsky, Billie Holiday, Judy Garland and The Beatles, Carnegie Hall now runs three concert halls under one roof at 57th Street and Seventh Avenue. This week brings the Miró Quartet to Weill Recital Hall and saxophonist Lakecia Benjamin to Zankel Hall, both on October 23.",
+      "images": [
+        {
+          "url": "/assets/opt/date/carnegie-hall/01.webp",
+          "alt": "Carnegie Hall"
+        }
+      ],
+      "website": "https://www.carnegiehall.org/",
+      "instagram": "https://www.instagram.com/carnegiehall/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-22",
+        "image_ok": true,
+        "notes": "Daily 2026-10-22. Official site: 57th Street and Seventh Avenue; opened 1891; History page names Tchaikovsky, Dvořák, Mahler, Bartók, Gershwin, Billie Holiday, Benny Goodman, Judy Garland and The Beatles. Visit page: three concert venues (Stern Auditorium / Perelman Stage, Zankel Hall, Weill Recital Hall); box office Mon–Sat 11am–6pm, Sun 12–6pm; one-hour guided tours; Rose Museum. Featured concerts: Miró Quartet, Weill Recital Hall, Oct 23 7:30pm; Lakecia Benjamin, saxophone, Zankel Hall, Oct 23 9pm; American Composers Orchestra, Zankel Hall, Oct 27. Single venue. Photo: Wikimedia Commons 'Isaac Stern Auditorium-Carnegie Hall.jpg' by Yair Haklai, 2012 (CC BY-SA 3.0) — main auditorium tiers and stage.",
+        "sources": [
+          "https://www.carnegiehall.org/About/History",
+          "https://www.carnegiehall.org/Visit",
+          "https://commons.wikimedia.org/wiki/File:Isaac_Stern_Auditorium-Carnegie_Hall.jpg"
+        ]
+      }
+    },
+    {
+      "id": "nicholas-roerich-museum",
+      "name": "Nicholas Roerich Museum",
+      "area": "Upper West Side",
+      "vibe": "Three floors of a classic Upper West Side townhouse hold more than 150 works by the painter Nicholas Roerich, and entry is free. In the top-floor Himālaya gallery his mountainscapes come with music and a scent of Himalayan cedar, pine and juniper.",
+      "images": [
+        {
+          "url": "/assets/opt/date/nicholas-roerich-museum/01.webp",
+          "alt": "Nicholas Roerich Museum"
+        }
+      ],
+      "website": "https://www.roerich.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-22",
+        "image_ok": true,
+        "notes": "Daily 2026-10-22. Official site: 319 West 107th Street (between Broadway and Riverside Drive); open Tue–Fri 12–4pm, Sat–Sun 12–5pm, closed Mondays; admission free, no tickets or reservations. Collection: more than 150 works exhibited on three floors of a classic townhouse; 3rd-floor gallery 'Himālaya — Abode of Snows' with music and a botanical scent of Himalayan cedar, pine and juniper (scent by RASAYAN with NYN). Upcoming: screening of the documentary 'Conscious Light', Nov 20, 2026, 6pm. Photo: Wikimedia Commons 'Nicholas Roerich Museum (51240457597).jpg' by Ajay Suresh, 2021 (CC BY 2.0) — the townhouse facade on West 107th Street.",
+        "sources": [
+          "https://www.roerich.org/",
+          "https://www.roerich.org/plan-your-visit.html",
+          "https://www.roerich.org/museum-about.php",
+          "https://commons.wikimedia.org/wiki/File:Nicholas_Roerich_Museum_(51240457597).jpg"
+        ]
+      }
+    },
+    {
+      "id": "woodlawn-cemetery",
+      "name": "Woodlawn Cemetery",
+      "area": "The Bronx",
+      "vibe": "Founded in 1863, Woodlawn calls itself an open-air art gallery and living history museum, with the country's largest collection of funerary art. Celia Cruz, Miles Davis, Nellie Bly and Irving Berlin are among those buried in its grounds.",
+      "images": [
+        {
+          "url": "/assets/opt/date/woodlawn-cemetery/01.webp",
+          "alt": "Woodlawn Cemetery"
+        }
+      ],
+      "website": "https://www.woodlawn.org/",
+      "instagram": "https://www.instagram.com/thewoodlawncemetery/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-22",
+        "image_ok": true,
+        "notes": "Daily 2026-10-22. Official site: National Historic Landmark cemetery founded 1863; 'the largest and finest collection of funerary art in the country'; 'an open-air art gallery, a living history museum, and an urban oasis' with about 100,000 visitors a year; tours & events and an arboretum; grounds open 8:30am–4:30pm. Notable residents listed: Celia Cruz, Miles Davis, Elizabeth Cady Stanton, Joseph Pulitzer, Nellie Bly, Irving Berlin, Madam C.J. Walker. Working cemetery — visitors should respect services. Photo: Wikimedia Commons 'Woodlawn Cemetery in Bronx, New York (1).jpg' by Leonid Tarassishin, 2013 (CC BY-SA 3.0) — a Gothic spired mausoleum on the lawns.",
+        "sources": [
+          "https://www.woodlawn.org/",
+          "https://commons.wikimedia.org/wiki/File:Woodlawn_Cemetery_in_Bronx,_New_York_(1).jpg"
+        ]
+      }
+    },
+    {
+      "id": "st-george-theatre",
+      "name": "St. George Theatre",
+      "area": "St. George, Staten Island",
+      "vibe": "A 2,800-seat movie palace opened in 1929 a few steps from the Staten Island Ferry, with Spanish, Renaissance and Moorish Revival interiors, gilded balconies and grand staircases. The autumn bill runs from a Rocky Horror Picture Show screening on October 24 to Dweezil Zappa on November 8.",
+      "images": [
+        {
+          "url": "/assets/opt/date/st-george-theatre/01.webp",
+          "alt": "St. George Theatre"
+        }
+      ],
+      "website": "https://stgeorgetheatre.com/",
+      "instagram": "https://www.instagram.com/stgeorgetheatre/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-22",
+        "image_ok": true,
+        "notes": "Daily 2026-10-22. Official site: St. George District, steps from the Staten Island Ferry; 2,800 seats; ground broken Aug 1928, opened Dec 4, 1929; architect Eugene DeRosa, interiors by Nestor Castro; Spanish, Renaissance and Moorish Revival styles; Wurlitzer organ, cantilevered balcony, gilded balconies, grand staircases, stained-glass chandeliers. Upcoming: Frankenstem Returns (Oct 23); The Rocky Horror Picture Show screening with The Flesh Junkies live (Oct 24); The Phil Collins Story (Oct 30); Eric D'Alessandro (Nov 6–7); Dweezil Zappa 'DZ20' (Nov 8). Photo: Wikimedia Commons 'St George Theater Ext.jpg' by StatenIslandLover, 2023 (CC BY-SA 4.0) — marquee and facade on Hyatt Street.",
+        "sources": [
+          "https://stgeorgetheatre.com/",
+          "https://stgeorgetheatre.com/our-history/",
+          "https://commons.wikimedia.org/wiki/File:St_George_Theater_Ext.jpg"
+        ]
+      }
+    },
+    {
+      "id": "noble-maritime-collection",
+      "name": "Noble Maritime Collection",
+      "area": "Staten Island",
+      "vibe": "A pay-what-you-wish museum in Building D of Sailors' Snug Harbor, one of the nation's first retirement homes, keeping marine artist John A. Noble's houseboat studio alongside a ship model gallery. 'Robbins Reef Lighthouse: A Home in the Harbor' tells the story of a light you can spot from the ferry's starboard deck.",
+      "images": [
+        {
+          "url": "/assets/opt/date/noble-maritime-collection/01.webp",
+          "alt": "Noble Maritime Collection"
+        }
+      ],
+      "website": "https://noblemaritime.org/",
+      "instagram": "https://www.instagram.com/noblemaritimecollection/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-22",
+        "image_ok": true,
+        "notes": "Daily 2026-10-22. Official site: 1000 Richmond Terrace, Building D, Snug Harbor (separate institution and domain from the snug-harbor and staten-island-museum cards); Wed–Sun 12–5pm; pay-what-you-wish. Homepage exhibitions: John A. Noble's Houseboat Studio; Robbins Reef Lighthouse: A Home in the Harbor; We Who Are Weary; Treasures of Sailors' Snug Harbor; Ship Model Gallery. Visit page: 21,000 sq ft building; Sailors' Snug Harbor 'one of the nation's first retirement homes'; Robbins Reef Lighthouse visible from the ferry's starboard decks. Held backup from 10-21. Photo: Wikimedia Commons 'Noble Maritime Collection entrance jeh.jpg' by Jim.henderson, 2019 (CC BY-SA 4.0) — brick building with arched passage and 'Noble Maritime Collection' sign (Shinbone Alley side, not the main front).",
+        "sources": [
+          "https://noblemaritime.org/",
+          "https://noblemaritime.org/visit",
+          "https://commons.wikimedia.org/wiki/File:Noble_Maritime_Collection_entrance_jeh.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -6520,6 +6644,83 @@
           "https://images.getbento.com/accounts/f00864b7095e96646695fc3d0533341a/media/images/51900Tavern_Events_Page.jpg"
         ]
       }
+    },
+    {
+      "id": "delmonicos",
+      "name": "Delmonico's",
+      "area": "Financial District",
+      "vibe": "Still in its original building where Beaver and William Streets meet, Delmonico's has served à la carte dinners since 1837 and claims the title of America's first fine dining restaurant. The signature Delmonico ribeye was created in its kitchen in 1850, and eggs Benedict in the 1860s.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/delmonicos/01.webp",
+          "alt": "Delmonico's"
+        }
+      ],
+      "website": "https://www.theoriginaldelmonicos.com/",
+      "instagram": "https://www.instagram.com/delmonicosnewyork/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-22",
+        "image_ok": true,
+        "notes": "Daily 2026-10-22. Official site: 56 Beaver Street, New York 10004 (intersection of Beaver & William Streets); lunch daily 12–3pm; dinner Mon–Fri 5–10pm, Sat 3–10pm, Sun 3–9pm; smart casual. Homepage: original building, since 1837, 'America's first fine dining establishment'; 'Delmonico Steak' ribeye created 1850; closed 1923, revived 1926 by Oscar Tucci. Menu: Signature Delmonico Ribeye 18oz, Delmonico's Royal Eggs Benedict ('invented in Delmonico's kitchen in the 1860s'), Maine crab cake, Oscar's wedge salad. Single restaurant (unrelated to other 'Delmonico' steakhouses elsewhere). Photo: Wikimedia Commons 'Delmonico's - 56 Beaver Street (55312935822).jpg' by Ajay Suresh, May 2026 (CC BY 4.0) — the curved flatiron-style building at Beaver & William.",
+        "sources": [
+          "https://www.theoriginaldelmonicos.com/",
+          "https://www.theoriginaldelmonicos.com/location/the-original-delmonicos/",
+          "https://www.theoriginaldelmonicos.com/menus/",
+          "https://commons.wikimedia.org/wiki/File:Delmonico%27s_-_56_Beaver_Street_(55312935822).jpg"
+        ]
+      }
+    },
+    {
+      "id": "johns-of-12th-street",
+      "name": "John's of 12th Street",
+      "area": "East Village",
+      "vibe": "An East 12th Street dining room serving traditional gravy-and-red-sauce Italian food since 1908, with a full vegan menu for more than ten years. Order the veal meatballs, homemade manicotti or chicken parmigiana with spaghetti.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/johns-of-12th-street/01.webp",
+          "alt": "John's of 12th Street"
+        }
+      ],
+      "website": "https://www.johnsof12thstreet.com/",
+      "instagram": "https://www.instagram.com/johnsof12thstreet/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-22",
+        "image_ok": true,
+        "notes": "Daily 2026-10-22. Official site: 302 East 12th Street, New York 10003; open daily Sun–Wed 4–10pm, Thu–Sat 4–10:30pm; reservations by phone after 3pm; established 1908 ('117th year'). About: 'traditional gravy and red-sauce Italian food... since 1908'; full vegan menu for more than 10 years; hosted Anthony Bourdain for the final episode of Parts Unknown. Menu: Polpetto di Vitello (veal meatballs), homemade manicotti, chicken parmigiana with spaghetti, baked homemade lasagna, branzino. Single location. Photo: Wikimedia Commons 'John's of 12th Street (51338235363).jpg' by Eden, Janine and Jim, 2021 (CC BY 2.0) — the dining room with white-clothed tables.",
+        "sources": [
+          "https://www.johnsof12thstreet.com/",
+          "https://www.johnsof12thstreet.com/about/",
+          "https://www.johnsof12thstreet.com/menus/",
+          "https://www.johnsof12thstreet.com/location/johns-of-12th-street/",
+          "https://commons.wikimedia.org/wiki/File:John%27s_of_12th_Street_(51338235363).jpg"
+        ]
+      }
+    },
+    {
+      "id": "arturos-coal-oven-pizza",
+      "name": "Arturo's Coal Oven Pizza",
+      "area": "Greenwich Village",
+      "vibe": "A Houston Street restaurant serving coal-oven pizza and Italian-American cooking since 1957. A jazz group plays every night from 7pm to 11pm.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/arturos-coal-oven-pizza/01.webp",
+          "alt": "Arturo's Coal Oven Pizza"
+        }
+      ],
+      "website": "https://www.arturoscoaloven.com/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-22",
+        "image_ok": true,
+        "notes": "Daily 2026-10-22. Official site: 106 West Houston Street, New York 10012; 'Coal Oven Pizza, Italian American Cuisine & Live Jazz Since 1957'; open every night 5–11pm; live jazz every night 7–11pm; site also has a musicians gallery. Single location. Confidence 3: official site is thin (menu shown as images), so the line sticks to what the site states. Photo: Wikimedia Commons 'Arturo's Pizza New York City.jpg' by MainlyTwelve, 2022 (CC BY-SA 4.0) — red-awninged corner frontage on Houston Street.",
+        "sources": [
+          "https://www.arturoscoaloven.com/",
+          "https://www.arturoscoaloven.com/contact-us",
+          "https://commons.wikimedia.org/wiki/File:Arturo%27s_Pizza_New_York_City.jpg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -8671,6 +8872,55 @@
           "https://www.thegramercytheatre.com/",
           "https://www.thegramercytheatre.com/plan-your-visit",
           "https://commons.wikimedia.org/wiki/File:Gramercy_Theatre_127_E23_St_sun_jeh.jpg"
+        ]
+      }
+    },
+    {
+      "id": "united-palace",
+      "name": "United Palace",
+      "area": "Washington Heights",
+      "vibe": "Built in 1930 as one of Loew's Wonder Theatres, this 3,000-plus-seat palace was called a 'kitchen sink masterpiece' by The New York Times for its riot of styles. Its concert nights run from Sin Pedir Permiso on October 23 to Menudo 50 and Jazz WaHi's La Orquesta Esa in November.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/united-palace/01.webp",
+          "alt": "United Palace"
+        }
+      ],
+      "website": "https://www.unitedpalace.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-22",
+        "image_ok": true,
+        "notes": "Daily 2026-10-22. Official site: 4140 Broadway at 175th St, New York 10033. About: built 1930 as one of Loew's 'Wonder Theatres', architect Thomas Lamb, interiors by Harold Rambusch; NYT 'Byzantine-Romanesque-Indo-Hindu-Sino-Moorish-Persian-Eclectic-Rococo-Deco' and 'kitchen sink masterpiece'; more than 3,000 seats, fourth-largest venue of its kind in Manhattan; run by the United Palace of Spiritual Arts; past concerts include Mumford & Sons. Calendar: Sin Pedir Permiso Oct 23; Crack a Lackin' classical concert Oct 25; MT Mixtape Oct 30; Moein Oct 31; La Guitarra Iberoamericana; Menudo 50 Nov 7; Jazz WaHi presents La Orquesta Esa; Pimpinela Nov 18. Photo: Wikimedia Commons 'United Palace - Panorama.jpg' by Professorcornbread, 2016 (public domain) — auditorium, stage and ceiling (wide-angle shot, centre crop).",
+        "sources": [
+          "https://www.unitedpalace.org/",
+          "https://www.unitedpalace.org/about/",
+          "https://commons.wikimedia.org/wiki/File:United_Palace_-_Panorama.jpg"
+        ]
+      }
+    },
+    {
+      "id": "maries-crisis",
+      "name": "Marie's Crisis",
+      "area": "West Village",
+      "vibe": "A Grove Street piano bar with no microphones: a pianist plays showtunes every night from 6pm and the whole room sings along in imperfect, raucous harmony. It stands where Thomas Paine died, and was a safe space for the gay community long before wider society caught up.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/maries-crisis/01.webp",
+          "alt": "Marie's Crisis"
+        }
+      ],
+      "website": "https://www.mariescrisiscafe.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-22",
+        "image_ok": true,
+        "notes": "Daily 2026-10-22. Official site: 59 Grove St, New York 10014; 'the world's only acoustic sing-a-long showtunes piano bar'; bar 4pm to close, music from 5:30pm, 7 days; FAQ: pianists every night from 6pm until last call (3am Sun–Thu, 3:30am Fri–Sat), no cover, two-drink minimum (sodas and juices count), cash only, 21+, no tickets or reservations; home page: West Village fixture since the late 1800s, originally owned by Marie Dumont, site of the death of Thomas Paine, long a safe space for the LGBTQIA+ community. Schedule page lists the nightly pianists. Photo: Wikimedia Commons 'Marie's Crisis 2023 jeh.jpg' by Jim.henderson, 2023 (CC BY-SA 4.0) — red door and striped awning on Grove Street.",
+        "sources": [
+          "https://www.mariescrisiscafe.com/",
+          "https://www.mariescrisiscafe.com/faq",
+          "https://www.mariescrisiscafe.com/about",
+          "https://commons.wikimedia.org/wiki/File:Marie%27s_Crisis_2023_jeh.jpg"
         ]
       }
     }
