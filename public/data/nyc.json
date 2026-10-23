@@ -3514,6 +3514,128 @@
           "https://commons.wikimedia.org/wiki/File:Noble_Maritime_Collection_entrance_jeh.jpg"
         ]
       }
+    },
+    {
+      "id": "drawing-center",
+      "name": "The Drawing Center",
+      "area": "SoHo",
+      "vibe": "A free-admission museum on Wooster Street devoted entirely to drawing, open Wednesday to Sunday afternoons. Its new show, Form, Shadow, Motion: Selections from the Burger Collection, Hong Kong, opens on October 23 and runs to January 24.",
+      "images": [
+        {
+          "url": "/assets/opt/date/drawing-center/01.webp",
+          "alt": "The Drawing Center"
+        }
+      ],
+      "website": "https://drawingcenter.org/",
+      "instagram": "https://www.instagram.com/drawingcenter/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-23",
+        "image_ok": true,
+        "notes": "Daily 2026-10-23. Official site: 35 Wooster St; galleries reopen Oct 23, 2026 after installation ('Opens Today at 12 PM'); Visit page: Wed–Sun 12–6pm, free admission (Cy Twombly Foundation). Exhibition 'Form, Shadow, Motion: Selections from the Burger Collection, Hong Kong', Oct 23, 2026–Jan 24, 2027; curatorial walkthrough Oct 25. Single venue. Photo: Wikimedia Commons '35 Wooster Street.jpg' by Beyond My Ken (CC BY-SA 4.0), the cast-iron facade housing the Drawing Center.",
+        "sources": [
+          "https://drawingcenter.org/",
+          "https://drawingcenter.org/visit",
+          "https://commons.wikimedia.org/wiki/File:35_Wooster_Street.jpg"
+        ]
+      }
+    },
+    {
+      "id": "film-forum",
+      "name": "Film Forum",
+      "area": "Greenwich Village",
+      "vibe": "Nonprofit cinema on West Houston Street running new independent releases alongside repertory seasons. This week it opens a William Greaves 100 retrospective, with Film Forum Jr. family matinees at the weekend.",
+      "images": [
+        {
+          "url": "/assets/opt/date/film-forum/01.webp",
+          "alt": "Film Forum"
+        }
+      ],
+      "website": "https://filmforum.org/",
+      "instagram": "https://www.instagram.com/filmforumnyc",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-23",
+        "image_ok": true,
+        "notes": "Daily 2026-10-23. Official site: 209 West Houston St, west of 6th Ave; box office 212-727-8110; tickets $18 general / $12 members; describes itself as a nonprofit cinema. Playing week of Oct 23: Fatherland, Once Upon a Time in Harlem (opens), William Greaves 100 series (Symbiopsychotaxiplasm: Take One, Nationtime, Lost Boundaries), Film Forum Jr. Corpse Bride. Single venue. Photo: Wikimedia Commons 'Film Forum, January 3, 2024.jpg' by Tkbrett (CC BY 4.0), marquee and entrance at night.",
+        "sources": [
+          "https://filmforum.org/",
+          "https://filmforum.org/about/general-information",
+          "https://commons.wikimedia.org/wiki/File:Film_Forum,_January_3,_2024.jpg"
+        ]
+      }
+    },
+    {
+      "id": "ifc-center",
+      "name": "IFC Center",
+      "area": "Greenwich Village",
+      "vibe": "Five screens inside the old Waverly theater on Sixth Avenue, showing independent, foreign and documentary premieres on digital and 35mm. Waverly Midnights bring cult films on Friday and Saturday nights, and the popcorn comes with real butter.",
+      "images": [
+        {
+          "url": "/assets/opt/date/ifc-center/01.webp",
+          "alt": "IFC Center"
+        }
+      ],
+      "website": "https://www.ifccenter.com/",
+      "instagram": "https://www.instagram.com/ifccenter",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-23",
+        "image_ok": true,
+        "notes": "Daily 2026-10-23. Official site: 323 6th Avenue; About page: opened June 2005 after renovation of the historic Waverly theater; five cinemas with 4K/2K digital and 35mm projection; Weekend Classics 11am Fri–Sun; Waverly Midnights cult movies Fri–Sat; DOC NYC every November; Posteritati vintage poster gallery; organic popcorn with real butter. Now playing: The Devils on 35mm through Oct 25; Optic Nerve tribute Oct 28–Nov 3. Single venue (IFC Center is the only one). Photo: Wikimedia Commons 'IFC Center November 2024.jpg' by BruceSchaff (CC BY-SA 4.0), marquee on Sixth Avenue.",
+        "sources": [
+          "https://www.ifccenter.com/",
+          "https://www.ifccenter.com/about/",
+          "https://commons.wikimedia.org/wiki/File:IFC_Center_November_2024.jpg"
+        ]
+      }
+    },
+    {
+      "id": "anthology-film-archives",
+      "name": "Anthology Film Archives",
+      "area": "East Village",
+      "vibe": "Founded by Jonas Mekas and friends in 1970, Anthology calls itself the first museum devoted to film as an art form, housed since 1979 in the old Second Avenue Courthouse. The building holds two cinemas, a film library and a gallery, and its guiding rule is that a great film must be seen many times.",
+      "images": [
+        {
+          "url": "/assets/opt/date/anthology-film-archives/01.webp",
+          "alt": "Anthology Film Archives"
+        }
+      ],
+      "website": "https://anthologyfilmarchives.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-23",
+        "image_ok": true,
+        "notes": "Daily 2026-10-23. Official site: 32 Second Avenue; History page: opened Nov 30, 1970 at Joseph Papp's Public Theater (Jonas Mekas, Jerome Hill, P. Adams Sitney, Peter Kubelka, Stan Brakhage); bought the Second Avenue Courthouse building in 1979, adapted for two motion picture theaters, library, preservation department and gallery; 'the first museum devoted to film as an art form'. Calendar Oct 23, 2026: 7:30pm Lloyd Kaufman, THE TOXIC AVENGER. Photo: Wikimedia Commons 'Anthology Film Archives.jpg' by Beyond My Ken (CC BY-SA 4.0), the courthouse building at 2nd Ave & E 2nd St.",
+        "sources": [
+          "https://anthologyfilmarchives.org/",
+          "https://anthologyfilmarchives.org/about/history",
+          "https://commons.wikimedia.org/wiki/File:Anthology_Film_Archives.jpg"
+        ]
+      }
+    },
+    {
+      "id": "roosevelt-island-tram",
+      "name": "Roosevelt Island Tram",
+      "area": "Roosevelt Island",
+      "vibe": "Running since 1976, the red cable cars glide over the East River between Second Avenue at 60th Street and Roosevelt Island, with skyline views all the way. It takes a regular MTA fare and runs until 2am, or 3:30am on Fridays and Saturdays.",
+      "images": [
+        {
+          "url": "/assets/opt/date/roosevelt-island-tram/01.webp",
+          "alt": "Roosevelt Island Tram"
+        }
+      ],
+      "website": "https://www.rioc.ny.gov/community/transportation/tram",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-23",
+        "image_ok": true,
+        "notes": "Daily 2026-10-23. Official site (Roosevelt Island Operating Corporation): opened 1976; operates year-round between Tramway Plaza on Roosevelt Island and East 60th St & Second Ave; 'iconic views of the East River and skyline'; standard MTA fares incl. OMNY, pay each way; Sun–Thu 6am–2am, Fri–Sat 6am–3:30am; every 7.5 min rush hour, 15 min otherwise. Photo: Wikimedia Commons 'Roosevelt Island Tramway half-way view towards Manhattan, 2021-10-01.jpg' by Jdforrester (CC BY 4.0), a cabin mid-crossing over Second Ave.",
+        "sources": [
+          "https://www.rioc.ny.gov/community/transportation/tram",
+          "https://commons.wikimedia.org/wiki/File:Roosevelt_Island_Tramway_half-way_view_towards_Manhattan,_2021-10-01.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -6721,6 +6843,104 @@
           "https://commons.wikimedia.org/wiki/File:Arturo%27s_Pizza_New_York_City.jpg"
         ]
       }
+    },
+    {
+      "id": "patsys-italian-restaurant",
+      "name": "Patsy's Italian Restaurant",
+      "area": "Midtown",
+      "vibe": "Run by the Scognamillo family since 1944, this theatre-district dining room on West 56th Street has had just three chefs, and Frank Sinatra made it famous. Regulars come back for the veal chop Siciliano, lobster fra diavolo and chicken contadina.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/patsys-italian-restaurant/01.webp",
+          "alt": "Patsy's Italian Restaurant"
+        }
+      ],
+      "website": "https://www.patsys.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-23",
+        "image_ok": true,
+        "notes": "Daily 2026-10-23. Official site: 236 W 56th St between Broadway and Eighth Ave; 'our one and only location'; founded 1944 by Pasquale 'Patsy' Scognamillo, in the building next to the original site since 1954; only three chefs (Patsy, son Joe, grandson Sal since 1988); 'A New York Landmark Made Famous By Frank Sinatra'; signature dishes Veal Chops Siciliano, Lobster Fra Diavolo, Chicken Contadina; Mon 4:30–9:30pm, Tue–Sun 12–9:30pm. Distinct from Patsy's Pizzeria. Photo: Wikimedia Commons \"Patsy's (55284021170).jpg\" by Ajay Suresh, May 2026 (CC BY 4.0), the 56th Street frontage.",
+        "sources": [
+          "https://www.patsys.com/",
+          "https://www.patsys.com/ourstory.html",
+          "https://commons.wikimedia.org/wiki/File:Patsy's_(55284021170).jpg"
+        ]
+      }
+    },
+    {
+      "id": "el-quijote",
+      "name": "El Quijote",
+      "area": "Chelsea",
+      "vibe": "The Spanish restaurant of the Hotel Chelsea has been on West 23rd Street since 1930. Tapas like pulpo adobado and croquetas de chorizo lead into seafood paella and grilled lobster with pimentón butter.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/el-quijote/01.webp",
+          "alt": "El Quijote"
+        }
+      ],
+      "website": "https://www.elquijotenyc.com/",
+      "instagram": "https://www.instagram.com/elquijotenyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-23",
+        "image_ok": true,
+        "notes": "Daily 2026-10-23. Official site: 'Restaurant · Cocktail Lounge · Desde 1930'; Hours & Location: Hotel Chelsea, New York, NY 10011, Sun–Thu 5–11pm, Fri–Sat 5pm–12am; Menus: Pulpo Adobado, Croquetas de Chorizo, Gambas al Ajillo, Paella de Mariscos, Bogavante Quijote (grilled lobster, pimentón butter, amontillado). Single location. Photo: Wikimedia Commons 'El Quijote NYC.jpg' by Transpoman, Dec 2023 (CC BY-SA 4.0), neon sign and frontage at 222 W 23rd St.",
+        "sources": [
+          "https://www.elquijotenyc.com/",
+          "https://www.elquijotenyc.com/location/el-quijote-restaurant/",
+          "https://www.elquijotenyc.com/menus/",
+          "https://commons.wikimedia.org/wiki/File:El_Quijote_NYC.jpg"
+        ]
+      }
+    },
+    {
+      "id": "sevilla",
+      "name": "Sevilla",
+      "area": "West Village",
+      "vibe": "Open since 1936 on the corner of Charles and West 4th, Sevilla calls itself the oldest Spanish restaurant in New York. The old tavern murals, original bar and carved wood ceilings are still in place, and there's no need to book.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sevilla/01.webp",
+          "alt": "Sevilla"
+        }
+      ],
+      "website": "https://sevillarestaurantandbar.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-23",
+        "image_ok": true,
+        "notes": "Daily 2026-10-23. Official site: 62 Charles St (corner of W 4th St); History page: Sevilla opened 1936 (Luis Fernandez and Alfonso Uchupi), run by Jose Lloves and Bienvenido Alvarez since 1972; 'the oldest Spaniard Restaurant in NY'; murals, original bar and wood-cut ceilings from the earlier 'Talk of the Town' tavern remain. Open Wed–Thu 1–9pm, Fri–Sat 1–10pm, Sun 1–9pm; no reservation required. Single location. Photo: Wikimedia Commons 'Sevilla NYC.jpg' by Transpoman, Apr 2024 (CC BY-SA 4.0), the Charles Street frontage.",
+        "sources": [
+          "https://sevillarestaurantandbar.com/",
+          "https://sevillarestaurantandbar.com/history",
+          "https://commons.wikimedia.org/wiki/File:Sevilla_NYC.jpg"
+        ]
+      }
+    },
+    {
+      "id": "le-gigot",
+      "name": "Le Gigot",
+      "area": "West Village",
+      "vibe": "A small Provençal bistro on Cornelia Street since 1996, with a petite zinc bar, banquettes and flowers. Chef Fernando Bravo cooks gigot d'agneau, bouillabaisse, duck confit and steak au poivre.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/le-gigot/01.webp",
+          "alt": "Le Gigot"
+        }
+      ],
+      "website": "https://www.legigotrestaurant.com/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-23",
+        "image_ok": true,
+        "notes": "Daily 2026-10-23. Official site: opened 1996, Provençal cuisine in the West Village; chef Fernando Bravo; dishes gigot d'agneau, boeuf bourguignon, bouillabaisse, duck confit, lapin, steak au poivre, daily specials incl. cassoulet; 'a petite zinc bar, banquettes, flowers'. Hours: dinner Wed–Sat 5–10pm, Sun 5–9pm; brunch Sat–Sun noon–3:30pm. Single location. Confidence 3: small static site. Photo: Wikimedia Commons 'Le Gigot, a Provençal restaurant, Cornelia Street, Greenwich Village, New York (31218704052).jpg' by Spencer Means, 2016 (CC BY-SA 2.0), the wrought-iron hanging sign over the yellow shopfront.",
+        "sources": [
+          "https://www.legigotrestaurant.com/hist.html",
+          "https://www.legigotrestaurant.com/hours.html",
+          "https://commons.wikimedia.org/wiki/File:Le_Gigot,_a_Provençal_restaurant,_Cornelia_Street,_Greenwich_Village,_New_York_(31218704052).jpg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -8921,6 +9141,31 @@
           "https://www.mariescrisiscafe.com/faq",
           "https://www.mariescrisiscafe.com/about",
           "https://commons.wikimedia.org/wiki/File:Marie%27s_Crisis_2023_jeh.jpg"
+        ]
+      }
+    },
+    {
+      "id": "dont-tell-mama",
+      "name": "Don't Tell Mama",
+      "area": "Theater District",
+      "vibe": "Since 1982 this Restaurant Row townhouse has packed a piano bar, a restaurant and two cabaret showrooms under one roof, with singing staff behind the bar. Liza Minnelli, Bette Midler and Stephen Sondheim have all come through the door.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/dont-tell-mama/01.webp",
+          "alt": "Don't Tell Mama"
+        }
+      ],
+      "website": "https://donttellmamanyc.com/",
+      "instagram": "https://www.instagram.com/donttellmamanewyorkcity",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-23",
+        "image_ok": true,
+        "notes": "Daily 2026-10-23. Official site: 343 W 46th St (Restaurant Row); established 1982; 'a veritable nightlife mall with four individual spaces: a piano bar, a restaurant and 2 separate cabaret showrooms'; world-famous singing and piano-playing staff; About page names Liza Minnelli, Bette Midler, Joan Rivers, Chita Rivera, Stephen Sondheim among visitors. Hours: Sun–Thu 5pm–2:30am, Fri–Sat 5pm–3:30am. Single venue. Photo: Wikimedia Commons \"Don't Tell Mama Restaurant 2008 Manhattan.jpg\" by Americasroof, 2008 (CC BY-SA 3.0), the stoop and 'piano bar/theater' awning (1200px source, downscaled).",
+        "sources": [
+          "https://donttellmamanyc.com/",
+          "https://donttellmamanyc.com/new-york-don-t-tell-mama-about",
+          "https://commons.wikimedia.org/wiki/File:Don't_Tell_Mama_Restaurant_2008_Manhattan.jpg"
         ]
       }
     }
