@@ -3636,6 +3636,131 @@
           "https://commons.wikimedia.org/wiki/File:Roosevelt_Island_Tramway_half-way_view_towards_Manhattan,_2021-10-01.jpg"
         ]
       }
+    },
+    {
+      "id": "quad-cinema",
+      "name": "Quad Cinema",
+      "area": "Greenwich Village",
+      "vibe": "Opened on West 13th Street in 1972 as the city's first multi-screen cinema, now reborn with four colour-themed auditoriums and 4K plus 35mm and 16mm projection. Masters of Horror runs through October, with Femme Noir from 2 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/quad-cinema/01.webp",
+          "alt": "Quad Cinema"
+        }
+      ],
+      "website": "https://quadcinema.com/",
+      "instagram": "https://www.instagram.com/quadcinema",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-26",
+        "image_ok": true,
+        "notes": "Daily 2026-10-26. Official site: 34 W 13th St; About page: opened Oct 18, 1972 as New York's first multi-screen theater; renovated auditoriums each with a unique colour scheme, 4K digital plus 35mm/16mm projection, Norwegian seats, 32-screen lobby video wall; general tickets $18. Programme: Masters of Horror (Oct 2–30), Femme Noir (Nov 2–26), Rocky Horror with shadow cast. Single venue. Photo: Wikimedia Commons 'DCL QuadCinema Final 2.jpg' by Tbergeron-dcl, 2018 (CC BY-SA 4.0), the 13th Street entrance and marquee.",
+        "sources": [
+          "https://quadcinema.com/",
+          "https://quadcinema.com/about/",
+          "https://commons.wikimedia.org/wiki/File:DCL_QuadCinema_Final_2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "paris-theater",
+      "name": "Paris Theater",
+      "area": "Midtown",
+      "vibe": "Manhattan's last single-screen cinema, a 535-seat arthouse beside the Plaza that Pathé opened in 1948. Netflix now runs it, and the concession sells French pastries from Pain d'Avignon.",
+      "images": [
+        {
+          "url": "/assets/opt/date/paris-theater/01.webp",
+          "alt": "Paris Theater"
+        }
+      ],
+      "website": "https://www.paristheaternyc.com/",
+      "instagram": "https://www.instagram.com/paristheaternyc",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-26",
+        "image_ok": true,
+        "notes": "Daily 2026-10-26. Official site: 4 W 58th St; About page: opened Sep 13, 1948, built by Pathé; Manhattan's only remaining single-screen movie theater, 535 seats; longest-running arthouse cinema in NYC; operated by Netflix since 2019; adult tickets $17; pastries from Pain d'Avignon. Single venue. Photo: Wikimedia Commons 'Paris Theater (48064048698).jpg' by Ajay Suresh, 2019 (CC BY 2.0), the marquee and glass frontage.",
+        "sources": [
+          "https://www.paristheaternyc.com/",
+          "https://www.paristheaternyc.com/about",
+          "https://commons.wikimedia.org/wiki/File:Paris_Theater_(48064048698).jpg"
+        ]
+      }
+    },
+    {
+      "id": "la-mama",
+      "name": "La MaMa",
+      "area": "East Village",
+      "vibe": "The off-off-Broadway pioneer Ellen Stewart started in a tenement basement in 1961, still staging experimental theatre on East 4th Street. Spiderwoman's Global Indigenous Theatre Festival runs 30 October to 7 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/la-mama/01.webp",
+          "alt": "La MaMa"
+        }
+      ],
+      "website": "https://lamama.org/",
+      "instagram": "https://www.instagram.com/lamamaetc",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-26",
+        "image_ok": true,
+        "notes": "Daily 2026-10-26. Official site: La MaMa Experimental Theatre Club, 74 E 4th St; founded 1961 by Ellen Stewart in a basement; About Ellen Stewart page on its off-off-Broadway history. Current programme: The Womb & The Web (Oct 26), The Greatest Story Ever (Oct 29–Nov 8), Spiderwoman's Global Indigenous Theatre Festival (Oct 30–Nov 7), A View From the Bridge from Nov 27. Single organisation on East 4th St. Photo: Wikimedia Commons 'La MaMa Experimental Theatre Club (51661012659).jpg' by Ajay Suresh, 2021 (CC BY 2.0), the red banners on the 74 E 4th St façade.",
+        "sources": [
+          "https://lamama.org/",
+          "https://lamama.org/about-ellen-stewart/",
+          "https://commons.wikimedia.org/wiki/File:La_MaMa_Experimental_Theatre_Club_(51661012659).jpg"
+        ]
+      }
+    },
+    {
+      "id": "cherry-lane-theatre",
+      "name": "Cherry Lane Theatre",
+      "area": "West Village",
+      "vibe": "A tiny theatre tucked down Commerce Street that the New York Times called 'the smallest stage in town' in 1930, now programmed with A24. This autumn brings Milo Cramer's hour-long School Pictures at 7pm and Two Girls at 9pm.",
+      "images": [
+        {
+          "url": "/assets/opt/date/cherry-lane-theatre/01.webp",
+          "alt": "Cherry Lane Theatre"
+        }
+      ],
+      "website": "https://cherrylanetheatre.org/",
+      "instagram": "https://www.instagram.com/cherrylanetheatre",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-26",
+        "image_ok": true,
+        "notes": "Daily 2026-10-26. Official site: 38 Commerce St; now operated with A24; About page quotes the NYT (1930) 'the smallest stage in town'. Current: School Pictures by Milo Cramer (1 hr, 7pm, Oct–Nov) and Two Girls (9pm, 18+). Single venue. Photo: Wikimedia Commons 'Cherry Lane Theatre (48072709003).jpg' by Ajay Suresh, 2019 (CC BY 2.0), the red doors, black awning and hanging sign.",
+        "sources": [
+          "https://cherrylanetheatre.org/",
+          "https://cherrylanetheatre.org/about",
+          "https://commons.wikimedia.org/wiki/File:Cherry_Lane_Theatre_(48072709003).jpg"
+        ]
+      }
+    },
+    {
+      "id": "city-reliquary",
+      "name": "The City Reliquary",
+      "area": "Williamsburg",
+      "vibe": "A community museum on Metropolitan Avenue that grew from Dave Herman's apartment window display in 2002, packed with Statue of Liberty postcards and old terracotta fragments. The current show celebrates 50 years of Manic Panic, open Thursday to Sunday from noon.",
+      "images": [
+        {
+          "url": "/assets/opt/date/city-reliquary/01.webp",
+          "alt": "The City Reliquary"
+        }
+      ],
+      "website": "https://www.cityreliquary.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-26",
+        "image_ok": true,
+        "notes": "Daily 2026-10-26. Official site: 370 Metropolitan Ave, Brooklyn; Visit page: Thu–Sun 12–6pm; About page: not-for-profit community museum, began 2002 as founder Dave Herman's apartment window display, moved to the storefront in 2006; collection incl. Statue of Liberty postcards and terracotta fragments. Current exhibition 'Still Manic After All These Years: 50 Years of Manic Panic'. Single venue. Photo: Wikimedia Commons 'City Reliquary (57305).jpg' by Rhododendrites, 2019 (CC BY-SA 4.0), the shopfront.",
+        "sources": [
+          "https://www.cityreliquary.org/",
+          "https://www.cityreliquary.org/visit-the-museum/",
+          "https://www.cityreliquary.org/about/",
+          "https://commons.wikimedia.org/wiki/File:City_Reliquary_(57305).jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -6939,6 +7064,106 @@
           "https://www.legigotrestaurant.com/hist.html",
           "https://www.legigotrestaurant.com/hours.html",
           "https://commons.wikimedia.org/wiki/File:Le_Gigot,_a_Provençal_restaurant,_Cornelia_Street,_Greenwich_Village,_New_York_(31218704052).jpg"
+        ]
+      }
+    },
+    {
+      "id": "wallse",
+      "name": "Wallsé",
+      "area": "West Village",
+      "vibe": "Kurt Gutenbrunner's contemporary Austrian flagship on a West Village corner, with modern minimalist rooms. Order the Wiener schnitzel with potato-cucumber salad and lingonberries, or the beef goulash.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/wallse/01.webp",
+          "alt": "Wallsé"
+        }
+      ],
+      "website": "https://www.wallse.com/",
+      "instagram": "http://instagram.com/wallsenewyork",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-26",
+        "image_ok": true,
+        "notes": "Daily 2026-10-26. Official site: 344 W 11th St; chef Kurt Gutenbrunner's flagship; contemporary Austrian cuisine, modern minimalist interiors; dinner Mon–Sat from 5pm. Dinner menu: Wiener schnitzel with potato-cucumber salad and lingonberries, lobster soup, seared halibut with chanterelles, beef goulash. Single location. Photo: Wikimedia Commons 'Wallsé NYC.jpg' by Transpoman, 2024 (CC BY-SA 4.0), the corner frontage.",
+        "sources": [
+          "https://www.wallse.com/",
+          "https://www.wallse.com/menus/dinner",
+          "https://commons.wikimedia.org/wiki/File:Wallsé_NYC.jpg"
+        ]
+      }
+    },
+    {
+      "id": "lido-harlem",
+      "name": "Lido",
+      "area": "Harlem",
+      "vibe": "A 70-seat Italian room on Harlem's Restaurant Row, named after the Lido di Venezia and lined with green leather banquettes. Chef Serena Bass makes everything in-house, from squid-ink linguini with scallops to truffle gnocchi.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/lido-harlem/01.webp",
+          "alt": "Lido"
+        }
+      ],
+      "website": "https://lidoharlem.com/",
+      "instagram": "https://www.instagram.com/lidoharlem",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-26",
+        "image_ok": true,
+        "notes": "Daily 2026-10-26. Official site: 2168 Frederick Douglass Blvd; About page: seats 70, green leather banquettes, named after Lido di Venezia; chef Serena Bass (James Beard award-winning author); everything made in-house. Dinner Sun–Thu 4:30–10pm, Fri–Sat 4:30–11pm. Food menu: squid-ink linguini with scallops and shrimp, truffle gnocchi, veal meatball spaghetti, branzino. Single location. Photo: Wikimedia Commons 'Lido Harlem.jpg' by Paul Lowry, 2026 (CC BY 4.0), the painted blue sign wall and entrance.",
+        "sources": [
+          "https://lidoharlem.com/",
+          "https://lidoharlem.com/about",
+          "https://lidoharlem.com/food-menu",
+          "https://commons.wikimedia.org/wiki/File:Lido_Harlem.jpg"
+        ]
+      }
+    },
+    {
+      "id": "pasquales-rigoletto",
+      "name": "Pasquale's Rigoletto",
+      "area": "Belmont",
+      "vibe": "A Southern Italian dining room on Arthur Avenue for over 30 years, cooking with produce from the street's own merchants. Saturday nights bring live singers and oldies alongside the vongole oreganate.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/pasquales-rigoletto/01.webp",
+          "alt": "Pasquale's Rigoletto"
+        }
+      ],
+      "website": "https://www.pasqualesrigoletto.com/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-26",
+        "image_ok": true,
+        "notes": "Daily 2026-10-26. Official site: 2311 Arthur Ave at Crescent Ave, Bronx; About page: Southern Italian cuisine for over 30 years using ingredients from Arthur Avenue merchants; Saturday page: live singers on Saturday nights (oldies and folk songs, Artie on keyboards). Hours Tue–Thu 12–9pm, Fri to 9:30pm, Sat to 10:30pm, Sun to 9pm. Dinner menu incl. vongole oreganate, spiedino alla Romana. Single location. Confidence 3: small older static site. Photo: Wikimedia Commons 'Arthur Avenue 37 - Pasquale's.jpg' by Joe Mabel, 2026 (CC BY-SA 4.0), the red awning and blade sign at 2311.",
+        "sources": [
+          "https://www.pasqualesrigoletto.com/",
+          "https://www.pasqualesrigoletto.com/about.html",
+          "https://www.pasqualesrigoletto.com/saturday.html",
+          "https://commons.wikimedia.org/wiki/File:Arthur_Avenue_37_-_Pasquale's.jpg"
+        ]
+      }
+    },
+    {
+      "id": "sushi-yasuda",
+      "name": "Sushi Yasuda",
+      "area": "Midtown East",
+      "vibe": "A classical sushi restaurant on East 43rd Street since 1999, serving omakase at the bar or at tables. Dinner runs Monday to Saturday, and it is closed on Sundays.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sushi-yasuda/01.webp",
+          "alt": "Sushi Yasuda"
+        }
+      ],
+      "website": "https://sushiyasuda.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-26",
+        "image_ok": true,
+        "notes": "Daily 2026-10-26. Official site: 204 E 43rd St; Information page: opened end of 1999, founded by Naomichi Yasuda, Shige Akimoto and Scott Rosenberg; classical sushi, omakase at the bar or tables; lunch Mon–Fri 12–3pm, dinner Mon–Fri 6–11pm, Sat 5–11pm, closed Sun. Reopened after a temporary closure caused by a neighbouring building. Single location. Photo: Wikimedia Commons 'Sushi Yasuda.JPG' by Thomas Craven, 2013 (CC BY-SA 3.0), the sushi bar and chefs.",
+        "sources": [
+          "https://sushiyasuda.com/",
+          "https://sushiyasuda.com/information.html",
+          "https://commons.wikimedia.org/wiki/File:Sushi_Yasuda.JPG"
         ]
       }
     }
