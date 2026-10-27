@@ -3761,6 +3761,154 @@
           "https://commons.wikimedia.org/wiki/File:City_Reliquary_(57305).jpg"
         ]
       }
+    },
+    {
+      "id": "symphony-space",
+      "name": "Symphony Space",
+      "area": "Upper West Side",
+      "vibe": "An Upper West Side arts centre at Broadway and 95th Street, home of the Selected Shorts readings and the Thalia Book Club. The autumn bill runs from a Grey Gardens 20th-anniversary night on 5 November to Coltrane 100 on 20 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/symphony-space/01.webp",
+          "alt": "Symphony Space"
+        }
+      ],
+      "website": "https://www.symphonyspace.org/",
+      "instagram": "https://www.instagram.com/symphonyspace",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-27",
+        "image_ok": true,
+        "notes": "Daily 2026-10-27. Official site: 2537 Broadway at 95th St; box office Tue–Sun 1–6pm and one hour before shows. Programme: Tony Shalhoub & Josie Adams (Oct 27), Thalia Book Club (Nov 2), Grey Gardens 20th Anniversary Celebration (Nov 5), Selected Shorts: The Most of Nora Ephron (Nov 18), Coltrane 100 (Nov 20), At Play: His Girl Friday (Dec 2). Single venue. Photo: Wikimedia Commons 'Symphony Space (55466563839).jpg' by Ajay Suresh, 2026 (CC BY 4.0), the Broadway corner marquee.",
+        "sources": [
+          "https://www.symphonyspace.org/",
+          "https://www.symphonyspace.org/about",
+          "https://commons.wikimedia.org/wiki/File:Symphony_Space_(55466563839).jpg"
+        ]
+      }
+    },
+    {
+      "id": "lucille-lortel-theatre",
+      "name": "Lucille Lortel Theatre",
+      "area": "West Village",
+      "vibe": "An Off-Broadway playhouse on Christopher Street, in continuous operation since 1955, when it was still called the Theatre de Lys. Its opening hit, The Threepenny Opera with Lotte Lenya, ran for almost seven years.",
+      "images": [
+        {
+          "url": "/assets/opt/date/lucille-lortel-theatre/01.webp",
+          "alt": "Lucille Lortel Theatre"
+        }
+      ],
+      "website": "https://lortel.org/",
+      "instagram": "https://www.instagram.com/lorteltheatre",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-27",
+        "image_ok": true,
+        "notes": "Daily 2026-10-27. Official site: 121 Christopher St; History page: in continuous operation as an Off-Broadway playhouse since 1955, known as the Theatre De Lys until renamed in 1981; The Threepenny Opera with Lotte Lenya opened Sep 20, 1955 and ran for almost seven years. Single venue. Photo: Wikimedia Commons 'Lucille Lortel Theatre.jpg' by Beyond My Ken, 2013 (CC BY-SA 4.0), the marquee and entrance.",
+        "sources": [
+          "https://lortel.org/",
+          "https://lortel.org/history/",
+          "https://lortel.org/visit/",
+          "https://commons.wikimedia.org/wiki/File:Lucille_Lortel_Theatre.jpg"
+        ]
+      }
+    },
+    {
+      "id": "theatre-for-a-new-audience",
+      "name": "Theatre for a New Audience",
+      "area": "Fort Greene",
+      "vibe": "The company's Polonsky Shakespeare Center on Ashland Place, designed by Hugh Hardy and opened in 2013. It was the first New York theatre built expressly for classic drama since Lincoln Center's Vivian Beaumont in the 1960s.",
+      "images": [
+        {
+          "url": "/assets/opt/date/theatre-for-a-new-audience/01.webp",
+          "alt": "Theatre for a New Audience"
+        }
+      ],
+      "website": "https://tfana.org/",
+      "instagram": "https://www.instagram.com/theatreforanewa",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-27",
+        "image_ok": true,
+        "notes": "Daily 2026-10-27. Official site: Polonsky Shakespeare Center, 262 Ashland Place (between Fulton St and Lafayette Ave), Brooklyn; About page: opened 2013 as the company's first home, designed by Hugh Hardy / H3 Hardy Collaboration Architecture, first theatre in NY designed and built for classic drama since the Vivian Beaumont; $20 New Deal tickets. 2026/27 season on sale with performances Nov–Dec. Single venue. Photo: Wikimedia Commons 'Theatre for a New Audience (52302250636).jpg' by Ajay Suresh, 2022 (CC BY 2.0), the glass façade.",
+        "sources": [
+          "https://tfana.org/",
+          "https://tfana.org/about/polonsky-shakespeare-center",
+          "https://commons.wikimedia.org/wiki/File:Theatre_for_a_New_Audience_(52302250636).jpg"
+        ]
+      }
+    },
+    {
+      "id": "playwrights-horizons",
+      "name": "Playwrights Horizons",
+      "area": "Theater District",
+      "vibe": "A writer's theatre on West 42nd Street that has spent 55 years premiering new American plays and musicals across its two stages. HOLE!, billed as an epic, ungodly musical love story, began performances on 21 October.",
+      "images": [
+        {
+          "url": "/assets/opt/date/playwrights-horizons/01.webp",
+          "alt": "Playwrights Horizons"
+        }
+      ],
+      "website": "https://www.playwrightshorizons.org/",
+      "instagram": "https://www.instagram.com/playwrightshorizons",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-27",
+        "image_ok": true,
+        "notes": "Daily 2026-10-27. Official site: 416 W 42nd St; About page: a writer's theater with a 55-year mission to develop contemporary American playwrights, a season of World, American or New York premieres on two stages. Current: HOLE! (from Oct 21), the ripple, the wave that carried me home (closes Nov 8), Degenerates; upcoming Wold Meteor, The Annunciation, Feast of Rabbits. Single venue. Photo: Wikimedia Commons 'Playwrights Horizons (55283801874).jpg' by Ajay Suresh, 2026 (CC BY 4.0), the 42nd Street façade.",
+        "sources": [
+          "https://www.playwrightshorizons.org/",
+          "https://www.playwrightshorizons.org/about",
+          "https://commons.wikimedia.org/wiki/File:Playwrights_Horizons_(55283801874).jpg"
+        ]
+      }
+    },
+    {
+      "id": "92ny",
+      "name": "92NY",
+      "area": "Upper East Side",
+      "vibe": "The 92nd Street Y on Lexington Avenue, whose Unterberg Poetry Center staged the premiere of Dylan Thomas's Under Milk Wood. Sō Percussion plays Steve Reich's Drumming on 28 October, and Les Arts Florissants visit on 11 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/92ny/01.webp",
+          "alt": "92NY"
+        }
+      ],
+      "website": "https://www.92ny.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-27",
+        "image_ok": true,
+        "notes": "Daily 2026-10-27. Official site: The 92nd Street Y, New York, 1395 Lexington Ave (91st–92nd St); Unterberg Poetry Center text: 'Dylan Thomas told his actors before we presented the premiere of Under Milk Wood'; Harkness Dance Center founded 1935. Programme: Sō Percussion: Steve Reich's Drumming (Oct 28), Les Arts Florissants (Nov 11), Recanati-Kaplan Talks. Single venue (the site's direct fetch is behind Incapsula; read via the fetch tool). Photo: Wikimedia Commons '92Y (48059227562).jpg' by Ajay Suresh, 2019 (CC BY 2.0), the Lexington Avenue entrance with flags.",
+        "sources": [
+          "https://www.92ny.org/",
+          "https://commons.wikimedia.org/wiki/File:92Y_(48059227562).jpg"
+        ]
+      }
+    },
+    {
+      "id": "baryshnikov-arts-center",
+      "name": "Baryshnikov Arts Center",
+      "area": "Hudson Yards",
+      "vibe": "A performing arts centre on West 37th Street staging new dance, theatre and music. In Conversation with Merce brings Cunningham's RainForest back from 19 to 21 November, and jazz pianist Sullivan Fortner plays solo on 17 December.",
+      "images": [
+        {
+          "url": "/assets/opt/date/baryshnikov-arts-center/01.webp",
+          "alt": "Baryshnikov Arts Center"
+        }
+      ],
+      "website": "https://baryshnikovarts.org/",
+      "instagram": "https://www.instagram.com/baryshnikovartscenter",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-27",
+        "image_ok": true,
+        "notes": "Daily 2026-10-27. Official site (bacnyc.org redirects here): 450 W 37th St; Fall 2026: As if everything was perfect (Nov 12–13), In Conversation with Merce: New RainForest(s) (Nov 19–21), Toad Mountain (Dec 11–12), Alpha Centauri (Dec 15–16), Sullivan Fortner solo piano (Dec 17); Spring 2027 Perfume Genius & Kate Wallich, The Lesson. Single venue. Photo: Wikimedia Commons 'Baryshnikov Arts Center 2025 jeh.jpg' by Jim.henderson, 2025 (CC BY-SA 4.0), the 37th Street façade.",
+        "sources": [
+          "https://baryshnikovarts.org/",
+          "https://commons.wikimedia.org/wiki/File:Baryshnikov_Arts_Center_2025_jeh.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -7166,6 +7314,56 @@
           "https://commons.wikimedia.org/wiki/File:Sushi_Yasuda.JPG"
         ]
       }
+    },
+    {
+      "id": "petes-tavern",
+      "name": "Pete's Tavern",
+      "area": "Gramercy",
+      "vibe": "On Irving Place since 1864, Pete's calls itself the oldest continuously operating restaurant and bar in NYC, and O. Henry wrote The Gift of the Magi in its second booth. The dining menu runs to veal stroganoff, chicken pot pie and spaghetti with Pete's meatballs.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/petes-tavern/01.webp",
+          "alt": "Pete's Tavern"
+        }
+      ],
+      "website": "https://www.petestavern.com/",
+      "instagram": "https://www.instagram.com/petestavernnyc",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-27",
+        "image_ok": true,
+        "notes": "Daily 2026-10-27. Official site: E 18th St & Irving Place, Gramercy; home page: oldest continuously operating restaurant and bar in NYC, since 1864, elevated American comfort food; Our History page: O. Henry wrote 'The Gift of the Magi' in the second booth in 1903, open through Prohibition, outdoor café dating to the early 1950s. Dining menu: veal stroganoff, chicken pot pie, spaghetti & meatballs, steak frites, honeynut squash soup. Single location. Photo: Wikimedia Commons 'Pete's Tavern (51708610272).jpg' by Ajay Suresh, 2021 (CC BY 2.0), the corner frontage and signs.",
+        "sources": [
+          "https://www.petestavern.com/",
+          "https://www.petestavern.com/ourhistory",
+          "https://www.petestavern.com/all-day-menu",
+          "https://commons.wikimedia.org/wiki/File:Pete's_Tavern_(51708610272).jpg"
+        ]
+      }
+    },
+    {
+      "id": "marios-arthur-avenue",
+      "name": "Mario's Restaurant",
+      "area": "Belmont",
+      "vibe": "Classic Italian cooking on the Bronx's Arthur Avenue since 1919, with a private room for up to 50. Order the clams oreganata, the veal saltimbocca or the homemade lasagna.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/marios-arthur-avenue/01.webp",
+          "alt": "Mario's Restaurant"
+        }
+      ],
+      "website": "https://mariosarthurave.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-27",
+        "image_ok": true,
+        "notes": "Daily 2026-10-27. Official site: Mario's Restaurant of Arthur Avenue, 2342 Arthur Ave, Bronx; 'Classic Italian Dining Since 1919'; one private room for up to 50; valet Fri–Sat from 4:30pm and Sun from noon; opens Tuesday 11:30am. Menu: clams oreganata, spiedini alla Romana, homemade lasagna and manicotti, veal saltimbocca, zuppa di pesce. Single location (note: mariosrestarthurave.com is an unrelated spam domain, not used). Direct curl returns 403; read via the fetch tool. Photo: Wikimedia Commons 'Mario's interior.jpg' by Brooks patty, 2026 (CC BY-SA 4.0), the dining room with arches and paintings.",
+        "sources": [
+          "https://mariosarthurave.com/",
+          "https://mariosarthurave.com/menu",
+          "https://commons.wikimedia.org/wiki/File:Mario's_interior.jpg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -9391,6 +9589,55 @@
           "https://donttellmamanyc.com/",
           "https://donttellmamanyc.com/new-york-don-t-tell-mama-about",
           "https://commons.wikimedia.org/wiki/File:Don't_Tell_Mama_Restaurant_2008_Manhattan.jpg"
+        ]
+      }
+    },
+    {
+      "id": "industry-bar",
+      "name": "Industry",
+      "area": "Hell's Kitchen",
+      "vibe": "A Hell's Kitchen gay bar on West 52nd Street, open every day from 5pm until 4am. Drag shows and DJs start around 11pm nightly, from Brenda Dharling's QUEEN on Thursdays to DJ Max Rodriguez on Saturdays.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/industry-bar/01.webp",
+          "alt": "Industry"
+        }
+      ],
+      "website": "https://www.industry-bar.com/",
+      "instagram": "http://instagram.com/industrybarnyc",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-27",
+        "image_ok": true,
+        "notes": "Daily 2026-10-27. Official site: 355 W 52nd St; open daily 5pm–4am; weekly entertainment nightly from around 11pm: Sun The Kizha Carr Show, Mon Spotlight Mondays, Tue Star Search, Wed Pixie's Big Adventure, Thu QUEEN hosted by Brenda Dharling, Fri DJ Nesto, Sat DJ Max Rodriguez; Miss Big Adam's Apple pageant Nov 15. The site mentions sister bars in Chelsea under other names; this is the only Industry. Photo: Wikimedia Commons 'Industry entrance.jpg' by Armadillopteryx, 2020 (CC0), the lit windows and door at night; no sign is visible in frame.",
+        "sources": [
+          "https://www.industry-bar.com/",
+          "https://commons.wikimedia.org/wiki/File:Industry_entrance.jpg"
+        ]
+      }
+    },
+    {
+      "id": "sunnys-bar",
+      "name": "Sunny's Bar",
+      "area": "Red Hook",
+      "vibe": "A Red Hook bar on Conover Street with live music from 8 to 10pm every night except Mondays. It is open seven days a week, from noon at weekends.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/sunnys-bar/01.webp",
+          "alt": "Sunny's Bar"
+        }
+      ],
+      "website": "https://www.sunnysredhook.com/",
+      "instagram": "https://www.instagram.com/sunnysbarofficial",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-27",
+        "image_ok": true,
+        "notes": "Daily 2026-10-27. Official site: 253 Conover St, Brooklyn; Hours & Location page: open seven days, Mon–Tue 3pm–midnight, Wed–Thu 3pm–1am, Fri 2pm–1am, Sat noon–1am, Sun noon–midnight; live music 8–10pm every night except Mondays. Single venue. Confidence 3: thin official site (hours and music times only); previously held for no photo, now has a 2026 Commons photo. Photo: Wikimedia Commons 'Sunny's Bar Entrance.jpg' by Tessa Bury, 2026 (CC BY 4.0), the awning, door and painted wall.",
+        "sources": [
+          "https://www.sunnysredhook.com/",
+          "https://www.sunnysredhook.com/location/sunnys-bar/",
+          "https://commons.wikimedia.org/wiki/File:Sunny's_Bar_Entrance.jpg"
         ]
       }
     }
