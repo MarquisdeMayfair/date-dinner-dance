@@ -4085,6 +4085,136 @@
           "https://commons.wikimedia.org/wiki/File:Society_of_Illustrators_(48064102492).jpg"
         ]
       }
+    },
+    {
+      "id": "mcc-theater",
+      "name": "MCC Theater",
+      "area": "Hell's Kitchen",
+      "vibe": "Founded in 1986 by a collective of young actors, writers and directors, MCC now has its first permanent home on West 52nd Street, with the 245-seat Newman Mills Theater and a 100-seat black box. Anon plays until 1 November, and The Heart Sellers is next.",
+      "images": [
+        {
+          "url": "/assets/opt/date/mcc-theater/01.webp",
+          "alt": "MCC Theater"
+        }
+      ],
+      "website": "https://mcctheater.org/",
+      "instagram": "https://www.instagram.com/mcctheater",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-29",
+        "image_ok": true,
+        "notes": "Daily 2026-10-29. Official site: The Robert W. Wilson MCC Theater Space, 511 W 52nd St; Who We Are: founded 1986 as Manhattan Class Company, a collective of young actors, writers and directors; Space page: first permanent home, 245-seat Newman Mills Theater and 100-seat Susan & Ronald Frankel black box, lobby bar. Homepage: ANON performing through Nov 1; THE HEART SELLERS priority booking from Nov 10; box office opens 2 hours before each performance. Single venue. Photo: Wikimedia Commons 'MCC Theater 511 W52 St 2023 jeh.jpg' by Jim.henderson, 2023 (CC BY-SA 4.0), the entrance and canopy.",
+        "sources": [
+          "https://mcctheater.org/",
+          "https://mcctheater.org/who-we-are/",
+          "https://mcctheater.org/the-robert-w-wilson-mcc-theater-space",
+          "https://commons.wikimedia.org/wiki/File:MCC_Theater_511_W52_St_2023_jeh.jpg"
+        ]
+      }
+    },
+    {
+      "id": "vineyard-theatre",
+      "name": "Vineyard Theatre",
+      "area": "Union Square",
+      "vibe": "An Off-Broadway house on East 15th Street that has premiered new plays and musicals off Union Square for more than three decades. Ms. Blakk for President, by Tarell Alvin McCraney and Tina Landau, runs from 22 October to 29 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/vineyard-theatre/01.webp",
+          "alt": "Vineyard Theatre"
+        }
+      ],
+      "website": "https://vineyardtheatre.org/",
+      "instagram": "https://www.instagram.com/vineyardtheatre",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-29",
+        "image_ok": true,
+        "notes": "Daily 2026-10-29. Official site: 108 East 15th Street (Visit page: in Union Square for three decades). About: opened 1982 as a multi-art chamber theatre on East 26th St, moved to Union Square seven years later; premieres three new works each season. Homepage: MS. BLAKK FOR PRESIDENT (McCraney & Landau, dir. Tina Landau) Oct 22–Nov 29; PETRA (Half Straddle, dir. Tina Satter) begins Feb 2027. Single venue. Photo: official site (vineyardtheatre.org Visit page, IMG_1502), the 15th Street façade with the Vineyard Theatre sign and 'Fearlessly Made in New York' banner; no Commons photo of the building found.",
+        "sources": [
+          "https://vineyardtheatre.org/",
+          "https://vineyardtheatre.org/about/",
+          "https://vineyardtheatre.org/visit/"
+        ]
+      }
+    },
+    {
+      "id": "classic-stage-company",
+      "name": "Classic Stage Company",
+      "area": "East Village",
+      "vibe": "Since 1973 the company has played in an intimate former carriage house on East 13th Street, reimagining the classics up close. Steven Pasquale directs Clifford Odets' Waiting for Lefty, with live music and movement, until 22 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/classic-stage-company/01.webp",
+          "alt": "Classic Stage Company"
+        }
+      ],
+      "website": "https://www.classicstage.org/",
+      "instagram": "https://www.instagram.com/classicstage",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-29",
+        "image_ok": true,
+        "notes": "Daily 2026-10-29. Official site: Mission and History: founded 1967 by Christopher Martin; moved in 1973 to its present premises on 13th Street, an intimate space that was formerly an East Village carriage house; 'epic stories intimately told'. Homepage: Clifford Odets' WAITING FOR LEFTY, dir. Steven Pasquale, music by Yeller Tooth, choreography by Susan Misner, Oct 15–Nov 22, 2026. Box office Tue–Sat 12–7pm, Sun 12–2pm. Address 136 E 13th St (per Commons description). Single venue. Photo: Wikimedia Commons 'Classic Stage Company (51709398691).jpg' by Ajay Suresh, 2021 (CC BY 2.0), the CSC frontage with blue sign.",
+        "sources": [
+          "https://www.classicstage.org/",
+          "https://www.classicstage.org/mission-and-history/",
+          "https://www.classicstage.org/box-office-information/",
+          "https://commons.wikimedia.org/wiki/File:Classic_Stage_Company_(51709398691).jpg"
+        ]
+      }
+    },
+    {
+      "id": "new-victory-theater",
+      "name": "New Victory Theater",
+      "area": "Times Square",
+      "vibe": "New York City's oldest operating theatre, on West 42nd Street, has staged shows for kids and families since 1995 across three levels of seating. STREB's action heroes fall, flip and fly from 14 to 29 November, then Cirque Mechanics brings Tilt!, an '80s circus thrill ride.",
+      "images": [
+        {
+          "url": "/assets/opt/date/new-victory-theater/01.webp",
+          "alt": "New Victory Theater"
+        }
+      ],
+      "website": "https://www.newvictory.org/",
+      "instagram": "https://www.instagram.com/newvictorytheater",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-29",
+        "image_ok": true,
+        "notes": "Daily 2026-10-29. Official site: 209 W 42nd Street; Visit page: 'New York City's oldest operating theater', three levels of seating (Orchestra, Mezzanine, Balcony); About: bringing kids to the arts since 1995, powered by nonprofit New 42 (2025 Tony Honor). Programme: DO NOT TRY THIS AT HOME (STREB Extreme Action, Nov 14–29, 2026), Tilt! An '80s Circus Thrill Ride (Cirque Mechanics, Dec 5–Jan 3), The Sorcerer's Apprentice, The Mo & Co. Show!. Family/date crossover card. Photo: Wikimedia Commons 'New Victory Theater (48296064687).jpg' by Ajay Suresh, 2019 (CC BY 2.0), the façade under the NEW VICTORY sign.",
+        "sources": [
+          "https://www.newvictory.org/",
+          "https://www.newvictory.org/about",
+          "https://www.newvictory.org/visit",
+          "https://commons.wikimedia.org/wiki/File:New_Victory_Theater_(48296064687).jpg"
+        ]
+      }
+    },
+    {
+      "id": "pioneer-works",
+      "name": "Pioneer Works",
+      "area": "Red Hook",
+      "vibe": "An artist- and scientist-led cultural centre spread over three floors of a 19th-century Red Hook building, with studios, a garden and a soaring main hall, most of it free. Second Sundays opens the whole place up on 8 November with open studios, live music and food.",
+      "images": [
+        {
+          "url": "/assets/opt/date/pioneer-works/01.webp",
+          "alt": "Pioneer Works"
+        }
+      ],
+      "website": "https://pioneerworks.org/",
+      "instagram": "https://www.instagram.com/pioneerworks",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-29",
+        "image_ok": true,
+        "notes": "Daily 2026-10-29. Official site: 159 Pioneer Street, Red Hook; galleries and garden open Wed–Sun 12–6pm; About: nonprofit cultural center for art, music, science and technology, three floors of studio, performance and exhibition space plus garden, majority of programs free; Visit: 19th-century building, $12.7m accessibility renovation finished early 2025. Programme: Second Sundays: November 2026 (Sun Nov 8, 12–6pm, free, open studios, exhibitions, live music, food); exhibitions incl. Finnegan Shannon, LaJune McMillian, Tuomas A. Laitinen. Single venue. Photo: Wikimedia Commons 'Main Hall at Pioneer Works 2.jpg' by Taylornelson, 2011 (CC BY-SA 3.0), the timber-trussed main hall during an exhibition.",
+        "sources": [
+          "https://pioneerworks.org/",
+          "https://pioneerworks.org/about",
+          "https://pioneerworks.org/visit",
+          "https://pioneerworks.org/programs/second-sundays-november-2026",
+          "https://commons.wikimedia.org/wiki/File:Main_Hall_at_Pioneer_Works_2.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -7590,6 +7720,57 @@
           "https://commons.wikimedia.org/wiki/File:Neir's_Tavern_20190208_03.jpg"
         ]
       }
+    },
+    {
+      "id": "the-musket-room",
+      "name": "The Musket Room",
+      "area": "Nolita",
+      "vibe": "A Michelin-starred Elizabeth Street dining room of intimate nooks, a long bar and a lush garden, where the menu now leans into Louisiana. Think oysters three ways, trout almondine with brown butter, and a quail and andouille gumbo.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/the-musket-room/01.webp",
+          "alt": "The Musket Room"
+        }
+      ],
+      "website": "https://www.musketroom.com/",
+      "instagram": "https://instagram.com/musketroom",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-29",
+        "image_ok": true,
+        "notes": "Daily 2026-10-29. Official site: 265 Elizabeth Street; About: opened 2013, retained a Michelin star for a decade; chef's prix fixe plus seasonal à la carte; intimate nooks, a long cocktail bar and lush outdoor garden; Executive Chef Mary Attea, Chef de Cuisine Noah Ponjuan (Louisiana roots); Elizabeth Street Hospitality's first restaurant. Menu: oysters three ways, trout almondine (cauliflower, brown butter), quail & andouille gumbo, pork belly with grits and redeye gravy, eggplant purloo, chef's choice menu $135. Single venue. Photo: official site (getbento 'Interior_4'), the dining room with whitewashed brick wall and blue banquettes; no Commons photo found.",
+        "sources": [
+          "https://www.musketroom.com/",
+          "https://www.musketroom.com/about/",
+          "https://www.musketroom.com/menus/"
+        ]
+      }
+    },
+    {
+      "id": "peasant",
+      "name": "Peasant",
+      "area": "Nolita",
+      "vibe": "Every morning the cooks light a fire: Marc Forgione's Peasant cooks Italian over live flame and in a brick wood oven, with pastas made in-house daily. Frank DeCarlo built much of the brick-lined room by hand when it opened in 1999.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/peasant/01.webp",
+          "alt": "Peasant"
+        }
+      ],
+      "website": "https://www.peasantnyc.com/",
+      "instagram": "https://www.instagram.com/peasantnyc",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-29",
+        "image_ok": true,
+        "notes": "Daily 2026-10-29. Official site: 194 Elizabeth St; open Sun–Thu 5–9pm, Fri–Sat 5–10pm; About: Italian by Chef Marc Forgione, handmade pastas and wood-fired dishes; originally opened 1999, Chef Frank DeCarlo built much of Peasant with his own two hands; focus on cooking with live fire and smoke; pastas made daily in-house; quote 'Every morning we light a fire and start cooking.' Menu: whole pig dinner, kale Caesar, prosciutto with ricotta. Single venue (Respect Hospitality). Photo: official site ('kitchen_from_dining_room_web'), the brick-walled dining room looking into the open kitchen and wood oven; no Commons photo found.",
+        "sources": [
+          "https://www.peasantnyc.com/",
+          "https://www.peasantnyc.com/about/",
+          "https://www.peasantnyc.com/location/peasant/",
+          "https://www.peasantnyc.com/menus/"
+        ]
+      }
     }
   ],
   "dance": [
@@ -9864,6 +10045,30 @@
           "https://www.sunnysredhook.com/",
           "https://www.sunnysredhook.com/location/sunnys-bar/",
           "https://commons.wikimedia.org/wiki/File:Sunny's_Bar_Entrance.jpg"
+        ]
+      }
+    },
+    {
+      "id": "cmon-everybody",
+      "name": "C’mon Everybody",
+      "area": "Bed-Stuy",
+      "vibe": "A queer-owned bar, music venue and live arts space on Franklin Avenue, founded in 2014 to give LGBTQ and QTPOC performers a stage. The bar is open seven nights a week from 5pm until late, with booths for when the dance floor needs a break.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/cmon-everybody/01.webp",
+          "alt": "C’mon Everybody"
+        }
+      ],
+      "website": "https://www.cmoneverybody.com/",
+      "instagram": "https://www.instagram.com/cmoneverybodybk",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-29",
+        "image_ok": true,
+        "notes": "Daily 2026-10-29. Official site: 325 Franklin Ave, Brooklyn; hours Mon–Sun 5pm–late; 'queer owned & operated bar and venue', booths, house cocktails; Our Story: founded 2014 in Bed Stuy as a queer owned and operated bar, music venue and live arts space to amplify LGBTQ/QTPOC creative voices. Events page is a dynamic calendar (not readable in fetch). Single venue. Photo: official site (Squarespace image-asset, a packed dance floor during a night at the venue); no Commons photo found; crowd shot, faces visible.",
+        "sources": [
+          "https://www.cmoneverybody.com/",
+          "https://cmoneverybody.com/ourstory"
         ]
       }
     }
