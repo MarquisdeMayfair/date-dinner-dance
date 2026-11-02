@@ -4215,6 +4215,270 @@
           "https://commons.wikimedia.org/wiki/File:Main_Hall_at_Pioneer_Works_2.jpg"
         ]
       }
+    },
+    {
+      "id": "ars-nova",
+      "name": "Ars Nova",
+      "area": "Hell's Kitchen",
+      "vibe": "Since 2002 this West 54th Street company has been a launchpad for adventurous new theatre, music and comedy; Natasha, Pierre & The Great Comet of 1812 started here. Early November brings Showgasm, Mudhole and The Real Housewives of NYC: An Unauthorized Opera.",
+      "images": [
+        {
+          "url": "/assets/opt/date/ars-nova/01.webp",
+          "alt": "Ars Nova"
+        }
+      ],
+      "website": "https://arsnovanyc.com/",
+      "instagram": "https://www.instagram.com/arsnovanyc",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-30",
+        "image_ok": true,
+        "notes": "Daily 2026-10-30. Official site: Ars Nova at 511 W 54th St; About/History: founded 2002, champions emerging artists in theatre, comedy and music; Great Comet premiered here; 2024 Lortel Award for Outstanding Body of Work. Homepage calendar: Showgasm 3 Nov, Mudhole 4 Nov, The Real Housewives of NYC: An Unauthorized Opera 5 Nov. Single venue. Photo: Wikimedia Commons 'Ars Nova (55283714793).jpg' by Ajay Suresh, 2026 (CC BY 4.0), the 54th Street frontage.",
+        "sources": [
+          "https://arsnovanyc.com/",
+          "https://arsnovanyc.com/about-us/history/",
+          "https://arsnovanyc.com/contact/",
+          "https://commons.wikimedia.org/wiki/File:Ars_Nova_(55283714793).jpg"
+        ]
+      }
+    },
+    {
+      "id": "bric-house",
+      "name": "BRIC House",
+      "area": "Fort Greene",
+      "vibe": "The old Strand Theatre on Fulton Street is now BRIC's arts and media house, with free contemporary art exhibitions, two performance spaces and a glass-walled TV studio. Johan Orellana's Remnants of Forking Paths is on until 12 December, and a Noche de Salsa lands on 14 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/bric-house/01.webp",
+          "alt": "BRIC House"
+        }
+      ],
+      "website": "https://bricartsmedia.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-30",
+        "image_ok": true,
+        "notes": "Daily 2026-10-30. Official site: BRIC House, 647 Fulton St, Brooklyn; About: public media centre, contemporary art exhibition space, two performance spaces and glass-walled TV studio; free exhibitions. Calendar: Johan Orellana: Remnants of Forking Paths 8 Oct–12 Dec; BRIClab residencies 20 Oct–12 Dec; Brooklyn Brujeria Day II: Noche de Salsa 14 Nov ($15). Former Strand Theatre per Commons description. Single venue. Photo: Wikimedia Commons 'BRIC House, Brooklyn Oct 2016.jpg' by Thomson200, 2016 (CC0), the façade with BRIC lettering.",
+        "sources": [
+          "https://bricartsmedia.org/",
+          "https://bricartsmedia.org/about/",
+          "https://commons.wikimedia.org/wiki/File:BRIC_House,_Brooklyn_Oct_2016.jpg"
+        ]
+      }
+    },
+    {
+      "id": "trinity-church-nyc",
+      "name": "Trinity Church",
+      "area": "Financial District",
+      "vibe": "The Gothic Revival church at the head of Wall Street, with Alexander Hamilton buried in its churchyard. Bach at One fills the nave at lunchtime, and the choir's Messiah is the city's gold standard.",
+      "images": [
+        {
+          "url": "/assets/opt/date/trinity-church-nyc/01.webp",
+          "alt": "Trinity Church"
+        }
+      ],
+      "website": "https://trinitychurchnyc.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-30",
+        "image_ok": true,
+        "notes": "Daily 2026-10-30. Official site: Trinity Church, Broadway at Wall Street; Visit/History: churchyard includes Alexander Hamilton's grave; free Bach at One lunchtime concerts (4 Nov: Bach's Italian Muses); Downtown Voices Mozart Mass 4 Nov; VOCES8 with Kaufman Music Center 30 Oct 6:30pm; Messiah billed as the 'gold standard'. Sunday worship; visitors welcome. Slug trinity-church already exists in another city's assets, hence -nyc. Photo: Wikimedia Commons 'Trinity Church, Manhattan, New York (7236998970).jpg' by Ken Lund, 2012 (CC BY-SA 2.0), the spire from Broadway.",
+        "sources": [
+          "https://trinitychurchnyc.org/",
+          "https://trinitychurchnyc.org/visit-history",
+          "https://commons.wikimedia.org/wiki/File:Trinity_Church,_Manhattan,_New_York_(7236998970).jpg"
+        ]
+      }
+    },
+    {
+      "id": "minetta-lane-theatre",
+      "name": "Minetta Lane Theatre",
+      "area": "Greenwich Village",
+      "vibe": "A 1984 Off-Broadway house tucked on Minetta Lane between Sixth Avenue and MacDougal Street, now the home of Audible Theater. A Ghost in Your Ear, a headphone horror play with sound by the Ringham brothers, runs until 12 December.",
+      "images": [
+        {
+          "url": "/assets/opt/date/minetta-lane-theatre/01.webp",
+          "alt": "Minetta Lane Theatre"
+        }
+      ],
+      "website": "https://audiblexminetta.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-30",
+        "image_ok": true,
+        "notes": "Daily 2026-10-30. Official site: Audible's Minetta Lane Theatre, 18 Minetta Lane; Liberty Theatres page: opened 1984, between 6th Ave and MacDougal St. Homepage: A Ghost In Your Ear by Jamie Armitage, sound design by the Ringham brothers, with Lucas Iverson and Owen Campbell, through 12 Dec; box office Tue–Fri 12–6pm. Single venue. Photo: Wikimedia Commons 'Minetta Lane Theatre cp 2022 jeh.jpg' by Jim.henderson, 2022 (CC BY-SA 4.0), the façade and marquee.",
+        "sources": [
+          "https://audiblexminetta.com/",
+          "https://www.libertytheatresusa.com/aboutminettalane/",
+          "https://commons.wikimedia.org/wiki/File:Minetta_Lane_Theatre_cp_2022_jeh.jpg"
+        ]
+      }
+    },
+    {
+      "id": "the-center-for-fiction",
+      "name": "The Center for Fiction",
+      "area": "Fort Greene",
+      "vibe": "A literary home on Lafayette Avenue with a bookstore, a café and bar open daily until 8pm, and a busy programme of readings. First Novel Friday is on 6 November and Mieko Kawakami visits on 11 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/the-center-for-fiction/01.webp",
+          "alt": "The Center for Fiction"
+        }
+      ],
+      "website": "https://centerforfiction.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-30",
+        "image_ok": true,
+        "notes": "Daily 2026-10-30. Official site: The Center for Fiction, 15 Lafayette Ave, Brooklyn; bookstore and Café & Bar open daily 9am–8pm. Events: First Novel Friday 6 Nov; Mieko Kawakami 11 Nov; First Novel Fête 4 Dec. Single venue (formerly the Mercantile Library in Manhattan). Photo: Wikimedia Commons 'The Center for Fiction (New York Mercantile Library) (55267414077).jpg' by Ajay Suresh, 2026 (CC BY 4.0), the Brooklyn building with its glass ground floor.",
+        "sources": [
+          "https://centerforfiction.org/",
+          "https://commons.wikimedia.org/wiki/File:The_Center_for_Fiction_(New_York_Mercantile_Library)_(55267414077).jpg"
+        ]
+      }
+    },
+    {
+      "id": "theater-for-the-new-city",
+      "name": "Theater for the New City",
+      "area": "East Village",
+      "vibe": "A Pulitzer Prize-winning East Village theatre that premieres 30 to 40 new American plays a year; Sam Shepard and Charles Busch came through its resident programme. How to Get to Heaven from the Crawfish Pond and The Flowers of Forest Hills open on 5 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/theater-for-the-new-city/01.webp",
+          "alt": "Theater for the New City"
+        }
+      ],
+      "website": "https://theaterforthenewcity.net/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-02",
+        "image_ok": true,
+        "notes": "Daily 2026-11-02. Official site: homepage Now Playing: How to Get to Heaven from the Crawfish Pond and The Flowers of Forest Hills (5–22 Nov), Boy Santos (5–29 Nov), Thu–Sat 8pm, Sun 3pm; box office opens one hour before. About: Pulitzer Prize-winning community cultural centre, 30–40 premieres of new American plays a year, resident programme alumni include Sam Shepard, Charles Busch, Maria Irene Fornes; 42+ OBIEs. Single venue. Photo: Wikimedia Commons 'Theater for the New City and New Theater Building.jpg' by Beyond My Ken, 2011 (CC BY-SA 4.0), cropped to the former First Avenue Retail Market frontage with the yellow TNC sign; snowy 2011 shot, tower block above.",
+        "sources": [
+          "https://theaterforthenewcity.net/",
+          "https://theaterforthenewcity.net/about/",
+          "https://commons.wikimedia.org/wiki/File:Theater_for_the_New_City_and_New_Theater_Building.jpg"
+        ]
+      }
+    },
+    {
+      "id": "performance-space-new-york",
+      "name": "Performance Space New York",
+      "area": "East Village",
+      "vibe": "Founded in 1980 as Performance Space 122, this house at First Avenue and Ninth Street became one of the birthplaces of contemporary performance. Playing Safe: Queering the Indigenous Performance Archive runs 5 to 7 November and Jerron Herman's Interdependence follows on 14 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/performance-space-new-york/01.webp",
+          "alt": "Performance Space New York"
+        }
+      ],
+      "website": "https://performancespacenewyork.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-02",
+        "image_ok": true,
+        "notes": "Daily 2026-11-02. Official site: Performance Space New York (formerly Performance Space 122), founded 1980, 150 First Ave at E 9th St, 4th floor; box office opens one hour before each show. 2026/27 season: Playing Safe: Queering the Indigenous Performance Archive 5–7 Nov; Jerron Herman, Interdependence 14 Nov; Queer|Art Summit 21–22 Nov; First Mondays readings. Single venue. Photo: Wikimedia Commons 'Performance Space New York (51661210165).jpg' by Ajay Suresh, 2021 (CC BY 2.0), the renovated First Avenue entrance and canopy (no name sign in frame).",
+        "sources": [
+          "https://performancespacenewyork.org/",
+          "https://performancespacenewyork.org/visit/",
+          "https://commons.wikimedia.org/wiki/File:Performance_Space_New_York_(51661210165).jpg"
+        ]
+      }
+    },
+    {
+      "id": "abrons-arts-center",
+      "name": "Abrons Arts Center",
+      "area": "Lower East Side",
+      "vibe": "Henry Street Settlement's arts centre on Grand Street at Pitt Street, a home for artists of all ages and stages for more than a century. Natalia Lassalle-Morillo's En Parábola opens on 5 November, and Cherrie Yu's Daily Diversions has its world premiere on 12 to 14 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/abrons-arts-center/01.webp",
+          "alt": "Abrons Arts Center"
+        }
+      ],
+      "website": "https://www.abronsartscenter.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-02",
+        "image_ok": true,
+        "notes": "Daily 2026-11-02. Official site: Abrons Arts Center, 466 Grand St at Pitt St, a programme of Henry Street Settlement; 'for over a century' a home for artists; building open daily 10am–10pm; box office one hour before showtime. Programme: Natalia Lassalle-Morillo, En Parábola/Conversations on Tragedy 5 Nov–20 Dec; Cherrie Yu, Daily Diversions (world premiere) 12–14 Nov 7:30pm; Live! on Grand talent show 11–12 Dec. Single venue. Photo: Wikimedia Commons 'Henry Street Settlement Abrons Arts Center.jpg' by Beyond My Ken, 2013 (CC BY-SA 4.0), the brick building with the Abrons Arts Center sign.",
+        "sources": [
+          "https://www.abronsartscenter.org/",
+          "https://commons.wikimedia.org/wiki/File:Henry_Street_Settlement_Abrons_Arts_Center.jpg"
+        ]
+      }
+    },
+    {
+      "id": "st-marks-church-in-the-bowery",
+      "name": "St. Mark's Church in-the-Bowery",
+      "area": "East Village",
+      "vibe": "Manhattan's oldest site of continuous religious practice, where Peter Stuyvesant built a family chapel by 1660; the fieldstone Georgian church was consecrated in 1799 and later gained its steeple and cast-iron portico. Sunday Eucharist is at 11am, and David M. Carr launches Unmaking Eden here on 5 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/st-marks-church-in-the-bowery/01.webp",
+          "alt": "St. Mark's Church in-the-Bowery"
+        }
+      ],
+      "website": "https://stmarksbowery.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-02",
+        "image_ok": true,
+        "notes": "Daily 2026-11-02. Official site: St. Mark's Church in-the-Bowery, Second Ave at E 10th St (history page); homepage: Sunday 9am Thirty-Minute Mass, 11am Holy Eucharist; book launch 'Unmaking Eden' with Dr David M. Carr, Thu 5 Nov, doors 6:30pm. History: Stuyvesant chapel by 1660, present church cornerstone 1795, consecrated 9 May 1799, steeple 1828, cast-iron portico 1856; oldest site of continuous religious practice in Manhattan. Single venue. Photo: Wikimedia Commons 'St Mark's Church - New York City.jpg' by Momos, 2007 (CC BY-SA 3.0), the steeple and portico from the churchyard.",
+        "sources": [
+          "https://stmarksbowery.org/",
+          "https://stmarksbowery.org/history",
+          "https://commons.wikimedia.org/wiki/File:St_Mark's_Church_-_New_York_City.jpg"
+        ]
+      }
+    },
+    {
+      "id": "rizzoli-bookstore",
+      "name": "Rizzoli Bookstore",
+      "area": "NoMad",
+      "vibe": "A New York literary landmark since 1964, now at 1133 Broadway, three blocks north of Madison Square Park. The shelves lean to illustrated books on architecture, fashion, photography and design, plus literature in Italian, Spanish, French and English.",
+      "images": [
+        {
+          "url": "/assets/opt/date/rizzoli-bookstore/01.webp",
+          "alt": "Rizzoli Bookstore"
+        }
+      ],
+      "website": "https://www.rizzolibookstore.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-02",
+        "image_ok": true,
+        "notes": "Daily 2026-11-02. Official site: Rizzoli Bookstore, 1133 Broadway, NoMad; Mon–Sat 11am–8pm, Sun 11am–7pm; About: established in New York 1964, premier independent bookseller, illustrated books on architecture, interior design, fashion, photography, cookery and fine arts, literature in Italian, Spanish, French and English. Note: About page still describes the former 57th Street townhouse; the card uses only the Broadway address. Single store. Photo: Wikimedia Commons 'Rizzoli Bookstore (38202143341).jpg' by Eden, Janine and Jim, Oct 2017 (CC BY 2.0), the Broadway shop interior with dark wood shelving and a chequered floor.",
+        "sources": [
+          "https://www.rizzolibookstore.com/",
+          "https://www.rizzolibookstore.com/about-us",
+          "https://commons.wikimedia.org/wiki/File:Rizzoli_Bookstore_(38202143341).jpg"
+        ]
+      }
+    },
+    {
+      "id": "albertine",
+      "name": "Albertine",
+      "area": "Upper East Side",
+      "vibe": "A French-and-English bookshop tucked inside the Payne Whitney mansion on Fifth Avenue, with more than 14,000 titles from 30 French-speaking countries. Gaël Faye talks about Jacaranda on 4 November, and Amos Gitai joins Eyal Press on 10 November.",
+      "images": [
+        {
+          "url": "/assets/opt/date/albertine/01.webp",
+          "alt": "Albertine"
+        }
+      ],
+      "website": "https://www.albertine.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-02",
+        "image_ok": true,
+        "notes": "Daily 2026-11-02. Official site: Albertine, 972 Fifth Ave, a project of the Cultural Services of the French Embassy; About: inside the historic Payne Whitney mansion, the only NYC bookshop devoted solely to books in French and English, 14,000+ titles from 30 French-speaking countries. Hours: 10am–6pm, closed Wednesdays. Events: Gaël Faye with Peter Godwin 4 Nov; Albertine Book Club 3 Nov; Amos Gitai and Eyal Press 10 Nov. Single shop. Photo: Wikimedia Commons 'Cosy atmosphere Albertine Books in the Cultural Services of the French Embassy.jpg' by Esra Karakose Balioglu, 2017 (CC BY-SA 4.0), the shop with its painted star-map ceiling and yellow lampshade.",
+        "sources": [
+          "https://www.albertine.com/",
+          "https://www.albertine.com/about-us/",
+          "https://commons.wikimedia.org/wiki/File:Cosy_atmosphere_Albertine_Books_in_the_Cultural_Services_of_the_French_Embassy.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -7771,6 +8035,170 @@
           "https://www.peasantnyc.com/menus/"
         ]
       }
+    },
+    {
+      "id": "landmark-tavern",
+      "name": "Landmark Tavern",
+      "area": "Hell's Kitchen",
+      "vibe": "Opened in 1868 when this corner of 11th Avenue was still the Hudson shoreline, with a third floor that turned speakeasy during Prohibition. The kitchen sends out corned beef and cabbage, bangers and mash, Scotch eggs and lamb shanks from noon to 10pm.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/landmark-tavern/01.webp",
+          "alt": "Landmark Tavern"
+        }
+      ],
+      "website": "https://thelandmarktavern.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-30",
+        "image_ok": true,
+        "notes": "Daily 2026-10-30. Official site: Landmark Tavern, 626 11th Ave; About: opened 1868 by Patrick Henry Carley on the Hudson shore (before 12th Ave was built); third floor a speakeasy during Prohibition. Food menu: corned beef & cabbage, bangers and mash, Scotch eggs, lamb shanks; kitchen noon–10pm daily. Single venue. Photo: Wikimedia Commons 'Landmark Tavern (Manhattan, New York) 002.jpg' by Leonard J. DeFrancisci, 2012 (CC BY-SA 4.0), the red-brick corner building with its sign.",
+        "sources": [
+          "https://thelandmarktavern.com/",
+          "https://thelandmarktavern.com/about",
+          "https://commons.wikimedia.org/wiki/File:Landmark_Tavern_(Manhattan,_New_York)_002.jpg"
+        ]
+      }
+    },
+    {
+      "id": "park-side-restaurant",
+      "name": "Park Side Restaurant",
+      "area": "Corona",
+      "vibe": "A Corona Avenue Italian landmark for more than 40 years, run across three generations and open seven days. Baked clams oreganata, hot antipasto, rigatoni with lamb ragù and a broiled veal chop anchor the menu.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/park-side-restaurant/01.webp",
+          "alt": "Park Side Restaurant"
+        }
+      ],
+      "website": "https://www.parksiderestaurantny.com/",
+      "instagram": "https://www.instagram.com/parksiderestaurant",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-30",
+        "image_ok": true,
+        "notes": "Daily 2026-10-30. Official site: Park Side Restaurant, 107-01 Corona Ave, Queens; Italian landmark 40+ years, three generations, open 7 days, valet parking. Menu: baked clams oreganata, hot antipasto, rigatoni with lamb ragu, broiled veal chop. Single venue. Photo: Wikimedia Commons 'Park Side Restaurant Corona NYC.jpg' by Transpoman, 2025 (CC BY-SA 4.0), the green-awning corner.",
+        "sources": [
+          "https://www.parksiderestaurantny.com/",
+          "https://www.parksiderestaurantny.com/our-menu",
+          "https://commons.wikimedia.org/wiki/File:Park_Side_Restaurant_Corona_NYC.jpg"
+        ]
+      }
+    },
+    {
+      "id": "umbertos-clam-house",
+      "name": "Umberto’s Clam House",
+      "area": "Little Italy",
+      "vibe": "Mulberry Street seafood since Umberto Ianniello opened in 1972, cooked in an open kitchen. Baked littleneck clams, linguine with clam sauce and black squid-ink linguine with shrimp and calamari, plus a raw bar.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/umbertos-clam-house/01.webp",
+          "alt": "Umberto’s Clam House"
+        }
+      ],
+      "website": "https://umbertosclamhouse.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-30",
+        "image_ok": true,
+        "notes": "Daily 2026-10-30. Official site: Umberto's Clam House, 132 Mulberry St; About: opened 1972 by Umberto Ianniello; open kitchen. Food menu: baked littleneck clams, linguine and clam sauce, black linguine (squid ink) with shrimp and calamari, raw bar. Single venue. Photo: Wikimedia Commons 'Umberto's Clam House.jpg' by Kidfly182, 2024 (CC BY 4.0), cropped to the 'Heart of Little Italy' signage; tight crop, first letters of the name cut.",
+        "sources": [
+          "https://umbertosclamhouse.com/",
+          "https://commons.wikimedia.org/wiki/File:Umberto's_Clam_House.jpg"
+        ]
+      }
+    },
+    {
+      "id": "julianas-pizza",
+      "name": "Juliana’s Pizza",
+      "area": "DUMBO",
+      "vibe": "Patsy Grimaldi's pizzeria at 19 Old Fulton Street under the Brooklyn Bridge, the spot where he first founded Grimaldi's, with thin-crust pies turned in a hand-built coal-fired oven. Classic margheritas sit alongside numbered specials such as the No. 1 with smoked scamorza, pancetta and scallions.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/julianas-pizza/01.webp",
+          "alt": "Juliana’s Pizza"
+        }
+      ],
+      "website": "https://www.julianaspizza.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-02",
+        "image_ok": true,
+        "notes": "Daily 2026-11-02. Official site: Juliana's, 19 Old Fulton St, Brooklyn; daily 11:30am–3:15pm and 4–9pm; dine-in and take-out. About: Patsy Grimaldi and Carol returned in 2012 to the original location where they founded Grimaldi's (since sold); hand-built coal-fired oven. Dine-in menu: Margherita, marinara and white classics; specials No. 1 (mozzarella, scamorza affumicata, pancetta, scallions) to No. 6; Carol's cannoli, egg cream. Single location (Grimaldi's is a separate business). Photo: Wikimedia Commons 'Juliana's Pizza, 19 Old Fulton Street, Brooklyn NY.jpg' by Wgreaves, 2019 (CC BY-SA 4.0), the shopfront with the Juliana's sign.",
+        "sources": [
+          "https://www.julianaspizza.com/",
+          "https://www.julianaspizza.com/about",
+          "https://www.julianaspizza.com/dine-in",
+          "https://commons.wikimedia.org/wiki/File:Juliana's_Pizza,_19_Old_Fulton_Street,_Brooklyn_NY.jpg"
+        ]
+      }
+    },
+    {
+      "id": "emilias-arthur-avenue",
+      "name": "Emilia's",
+      "area": "Belmont",
+      "vibe": "An Arthur Avenue Italian in the heart of the Bronx's Little Italy, pitched as the place to eat before a Yankees game, a Bronx Zoo trip or a walk in the Botanical Garden. Sit inside or on the covered, heated back patio; it's closed on Tuesdays.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/emilias-arthur-avenue/01.webp",
+          "alt": "Emilia's"
+        }
+      ],
+      "website": "https://www.emiliasrestaurant.com/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-11-02",
+        "image_ok": true,
+        "notes": "Daily 2026-11-02. Official site: Emilia's, 2331 Arthur Avenue, Bronx; 'heart of Little Italy' in the Bronx; indoor and outdoor seating, covered and heated back patio; opens 12 noon Mon and Wed–Sun, closed Tuesday. Menu page returned 404, so no dishes are named. Single venue. Photo: Wikimedia Commons 'Arthur Avenue 30 - Emilia's.jpg' by Joe Mabel, May 2026 (CC BY-SA 4.0), the red-brick building with the Emilia's sign; a parked car is at the bottom edge.",
+        "sources": [
+          "https://www.emiliasrestaurant.com/",
+          "https://commons.wikimedia.org/wiki/File:Arthur_Avenue_30_-_Emilia's.jpg"
+        ]
+      }
+    },
+    {
+      "id": "henrys-end",
+      "name": "Henry's End",
+      "area": "Brooklyn Heights",
+      "vibe": "The first restaurant on Henry Street, feeding Brooklyn Heights since 1973 with classic staples, neighbourhood favourites and a seasonal run of specials. Dinner is from 5pm nightly, with brunch at weekends.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/henrys-end/01.webp",
+          "alt": "Henry's End"
+        }
+      ],
+      "website": "https://www.henrysend.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-02",
+        "image_ok": true,
+        "notes": "Daily 2026-11-02. Official site: Henry's End, 72 Henry St, Brooklyn; 'the first restaurant on Henry Street', over 50 years (est. 1973 graphic); classic staples, neighbourhood favourites and seasonal specials; dinner Mon–Thu 5–9pm, Fri–Sat 5–9:30pm, Sun 5–8:30pm; Sat–Sun brunch 11am–3pm. Single venue. Photo: official site image 'HE Exterior.jpeg', the pavement terrace with diners under blue umbrellas; no Commons photo found. The restaurant's name is not legible in the crop.",
+        "sources": [
+          "https://www.henrysend.com/"
+        ]
+      }
+    },
+    {
+      "id": "christos-steakhouse",
+      "name": "Christos Steakhouse",
+      "area": "Astoria",
+      "vibe": "An Astoria steakhouse with a Greek accent, dry-ageing its prime cuts for 21 days and charbroiling them at 1,200 degrees with coarse sea salt and mountain oregano. Saganaki, charred octopus and a 48-ounce porterhouse lead the menu.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/christos-steakhouse/01.webp",
+          "alt": "Christos Steakhouse"
+        }
+      ],
+      "website": "https://www.christossteakhouse.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-02",
+        "image_ok": true,
+        "notes": "Daily 2026-11-02. Official site: Christos Steakhouse, 41-08 23rd Ave, Astoria; American steakhouse with a Greek twist; USDA Prime cuts aged 21 days in-house, charbroiled at 1,200°F, finished with coarse sea salt and dried mountain oregano. Signature dishes: saganaki, charred octopus, Christos porterhouse (48 or 63 oz), shellfish tower. Single venue. Photo: official site 'Dining room frame.png', cropped inside the gilt frame to the dining room with set tables (empty glassware, not the focus); no Commons photo found.",
+        "sources": [
+          "https://www.christossteakhouse.com/"
+        ]
+      }
     }
   ],
   "dance": [
@@ -10069,6 +10497,74 @@
         "sources": [
           "https://www.cmoneverybody.com/",
           "https://cmoneverybody.com/ourstory"
+        ]
+      }
+    },
+    {
+      "id": "hammerstein-ballroom",
+      "name": "Hammerstein Ballroom",
+      "area": "Midtown",
+      "vibe": "Oscar Hammerstein built this West 34th Street hall as an opera house in 1906; restored, it keeps 75-foot ceilings, two balconies and opera boxes. Gigs play to a general-admission standing floor.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/hammerstein-ballroom/01.webp",
+          "alt": "Hammerstein Ballroom"
+        }
+      ],
+      "website": "https://www.themanhattancenter.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-10-30",
+        "image_ok": true,
+        "notes": "Daily 2026-10-30. Official site: Manhattan Center, 311 W 34th St, home of the Hammerstein Ballroom; built 1906 by Oscar Hammerstein as an opera house; restored, 75 ft ceilings, two balconies plus opera boxes; GA standing floor for concerts; upcoming shows page ticketed via Ticketmaster. Single venue. Photo: Wikimedia Commons '34th St 8th 9th Avs Mid td (2018-08-16) 01 - Manhattan Center.jpg' by Tdorante10, 2018 (CC BY-SA 4.0), the façade and Manhattan Center marquee.",
+        "sources": [
+          "https://www.themanhattancenter.com/",
+          "https://www.themanhattancenter.com/upcoming-concerts-shows/",
+          "https://commons.wikimedia.org/wiki/File:34th_St_8th_9th_Avs_Mid_td_(2018-08-16)_01_-_Manhattan_Center.jpg"
+        ]
+      }
+    },
+    {
+      "id": "nebula",
+      "name": "Nebula",
+      "area": "Times Square",
+      "vibe": "An 11,000-square-foot club off Times Square built around world-class DJs and cutting-edge sound and lighting. Lucas & Steve play on 31 October and Fideles on 6 November.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/nebula/01.webp",
+          "alt": "Nebula"
+        }
+      ],
+      "website": "https://www.nebulanewyork.com/",
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-10-30",
+        "image_ok": true,
+        "notes": "Daily 2026-10-30. Official site: Nebula, 135 W 41st St; world-class DJs, cutting-edge sound and lighting; site image states 11,000 sq ft and 900 guests (text says up to 800). Calendar: Halloween costume contest 30 Oct, Lucas & Steve 31 Oct, Fideles 6 Nov. Heavy bottle-service emphasis on the site, hence confidence 3. Single venue. Photo: official site (nebulanewyork.com) interior shot of the room with red lighting rig and LED screens; no Commons photo found.",
+        "sources": [
+          "https://www.nebulanewyork.com/"
+        ]
+      }
+    },
+    {
+      "id": "the-monster",
+      "name": "The Monster",
+      "area": "West Village",
+      "vibe": "A West Village gay institution since 1969, with vintage Lalique chandeliers and a famous mirrored staircase. A piano bar plays on the ground floor while the nightclub downstairs runs until 4am.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/the-monster/01.webp",
+          "alt": "The Monster"
+        }
+      ],
+      "website": "https://www.monsterbarnyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-02",
+        "image_ok": true,
+        "notes": "Daily 2026-11-02. Official site: The Monster, 80 Grove St; 'gayly serving our community since 1969'; Joe Scialo's nightclub and cabaret; multi-level, vintage Lalique chandeliers, mirrored staircase; 360 piano bar on the 1st floor and nightclub downstairs; open Mon–Fri 4pm–4am, Sat–Sun 3pm–4am. Single venue. Photo: official site slideshow image of the downstairs dance floor under a mirror ball; no Commons photo found.",
+        "sources": [
+          "https://www.monsterbarnyc.com/"
         ]
       }
     }
