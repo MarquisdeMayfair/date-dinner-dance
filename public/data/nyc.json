@@ -4479,6 +4479,79 @@
           "https://commons.wikimedia.org/wiki/File:Cosy_atmosphere_Albertine_Books_in_the_Cultural_Services_of_the_French_Embassy.jpg"
         ]
       }
+    },
+    {
+      "id": "metrograph",
+      "name": "Metrograph",
+      "area": "Lower East Side",
+      "vibe": "An independent cinema at 7 Ludlow Street, inspired by the great New York movie houses of the 1920s, screening rare archival prints on 35mm and digital alongside premieres and Q&As. Its Commissary restaurant takes its cue from the studio eateries of Hollywood's golden age.",
+      "images": [
+        {
+          "url": "/assets/opt/date/metrograph/01.webp",
+          "alt": "Metrograph"
+        }
+      ],
+      "website": "https://metrograph.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-03",
+        "image_ok": true,
+        "notes": "Daily 2026-11-03. Official site: About: independent movie theatre opened 2016 at 7 Ludlow St, rare archival screenings (35mm and digital), special premieres and Q&As; includes The Commissary restaurant (inspired by Hollywood studio commissaries), bookstore and Candy Store. Homepage showtimes 3-4 Nov 2026 (Yi Yi, Strangers on a Train, etc.). Single cinema. Photo: Wikimedia Commons 'Int. Metrograph 2018.jpg' by Moviebuff1921, 2018 (CC BY-SA 4.0), Theatre 1 with the METROGRAPH screen card; dark interior, small figures on stage.",
+        "sources": [
+          "https://metrograph.com/",
+          "https://metrograph.com/about/",
+          "https://commons.wikimedia.org/wiki/File:Int._Metrograph_2018.jpg"
+        ]
+      }
+    },
+    {
+      "id": "merkin-hall",
+      "name": "Merkin Hall at Kaufman Music Center",
+      "area": "Upper West Side",
+      "vibe": "Kaufman Music Center's intimate concert hall on West 67th Street, between Broadway and Amsterdam, a short walk from Lincoln Center. The 2026–27 season leans on world premieres and new work from its artists-in-residence.",
+      "images": [
+        {
+          "url": "/assets/opt/date/merkin-hall/01.webp",
+          "alt": "Merkin Hall at Kaufman Music Center"
+        }
+      ],
+      "website": "https://www.kaufmanmusiccenter.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-03",
+        "image_ok": true,
+        "notes": "Daily 2026-11-03. Official site: Merkin Hall, 'intimate performance venue' of Kaufman Music Center, 129 W 67th St between Broadway and Amsterdam; 2026-27 season with world premieres and Artist-in-Residence programme; box office Sun-Thu 12-7pm, Fri 12-5pm, closed Sat. Single venue. Photo: Wikimedia Commons 'Kaufman Music Center (55466564364).jpg' by Ajay Suresh, Aug 2026 (CC BY 4.0), street-level view of the building on W 67th St.",
+        "sources": [
+          "https://www.kaufmanmusiccenter.org/",
+          "https://www.kaufmanmusiccenter.org/kc/about",
+          "https://www.kaufmanmusiccenter.org/kc/about/visit",
+          "https://commons.wikimedia.org/wiki/File:Kaufman_Music_Center_(55466564364).jpg"
+        ]
+      }
+    },
+    {
+      "id": "momath",
+      "name": "MoMath",
+      "area": "Flatiron",
+      "vibe": "The National Museum of Mathematics, on the corner of Sixth Avenue and 19th Street, where hands-on exhibits turn patterns and structures into things you can touch, move and puzzle over. The museum itself pitches it as a date for the intellectually curious, open 10am to 5pm every day bar Thanksgiving.",
+      "images": [
+        {
+          "url": "/assets/opt/date/momath/01.webp",
+          "alt": "MoMath"
+        }
+      ],
+      "website": "https://momath.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-03",
+        "image_ok": true,
+        "notes": "Daily 2026-11-03. Official site: National Museum of Mathematics, 635 Sixth Ave (NW corner of 19th St); open 10am-5pm seven days, closed Thanksgiving; adult $33; hands-on exhibits; homepage 'Make it a date' (named a top date spot for intellectually curious people). Single museum. Photo: Wikimedia Commons 'National Museum of Mathematics (MoMath) (55606335041).jpg' by Ajay Suresh, Oct 2026 (CC BY 4.0), the 635 Sixth Ave frontage with MATH lettering and the National Museum of Mathematics inscription. (Older 11 E 26th St Commons photos rejected: former site.)",
+        "sources": [
+          "https://momath.org/",
+          "https://momath.org/visit/",
+          "https://commons.wikimedia.org/wiki/File:National_Museum_of_Mathematics_(MoMath)_(55606335041).jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -8197,6 +8270,52 @@
         "notes": "Daily 2026-11-02. Official site: Christos Steakhouse, 41-08 23rd Ave, Astoria; American steakhouse with a Greek twist; USDA Prime cuts aged 21 days in-house, charbroiled at 1,200°F, finished with coarse sea salt and dried mountain oregano. Signature dishes: saganaki, charred octopus, Christos porterhouse (48 or 63 oz), shellfish tower. Single venue. Photo: official site 'Dining room frame.png', cropped inside the gilt frame to the dining room with set tables (empty glassware, not the focus); no Commons photo found.",
         "sources": [
           "https://www.christossteakhouse.com/"
+        ]
+      }
+    },
+    {
+      "id": "hearth",
+      "name": "Hearth",
+      "area": "East Village",
+      "vibe": "Marco Canora's corner of First Avenue and 12th Street has been cooking with the seasons since 2003, Italian in spirit with pastas, polenta and meatballs drawn from his Tuscan roots. It calls itself a warm, casual, quirky downtown sanctuary, with dinner nightly from 5pm.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/hearth/01.webp",
+          "alt": "Hearth"
+        }
+      ],
+      "website": "https://www.restauranthearth.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-03",
+        "image_ok": true,
+        "notes": "Daily 2026-11-03. Official site: Hearth, 403 E 12th St (1st Ave corner), East Village; opened 2003; chef-founder Marco Canora (James Beard Best Chef NYC 2017), Tuscan family roots, 'Italian in spirit', pasta, polenta, meatballs; 'warm, casual, quirky downtown sanctuary'; dinner Sun-Thu 5-9:30pm, Fri-Sat 5-10:30pm, weekend brunch. Single restaurant. Photo: official site image '18166HEARTH_10688_1.jpg', diners sharing plates at a wooden table (wine glasses at edge, not the focus); no Commons photo found.",
+        "sources": [
+          "https://www.restauranthearth.com/",
+          "https://www.restauranthearth.com/story/"
+        ]
+      }
+    },
+    {
+      "id": "hwa-yuan-szechuan",
+      "name": "Hwa Yuan Szechuan",
+      "area": "Chinatown",
+      "vibe": "Chef Shorty Tang's Chinatown institution, first opened in the 1980s, whose cold sesame noodles became a New York staple; his son Chen Lien Tang now runs the kitchen on East Broadway. Dinner spreads across three floors, from quiet tables to celebrations that fill the room.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/hwa-yuan-szechuan/01.webp",
+          "alt": "Hwa Yuan Szechuan"
+        }
+      ],
+      "website": "https://www.hwayuannyc.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-03",
+        "image_ok": true,
+        "notes": "Daily 2026-11-03. Official site: Hwa Yuan Szechuan, 42 East Broadway; founded 1980s by Chef Shorty Tang, Cold Sesame Noodles a New York staple; Chef Chen Lien Tang continues his father's legacy; three floors; open daily 12-9:30pm. Note: site logo reads 'Since 1968' while About says 'first opened in the 1980s'; card uses the About wording. Single restaurant. Photo: official site image of the East Broadway frontage with the Hwa Yuan Szechuan sign and planters; no Commons photo found.",
+        "sources": [
+          "https://www.hwayuannyc.com/",
+          "https://www.hwayuannyc.com/about"
         ]
       }
     }
