@@ -4552,6 +4552,75 @@
           "https://commons.wikimedia.org/wiki/File:National_Museum_of_Mathematics_(MoMath)_(55606335041).jpg"
         ]
       }
+    },
+    {
+      "id": "caveat",
+      "name": "Caveat",
+      "area": "Lower East Side",
+      "vibe": "A 115-seat cabaret comedy theatre deep under Clinton Street, championing nerdy, funny art. Each week a favourite comedian interviews an expert on a topic they've always wanted to know more about.",
+      "images": [
+        {
+          "url": "/assets/opt/date/caveat/01.webp",
+          "alt": "Caveat"
+        }
+      ],
+      "website": "https://caveat.nyc/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-04",
+        "image_ok": true,
+        "notes": "Daily 2026-11-04. Official site: cabaret comedy theater under 21A Clinton St, LES; 115-seat theater; 'Comedians Interview Experts' weekly; 21+ shows, programme running Nov 2026. Single venue. Photo: Commons 'Caveat front door jeh.jpg', Jim.henderson 2018, CC BY 3.0 (street door with Caveat sign).",
+        "sources": [
+          "https://caveat.nyc/",
+          "https://caveat.nyc/about",
+          "https://caveat.nyc/faq"
+        ]
+      }
+    },
+    {
+      "id": "gotham-comedy-club",
+      "name": "Gotham Comedy Club",
+      "area": "Chelsea",
+      "vibe": "The West 23rd Street club where Jerry Seinfeld filmed Comedian and early Jim Gaffigan and Amy Schumer sets were honed. Its main showroom even stood in for the Copacabana in Scorsese's The Irishman.",
+      "images": [
+        {
+          "url": "/assets/opt/date/gotham-comedy-club/01.webp",
+          "alt": "Gotham Comedy Club"
+        }
+      ],
+      "website": "https://gothamcomedyclub.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-04",
+        "image_ok": true,
+        "notes": "Daily 2026-11-04. Official About: founded by Chris Mazzilli and Mike Reisman, run by Chris and Steven Mazzilli; Seinfeld's Comedian filmed there; launched Gaffigan, Schumer; main showroom converted into the Copacabana for The Irishman; 208 W 23rd St; shows listed Nov 2026. Single club. Photo: Commons 'Comedy Night at Gotham Comedy Club (3811837151).jpg', cyvanceforda 2009, CC BY-SA 2.0 (stage with Gotham sign), re-cropped 2026-11-04 to the stage only: campaign placards, table card and drinks cropped out.",
+        "sources": [
+          "https://gothamcomedyclub.com/",
+          "https://gothamcomedyclub.com/about"
+        ]
+      }
+    },
+    {
+      "id": "lefferts-historic-house",
+      "name": "Lefferts Historic House",
+      "area": "Prospect Park, Brooklyn",
+      "vibe": "An 18th-century Flatbush farmhouse and city landmark, moved into Prospect Park in 1918. Inside and out, a working garden and exhibits tell stories of the Lenape and of Africans enslaved by the Lefferts family.",
+      "images": [
+        {
+          "url": "/assets/opt/date/lefferts-historic-house/01.webp",
+          "alt": "Lefferts Historic House"
+        }
+      ],
+      "website": "https://www.prospectpark.org/visit-the-park/places-to-go/lefferts-historic-house/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-04",
+        "image_ok": true,
+        "notes": "Daily 2026-11-04. Official Prospect Park Alliance page: 18th-century Flatbush farmhouse, NYC landmark, run with Historic House Trust; moved to park 1918; working garden, indoor/outdoor exhibits; open Sept–Nov Sat–Sun + school holidays 12–5pm (seasonal hours). Photo: Commons 'Lefferts House in Brooklyn.JPG', Jared Kofsky 2013, CC BY-SA 3.0.",
+        "sources": [
+          "https://www.prospectpark.org/visit-the-park/places-to-go/lefferts-historic-house/"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -8318,6 +8387,29 @@
           "https://www.hwayuannyc.com/about"
         ]
       }
+    },
+    {
+      "id": "bar-ferdinando",
+      "name": "Bar Ferdinando",
+      "area": "Carroll Gardens, Brooklyn",
+      "vibe": "Ferdinando's Focacceria has fed Brooklyn since 1904, the city's oldest Sicilian restaurant, born to serve waterfront longshoremen. Brooklyn native Sal Lamboglia now carries on the panelle and arancini on Union Street.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bar-ferdinando/01.webp",
+          "alt": "Bar Ferdinando"
+        }
+      ],
+      "website": "https://www.barferdinando.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-04",
+        "image_ok": true,
+        "notes": "Daily 2026-11-04. Official About: Ferdinando's Focacceria since 1904, NYC's oldest Sicilian restaurant, founded for longshoremen; 2025 handover from Frank Buffa to Sal Lamboglia, now Bar Ferdinando; 151 Union St; open Tue–Sun. Single site. Photo: official site Hours & Location image, re-cropped 2026-11-04 to the dining room (tiled floor, tables, brick fireplace); back-bar shelf cropped out; no Commons photo found.",
+        "sources": [
+          "https://www.barferdinando.com/about/",
+          "https://www.barferdinando.com/location/bar-ferdinando/"
+        ]
+      }
     }
   ],
   "dance": [
@@ -10684,6 +10776,29 @@
         "notes": "Daily 2026-11-02. Official site: The Monster, 80 Grove St; 'gayly serving our community since 1969'; Joe Scialo's nightclub and cabaret; multi-level, vintage Lalique chandeliers, mirrored staircase; 360 piano bar on the 1st floor and nightclub downstairs; open Mon–Fri 4pm–4am, Sat–Sun 3pm–4am. Single venue. Photo: official site slideshow image of the downstairs dance floor under a mirror ball; no Commons photo found.",
         "sources": [
           "https://www.monsterbarnyc.com/"
+        ]
+      }
+    },
+    {
+      "id": "henrietta-hudson",
+      "name": "Henrietta Hudson",
+      "area": "West Village",
+      "vibe": "New York's longest-running lesbian bar, opened in 1991 and literally built by lesbians with donated boom boxes and labour. From after-work drinks to packed dance floors, it's a home for queer nightlife on Hudson Street.",
+      "images": [
+        {
+          "url": "/assets/opt/dance/henrietta-hudson/01.webp",
+          "alt": "Henrietta Hudson"
+        }
+      ],
+      "website": "https://www.henriettahudson.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-04",
+        "image_ok": true,
+        "notes": "Daily 2026-11-04. Official About: NYC's longest-running lesbian bar; opened by Lisa Cannistraci and Minnie Rivera after the original Cubby Hole closed; built with donated boom boxes; 'since 1991'; packed dance floors, live performances; 438 Hudson St, Wed–Sun 6pm–2am. Single venue. Photo: Commons 'Henrietta Hudson HDR 2022 jeh.jpg', Jim.henderson 2022, CC BY-SA 4.0 (frontage).",
+        "sources": [
+          "https://www.henriettahudson.com/",
+          "https://www.henriettahudson.com/about"
         ]
       }
     }
