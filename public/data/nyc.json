@@ -4621,6 +4621,94 @@
           "https://www.prospectpark.org/visit-the-park/places-to-go/lefferts-historic-house/"
         ]
       }
+    },
+    {
+      "id": "shubert-theatre",
+      "name": "Shubert Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Lee and J.J. Shubert built it in memory of their brother Sam, sharing a Venetian Renaissance façade with the Booth next door. Architect Henry B. Herts decorated the exterior with sgraffito, plaster frescoes etched while still wet.",
+      "images": [
+        {
+          "url": "/assets/opt/date/shubert-theatre/01.webp",
+          "alt": "Shubert Theatre"
+        }
+      ],
+      "website": "https://www.shubert.nyc/theatres/shubert/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-05",
+        "image_ok": true,
+        "notes": "Daily 2026-11-05. Official Shubert Organization page (history/architecture), 225 W 44th St. Photo: Commons 'Shubert Theatre Mar 2025 03.jpg', Epicgenius 2025, CC BY-SA 4.0 (auditorium ceiling).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/shubert/"
+        ]
+      }
+    },
+    {
+      "id": "lyceum-theatre",
+      "name": "Lyceum Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Broadway's oldest continually operating legitimate theatre, built by producer Daniel Frohman in 1903. Behind six Corinthian columns, twin grand staircases rise from the foyer to the mezzanine.",
+      "images": [
+        {
+          "url": "/assets/opt/date/lyceum-theatre/01.webp",
+          "alt": "Lyceum Theatre"
+        }
+      ],
+      "website": "https://www.shubert.nyc/theatres/lyceum/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-05",
+        "image_ok": true,
+        "notes": "Daily 2026-11-05. Official Shubert Organization page, 149 W 45th St. Photo: Commons 'Lyceum Theatre (48295950156).jpg', Ajay Suresh 2019, CC BY 2.0 (façade at dusk; re-cropped from original to remove neighbouring billboard ad and pub neon sign; theatre marquee only).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/lyceum/"
+        ]
+      }
+    },
+    {
+      "id": "belasco-theatre",
+      "name": "Belasco Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "David Belasco opened it as the Stuyvesant in 1907 and conceived the auditorium as a living room. He lived in a duplex above the theatre decorated like a Gothic church.",
+      "images": [
+        {
+          "url": "/assets/opt/date/belasco-theatre/01.webp",
+          "alt": "Belasco Theatre"
+        }
+      ],
+      "website": "https://www.shubert.nyc/theatres/belasco/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-05",
+        "image_ok": true,
+        "notes": "Daily 2026-11-05. Official Shubert Organization page, 111 W 44th St. Photo: Commons 'Belasco Theatre May 2025 26.jpg', Epicgenius 2025, CC BY-SA 4.0 (boxes and ceiling).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/belasco/"
+        ]
+      }
+    },
+    {
+      "id": "scandinavia-house",
+      "name": "Scandinavia House",
+      "area": "Murray Hill, Manhattan",
+      "vibe": "The Nordic Center in America, designed by Polshek Partnership and opened in 2000 on Park Avenue. Exhibitions, films, concerts and talks celebrate Denmark, Finland, Iceland, Norway and Sweden.",
+      "images": [
+        {
+          "url": "/assets/opt/date/scandinavia-house/01.webp",
+          "alt": "Scandinavia House"
+        }
+      ],
+      "website": "https://www.scandinaviahouse.org/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-05",
+        "image_ok": true,
+        "notes": "Daily 2026-11-05. Official about page (American-Scandinavian Foundation HQ), 58 Park Ave. Photo: Commons 'The Scandinavia House Cultural Center at 58 Park Avenue in New York City.jpg', Richard N Horne 2022, CC BY-SA 4.0 (street entrance).",
+        "sources": [
+          "https://www.scandinaviahouse.org/about/"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -8408,6 +8496,28 @@
         "sources": [
           "https://www.barferdinando.com/about/",
           "https://www.barferdinando.com/location/bar-ferdinando/"
+        ]
+      }
+    },
+    {
+      "id": "il-cortile",
+      "name": "Il Cortile",
+      "area": "Little Italy, Manhattan",
+      "vibe": "Family owned and run on Mulberry Street since 1975, now by the Esposito family. A multi-room Italian dining room where old-school waiters serve an extensive à la carte menu.",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/il-cortile/01.webp",
+          "alt": "Il Cortile"
+        }
+      ],
+      "website": "https://www.ilcortile.com/",
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-05",
+        "image_ok": true,
+        "notes": "Daily 2026-11-05. Official about page, 125 Mulberry St. Photo: venue's own site 'GardenRoom-New-scaled.jpg' (skylit garden dining room, tables set; no people).",
+        "sources": [
+          "https://www.ilcortile.com/about-us/"
         ]
       }
     }
