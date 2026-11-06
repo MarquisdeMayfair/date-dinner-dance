@@ -4709,6 +4709,194 @@
           "https://www.scandinaviahouse.org/about/"
         ]
       }
+    },
+    {
+      "id": "alvin-ailey",
+      "name": "Alvin Ailey American Dance Theater",
+      "area": "Hell's Kitchen, Manhattan",
+      "vibe": "The largest building dedicated to dance in New York, opened in 2005 on West 55th Street. Home to Alvin Ailey American Dance Theater, Ailey II, The Ailey School and a flexible performance space seating up to 275.",
+      "website": "https://ailey.org/joan-weill-center-dance",
+      "instagram": "https://www.instagram.com/alvinailey/",
+      "images": [
+        {
+          "url": "/assets/opt/date/alvin-ailey/01.webp",
+          "alt": "Alvin Ailey American Dance Theater"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-06",
+        "image_ok": true,
+        "notes": "Commons photo of the Joan Weill Center for Dance exterior, Beyond My Ken, CC BY-SA 4.0.",
+        "sources": [
+          "https://ailey.org/joan-weill-center-dance",
+          "https://commons.wikimedia.org/wiki/File:Alvin_Ailey_American_Dance_Theater_Joan_Weil_Center_for_Dance.jpg"
+        ]
+      }
+    },
+    {
+      "id": "booth-theatre",
+      "name": "Booth Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Henry Herts designed it with the Shubert Theatre as a pair along Shubert Alley, in restrained classicism. Named for Edwin Booth; the smaller house still wears New York's last surviving theatrical sgraffito.",
+      "website": "https://www.shubert.nyc/theatres/booth/",
+      "images": [
+        {
+          "url": "/assets/opt/date/booth-theatre/01.webp",
+          "alt": "Booth Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-06",
+        "image_ok": true,
+        "notes": "Commons \"Booth Theatre Dec 2025 13.jpg\", Epicgenius, CC BY-SA 4.0.",
+        "sources": [
+          "https://www.shubert.nyc/theatres/booth/",
+          "https://commons.wikimedia.org/wiki/File:Booth_Theatre_Dec_2025_13.jpg"
+        ]
+      }
+    },
+    {
+      "id": "harlem-stage",
+      "name": "Harlem Stage",
+      "area": "West Harlem, Manhattan",
+      "vibe": "A Romanesque Revival Croton Aqueduct gatehouse from 1884–90, reinvented as a performing-arts centre. Flexible black-box theatre and lobby inside the West Harlem landmark at 135th Street and Convent Avenue.",
+      "website": "https://www.harlemstage.org/our-venue",
+      "instagram": "https://www.instagram.com/harlemstage/",
+      "images": [
+        {
+          "url": "/assets/opt/date/harlem-stage/01.webp",
+          "alt": "Harlem Stage"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-06",
+        "image_ok": true,
+        "notes": "Commons \"Harlem stage, the gatehouse.jpg\", HPPYCYCLNG, CC BY-SA 4.0.",
+        "sources": [
+          "https://www.harlemstage.org/our-venue",
+          "https://www.harlemstage.org/history",
+          "https://commons.wikimedia.org/wiki/File:Harlem_stage,_the_gatehouse.jpg"
+        ]
+      }
+    },
+    {
+      "id": "imperial-theatre",
+      "name": "Imperial Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Herbert Krapp's Adam-style musical house from 1923, built as the Shuberts' fiftieth New York venue. A wide auditorium with recessed ceiling and ornamental panels keeps most seats close to the stage.",
+      "website": "https://www.shubert.nyc/theatres/imperial/",
+      "images": [
+        {
+          "url": "/assets/opt/date/imperial-theatre/01.webp",
+          "alt": "Imperial Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-06",
+        "image_ok": true,
+        "notes": "Commons \"Imperial Theatre Jan 2026 21.jpg\", Epicgenius, CC BY-SA 4.0.",
+        "sources": [
+          "https://www.shubert.nyc/theatres/imperial/",
+          "https://commons.wikimedia.org/wiki/File:Imperial_Theatre_Jan_2026_21.jpg"
+        ]
+      }
+    },
+    {
+      "id": "kingsland-homestead",
+      "name": "Kingsland Homestead",
+      "area": "Flushing, Queens",
+      "vibe": "An 18th-century Long Island half-house, built ca. 1785 and moved to Weeping Beech Park in 1968. Home of the Queens Historical Society, with guided tours and local history exhibitions in the first-floor rooms.",
+      "website": "https://queenshistoricalsociety.org/",
+      "images": [
+        {
+          "url": "/assets/opt/date/kingsland-homestead/01.webp",
+          "alt": "Kingsland Homestead"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-06",
+        "image_ok": true,
+        "notes": "Commons \"Kingsland Homestead west porch jeh.jpg\", Jim.henderson, CC0. Open Wed/Sat/Sun afternoons for guided tours.",
+        "sources": [
+          "https://queenshistoricalsociety.org/",
+          "https://historichousetrust.org/houses/kingsland-homestead/",
+          "https://commons.wikimedia.org/wiki/File:Kingsland_Homestead_west_porch_jeh.jpg"
+        ]
+      }
+    },
+    {
+      "id": "majestic-theatre",
+      "name": "Majestic Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "A large musical house opened in 1927 as part of the Chanin Brothers' three-theatre complex, later taken over by the Shuberts. Orchestra, mezzanine and boxes under a classic Broadway proscenium on West 44th Street.",
+      "website": "https://www.shubert.nyc/theatres/majestic",
+      "images": [
+        {
+          "url": "/assets/opt/date/majestic-theatre/01.webp",
+          "alt": "Majestic Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-06",
+        "image_ok": true,
+        "notes": "Commons \"Majestic Theatre May 2026 28.jpg\", Epicgenius, CC BY-SA 4.0.",
+        "sources": [
+          "https://www.shubert.nyc/theatres/majestic",
+          "https://commons.wikimedia.org/wiki/File:Majestic_Theatre_May_2026_28.jpg"
+        ]
+      }
+    },
+    {
+      "id": "music-box-theatre",
+      "name": "Music Box Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Built in 1920 for Irving Berlin's Music Box Revue, in neo-Georgian style more like a manor than a typical playhouse. A dainty, jewel-like Broadway house that Berlin co-owned with the Shuberts for decades.",
+      "website": "https://www.shubert.nyc/theatres/music-box/",
+      "images": [
+        {
+          "url": "/assets/opt/date/music-box-theatre/01.webp",
+          "alt": "Music Box Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-06",
+        "image_ok": true,
+        "notes": "Commons \"Music Box Theatre Oct 2025 01.jpg\", Epicgenius, CC BY-SA 4.0.",
+        "sources": [
+          "https://www.shubert.nyc/theatres/music-box/",
+          "https://commons.wikimedia.org/wiki/File:Music_Box_Theatre_Oct_2025_01.jpg"
+        ]
+      }
+    },
+    {
+      "id": "swedish-cottage",
+      "name": "Swedish Cottage Marionette Theatre",
+      "area": "Central Park, Manhattan",
+      "vibe": "Sweden's 1876 Centennial Exposition schoolhouse, brought to Central Park by Olmsted in 1877. Home since 1947 to handmade marionette shows — Little Red's Hood plays on weekends during the cottage's upgrade.",
+      "website": "https://cityparksfoundation.org/swedish-cottage-marionette-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/swedish-cottage/01.webp",
+          "alt": "Swedish Cottage Marionette Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-06",
+        "image_ok": true,
+        "notes": "Commons \"Swedish Cottage, Central Park, New York City 2018.jpg\", Marcus Bornestav, CC BY-SA 4.0. Weekend performances continue during renovation.",
+        "sources": [
+          "https://cityparksfoundation.org/swedish-cottage-marionette-theatre/",
+          "https://commons.wikimedia.org/wiki/File:Swedish_Cottage,_Central_Park,_New_York_City_2018.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -8518,6 +8706,53 @@
         "notes": "Daily 2026-11-05. Official about page, 125 Mulberry St. Photo: venue's own site 'GardenRoom-New-scaled.jpg' (skylit garden dining room, tables set; no people).",
         "sources": [
           "https://www.ilcortile.com/about-us/"
+        ]
+      }
+    },
+    {
+      "id": "casa-enrique",
+      "name": "Casa Enrique",
+      "area": "Long Island City, Queens",
+      "vibe": "Chef Cosme Aguilar's Long Island City kitchen serving his family's Chiapas recipes. A neighbourhood Mexican dining room that has held a Michelin star since 2014.",
+      "website": "https://casaenriquelic.com/",
+      "instagram": "https://www.instagram.com/casaenriquelic/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/casa-enrique/01.webp",
+          "alt": "Casa Enrique"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-06",
+        "image_ok": true,
+        "notes": "Venue's own site exterior photo (facade with Casa Enrique awning).",
+        "sources": [
+          "https://casaenriquelic.com/"
+        ]
+      }
+    },
+    {
+      "id": "marcel-945-madison",
+      "name": "Marcel 945 Madison",
+      "area": "Upper East Side, Manhattan",
+      "vibe": "Walnut-paneled dining room in the Breuer Building, designed with Roman and Williams for Sotheby's. Candlelight, mohair banquettes and an open kitchen turning out continental cooking with a French lean.",
+      "website": "https://www.sothebys.com/en/restaurants/marcel",
+      "instagram": "https://www.instagram.com/marcelnyc/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/marcel-945-madison/01.webp",
+          "alt": "Marcel 945 Madison"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-06",
+        "image_ok": true,
+        "notes": "Venue landing photo from Roman and Williams / Marcel site (dining room aisle).",
+        "sources": [
+          "https://www.sothebys.com/en/restaurants/marcel",
+          "https://romanandwilliams.com/pages/marcelnyc"
         ]
       }
     }
