@@ -4897,6 +4897,146 @@
           "https://commons.wikimedia.org/wiki/File:Swedish_Cottage,_Central_Park,_New_York_City_2018.jpg"
         ]
       }
+    },
+    {
+      "id": "broadhurst-theatre",
+      "name": "Broadhurst Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Herbert J. Krapp's 1917 playhouse on West 44th Street, which opened with Shaw's Misalliance. Inside, Doric columns and Greek-style cornices and friezes frame one of Shubert's most consistently booked stages.",
+      "website": "https://www.shubert.nyc/theatres/broadhurst/",
+      "images": [
+        {
+          "url": "/assets/opt/date/broadhurst-theatre/01.webp",
+          "alt": "Broadhurst Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-09",
+        "image_ok": true,
+        "notes": "Daily 2026-11-09. Commons \"Broadhurst Theatre Apr 2025 10.jpg\", Epicgenius, CC BY-SA 4.0 (auditorium and chandelier).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/broadhurst/",
+          "https://commons.wikimedia.org/wiki/File:Broadhurst_Theatre_Apr_2025_10.jpg"
+        ]
+      }
+    },
+    {
+      "id": "st-james-theatre",
+      "name": "St. James Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Designed by Whitney Warren and Charles D. Wetmore, the architects behind Grand Central. Its stage has carried Hair, Gypsy, Into the Woods and Sunset Blvd.",
+      "website": "https://us.atgtickets.com/venues/st-james-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/st-james-theatre/01.webp",
+          "alt": "St. James Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-09",
+        "image_ok": true,
+        "notes": "Daily 2026-11-09. Official ATG venue page (operator). Commons \"St James Theatre Nov 2025 01.jpg\", Epicgenius, CC BY-SA 4.0 (coffered ceiling and chandeliers). Slug checked: no clash with London. Re-cropped 09 Nov to the coffered ceiling and chandelier, cutting the lobby bar's bottles and wine-menu screen.",
+        "sources": [
+          "https://us.atgtickets.com/venues/st-james-theatre/",
+          "https://commons.wikimedia.org/wiki/File:St_James_Theatre_Nov_2025_01.jpg"
+        ]
+      }
+    },
+    {
+      "id": "studio-54",
+      "name": "Studio 54",
+      "area": "Theater District, Manhattan",
+      "vibe": "Built in 1927 as the Gallo Opera House, later a CBS studio and then the disco era's most legendary nightclub. Since 1998 it has been Roundabout Theatre Company's Broadway home.",
+      "website": "https://www.roundabouttheatre.org/theatre/studio-54/",
+      "images": [
+        {
+          "url": "/assets/opt/date/studio-54/01.webp",
+          "alt": "Studio 54"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-09",
+        "image_ok": true,
+        "notes": "Daily 2026-11-09. Official Roundabout venue history. Commons \"Studio 54 Jul 2026 03.jpg\", Epicgenius, CC BY-SA 4.0 (interior, chandeliers under green show lighting). Re-cropped 09 Nov to the chandeliers, cutting the concession menu screens at the bottom.",
+        "sources": [
+          "https://www.roundabouttheatre.org/theatre/studio-54/",
+          "https://commons.wikimedia.org/wiki/File:Studio_54_Jul_2026_03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "new-world-stages",
+      "name": "New World Stages",
+      "area": "Hell's Kitchen, Manhattan",
+      "vibe": "Five intimate stages at Worldwide Plaza, all opening off one expansive shared lobby. The complex has housed Tony-winning, Pulitzer-earning and Guinness record-setting shows.",
+      "website": "https://www.newworldstages.com/",
+      "images": [
+        {
+          "url": "/assets/opt/date/new-world-stages/01.webp",
+          "alt": "New World Stages"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-09",
+        "image_ok": true,
+        "notes": "Daily 2026-11-09. Shubert-run single complex. Commons \"New World Stages June 2026.jpg\", Casey \"Poppins\" Nedelka, CC BY-SA 4.0 (frontage).",
+        "sources": [
+          "https://www.newworldstages.com/",
+          "https://commons.wikimedia.org/wiki/File:New_World_Stages_June_2026.jpg"
+        ]
+      }
+    },
+    {
+      "id": "jefferson-market-library",
+      "name": "Jefferson Market Library",
+      "area": "Greenwich Village, Manhattan",
+      "vibe": "Withers and Vaux's 1877 Victorian Gothic courthouse, saved by Village neighbours and reopened as a library in 1967. The old civil court is now the reading room, and the firewatcher's bell still hangs in the tower.",
+      "website": "https://www.nypl.org/about/locations/jefferson-market",
+      "images": [
+        {
+          "url": "/assets/opt/date/jefferson-market-library/01.webp",
+          "alt": "Jefferson Market Library"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-09",
+        "image_ok": true,
+        "notes": "Daily 2026-11-09. NYPL branch (free, public). Commons \"Jefferson Market Library August 2024.jpg\", Kidfly182, CC BY 4.0 (clock tower).",
+        "sources": [
+          "https://www.nypl.org/about/locations/jefferson-market",
+          "https://www.nypl.org/press/new-york-public-librarys-jefferson-market-branch-reopens-following-significant-improvements",
+          "https://commons.wikimedia.org/wiki/File:Jefferson_Market_Library_August_2024.jpg"
+        ]
+      }
+    },
+    {
+      "id": "conference-house",
+      "name": "Conference House",
+      "area": "Tottenville, Staten Island",
+      "vibe": "Captain Christopher Billopp's fieldstone manor of around 1680, where Franklin, Adams and Rutledge met Lord Howe on 11 September 1776 to try to end the Revolutionary War. A museum since 1927, restored to its mid-18th-century look and open weekend afternoons.",
+      "website": "https://historichousetrust.org/houses/conference-house/",
+      "images": [
+        {
+          "url": "/assets/opt/date/conference-house/01.webp",
+          "alt": "Conference House"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-09",
+        "image_ok": true,
+        "notes": "Daily 2026-11-09. Website switched to the Historic House Trust page because conferencehouse.org still carries injected casino spam (checked 09 Nov). Hook from HHT text (built c.1680, 11 Sep 1776 conference, museum since 1927, restored to mid-18th-c, Sat-Sun 12-4pm). Commons \"Conference House.jpg\", H.L.I.T, CC BY 2.0 (2009, house among trees; subject slightly right of centre).",
+        "sources": [
+          "https://historichousetrust.org/houses/conference-house/",
+          "https://www.nycgovparks.org/parks/conference-house-park/highlights/10408",
+          "https://commons.wikimedia.org/wiki/File:Conference_House.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -8753,6 +8893,53 @@
         "sources": [
           "https://www.sothebys.com/en/restaurants/marcel",
           "https://romanandwilliams.com/pages/marcelnyc"
+        ]
+      }
+    },
+    {
+      "id": "fraunces-tavern",
+      "name": "Fraunces Tavern",
+      "area": "Financial District, Manhattan",
+      "vibe": "Revolutionary since 1762: the Pearl Street tavern where George Washington bade farewell to his officers. Booked tables are set in the Tallmadge and Bissell dining rooms.",
+      "website": "https://frauncestavern.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/fraunces-tavern/01.webp",
+          "alt": "Fraunces Tavern"
+        }
+      ],
+      "verified": {
+        "confidence": 3,
+        "checked_at": "2026-11-09",
+        "image_ok": true,
+        "notes": "Daily 2026-11-09. Restaurant in the same landmark as the separate date card fraunces-tavern-museum (museum vs restaurant; flag if you prefer one per building). Commons \"Dining room at Fraunces Tavern.JPG\", Billy Hathorn, CC BY-SA 3.0 (2009 dining room, no drinks in shot). Single site under this name; operated by Dublin's Porterhouse group (flagged).",
+        "sources": [
+          "https://frauncestavern.com/",
+          "https://commons.wikimedia.org/wiki/File:Dining_room_at_Fraunces_Tavern.JPG"
+        ]
+      }
+    },
+    {
+      "id": "manducatis",
+      "name": "Manducatis",
+      "area": "Long Island City, Queens",
+      "vibe": "Old Country Italian cooking on Jackson Avenue, opened on Christmas Day 1977 by Vincenzo and Ida Cerbone. Still family-run, with a veteran staff averaging 28 years of service.",
+      "website": "https://www.manducatis.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/manducatis/01.webp",
+          "alt": "Manducatis"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-09",
+        "image_ok": true,
+        "notes": "Daily 2026-11-09. Official About page. Photo: venue's own gallery (dining room with white tablecloths and curtained windows). Single site: Manducatis Rustica (46-35 Vernon Blvd) is a separate daughter-run restaurant with its own name and site, not a branch.",
+        "sources": [
+          "https://www.manducatis.com/",
+          "https://www.manducatis.com/about",
+          "https://www.manducatis.com/gallery"
         ]
       }
     }
