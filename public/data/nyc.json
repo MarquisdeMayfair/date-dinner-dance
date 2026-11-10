@@ -5037,6 +5037,146 @@
           "https://commons.wikimedia.org/wiki/File:Conference_House.jpg"
         ]
       }
+    },
+    {
+      "id": "ambassador-theatre",
+      "name": "Ambassador Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "The Shuberts' 1921 house on West 49th Street, set diagonally on its small lot, which gives it an unusual hexagonal auditorium. Herbert Krapp lined the walls, boxes and arches with Adam-style plasterwork.",
+      "website": "https://www.shubert.nyc/theatres/ambassador/",
+      "images": [
+        {
+          "url": "/assets/opt/date/ambassador-theatre/01.webp",
+          "alt": "Ambassador Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-10",
+        "image_ok": true,
+        "notes": "Daily 2026-11-10. Official Shubert page (history + architecture). Commons \"Ambassador Theatre Jul 2025 19.jpg\", Epicgenius, CC BY-SA 4.0 (auditorium side wall, fan-arched box).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/ambassador/",
+          "https://commons.wikimedia.org/wiki/File:Ambassador_Theatre_Jul_2025_19.jpg"
+        ]
+      }
+    },
+    {
+      "id": "winter-garden-theatre",
+      "name": "Winter Garden Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Shubert's longest-held playhouse, carved out of the old American Horse Exchange by turning the showring into an auditorium. Its proscenium is still the widest of any Shubert theatre, which pulls the audience close to the stage.",
+      "website": "https://www.shubert.nyc/theatres/winter-garden/",
+      "images": [
+        {
+          "url": "/assets/opt/date/winter-garden-theatre/01.webp",
+          "alt": "Winter Garden Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-10",
+        "image_ok": true,
+        "notes": "Daily 2026-11-10. Official Shubert page (history + architecture). Commons \"Winter Garden Theatre Aug 2025 21.jpg\", Epicgenius, CC BY-SA 4.0 (gilded boxes).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/winter-garden/",
+          "https://commons.wikimedia.org/wiki/File:Winter_Garden_Theatre_Aug_2025_21.jpg"
+        ]
+      }
+    },
+    {
+      "id": "john-golden-theatre",
+      "name": "John Golden Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Opened in 1927 as the Theatre Masque, the most intimate of the Chanin brothers' three West 45th Street houses and built for serious drama. Inside it's Mission Revival: rough plaster walls, wrought iron, spiral columns and ceiling arches.",
+      "website": "https://www.shubert.nyc/theatres/golden/",
+      "images": [
+        {
+          "url": "/assets/opt/date/john-golden-theatre/01.webp",
+          "alt": "John Golden Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-10",
+        "image_ok": true,
+        "notes": "Daily 2026-11-10. Official Shubert page (history + architecture). Commons \"John Golden Theatre Jun 2025 03.jpg\", Epicgenius, CC BY-SA 4.0 (proscenium and chandelier, centre crop).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/golden/",
+          "https://commons.wikimedia.org/wiki/File:John_Golden_Theatre_Jun_2025_03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "astor-place-theatre",
+      "name": "Astor Place Theatre",
+      "area": "NoHo, Manhattan",
+      "vibe": "An Off-Broadway stage inside an 1831 section of Colonnade Row, one of the city's rare Greek Revival survivors. Blue Man Group played here for 34 years; since 2025 it has reopened with new work and social spaces made for lingering.",
+      "website": "https://astorplacetheatre.com/",
+      "images": [
+        {
+          "url": "/assets/opt/date/astor-place-theatre/01.webp",
+          "alt": "Astor Place Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-10",
+        "image_ok": true,
+        "notes": "Daily 2026-11-10. Official About/history page; 2026 shows listed (Slanted Floors to 29 Nov, The Conversation from 17 Nov). Commons \"Astor Place Theatre (55381216075).jpg\", Ajay Suresh, CC BY 4.0 (Lafayette St colonnade and marquee).",
+        "sources": [
+          "https://astorplacetheatre.com/about/",
+          "https://astorplacetheatre.com/",
+          "https://commons.wikimedia.org/wiki/File:Astor_Place_Theatre_(55381216075).jpg"
+        ]
+      }
+    },
+    {
+      "id": "greenacre-park",
+      "name": "Greenacre Park",
+      "area": "Midtown East, Manhattan",
+      "vibe": "A 6,000 sq ft pocket park off East 51st Street, open since 1971 and laid out on several levels by Hideo Sasaki's firm. A waterfall at the back blocks out the city noise, and the covered seating has overhead heaters for cooler days.",
+      "website": "https://www.greenacrepark.org/",
+      "images": [
+        {
+          "url": "/assets/opt/date/greenacre-park/01.webp",
+          "alt": "Greenacre Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-10",
+        "image_ok": true,
+        "notes": "Daily 2026-11-10. Official home + Design pages. Seasonal: open daily April to December (fall hours 8am-6pm through 17 Dec 2026). Commons \"Greenacre Park.jpg\", Appitecture, CC BY-SA 4.0 (2018, waterfall with Bertoia chairs; filtered phone photo, lightly smoothed to fit the size cap).",
+        "sources": [
+          "https://www.greenacrepark.org/",
+          "https://www.greenacrepark.org/design",
+          "https://commons.wikimedia.org/wiki/File:Greenacre_Park.jpg"
+        ]
+      }
+    },
+    {
+      "id": "jamaica-bay-wildlife-refuge",
+      "name": "Jamaica Bay Wildlife Refuge",
+      "area": "Broad Channel, Queens",
+      "vibe": "More than 12,600 acres of saltmarsh, ponds, fields, woods and open bay, and one of the largest bird habitats in the north-eastern US. Walk the full loop round West Pond, with bird blinds along the path.",
+      "website": "https://www.nps.gov/gate/learn/historyculture/jamaica-bay-wildlife-refuge.htm",
+      "images": [
+        {
+          "url": "/assets/opt/date/jamaica-bay-wildlife-refuge/01.webp",
+          "alt": "Jamaica Bay Wildlife Refuge"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-10",
+        "image_ok": true,
+        "notes": "Daily 2026-11-10. Official NPS Gateway page (trails 6am-9pm daily; visitor centre weekends 10am-4pm). Commons \"Lots of swans in West Pond at Jamaica Bay Wildlife Refuge (97188).jpg\", Rhododendrites, CC BY-SA 4.0 (2019).",
+        "sources": [
+          "https://www.nps.gov/gate/learn/historyculture/jamaica-bay-wildlife-refuge.htm",
+          "https://commons.wikimedia.org/wiki/File:Lots_of_swans_in_West_Pond_at_Jamaica_Bay_Wildlife_Refuge_(97188).jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -8942,6 +9082,50 @@
           "https://www.manducatis.com/gallery"
         ]
       }
+    },
+    {
+      "id": "kochi",
+      "name": "Kochi",
+      "area": "Hell's Kitchen, Manhattan",
+      "vibe": "Chef Shim's Michelin-starred room on 10th Avenue, named for the Korean word for skewer. An eight-course tasting menu pays homage to Korean royal cuisine by way of street food, from a delicate hwe course to bibimbap.",
+      "website": "https://www.kochinyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/kochi/01.webp",
+          "alt": "Kochi"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-10",
+        "image_ok": true,
+        "notes": "Daily 2026-11-10. Official home/About section (opened late 2019, open 7 days). Photo: venue's own site, \"kochi25-08-07_credit-Dan-Ahn_036\" (dining room and chef's counter; re-cropped from the original to remove the wine rack). Single site.",
+        "sources": [
+          "https://www.kochinyc.com/"
+        ]
+      }
+    },
+    {
+      "id": "masa",
+      "name": "Masa",
+      "area": "Columbus Circle, Manhattan",
+      "vibe": "Chef Masayoshi Takayama's restaurant on the fourth floor of The Shops at Columbus Circle, run on the idea of shibui, complexity refined to simplicity. The sushi counter is one solid piece of hinoki, sanded daily, with seasonal branches arranged every day.",
+      "website": "https://www.masanyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/masa/01.webp",
+          "alt": "Masa"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-10",
+        "image_ok": true,
+        "notes": "Daily 2026-11-10. Official site (philosophy, hours Tue-Sat lunch and dinner). Photo: venue's own site, \"Masa_003\" (dining room with blossom branches and calligraphy). Bar Masa (next door), Kappo Masa (Madison Ave) and Tobi Masa (London) are separately named sister concepts, not Masa branches. Image re-exported from the original at higher quality on push.",
+        "sources": [
+          "https://www.masanyc.com/"
+        ]
+      }
     }
   ],
   "dance": [
@@ -11331,6 +11515,30 @@
         "sources": [
           "https://www.henriettahudson.com/",
           "https://www.henriettahudson.com/about"
+        ]
+      }
+    },
+    {
+      "id": "signal",
+      "name": "Signal",
+      "area": "East Williamsburg, Brooklyn",
+      "vibe": "An intimate Morgan Avenue club built around a four-point d&b surround system, with skylights over the 1,200 sq ft main room. Strictly no phones on the dance floor, and a year-round courtyard when you need air.",
+      "website": "https://www.signalnyc.club/",
+      "images": [
+        {
+          "url": "/assets/opt/dance/signal/01.webp",
+          "alt": "Signal"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-10",
+        "image_ok": true,
+        "notes": "Daily 2026-11-10. Official site (The Club, FAQ, Private Events); opened May 2025 (RA/Mixmag). Photo: venue's own site \"SIGNAL-NIGHT-59\" (empty main room, DJ booth and dance floor; no bar in frame).",
+        "sources": [
+          "https://www.signalnyc.club/",
+          "https://www.signalnyc.club/the-club",
+          "https://www.signalnyc.club/private-events"
         ]
       }
     }
