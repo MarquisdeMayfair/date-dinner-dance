@@ -5177,6 +5177,75 @@
           "https://commons.wikimedia.org/wiki/File:Lots_of_swans_in_West_Pond_at_Jamaica_Bay_Wildlife_Refuge_(97188).jpg"
         ]
       }
+    },
+    {
+      "id": "argosy-book-store",
+      "name": "Argosy Book Store",
+      "area": "Midtown East, Manhattan",
+      "vibe": "Founded in 1925 and now in its third generation of family ownership, with antiquarian and out-of-print stock filling a six-floor building on East 59th Street. Browse antique maps and prints, signed autographs and modern first editions.",
+      "website": "https://www.argosybooks.com/",
+      "images": [
+        {
+          "url": "/assets/opt/date/argosy-book-store/01.webp",
+          "alt": "Argosy Book Store"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-11",
+        "image_ok": true,
+        "notes": "Daily 2026-11-11. Official home page (founding, six floors, specialities). Open Mon-Sat; still family-run per NYT Nov 2025, no closure reports. Photo: venue's own site carousel \"carousel_26_1\" (wood-panelled main floor; 965 px source, upscaled so slightly soft). Single site (Brooklyn warehouse is storage, not a shop).",
+        "sources": [
+          "https://www.argosybooks.com/"
+        ]
+      }
+    },
+    {
+      "id": "fort-greene-park",
+      "name": "Fort Greene Park",
+      "area": "Fort Greene, Brooklyn",
+      "vibe": "A hilltop Brooklyn park that Walt Whitman helped to found, where Marianne Moore wrote nature poetry and Richard Wright worked on a novel. Come in summer for movie nights on the lawn with Rooftop Films, or join a guided history walk in autumn.",
+      "website": "https://www.fortgreenepark.org/",
+      "images": [
+        {
+          "url": "/assets/opt/date/fort-greene-park/01.webp",
+          "alt": "Fort Greene Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-11",
+        "image_ok": true,
+        "notes": "Daily 2026-11-11. Official Fort Greene Park Conservancy home page (poetry history, Movies on the Lawn, November 2026 tours). Photo: Commons \"Fort Greene Park in Autumn.jpg\", Kylan04, CC BY-SA 4.0 (Nov 2025, ginkgo-lined path).",
+        "sources": [
+          "https://www.fortgreenepark.org/",
+          "https://commons.wikimedia.org/wiki/File:Fort_Greene_Park_in_Autumn.jpg"
+        ]
+      }
+    },
+    {
+      "id": "carl-schurz-park",
+      "name": "Carl Schurz Park",
+      "area": "Yorkville, Manhattan",
+      "vibe": "A 15-acre park on the East River from East 84th to 90th Street, on the old point overlooking the Hell Gate strait where Gracie Mansion stands. North of 86th Street is kept for quiet relaxation, and the John Finley Walk runs along the esplanade above the FDR Drive.",
+      "website": "https://www.carlschurzparknyc.org/",
+      "images": [
+        {
+          "url": "/assets/opt/date/carl-schurz-park/01.webp",
+          "alt": "Carl Schurz Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-11",
+        "image_ok": true,
+        "notes": "Daily 2026-11-11. Official Carl Schurz Park Conservancy pages (About, History of the Park, Rules). Photo: Commons \"Carl Schurz Park Apr 2026 14.jpg\", Epicgenius, CC BY-SA 4.0 (stone arch and garden path; lightly smoothed to fit the size cap).",
+        "sources": [
+          "https://www.carlschurzparknyc.org/about",
+          "https://www.carlschurzparknyc.org/the-history-of-the-park",
+          "https://commons.wikimedia.org/wiki/File:Carl_Schurz_Park_Apr_2026_14.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -9126,6 +9195,54 @@
           "https://www.masanyc.com/"
         ]
       }
+    },
+    {
+      "id": "central-park-boathouse",
+      "name": "Central Park Boathouse",
+      "area": "Central Park, Manhattan",
+      "vibe": "Central Park's lakeside Boathouse at East 72nd Street, recently refreshed, where window tables look out over the Lake. Book a long lunch (tables until 7pm on Fridays and Saturdays), then hire a rowing boat before dusk.",
+      "website": "https://centralparkboathouse.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/central-park-boathouse/01.webp",
+          "alt": "Central Park Boathouse"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-11",
+        "image_ok": true,
+        "notes": "Daily 2026-11-11. Official home + Dining pages (formerly the Loeb Boathouse; restaurant 12-5pm Sun-Thu, 12-7pm Fri-Sat, so lunch/early supper rather than late dinner; boats 10am-dusk; cashless). Photo: Commons \"Central Park - Loeb Boathouse (48377219127).jpg\", Ajay Suresh, CC BY 2.0 (2019, exterior from the Lake, before the refresh). Single site.",
+        "sources": [
+          "https://centralparkboathouse.com/",
+          "https://centralparkboathouse.com/dining/",
+          "https://commons.wikimedia.org/wiki/File:Central_Park_-_Loeb_Boathouse_(48377219127).jpg"
+        ]
+      }
+    },
+    {
+      "id": "killmeyers-old-bavaria-inn",
+      "name": "Killmeyer's Old Bavaria Inn",
+      "area": "Charleston, Staten Island",
+      "vibe": "Staten Island's only German restaurant, out on Arthur Kill Road and serving since 1967. Settle in for veal Wienerschnitzel, rouladen with potato dumplings and red cabbage, or a wurst sampler with sauerkraut.",
+      "website": "https://www.killmeyersoldbavariainn.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/killmeyers-old-bavaria-inn/01.webp",
+          "alt": "Killmeyer's Old Bavaria Inn"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-11",
+        "image_ok": true,
+        "notes": "Daily 2026-11-11. Official home + Dinner Menu pages (kitchen Tue-Sun, closed Mon); new ownership reported by silive Jan 2026, still trading. Site also promotes its beer list and biergarten, but the menu is food-first. Photo: Commons \"Killmeyer's - 17.jpg\", Oleg Yunakov, CC BY-SA 4.0 (Jan 2026, fireside dining nook with Christmas decorations; chosen over the exterior, which shows beer-brand window signs). Single site.",
+        "sources": [
+          "https://www.killmeyersoldbavariainn.com/",
+          "https://www.killmeyersoldbavariainn.com/dinner-menu",
+          "https://commons.wikimedia.org/wiki/File:Killmeyer%27s_-_17.jpg"
+        ]
+      }
     }
   ],
   "dance": [
@@ -11539,6 +11656,53 @@
           "https://www.signalnyc.club/",
           "https://www.signalnyc.club/the-club",
           "https://www.signalnyc.club/private-events"
+        ]
+      }
+    },
+    {
+      "id": "xanadu",
+      "name": "Xanadu",
+      "area": "Bushwick, Brooklyn",
+      "vibe": "A Bushwick roller rink with 7,000 sq ft of hand-painted Canadian maple and a six-point d&b audiotechnik sound system, programmed by the team behind The Sultan Room. On club nights you skate until 10pm, then the rink becomes a dance floor.",
+      "website": "https://www.xanadu.nyc/",
+      "images": [
+        {
+          "url": "/assets/opt/dance/xanadu/01.webp",
+          "alt": "Xanadu"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-11",
+        "image_ok": true,
+        "notes": "Daily 2026-11-11. Official home + FAQ pages (events-only opening; November 2026 calendar live). Photo: venue's own site \"026_Xanadu_MikeShane_7302684\" (rink floor, DJ booth and skaters). Same team as The Sultan Room card but a separately named venue, not a branch.",
+        "sources": [
+          "https://www.xanadu.nyc/",
+          "https://www.xanadu.nyc/faq",
+          "https://www.xanadu.nyc/cal"
+        ]
+      }
+    },
+    {
+      "id": "gonzalez-y-gonzalez",
+      "name": "Gonzalez y Gonzalez",
+      "area": "Greenwich Village, Manhattan",
+      "vibe": "A Mercer Street Mexican restaurant and live salsa saloon, going since 1989. Thursday to Sunday a live band plays two sets, and on Thursdays and Sundays there's a free salsa lesson at 8:30pm.",
+      "website": "https://gygnyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dance/gonzalez-y-gonzalez/01.webp",
+          "alt": "Gonzalez y Gonzalez"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-11",
+        "image_ok": true,
+        "notes": "Daily 2026-11-11. Official home + Live Salsa pages (November 2026 band listings). Photo: venue's own site video poster \"10420_video_desktop_v1\" (awning and doorway at night; 1280 px video still, soft). Single site.",
+        "sources": [
+          "https://gygnyc.com/",
+          "https://gygnyc.com/new-york-soho-greenwich-village-gonzalez-y-gonzalez-live-salsa"
         ]
       }
     }
