@@ -5246,6 +5246,167 @@
           "https://commons.wikimedia.org/wiki/File:Carl_Schurz_Park_Apr_2026_14.jpg"
         ]
       }
+    },
+    {
+      "id": "ethel-barrymore-theatre",
+      "name": "Ethel Barrymore Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Built in 1928 after the Shuberts offered Ethel Barrymore a theatre of her own, it's the last house Lee and J.J. Shubert ever built. Herbert Krapp modelled the West 47th Street front on the public baths of Rome, with a two-storey terracotta grille.",
+      "website": "https://www.shubert.nyc/theatres/barrymore/",
+      "images": [
+        {
+          "url": "/assets/opt/date/ethel-barrymore-theatre/01.webp",
+          "alt": "Ethel Barrymore Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-12",
+        "image_ok": true,
+        "notes": "Daily 2026-11-12. Official Shubert page (history + architecture; current shows listed). Commons \"Ethel Barrymore Theatre Apr 2026 35.jpg\", Epicgenius, CC BY-SA 4.0 (side boxes and ceiling dome; lighting rig in frame).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/barrymore/",
+          "https://commons.wikimedia.org/wiki/File:Ethel_Barrymore_Theatre_Apr_2026_35.jpg"
+        ]
+      }
+    },
+    {
+      "id": "bernard-b-jacobs-theatre",
+      "name": "Bernard B. Jacobs Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Opened by the Chanin brothers in 1927 as the Royale, the middle-sized house of their three-theatre block beside the Majestic and the Golden. Inside, a groin-vaulted ceiling rests on side arches painted with Willy Pogany's 'Lovers of Spain' murals.",
+      "website": "https://www.shubert.nyc/theatres/jacobs/",
+      "images": [
+        {
+          "url": "/assets/opt/date/bernard-b-jacobs-theatre/01.webp",
+          "alt": "Bernard B. Jacobs Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-12",
+        "image_ok": true,
+        "notes": "Daily 2026-11-12. Official Shubert page (history + architecture; The Outsiders now playing). Commons \"Jacobs Interior (49623292843).jpg\", CC BY 2.0 (Mar 2020, auditorium with mural and audience).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/jacobs/",
+          "https://commons.wikimedia.org/wiki/File:Jacobs_Interior_(49623292843).jpg"
+        ]
+      }
+    },
+    {
+      "id": "gerald-schoenfeld-theatre",
+      "name": "Gerald Schoenfeld Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Built by the Shuberts in 1917 as the Plymouth, alongside the Broadhurst next door, and renamed in 2005 for the company's late chairman. It was Herbert Krapp's first solo commission, with Adam-style detailing that echoes the Booth and the Shubert.",
+      "website": "https://www.shubert.nyc/theatres/schoenfeld/",
+      "images": [
+        {
+          "url": "/assets/opt/date/gerald-schoenfeld-theatre/01.webp",
+          "alt": "Gerald Schoenfeld Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-12",
+        "image_ok": true,
+        "notes": "Daily 2026-11-12. Official Shubert page (history + architecture; Buena Vista Social Club now playing). Commons \"Gerald Schoenfeld Theatre Jul 2025 14.jpg\", Epicgenius, CC BY-SA 4.0 (ceiling medallion and chandelier).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/schoenfeld/",
+          "https://commons.wikimedia.org/wiki/File:Gerald_Schoenfeld_Theatre_Jul_2025_14.jpg"
+        ]
+      }
+    },
+    {
+      "id": "longacre-theatre",
+      "name": "Longacre Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Named for Longacre Square, the old name for Times Square, and built by H.H. Frazee, the Red Sox owner who sold Babe Ruth to the Yankees. Henry B. Herts gave it a French neoclassical front and a Beaux-Arts interior, with the plasterwork restored in 2007-08.",
+      "website": "https://www.shubert.nyc/theatres/longacre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/longacre-theatre/01.webp",
+          "alt": "Longacre Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-12",
+        "image_ok": true,
+        "notes": "Daily 2026-11-12. Official Shubert page (history + architecture; current shows listed). Commons \"Longacre Theatre Jun 2025 32.jpg\", Epicgenius, CC BY-SA 4.0 (chandelier and box; stage lights in frame).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/longacre/",
+          "https://commons.wikimedia.org/wiki/File:Longacre_Theatre_Jun_2025_32.jpg"
+        ]
+      }
+    },
+    {
+      "id": "james-earl-jones-theatre",
+      "name": "James Earl Jones Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Built by John Cort and renamed in 2022 for James Earl Jones, who made his Broadway debut here in 1958. It's the only working Broadway playhouse by Thomas Lamb, with a front modelled on the Petit Trianon at Versailles and a Louis XVI-style interior.",
+      "website": "https://www.shubert.nyc/theatres/james-earl-jones/",
+      "images": [
+        {
+          "url": "/assets/opt/date/james-earl-jones-theatre/01.webp",
+          "alt": "James Earl Jones Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-12",
+        "image_ok": true,
+        "notes": "Daily 2026-11-12. Official Shubert page (history + architecture; Wanted now playing). Commons \"James Earl Jones Theatre Apr 2025 13.jpg\", Epicgenius, CC BY-SA 4.0 (gilded boxes beside the stage; a previous show's set is lit on stage).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/james-earl-jones/",
+          "https://commons.wikimedia.org/wiki/File:James_Earl_Jones_Theatre_Apr_2025_13.jpg"
+        ]
+      }
+    },
+    {
+      "id": "hudson-theatre",
+      "name": "Hudson Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "One of Broadway's oldest playhouses and a New York City landmark since 1987, entered through a grand 100-foot-long lobby. It has staged Sunday in the Park with George, Plaza Suite and the Tony-winning Merrily We Roll Along.",
+      "website": "https://www.hudsonbroadway.com/",
+      "images": [
+        {
+          "url": "/assets/opt/date/hudson-theatre/01.webp",
+          "alt": "Hudson Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-12",
+        "image_ok": true,
+        "notes": "Daily 2026-11-12. Official ATG venue page (landmark status, lobby, past productions; Other Desert Cities through Jan 2027). Commons \"Hudson Theatre May 2025 27.jpg\", Epicgenius, CC BY-SA 4.0 (coffered ceiling and proscenium, centre crop; a show set lit on stage). ATG runs other theatres, but this is a single building, not a branch.",
+        "sources": [
+          "https://www.hudsonbroadway.com/",
+          "https://commons.wikimedia.org/wiki/File:Hudson_Theatre_May_2025_27.jpg"
+        ]
+      }
+    },
+    {
+      "id": "new-amsterdam-theatre",
+      "name": "New Amsterdam Theatre",
+      "area": "Times Square, Manhattan",
+      "vibe": "Hailed as 'The House Beautiful' when it opened in 1903, it's the oldest working theatre on Broadway and an official city landmark. Disney's restoration brought back its art and architecture, and Aladdin now plays there.",
+      "website": "https://www.newamsterdamtheatre.com/",
+      "images": [
+        {
+          "url": "/assets/opt/date/new-amsterdam-theatre/01.webp",
+          "alt": "New Amsterdam Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-12",
+        "image_ok": true,
+        "notes": "Daily 2026-11-12. Official theatre site (history, landmark status, Aladdin; tours currently paused). Commons \"New Amsterdam Theatre May 2025 29.jpg\", Epicgenius, CC BY-SA 4.0 (Art Nouveau box carving).",
+        "sources": [
+          "https://www.newamsterdamtheatre.com/",
+          "https://commons.wikimedia.org/wiki/File:New_Amsterdam_Theatre_May_2025_29.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -9241,6 +9402,29 @@
           "https://www.killmeyersoldbavariainn.com/",
           "https://www.killmeyersoldbavariainn.com/dinner-menu",
           "https://commons.wikimedia.org/wiki/File:Killmeyer%27s_-_17.jpg"
+        ]
+      }
+    },
+    {
+      "id": "lattanzi",
+      "name": "Lattanzi",
+      "area": "Restaurant Row, Theater District, Manhattan",
+      "vibe": "A family-run Italian restaurant on Restaurant Row since 1984, begun by the family of Erminia Lattanzi, who came from Italy to Brooklyn with her five children in 1965 and cooked alongside her son Paolo. The Saturday Night Live crew is known to come in on Tuesday nights.",
+      "website": "https://lattanzinyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/lattanzi/01.webp",
+          "alt": "Lattanzi"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-12",
+        "image_ok": true,
+        "notes": "Daily 2026-11-12. Official home page (Our History, est. 1984; press quote on the SNL Tuesday crowd; hours Tue-Sun). Open per Yelp/OpenTable Oct-Nov 2026; single site, no other Lattanzi branch found (family's Erminia on the UES is a differently named sister concept). Photo: venue's own site gallery, glass-roofed garden room (yellow walls, white tablecloths), re-cropped 12 Nov from the original to replace the brick-room shot with its wine-bottle shelf and rows of stemware; two small set glasses remain.",
+        "sources": [
+          "https://lattanzinyc.com/",
+          "https://www.opentable.com/r/lattanzi-new-york"
         ]
       }
     }
