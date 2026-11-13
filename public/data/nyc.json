@@ -5407,6 +5407,121 @@
           "https://commons.wikimedia.org/wiki/File:New_Amsterdam_Theatre_May_2025_29.jpg"
         ]
       }
+    },
+    {
+      "id": "gershwin-theatre",
+      "name": "Gershwin Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Opened in 1972 as the Uris, it was the first new legitimate theatre built on Broadway since 1928, and was renamed in 1983 for George and Ira Gershwin. Its rotunda holds Broadway's Theater Hall of Fame, and Wicked has played here since October 2003.",
+      "website": "https://broadwaydirect.com/theatre/gershwin-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/gershwin-theatre/01.webp",
+          "alt": "Gershwin Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-13",
+        "image_ok": true,
+        "notes": "Daily 2026-11-13. Official Broadway Direct (Nederlander) theatre page: About + History. Commons \"Gershwin Theatre Aug 2026 01.jpg\", Epicgenius, CC BY-SA 4.0 (auditorium with the lit Wicked set on stage).",
+        "sources": [
+          "https://broadwaydirect.com/theatre/gershwin-theatre/",
+          "https://commons.wikimedia.org/wiki/File:Gershwin_Theatre_Aug_2026_01.jpg"
+        ]
+      }
+    },
+    {
+      "id": "lunt-fontanne-theatre",
+      "name": "Lunt-Fontanne Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Opened in 1910 as the Globe, named after Shakespeare's theatre, with a retractable roof so it could stay open through the summer. Rebuilt in 1958 and renamed for Alfred Lunt and Lynn Fontanne, it hangs photographs from the couple's own collection in its lobbies.",
+      "website": "https://broadwaydirect.com/theatre/lunt-fontanne-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/lunt-fontanne-theatre/01.webp",
+          "alt": "Lunt-Fontanne Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-13",
+        "image_ok": true,
+        "notes": "Daily 2026-11-13. Official Broadway Direct (Nederlander) theatre page (Blue Man Group holiday run, then Warriors). Commons \"Lunt-Fontanne Theatre May 2025 10.jpg\", Epicgenius, CC BY-SA 4.0 (ceiling dome and chandelier under blue house light).",
+        "sources": [
+          "https://broadwaydirect.com/theatre/lunt-fontanne-theatre/",
+          "https://commons.wikimedia.org/wiki/File:Lunt-Fontanne_Theatre_May_2025_10.jpg"
+        ]
+      }
+    },
+    {
+      "id": "richard-rodgers-theatre",
+      "name": "Richard Rodgers Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Opened in 1924 as the 46th Street Theatre and renamed in 1990 for Richard Rodgers, it has housed Guys and Dolls, Chicago and, since 2015, Hamilton. Inside, the Richard Rodgers Gallery shows memorabilia from the composer's career.",
+      "website": "https://broadwaydirect.com/theatre/richard-rodgers-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/richard-rodgers-theatre/01.webp",
+          "alt": "Richard Rodgers Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-13",
+        "image_ok": true,
+        "notes": "Daily 2026-11-13. Official Broadway Direct (Nederlander) theatre page (Hamilton now playing). Commons \"Richard Rodgers Theatre (14517725288).jpg\", Emily Mathews, CC BY 2.0 (2014, chandelier and painted ceiling medallion; light blur added for file size).",
+        "sources": [
+          "https://broadwaydirect.com/theatre/richard-rodgers-theatre/",
+          "https://commons.wikimedia.org/wiki/File:Richard_Rodgers_Theatre_(14517725288).jpg"
+        ]
+      }
+    },
+    {
+      "id": "palace-theatre-nyc",
+      "name": "Palace Theatre",
+      "area": "Times Square, Manhattan",
+      "vibe": "Opened in 1913, it was the country's leading vaudeville house, and 'playing the Palace' meant a performer had made it, from Houdini to Judy Garland. James M. Nederlander turned it into a legitimate theatre in 1965 for Sweet Charity with Gwen Verdon.",
+      "website": "https://broadwaydirect.com/theatre/palace-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/palace-theatre-nyc/01.webp",
+          "alt": "Palace Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-13",
+        "image_ok": true,
+        "notes": "Daily 2026-11-13. Official Broadway Direct (Nederlander) theatre page (The Lost Boys now playing). Slug -nyc because Manchester has palace-theatre. Commons \"Palace Theatre Oct 2025 03.jpg\", Epicgenius, CC BY-SA 4.0 (ceiling dome and chandelier; green show lighting).",
+        "sources": [
+          "https://broadwaydirect.com/theatre/palace-theatre/",
+          "https://commons.wikimedia.org/wiki/File:Palace_Theatre_Oct_2025_03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "marquis-theatre",
+      "name": "Marquis Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Opened in 1986 inside the Marriott Marquis, it's one of Broadway's newest houses, built with high ceilings, wide aisles and a deliberately intimate feel. It has staged Me and My Girl, Gypsy and Thoroughly Modern Millie, and Stranger Things: The First Shadow plays there now.",
+      "website": "https://broadwaydirect.com/theatre/marquis-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/marquis-theatre/01.webp",
+          "alt": "Marquis Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-13",
+        "image_ok": true,
+        "notes": "Daily 2026-11-13. Official Broadway Direct (Nederlander) theatre page. A single theatre inside the hotel, not a branch. Commons \"Marquis Theatre Sep 2025 09.jpg\", Epicgenius, CC BY-SA 4.0 (curved balcony and stalls; a few seated patrons).",
+        "sources": [
+          "https://broadwaydirect.com/theatre/marquis-theatre/",
+          "https://commons.wikimedia.org/wiki/File:Marquis_Theatre_Sep_2025_09.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -9425,6 +9540,75 @@
         "sources": [
           "https://lattanzinyc.com/",
           "https://www.opentable.com/r/lattanzi-new-york"
+        ]
+      }
+    },
+    {
+      "id": "sistina",
+      "name": "Sistina",
+      "area": "Upper East Side, Manhattan",
+      "vibe": "Chef-owner Giuseppe Bruno cooks the fresh comfort food of his Salerno ancestors and goes to market himself each day for fish, meat and local farm vegetables. After 33 years on Second Avenue, Sistina moved into a townhouse on East 81st Street between Madison and Fifth.",
+      "website": "https://www.sistinany.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/sistina/01.webp",
+          "alt": "Sistina"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-13",
+        "image_ok": true,
+        "notes": "Daily 2026-11-13. Official home page (chef, market, relocation; open daily lunch and dinner). Open per Madison Avenue BID listing and NY Post Jun 2026 (Bruno adding a private club in the same townhouse). Single site; the family's Caravaggio is a differently named sister restaurant. Photo: venue's own site (Web_Sistina_251001_006, tin-ceilinged dining room, white tablecloths, water glasses only).",
+        "sources": [
+          "https://www.sistinany.com/",
+          "https://madisonavenuebid.org/directory/sistina/"
+        ]
+      }
+    },
+    {
+      "id": "becco",
+      "name": "Becco",
+      "area": "Restaurant Row, Theater District, Manhattan",
+      "vibe": "Lidia Bastianich and her son Joe opened Becco on Restaurant Row in 1992, naming it after beccare, the Italian verb for pecking at or savouring something with discernment. It's best known for the sinfonia di paste, unlimited tableside servings of the chef's three daily pastas.",
+      "website": "https://www.becco-nyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/becco/01.webp",
+          "alt": "Becco"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-13",
+        "image_ok": true,
+        "notes": "Daily 2026-11-13. Official About + Menus pages (Tue-Sun dinner; Thanksgiving menu posted for 26 Nov 2026). No other Becco found; the Bastianichs' other restaurants carry different names. Photo: venue's own site (pesto rigatoni and spaghetti al pomodoro plate).",
+        "sources": [
+          "https://www.becco-nyc.com/about/",
+          "https://www.becco-nyc.com/menus/"
+        ]
+      }
+    },
+    {
+      "id": "golden-unicorn",
+      "name": "Golden Unicorn",
+      "area": "Chinatown, Manhattan",
+      "vibe": "Opened in 1989 as Chinatown's first upscale Cantonese banquet restaurant with dim sum service, done out in red and gold. Its chefs start at eight each morning making the day's dim sum by hand, and most tables are still local Cantonese and Fujianese families in for yum cha.",
+      "website": "https://www.goldenunicornrestaurant.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/golden-unicorn/01.webp",
+          "alt": "Golden Unicorn"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-13",
+        "image_ok": true,
+        "notes": "Daily 2026-11-13. Official home page (est. 1989, hours daily from 9-10am). Open per Yelp (updated Oct 2026); single site at 18 East Broadway, no branch found. Photo: venue's own site (stacked bamboo steamers in the kitchen).",
+        "sources": [
+          "https://www.goldenunicornrestaurant.com/",
+          "https://www.yelp.com/biz/golden-unicorn-new-york"
         ]
       }
     }
