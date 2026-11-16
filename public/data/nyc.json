@@ -5522,6 +5522,121 @@
           "https://commons.wikimedia.org/wiki/File:Marquis_Theatre_Sep_2025_09.jpg"
         ]
       }
+    },
+    {
+      "id": "little-red-lighthouse",
+      "name": "The Little Red Lighthouse",
+      "area": "Fort Washington Park, Washington Heights, Manhattan",
+      "vibe": "A 40-foot red lighthouse on the Hudson shore of Fort Washington Park, tucked under the George Washington Bridge at Jeffrey's Hook. Moved here from Sandy Hook in 1921 and decommissioned in 1948, it was saved from auction by the outcry over a 1942 children's book, The Little Red Lighthouse and the Great Gray Bridge.",
+      "website": "https://www.nycgovparks.org/parks/fort-washington-park/highlights/11044",
+      "images": [
+        {
+          "url": "/assets/opt/date/little-red-lighthouse/01.webp",
+          "alt": "The Little Red Lighthouse"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-16",
+        "image_ok": true,
+        "notes": "Daily 2026-11-16. Official NYC Parks highlights page (Historical Signs Project text); owned by NYC Parks, part of the Historic House Trust. Photo: Wikimedia Commons 'Little Red Lighthouse 2.jpg', Jose olivares, CC BY-SA 3.0. Access: the park and riverside grounds are public; the interior is generally closed, with occasional Urban Park Ranger tours (HHT; Oct 2026 festival). Card line framed on the park and river setting, not interior access.",
+        "sources": [
+          "https://www.nycgovparks.org/parks/fort-washington-park/highlights/11044",
+          "https://commons.wikimedia.org/wiki/File:Little_Red_Lighthouse_2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "high-bridge",
+      "name": "High Bridge",
+      "area": "Highbridge Park, Washington Heights, Manhattan / The Bronx",
+      "vibe": "New York's oldest standing bridge (1848), built to carry the Croton Aqueduct 138 feet above the Harlem River with a pedestrians-only walkway on top. Reopened in 2015 after more than 40 years shut, it links Manhattan and the Bronx again, with bronze medallions in the path telling its story.",
+      "website": "https://www.nycgovparks.org/parks/highbridge-park/history",
+      "images": [
+        {
+          "url": "/assets/opt/date/high-bridge/01.webp",
+          "alt": "High Bridge"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-16",
+        "image_ok": true,
+        "notes": "Daily 2026-11-16. Official NYC Parks Highbridge Park history page. Photo: Wikimedia Commons 'High Bridge jeh.JPG', Jim.henderson, public domain (re-cropped 16 Nov to drop a petrol-station sign).",
+        "sources": [
+          "https://www.nycgovparks.org/parks/highbridge-park/history",
+          "https://commons.wikimedia.org/wiki/File:High_Bridge_jeh.JPG"
+        ]
+      }
+    },
+    {
+      "id": "astoria-park",
+      "name": "Astoria Park",
+      "area": "Astoria, Queens",
+      "vibe": "Sixty acres of East River shoreline beneath the Hell Gate and RFK (Triborough) bridges, made a public park in 1913. Its 1936 WPA pool hosted the US Olympic swimming and diving trials in 1936 and 1964.",
+      "website": "https://www.nycgovparks.org/parks/astoria-park",
+      "images": [
+        {
+          "url": "/assets/opt/date/astoria-park/01.webp",
+          "alt": "Astoria Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-16",
+        "image_ok": true,
+        "notes": "Daily 2026-11-16. Official NYC Parks Astoria Park history page. Photo: Wikimedia Commons 'View of Hell Gate Bridge from Astoria Park, Queens New York.jpg', Kenneth C. Zirkel, CC BY 4.0 (light blur to stay under 150 KB).",
+        "sources": [
+          "https://www.nycgovparks.org/parks/astoria-park/history",
+          "https://commons.wikimedia.org/wiki/File:View_of_Hell_Gate_Bridge_from_Astoria_Park,_Queens_New_York.jpg"
+        ]
+      }
+    },
+    {
+      "id": "the-public-theater",
+      "name": "The Public Theater",
+      "area": "Astor Place, NoHo, Manhattan",
+      "vibe": "Conceived more than 60 years ago as one of the nation's first nonprofit theatres, The Public stages world-premiere plays and musicals at 425 Lafayette Street. The same company puts on free theatre at the Delacorte in Central Park and across the five boroughs.",
+      "website": "https://publictheater.org/",
+      "images": [
+        {
+          "url": "/assets/opt/date/the-public-theater/01.webp",
+          "alt": "The Public Theater"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-16",
+        "image_ok": true,
+        "notes": "Daily 2026-11-16. Official home page (About The Public). Distinct from Astor Place Theatre (already carded) and Joe's Pub (dance card inside the building). Photo: Wikimedia Commons 'Public Theatre Astor Library Building from south.jpg', Beyond My Ken, CC BY-SA 4.0.",
+        "sources": [
+          "https://publictheater.org/",
+          "https://commons.wikimedia.org/wiki/File:Public_Theatre_Astor_Library_Building_from_south.jpg"
+        ]
+      }
+    },
+    {
+      "id": "riverside-church",
+      "name": "The Riverside Church",
+      "area": "Morningside Heights, Manhattan",
+      "vibe": "Modelled on Chartres cathedral, its 392-foot tower is the tallest church in the US and holds a 74-bell carillon with a 20-ton bourdon. Tower tours climb past the bells to an open-air gallery with 360-degree views over the Hudson and the city.",
+      "website": "https://www.trcnyc.org/history/",
+      "images": [
+        {
+          "url": "/assets/opt/date/riverside-church/01.webp",
+          "alt": "The Riverside Church"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-16",
+        "image_ok": true,
+        "notes": "Daily 2026-11-16. Official History & Archives page (tower, carillon, Tower Tour). Photo: Wikimedia Commons 'Riverside Church 05.JPG', Ad Meskens, CC BY-SA 3.0.",
+        "sources": [
+          "https://www.trcnyc.org/history/",
+          "https://commons.wikimedia.org/wiki/File:Riverside_Church_05.JPG"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -9609,6 +9724,123 @@
         "sources": [
           "https://www.goldenunicornrestaurant.com/",
           "https://www.yelp.com/biz/golden-unicorn-new-york"
+        ]
+      }
+    },
+    {
+      "id": "gabriel-kreuther",
+      "name": "Gabriel Kreuther",
+      "area": "Bryant Park, Midtown Manhattan",
+      "vibe": "Chef Gabriel Kreuther's namesake room on West 42nd Street, after Michelin-starred kitchens in France, Germany and Switzerland and nearly a decade running The Modern. Choose three or four courses or the Chef's Tasting Menu, or book the Chef's Table set inside the kitchen itself.",
+      "website": "https://www.gknyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/gabriel-kreuther/01.webp",
+          "alt": "Gabriel Kreuther"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-16",
+        "image_ok": true,
+        "notes": "Daily 2026-11-16. Official home, chef and menus pages. Sister brasserie Saverne (Hudson Yards, opened Mar 2026, reopened 27 Jul 2026) has a different name; no other Gabriel Kreuther branch. Photo: venue's own site (seared pepper-crusted plate).",
+        "sources": [
+          "https://www.gknyc.com/",
+          "https://www.gknyc.com/chef-gabriel-kreuther",
+          "https://www.gknyc.com/menus"
+        ]
+      }
+    },
+    {
+      "id": "shalom-japan",
+      "name": "Shalom Japan",
+      "area": "South Williamsburg, Brooklyn",
+      "vibe": "Married chefs Aaron Israel and Sawako Okochi have cooked their Jewish and Japanese roots side by side on this quiet Southside corner since 2013. It's a small, homey room, and the matzoh ball ramen is the dish to order.",
+      "website": "https://shalomjapannyc.com/about/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/shalom-japan/01.webp",
+          "alt": "Shalom Japan"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-16",
+        "image_ok": true,
+        "notes": "Daily 2026-11-16. Official About page (opened 2013, 310 South 4th St). Single restaurant; the owners' 2024 café next door is named Tokidoki. Photo: venue's own site (corner exterior at dusk).",
+        "sources": [
+          "https://shalomjapannyc.com/about/",
+          "https://greenpointers.com/2024/10/04/williamsburgs-shalom-japan-to-open-cafe-and-event-space-next-door-plus-new-matzoh-ball-ramen-kits/"
+        ]
+      }
+    },
+    {
+      "id": "cafe-china",
+      "name": "Café China",
+      "area": "Herald Square, Midtown Manhattan",
+      "vibe": "Owners Yiming Wang and Xian Zhang have reimagined three floors of a 1930s brick building on West 37th Street, with a big round window up top. The menu runs from longtime-favourite Sichuan dishes such as spicy cumin lamb to other regional Chinese cooking and dim sum.",
+      "website": "https://cafechina.nyc/about",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cafe-china/01.webp",
+          "alt": "Café China"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-16",
+        "image_ok": true,
+        "notes": "Daily 2026-11-16. Official About page. A full-service Sichuan restaurant, not a café; relocated from 13 E 37th St in Dec 2021 (one site; sister Birds of a Feather has a different name). Round window per Eater 2022. Re-checked 16 Nov: a 'Williamsburg second location' report refers to 191 Grand St, which is Birds of a Feather. Photo: venue's own site (dining room with round window).",
+        "sources": [
+          "https://cafechina.nyc/about",
+          "https://ny.eater.com/2022/9/21/23348827/cafe-china-chili-nyc-sichuan-chinese-restaurants"
+        ]
+      }
+    },
+    {
+      "id": "atera",
+      "name": "Atera",
+      "area": "Tribeca, Manhattan",
+      "vibe": "A seasonal, continuously evolving tasting menu served at the counter on Worth Street, for parties of one to five. Andrew Ayala, who came up through Daniel and Per Se, takes over the kitchen from Ronny Emborg after 14 December.",
+      "website": "https://ateranyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/atera/01.webp",
+          "alt": "Atera"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-16",
+        "image_ok": true,
+        "notes": "Daily 2026-11-16. Official home page (tasting menu, parties of 1-5, chef change Nov-Dec 2026). Sister restaurant Farra has a different name. Photo: venue's own site (plated course).",
+        "sources": [
+          "https://ateranyc.com/",
+          "https://www.exploretock.com/atera"
+        ]
+      }
+    },
+    {
+      "id": "cafe-spaghetti",
+      "name": "Cafe Spaghetti",
+      "area": "Carroll Gardens, Brooklyn",
+      "vibe": "Chef Sal Lamboglia's ode to the classic neighbourhood Italian, with an intimate dining room and a lush, ivy-lined backyard garden. His Naples-born father's tiramisu is served nightly, alongside spaghetti pomodoro and cacio e pepe rice balls.",
+      "website": "https://www.cafespaghetti.com/about/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cafe-spaghetti/01.webp",
+          "alt": "Cafe Spaghetti"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-16",
+        "image_ok": true,
+        "notes": "Daily 2026-11-16. Official About page (126 Union St). A full-service Italian restaurant, not a café; Lamboglia's other places (Swoony's, Sal Tang's, Bar Ferdinando) have different names; re-checked 16 Nov. Photo: venue's own site (covered garden room, re-cropped 16 Nov to remove party balloons).",
+        "sources": [
+          "https://www.cafespaghetti.com/about/",
+          "https://ny.eater.com/2023/10/25/23925597/swoonys-opening-carroll-gardens-restaurant",
+          "https://ny.eater.com/news/409707/bar-ferdinando-open-brooklyn-bar-cafe-ferdinandos-focacceria-carroll-gardens-sal-lamboglia"
         ]
       }
     }
