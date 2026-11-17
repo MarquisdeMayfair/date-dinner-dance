@@ -5637,6 +5637,167 @@
           "https://commons.wikimedia.org/wiki/File:Riverside_Church_05.JPG"
         ]
       }
+    },
+    {
+      "id": "morningside-park",
+      "name": "Morningside Park",
+      "area": "Morningside Heights / Harlem",
+      "vibe": "Olmsted and Vaux's rugged park drops down a cliff of Manhattan schist from Morningside Heights to the Harlem plain, with Jacob Wrey Mould's buttressed promenade and stone steps along the top. At the foot, the crater left by Columbia's halted 1968 gym is now an ornamental pond and waterfall, restored in 2018.",
+      "website": "https://www.nycgovparks.org/parks/morningside-park",
+      "images": [
+        {
+          "url": "/assets/opt/date/morningside-park/01.webp",
+          "alt": "Morningside Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-17",
+        "image_ok": true,
+        "notes": "Daily 2026-11-17. Official NYC Parks history page (scenic landmark since 2008). Public park, open. Photo: Wikimedia Commons 'Morningside Park May 2026 12.jpg', Epicgenius, CC BY-SA 4.0 (the pond).",
+        "sources": [
+          "https://www.nycgovparks.org/parks/morningside-park/history",
+          "https://commons.wikimedia.org/wiki/File:Morningside_Park_May_2026_12.jpg"
+        ]
+      }
+    },
+    {
+      "id": "marcus-garvey-park",
+      "name": "Marcus Garvey Park",
+      "area": "Harlem",
+      "vibe": "Harlem's old Snake Hill is crowned by a 47-foot cast-iron fire watchtower from 1856, the only one of its kind in the US, fully restored in 2019. Below the Acropolis plaza, the Richard Rodgers Amphitheater is one of the city's best open-air stages.",
+      "website": "https://www.nycgovparks.org/parks/marcus-garvey-park",
+      "images": [
+        {
+          "url": "/assets/opt/date/marcus-garvey-park/01.webp",
+          "alt": "Marcus Garvey Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-17",
+        "image_ok": true,
+        "notes": "Daily 2026-11-17. Official NYC Parks history page (watchtower 1856, restored 2019; amphitheatre reopened 2011). Public park, open. Photo: Wikimedia Commons 'Watch Tower restored 2020 jeh.jpg', Jim.henderson, CC BY-SA 4.0.",
+        "sources": [
+          "https://www.nycgovparks.org/parks/marcus-garvey-park/history",
+          "https://commons.wikimedia.org/wiki/File:Watch_Tower_restored_2020_jeh.jpg"
+        ]
+      }
+    },
+    {
+      "id": "clove-lakes-park",
+      "name": "Clove Lakes Park",
+      "area": "West Brighton, Staten Island",
+      "vibe": "A glacial cleft of lakes, 1930s stone footbridges and three miles of hiking trails, with a former boathouse on an island in Clove Lake now serving as a restaurant. Look out for the 300-year-old tulip tree known as the Clove Lakes Colossus.",
+      "website": "https://www.nycgovparks.org/parks/clove-lakes-park",
+      "images": [
+        {
+          "url": "/assets/opt/date/clove-lakes-park/01.webp",
+          "alt": "Clove Lakes Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-17",
+        "image_ok": true,
+        "notes": "Daily 2026-11-17. Official NYC Parks history page. Public park, open (fishing temporarily suspended). Photo: Wikimedia Commons 'Clove Lake in Clove Lakes Park, Staten Island, NYC.jpg', Aude, CC BY-SA 4.0 (re-encoded at lower WebP quality with no blur, to stay under 150 KB).",
+        "sources": [
+          "https://www.nycgovparks.org/parks/clove-lakes-park/history",
+          "https://commons.wikimedia.org/wiki/File:Clove_Lake_in_Clove_Lakes_Park,_Staten_Island,_NYC.jpg"
+        ]
+      }
+    },
+    {
+      "id": "forest-park",
+      "name": "Forest Park",
+      "area": "Woodhaven, Queens",
+      "vibe": "More than 500 acres laid out by Olmsted, Olmsted & Eliot in the 1890s, holding the largest continuous oak forest in Queens and over five miles of walking trails. Find the carousel, the 1914 pine grove and the George Seuffert Sr. Bandshell along the way.",
+      "website": "https://www.nycgovparks.org/parks/forest-park",
+      "images": [
+        {
+          "url": "/assets/opt/date/forest-park/01.webp",
+          "alt": "Forest Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-17",
+        "image_ok": true,
+        "notes": "Daily 2026-11-17. Official NYC Parks history page (506.86 acres). Public park, open; the nature centre is currently closed, so the line doesn't mention it. Photo: Wikimedia Commons 'Forest Park Carousel fall jeh.JPG', Jim.henderson, CC0 (re-encoded at lower WebP quality with no blur; the carousel is shuttered in the photo and the line only says you'll find it).",
+        "sources": [
+          "https://www.nycgovparks.org/parks/forest-park/history",
+          "https://commons.wikimedia.org/wiki/File:Forest_Park_Carousel_fall_jeh.JPG"
+        ]
+      }
+    },
+    {
+      "id": "pelham-bay-park",
+      "name": "Pelham Bay Park",
+      "area": "The Bronx",
+      "vibe": "The city's largest park takes in Orchard Beach, the crescent-shaped 'Bronx Riviera' built in the late 1930s, and the 375-acre Thomas Pell Wildlife Refuge. Salt marsh, rocky shore and the 1842 Bartow-Pell Mansion are all within its 2,700-plus acres.",
+      "website": "https://www.nycgovparks.org/parks/pelham-bay-park",
+      "images": [
+        {
+          "url": "/assets/opt/date/pelham-bay-park/01.webp",
+          "alt": "Pelham Bay Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-17",
+        "image_ok": true,
+        "notes": "Daily 2026-11-17. Official NYC Parks history page (2,771.75 acres). Public park, open; the Orchard Beach Pavilion and nature centre are currently closed, so the line doesn't send people to them. Bartow-Pell Mansion Museum is already its own card; this is the park. Photo: Wikimedia Commons 'Pelham Bay salt marsh and Pelham Islands.jpg', Irina S.B., CC BY 4.0 (tighter crop on the rocks and islands, re-encoded with no blur, to stay under 150 KB).",
+        "sources": [
+          "https://www.nycgovparks.org/parks/pelham-bay-park/history",
+          "https://commons.wikimedia.org/wiki/File:Pelham_Bay_salt_marsh_and_Pelham_Islands.jpg"
+        ]
+      }
+    },
+    {
+      "id": "st-pauls-chapel",
+      "name": "St. Paul's Chapel",
+      "area": "Lower Manhattan",
+      "vibe": "Opened in 1766, it's the only colonial-era church left in Manhattan, and George Washington prayed here after his 1789 inauguration. It survived 9/11 less than 100 yards from the towers and now hosts free concerts beneath L'Enfant's Glory altarpiece.",
+      "website": "https://trinitywallstreet.org/visit/st-pauls-chapel",
+      "images": [
+        {
+          "url": "/assets/opt/date/st-pauls-chapel/01.webp",
+          "alt": "St. Paul's Chapel"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-17",
+        "image_ok": true,
+        "notes": "Daily 2026-11-17. Official Trinity Church St. Paul's Chapel visit page (open daily 8:30am–6pm). A separate building and name from the existing Trinity Church card. Photo: Wikimedia Commons \"St. Paul's Chapel - NYC (51522449420).jpg\", Ajay Suresh, CC BY 2.0.",
+        "sources": [
+          "https://trinitywallstreet.org/visit/st-pauls-chapel",
+          "https://commons.wikimedia.org/wiki/File:St._Paul's_Chapel_-_NYC_(51522449420).jpg"
+        ]
+      }
+    },
+    {
+      "id": "hunters-point-south-park",
+      "name": "Hunter's Point South Park",
+      "area": "Long Island City, Queens",
+      "vibe": "An abandoned post-industrial stretch of the Long Island City waterfront turned into a park with a waterside promenade, a central green and picnic terraces. Climb the 30-foot cantilevered platform for views across the East River to the Midtown East skyline.",
+      "website": "https://www.nycgovparks.org/parks/hunters-point-south-park",
+      "images": [
+        {
+          "url": "/assets/opt/date/hunters-point-south-park/01.webp",
+          "alt": "Hunter's Point South Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-17",
+        "image_ok": true,
+        "notes": "Daily 2026-11-17. Official NYC Parks park page (the history page has no text). Public park, open. Photo: Wikimedia Commons 'Hunter’s Point South Park - Phase 8 - Overlook.jpg', Daniel J. Prostak, CC BY-SA 4.0 (re-cropped to the skyline and cove; the overlook railing is now just a thin strip at the bottom).",
+        "sources": [
+          "https://www.nycgovparks.org/parks/hunters-point-south-park",
+          "https://commons.wikimedia.org/wiki/File:Hunter’s_Point_South_Park_-_Phase_8_-_Overlook.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -9841,6 +10002,76 @@
           "https://www.cafespaghetti.com/about/",
           "https://ny.eater.com/2023/10/25/23925597/swoonys-opening-carroll-gardens-restaurant",
           "https://ny.eater.com/news/409707/bar-ferdinando-open-brooklyn-bar-cafe-ferdinandos-focacceria-carroll-gardens-sal-lamboglia"
+        ]
+      }
+    },
+    {
+      "id": "hangawi",
+      "name": "Hangawi",
+      "area": "Koreatown",
+      "vibe": "Shoes come off at the door of this Koreatown sanctuary, open since 1994, where you dine at low tables with wells beneath, on a warm wooden floor. The plant-based Korean menu runs to sizzling stone bowls, hand-wrapped ssam bap and royal green tea from Mt. Jilee.",
+      "website": "https://hangawirestaurant.com/about-us/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/hangawi/01.webp",
+          "alt": "Hangawi"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-17",
+        "image_ok": true,
+        "notes": "Daily 2026-11-17. Official About page (12 E 32nd St). Single site: no second location in news; open per Yelp (Nov 2026) and Oct 2026 coverage. Full-service restaurant (takeaway is a sideline). The site footer carries a leftover theme placeholder ('Laurent Fine dining, 107 Duncan Avenue'), not spam. Photo: venue's own site (mainslide11, the long dining room with low tables).",
+        "sources": [
+          "https://hangawirestaurant.com/about-us/",
+          "https://www.yelp.com/biz/hangawi-new-york"
+        ]
+      }
+    },
+    {
+      "id": "dirt-candy",
+      "name": "Dirt Candy",
+      "area": "Lower East Side",
+      "vibe": "Amanda Cohen's Allen Street restaurant serves nothing but vegetables, as a single seasonal tasting menu that changes as the kitchen explores. Expect roaring fire, tableside grilling and strange broths, and no tipping, because staff are paid a living wage.",
+      "website": "https://www.dirtcandynyc.com/about",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/dirt-candy/01.webp",
+          "alt": "Dirt Candy"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-17",
+        "image_ok": true,
+        "notes": "Daily 2026-11-17. Official About page (86 Allen St). Single site: the original 18-seat East Village room closed when it moved here in 2015; open Tue–Sat per site, Michelin and Time Out (Jan 2026). Photo: venue's own site (DirtCandy-0198, a dish served in a terracotta pot; no drinks in frame).",
+        "sources": [
+          "https://www.dirtcandynyc.com/about",
+          "https://www.timeout.com/newyork/restaurants/dirt-candy-2"
+        ]
+      }
+    },
+    {
+      "id": "rolfs",
+      "name": "Rolf's",
+      "area": "Gramercy",
+      "vibe": "Five artists spend about three months dressing this German dining room at 22nd and Third with more than 200,000 lights and vintage ornaments, and the decorations now stay up all year. The kitchen sticks to Southern German and Bavarian classics: Wiener schnitzel, sauerbraten, potato pancakes and apple strudel.",
+      "website": "https://rolfsnyc.com/our-story/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/rolfs/01.webp",
+          "alt": "Rolf's"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-17",
+        "image_ok": true,
+        "notes": "Daily 2026-11-17. Official Our Story, home and Hours pages (281 Third Ave; open daily). Single site: no other branch in news. Restaurant-first: the site leads with the dining room and food; the bar is secondary, with no bottle service or shots. Photo: venue's own site (DSC02767, sauerbraten plate in the lit room, re-cropped to remove the oil bottle, salt shaker and menu holder; no bar, bottles or alcohol in frame).",
+        "sources": [
+          "https://rolfsnyc.com/our-story/",
+          "https://rolfsnyc.com/hours-and-location/",
+          "https://rolfsnyc.com/"
         ]
       }
     }
