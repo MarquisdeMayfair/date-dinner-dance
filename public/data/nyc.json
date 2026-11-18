@@ -5798,6 +5798,126 @@
           "https://commons.wikimedia.org/wiki/File:Hunter’s_Point_South_Park_-_Phase_8_-_Overlook.jpg"
         ]
       }
+    },
+    {
+      "id": "grace-church",
+      "name": "Grace Church",
+      "area": "Greenwich Village",
+      "vibe": "A Greenwich Village landmark since 1846, this Gothic Revival church stands at Broadway's distinctive bend at 10th Street, with its doors open seven days a week. Dial the free audio tour and walk clockwise past the stained glass windows and the Bicentennial Organ.",
+      "website": "https://gracechurchnyc.org/about/architecture/",
+      "images": [
+        {
+          "url": "/assets/opt/date/grace-church/01.webp",
+          "alt": "Grace Church"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-18",
+        "image_ok": true,
+        "notes": "Daily 2026-11-18. Official Architecture and Plan Your Visit pages (802 Broadway; open daily: Sun 8:30am–5pm, Mon–Thu and Sat 12–5pm, Fri 12–3pm). Single historic church. Photo: Wikimedia Commons 'Grace Church @Broadway.jpg', Stdjali, CC BY-SA 4.0 (the nave towards the altar window; cropped to remove a visitor at the left edge).",
+        "sources": [
+          "https://gracechurchnyc.org/about/architecture/",
+          "https://gracechurchnyc.org/visit/",
+          "https://commons.wikimedia.org/wiki/File:Grace_Church_@Broadway.jpg"
+        ]
+      }
+    },
+    {
+      "id": "salmagundi-club",
+      "name": "Salmagundi Club",
+      "area": "Greenwich Village",
+      "vibe": "Founded by artists and patrons in 1871, the club at 47 Fifth Avenue keeps its galleries free and open to the public all year round. Past members range from Stanford White and John Philip Sousa to Tony Bennett, who exhibited under his birth name, Anthony Benedetto.",
+      "website": "https://salmagundi.org/about/",
+      "images": [
+        {
+          "url": "/assets/opt/date/salmagundi-club/01.webp",
+          "alt": "Salmagundi Club"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-18",
+        "image_ok": true,
+        "notes": "Daily 2026-11-18. Official About and home pages (free admission to the galleries; current 2026 exhibitions listed through Dec). Open Tue–Fri 1–6pm, Sat–Sun 1–5pm per current listings. Photo: Wikimedia Commons 'Salmagundi-club-47-5th-avenue.JPG', Dmadeo, CC BY-SA 3.0 (the stoop and doorway of No. 47).",
+        "sources": [
+          "https://salmagundi.org/about/",
+          "https://salmagundi.org/",
+          "https://commons.wikimedia.org/wiki/File:Salmagundi-club-47-5th-avenue.JPG"
+        ]
+      }
+    },
+    {
+      "id": "garibaldi-meucci-museum",
+      "name": "Garibaldi-Meucci Museum",
+      "area": "Rosebank, Staten Island",
+      "vibe": "This Staten Island house was home to Antonio Meucci, whom the museum calls the true inventor of the telephone, and a refuge for Giuseppe Garibaldi, hero of Italian unification. For more than 50 years it has told the Italian-American story through exhibitions, opera lectures and classes.",
+      "website": "https://www.garibaldimeuccimuseum.com/visit",
+      "images": [
+        {
+          "url": "/assets/opt/date/garibaldi-meucci-museum/01.webp",
+          "alt": "Garibaldi-Meucci Museum"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-18",
+        "image_ok": true,
+        "notes": "Daily 2026-11-18. Official Visit page (420 Tompkins Ave; open Wed–Sat 1–5pm, last entry 4:30pm; $10). Single site. Photo: Wikimedia Commons 'Garibaldi meucci house 2008 07 20.jpg', Rolfmueller, CC BY-SA 3.0 (the house with the Garibaldi memorial in front).",
+        "sources": [
+          "https://www.garibaldimeuccimuseum.com/visit",
+          "https://www.garibaldimeuccimuseum.com/mission",
+          "https://commons.wikimedia.org/wiki/File:Garibaldi_meucci_house_2008_07_20.jpg"
+        ]
+      }
+    },
+    {
+      "id": "little-church-around-the-corner",
+      "name": "The Little Church Around the Corner",
+      "area": "NoMad",
+      "vibe": "Founded in 1848, the Church of the Transfiguration sheltered people escaping slavery on the Underground Railroad and won its nickname in 1870 by holding an actor's funeral that another church had refused. Its garden off East 29th Street is open daily for a quiet moment, with guided tours most Sundays after the 11am service.",
+      "website": "https://www.littlechurch.org/a-brief-history",
+      "images": [
+        {
+          "url": "/assets/opt/date/little-church-around-the-corner/01.webp",
+          "alt": "The Little Church Around the Corner"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-18",
+        "image_ok": true,
+        "notes": "Daily 2026-11-18. Official A Brief History and Visit pages (1 East 29th St; garden open daily; church open weekday office hours on request and on Sundays; tours most Sundays ~12:45pm). Photo: Wikimedia Commons 'Little Church Around the Corner October 2022.jpg', Kidfly182, CC BY-SA 4.0 (the garden and church).",
+        "sources": [
+          "https://www.littlechurch.org/a-brief-history",
+          "https://www.littlechurch.org/visit",
+          "https://commons.wikimedia.org/wiki/File:Little_Church_Around_the_Corner_October_2022.jpg"
+        ]
+      }
+    },
+    {
+      "id": "st-bartholomews-church",
+      "name": "St. Bartholomew's Church",
+      "area": "Midtown East",
+      "vibe": "Bertram Goodhue's Romanesque church on Park Avenue opened in 1918, framing the Stanford White portal brought from the parish's old Madison Avenue home. Inside, the Byzantine-style interior glows with mosaics in the narthex and over the high altar.",
+      "website": "https://stbarts.org/connect/history-and-architecture/",
+      "images": [
+        {
+          "url": "/assets/opt/date/st-bartholomews-church/01.webp",
+          "alt": "St. Bartholomew's Church"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-18",
+        "image_ok": true,
+        "notes": "Daily 2026-11-18. Official History and Architecture page (325 Park Ave; open to visitors Mon–Fri 9:30am–4:30pm and Sun 8am–6pm, closed Saturdays and some holidays, incl. a 28 Nov 2026 holiday closure). Photo: Wikimedia Commons \"St. Bartholomew's Church.jpg\", Charles Schreiber, CC BY-SA 4.0 (south transept rose window; in Commons category Interior of St. Bartholomew's Episcopal Church (Manhattan)).",
+        "sources": [
+          "https://stbarts.org/connect/history-and-architecture/",
+          "https://stbarts.org/connect/directions-and-parking/",
+          "https://commons.wikimedia.org/wiki/File:St._Bartholomew's_Church.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -10072,6 +10192,122 @@
           "https://rolfsnyc.com/our-story/",
           "https://rolfsnyc.com/hours-and-location/",
           "https://rolfsnyc.com/"
+        ]
+      }
+    },
+    {
+      "id": "le-rivage",
+      "name": "Le Rivage",
+      "area": "Theater District",
+      "vibe": "The Denamiel family left their Café du Soir on East 86th Street for Restaurant Row in 1984, opening this romantic French country dining room on West 46th Street. Chef Paul Denamiel, who trained at Le Cirque, keeps to classic French comfort food, with prix fixe menus at lunch and dinner.",
+      "website": "https://www.lerivagenyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/le-rivage/01.webp",
+          "alt": "Le Rivage"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-18",
+        "image_ok": true,
+        "notes": "Daily 2026-11-18. Official home page (340 W 46th St; open daily, holiday hours posted; Thanksgiving 2026 menu live). Single site: Café du Soir closed decades ago; no other branch in news (Oct–Nov 2026 posts, Nona's Supper Club spring 2026). Restaurant-first. Photo: venue's own site (new-interior2, the brick dining room with Provençal landscape paintings; set tables with empty stemware only, no bottles or bar).",
+        "sources": [
+          "https://www.lerivagenyc.com/",
+          "https://lerivagenyc.com/menus/specialty/thanksgiving"
+        ]
+      }
+    },
+    {
+      "id": "little-owl",
+      "name": "Little Owl",
+      "area": "West Village",
+      "vibe": "A corner restaurant at Bedford and Grove known for a big pork chop, serving bold Mediterranean food in an intimate dining room for almost two decades. Menus follow the seasons, with seafood from chef Joey Campanaro's own fishing trips and dishes from his childhood cooking alongside his grandmother.",
+      "website": "https://www.thelittleowlnyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/little-owl/01.webp",
+          "alt": "Little Owl"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-18",
+        "image_ok": true,
+        "notes": "Daily 2026-11-18. Official site (90 Bedford St; lunch, brunch and dinner daily; Thanksgiving 2026 prix fixe). Single restaurant: Appetito (June 2026) reports no plans for a second Little Owl; sister restaurants Market Table, The Clam and The Mary Lane have different names, and Little Owl The Townhouse is a private event space. Photo: venue's own site (gallery-exterior, the red shopfront and awning with a diner on the bench; no alcohol in frame).",
+        "sources": [
+          "https://www.thelittleowlnyc.com/",
+          "https://appetitomagazine.com/features/chef-joey-campanaro-and-20-years-of-the-little-owl"
+        ]
+      }
+    },
+    {
+      "id": "pisticci",
+      "name": "Pisticci",
+      "area": "Morningside Heights",
+      "vibe": "This La Salle Street trattoria was the first restaurant in NYC to go 100% carbon neutral, running on wind power and planting trees to offset the rest. Every Monday there's free live music in the cellar, and a new local artist goes up on the walls every three months.",
+      "website": "https://www.pisticcinyc.com/inspire-1",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/pisticci/01.webp",
+          "alt": "Pisticci"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-18",
+        "image_ok": true,
+        "notes": "Daily 2026-11-18. Official Inspire and Details pages (125 La Salle St; dinner nightly, weekday lunch, weekend brunch; Sound in the Cellar Mondays, no cover). Single site: no second location or closure in news; Yelp updated Oct 2026. Photo: venue's own site (IMG_0142, rigatoni with greens; food shot, as there's no clean room photo; no drinks in frame).",
+        "sources": [
+          "https://www.pisticcinyc.com/inspire-1",
+          "https://www.pisticcinyc.com/details",
+          "https://www.yelp.com/biz/pisticci-new-york"
+        ]
+      }
+    },
+    {
+      "id": "cafe-katja",
+      "name": "Café Katja",
+      "area": "Lower East Side",
+      "vibe": "A Lower East Side mainstay on Orchard Street since 2007, cooking contemporary Austrian and American food with a light touch from a seasonal, market-driven kitchen. Bring a crowd: the big tables seat 12 to 24 for family-style or prix fixe feasts.",
+      "website": "https://www.cafekatja.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cafe-katja/01.webp",
+          "alt": "Café Katja"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-18",
+        "image_ok": true,
+        "notes": "Daily 2026-11-18. Official home page (79 Orchard St; Thanksgiving 2026 orders open). Full-service restaurant despite the name. Single site: it expanded next door on Orchard Street (2011–13) rather than opening a branch; open per Yelp (Nov 2026). Photo: venue's own site (Exterior1, the lit shopfront under the Cafe Katja awning; cropped to remove an après-ski chalkboard and drinks on tables).",
+        "sources": [
+          "https://www.cafekatja.com/",
+          "https://www.yelp.com/biz/cafe-katja-new-york"
+        ]
+      }
+    },
+    {
+      "id": "elia",
+      "name": "Elia",
+      "area": "Bay Ridge, Brooklyn",
+      "vibe": "Pete and Christina Lekkas opened this Bay Ridge Greek restaurant in December 1998, naming it for the olive and cooking with Greek extra virgin olive oil in every dish. The warm room evokes a village taverna, while the kitchen gives grilled octopus, branzino and moussaka a modern turn.",
+      "website": "https://www.eliarestaurant.com/about",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/elia/01.webp",
+          "alt": "Elia"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-18",
+        "image_ok": true,
+        "notes": "Daily 2026-11-18. Official About page (8611 Third Ave; Tue–Sun dinner, closed Mon). Single site: no other branch in news; open per Yelp (Oct 2026). Photo: venue's own site (ArniYouvetsi, lamb youvetsi in a clay dish; food shot, as the site's only non-food images are cocktails at the bar, which were excluded).",
+        "sources": [
+          "https://www.eliarestaurant.com/about",
+          "https://www.yelp.com/biz/elia-restaurant-brooklyn-2"
         ]
       }
     }
