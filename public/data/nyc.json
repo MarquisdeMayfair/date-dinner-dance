@@ -5918,6 +5918,101 @@
           "https://commons.wikimedia.org/wiki/File:St._Bartholomew's_Church.jpg"
         ]
       }
+    },
+    {
+      "id": "queens-zoo",
+      "name": "Queens Zoo",
+      "area": "Flushing Meadows, Queens",
+      "vibe": "Opened in 1968 on the old World's Fair grounds, this 20-acre zoo shows wildlife of the Americas, from Andean bears and pudu to American bison. Walk through the aviary, a Buckminster Fuller-inspired geodesic dome that served as the Winston Churchill Pavilion at the 1964 World's Fair.",
+      "website": "https://queenszoo.com/about",
+      "images": [
+        {
+          "url": "/assets/opt/date/queens-zoo/01.webp",
+          "alt": "Queens Zoo"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-19",
+        "image_ok": true,
+        "notes": "Daily 2026-11-19. Official About and Aviary pages (WCS; winter hours Nov–Mar daily 10am–4:30pm, last entry 4pm). One of WCS's five NYC parks; a distinct zoo from the Bronx, Central Park and Prospect Park zoo cards, not a same-name branch. Photo: Wikimedia Commons 'Queens Zoo dome outside jeh.jpg', Jim.henderson, CC0 (the geodesic aviary dome with visitors).",
+        "sources": [
+          "https://queenszoo.com/about",
+          "https://queenszoo.com/things-to-do/exhibits/aviary",
+          "https://queenszoo.com/plan-your-visit/hours-and-rates",
+          "https://commons.wikimedia.org/wiki/File:Queens_Zoo_dome_outside_jeh.jpg"
+        ]
+      }
+    },
+    {
+      "id": "lefrak-center-at-lakeside",
+      "name": "LeFrak Center at Lakeside",
+      "area": "Prospect Park, Brooklyn",
+      "vibe": "Connected covered and open-air ice rinks, 30,000 square feet in all, sit beside the 60-acre Prospect Park Lake. Join a public session and circle the ice to pop tunes, then stroll back through the park.",
+      "website": "https://lakeside.prospectpark.org/activity/public-ice-skate/",
+      "images": [
+        {
+          "url": "/assets/opt/date/lefrak-center-at-lakeside/01.webp",
+          "alt": "LeFrak Center at Lakeside"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-19",
+        "image_ok": true,
+        "notes": "Daily 2026-11-19. Official Lakeside public-skate page (covered rink open; open-air rink opens Nov 23, daily 9am–6pm daytime sessions) and Prospect Park Alliance news (2026–27 season opened Oct 31; operated by the Alliance with Ekstein Development Group). Single facility inside Prospect Park, carded separately like Lefferts Historic House. Photo: venue's own site (LS-Public-Session, skaters on the open-air rink at dusk under the canopy).",
+        "sources": [
+          "https://lakeside.prospectpark.org/activity/public-ice-skate/",
+          "https://www.prospectpark.org/ice-skating-fall-festival-fun-lakeside/"
+        ]
+      }
+    },
+    {
+      "id": "mmuseumm",
+      "name": "Mmuseumm",
+      "area": "Tribeca",
+      "vibe": "Down Cortlandt Alley, this non-profit museum explores the modern world and the human condition through everyday vernacular objects. Its 2026 show, Modern Rubble Around the World, opens to the public on Saturdays and Sundays from 11am to 5pm.",
+      "website": "https://www.mmuseumm.com/",
+      "images": [
+        {
+          "url": "/assets/opt/date/mmuseumm/01.webp",
+          "alt": "Mmuseumm"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-19",
+        "image_ok": true,
+        "notes": "Daily 2026-11-19. Official home page (4 Cortlandt Alley; public hours Sat–Sun 11am–5pm). The THWACK pop-up at Brooklyn Army Terminal ended Nov 15, 2026 and was a temporary show, not a branch. Photo: Wikimedia Commons 'MMuseumm 001.jpg', Steven Bornholtz, CC BY-SA 4.0 (visitors at the open steel doors in Cortlandt Alley; re-cropped to remove a vintage advertising poster and a no-dumping sign on the right).",
+        "sources": [
+          "https://www.mmuseumm.com/",
+          "https://www.mmuseumm.com/bat",
+          "https://commons.wikimedia.org/wiki/File:MMuseumm_001.jpg"
+        ]
+      }
+    },
+    {
+      "id": "museum-of-bronx-history",
+      "name": "Museum of Bronx History",
+      "area": "Norwood, Bronx",
+      "vibe": "The museum fills a fieldstone farmhouse built around 1758, with original stone walls and oak and pine floorboards made by enslaved African craftsmen of owner Isaac Valentine. Its three galleries now hold The Bronx: Crucible of Liberty, on how the area shaped the American struggle for freedom.",
+      "website": "https://bronxhistoricalsociety.org/museum",
+      "images": [
+        {
+          "url": "/assets/opt/date/museum-of-bronx-history/01.webp",
+          "alt": "Museum of Bronx History"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-19",
+        "image_ok": true,
+        "notes": "Daily 2026-11-19. Official Bronx County Historical Society museum page (3266 Bainbridge Ave in the Valentine-Varian House; Sat 10am–4pm, Sun 1–5pm; suggested donation). Single site; distinct from the Poe Cottage card (same society). Photo: Wikimedia Commons 'Valentine-Varian-House; April 21, 2011; Image One.JPG', DanTD, CC BY-SA 3.0 (fieldstone front, porch and the house's own plaque).",
+        "sources": [
+          "https://bronxhistoricalsociety.org/museum",
+          "https://commons.wikimedia.org/wiki/File:Valentine-Varian-House;_April_21,_2011;_Image_One.JPG"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -10308,6 +10403,124 @@
         "sources": [
           "https://www.eliarestaurant.com/about",
           "https://www.yelp.com/biz/elia-restaurant-brooklyn-2"
+        ]
+      }
+    },
+    {
+      "id": "victors-cafe",
+      "name": "Victor's Café",
+      "area": "Theater District",
+      "vibe": "Family-owned since 1963, this Theater District Cuban restaurant sets its tables in skylit rooms with tropical greenery and vibrant Cuban artwork. Come for Cuban classics before the curtain, or linger over a weekend lunch.",
+      "website": "https://www.victorscafe.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/victors-cafe/01.webp",
+          "alt": "Victor's Café"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-19",
+        "image_ok": true,
+        "notes": "Daily 2026-11-19. Official home and Hours & Location pages (236 W 52nd St; Tue–Sun, closed Mon). Single site: the original 1963 room on W 71st St was replaced by the 52nd St move in 1980; no other branch in news (2026); the former Miami sibling on SW 32nd Ave was sold by the family in 1998 and has since closed (Florida licence closed 2009). Photo: venue's own site (Back_9, the skylit dining room with the mural wall and hanging greenery; set tables with empty water glasses only).",
+        "sources": [
+          "https://www.victorscafe.com/",
+          "https://www.victorscafe.com/location/victors-cafe/"
+        ]
+      }
+    },
+    {
+      "id": "restaurant-nippon",
+      "name": "Restaurant Nippon",
+      "area": "Midtown East",
+      "vibe": "Nobuyoshi Kuraoka opened Nippon in 1963, and it was the first Japanese restaurant in New York to serve sushi. It still makes hand-cut ni-hachi buckwheat soba and is the birthplace of Beef Negimayaki, scallions rolled in prime beef.",
+      "website": "https://www.restaurantnippon.com/about",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/restaurant-nippon/01.webp",
+          "alt": "Restaurant Nippon"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-19",
+        "image_ok": true,
+        "notes": "Daily 2026-11-19. Official Our Story and home pages (155 E 52nd St; Mon–Fri lunch and dinner, Sat dinner, closed Sun; Nov 19–26 lunch kaiseki on OpenTable). Single site; founder died 2018, restaurant continues. Photo: venue's own site (the pale-wood dining room with tatami rooms and shoji screens; no bar or bottles in frame).",
+        "sources": [
+          "https://www.restaurantnippon.com/about",
+          "https://www.restaurantnippon.com/",
+          "https://www.opentable.com/restaurant-nippon"
+        ]
+      }
+    },
+    {
+      "id": "karczma",
+      "name": "Karczma",
+      "area": "Greenpoint, Brooklyn",
+      "vibe": "Urszula and Sławek Letowski serve authentic Polish cooking in a rustic farmhouse setting, where the waitresses wear traditional dress. Order the house-made pierogi: Ruskie, cabbage and mushroom, or meat.",
+      "website": "https://karczmabrooklyn.com/en/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/karczma/01.webp",
+          "alt": "Karczma"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-19",
+        "image_ok": true,
+        "notes": "Daily 2026-11-19. Official home and menu pages (136 Greenpoint Ave; open daily from noon). Single site: the owner's Retro Polish Restaurant on Manhattan Ave (2025) has a different name; open per Yelp (Oct 2026). Photo: venue's own site (pierogi1, pierogi with fried onions and sour cream; food shot, as the site's only room image is the bar with bottle shelves, which was excluded).",
+        "sources": [
+          "https://karczmabrooklyn.com/en/",
+          "https://karczmabrooklyn.com/en/menu/",
+          "https://www.yelp.com/biz/karczma-brooklyn"
+        ]
+      }
+    },
+    {
+      "id": "heidelberg",
+      "name": "Heidelberg",
+      "area": "Yorkville, Upper East Side",
+      "vibe": "Of the dozens of German restaurants that once lined Yorkville, Heidelberg is the last one left, run by the same family since Luise Edler bought it in 1964. The room stays frozen in time, serving the same old world recipes at lunch and dinner.",
+      "website": "https://www.heidelberg-nyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/heidelberg/01.webp",
+          "alt": "Heidelberg"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-19",
+        "image_ok": true,
+        "notes": "Daily 2026-11-19. Official home page (1648 Second Ave; closed Thanksgiving). Single site; still operating per Yorkville Ledger (Oct 19, 2026) and Yelp (Oct 2026). Restaurant-first (food leads the site; seasonal mulled-wine promo noted, not used). Photo: venue's own site (pork chop with sauerkraut and potatoes; food shot, as the room photos are historic or show the bar). Source is 640×800, so a 1.13× upscale.",
+        "sources": [
+          "https://www.heidelberg-nyc.com/",
+          "https://yorkvilleledger.com/issues/2026-10-19/",
+          "https://www.yelp.com/biz/heidelberg-restaurant-new-york"
+        ]
+      }
+    },
+    {
+      "id": "trattoria-dellarte",
+      "name": "Trattoria Dell'Arte",
+      "area": "Midtown, opposite Carnegie Hall",
+      "vibe": "Across from Carnegie Hall, this Tuscan-inspired trattoria is designed like an Italian artist's studio, with oversized sculptures and a wall gallery of famous Italian noses. Start at the vegetable antipasto bar, then move on to pasta, veal chops or thin-crust pizza.",
+      "website": "https://www.trattoriadellarte.com/about/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/trattoria-dellarte/01.webp",
+          "alt": "Trattoria Dell'Arte"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-19",
+        "image_ok": true,
+        "notes": "Daily 2026-11-19. Official About page (900 Seventh Ave; open 7 days, continuous service). Single site. Ownership note: Fireman Hospitality's restaurants, including this one, were sold to Landry's/TREW Capital in a court-approved 2026 bankruptcy sale (NY Post, Oct 20, 2026), and it keeps operating; sister Café Fiorello (already carded) has a different name. Photo: venue's own site (the turquoise room's wall of framed nose artworks; re-cropped 2026-11-19 to the art wall and booth top only; no glasses, bottles or ice bucket in frame).",
+        "sources": [
+          "https://www.trattoriadellarte.com/about/",
+          "https://nypost.com/2026/10/20/business/trattoria-dellarte-fiorellos-and-bond-45-to-get-second-life-thanks-to-tilman-fertitta-deal/"
         ]
       }
     }
