@@ -6013,6 +6013,148 @@
           "https://commons.wikimedia.org/wiki/File:Valentine-Varian-House;_April_21,_2011;_Image_One.JPG"
         ]
       }
+    },
+    {
+      "id": "cinema-village",
+      "name": "Cinema Village",
+      "area": "Greenwich Village, Manhattan",
+      "vibe": "Built as a firehouse in 1898 and turned into a cinema in 1964, this is the oldest continuously operated cinema in Greenwich Village. David Lynch's Eraserhead once ran here at midnight for a full year, and its three screens now show independent, foreign and documentary films.",
+      "website": "https://www.cinemavillage.com/",
+      "images": [
+        {
+          "url": "/assets/opt/date/cinema-village/01.webp",
+          "alt": "Cinema Village"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-23",
+        "image_ok": true,
+        "notes": "Daily 2026-11-23. Official home (current Nov–Dec 2026 programme) and About Us pages (22 E 12th St). Single independent cinema, no other branch. Photo: Wikimedia Commons 'Cinema Village NYC 2024.jpg', ComplexRational, CC BY-SA 4.0 (the blue-tiled façade with its own marquee; cropped above street level to remove a neighbouring dry-cleaner's sign).",
+        "sources": [
+          "https://www.cinemavillage.com/about-us/",
+          "https://www.cinemavillage.com/",
+          "https://commons.wikimedia.org/wiki/File:Cinema_Village_NYC_2024.jpg"
+        ]
+      }
+    },
+    {
+      "id": "voelker-orth-museum",
+      "name": "Voelker Orth Museum",
+      "area": "Flushing, Queens",
+      "vibe": "This 1890s house in historic Flushing was home to three generations of a German immigrant family, and its period rooms show middle-class life from the 1890s to the 1930s. Outside, a Victorian-style garden doubles as a bird sanctuary.",
+      "website": "https://www.vomuseum.org/",
+      "images": [
+        {
+          "url": "/assets/opt/date/voelker-orth-museum/01.webp",
+          "alt": "Voelker Orth Museum"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-23",
+        "image_ok": true,
+        "notes": "Daily 2026-11-23. Official home and Who We Are pages (149-19 38th Ave; house tours Sun and Wed 1–4pm, garden Mon–Fri 10am–4pm and Sun afternoons; December 2026 events listed). Single site. Photo: Wikimedia Commons 'Voelker Orth Museum 01.jpg', Alwaysatfivetofive, CC BY-SA 4.0 (the house, garden and the museum's own sign).",
+        "sources": [
+          "https://www.vomuseum.org/",
+          "https://www.vomuseum.org/who-we-are",
+          "https://www.vomuseum.org/hours",
+          "https://commons.wikimedia.org/wiki/File:Voelker_Orth_Museum_01.jpg"
+        ]
+      }
+    },
+    {
+      "id": "national-lighthouse-museum",
+      "name": "National Lighthouse Museum",
+      "area": "St. George, Staten Island",
+      "vibe": "The museum fills the 1912 foundry of the US Lighthouse Service's General Depot, which supplied the nation's light stations from 1864 to 1939. Wander self-guided exhibits on lighthouse optics, keepers' lives and the depot itself.",
+      "website": "https://lighthousemuseum.org/",
+      "images": [
+        {
+          "url": "/assets/opt/date/national-lighthouse-museum/01.webp",
+          "alt": "National Lighthouse Museum"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-23",
+        "image_ok": true,
+        "notes": "Daily 2026-11-23. Official home and Plan Your Visit pages (museum hours Thu–Sun 11am–4pm, closed Mon–Wed and legal holidays). Single site. Photo: Wikimedia Commons 'Lighthouse Museum 1 jeh.jpg', Jim.henderson, CC BY-SA 4.0 (the brick foundry with the museum's own sign; re-encoded at lower quality without softening).",
+        "sources": [
+          "https://lighthousemuseum.org/",
+          "https://lighthousemuseum.org/planyourvisit/",
+          "https://commons.wikimedia.org/wiki/File:Lighthouse_Museum_1_jeh.jpg"
+        ]
+      }
+    },
+    {
+      "id": "august-wilson-theatre",
+      "name": "August Wilson Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Renamed in 2005 for August Wilson, it was the first Broadway theatre named after a Black playwright. Jersey Boys, Mean Girls and Funny Girl have all played here, and the thriller Paranormal Activity runs until February 2027.",
+      "website": "https://us.atgtickets.com/venues/august-wilson-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/august-wilson-theatre/01.webp",
+          "alt": "August Wilson Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-23",
+        "image_ok": true,
+        "notes": "Daily 2026-11-23. Official ATG venue page (Paranormal Activity through 28 Feb 2027, All My Sons from spring 2027). ATG runs other theatres, but this is a single building, not a branch. Photo: Wikimedia Commons 'August Wilson Theatre Mar 2026 14.jpg', Epicgenius, CC BY-SA 4.0 (the auditorium's side wall, box and arched doors; cropped to remove a stage-set sign at the left).",
+        "sources": [
+          "https://us.atgtickets.com/venues/august-wilson-theatre/",
+          "https://commons.wikimedia.org/wiki/File:August_Wilson_Theatre_Mar_2026_14.jpg"
+        ]
+      }
+    },
+    {
+      "id": "walter-kerr-theatre",
+      "name": "Walter Kerr Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "This Broadway house has staged seven Tony winners for Best Play, more than any other, including both parts of Angels in America and Doubt. Hadestown, the longest-running show in its history, plays here now.",
+      "website": "https://us.atgtickets.com/venues/walter-kerr-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/walter-kerr-theatre/01.webp",
+          "alt": "Walter Kerr Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-23",
+        "image_ok": true,
+        "notes": "Daily 2026-11-23. Official ATG venue page (Hadestown through 3 Jul 2027). Single building, not a branch. Photo: Wikimedia Commons 'Walter Kerr Theatre - Hadestown (48295952136).jpg', Ajay Suresh, CC BY 2.0 (the façade, balconies and the theatre's own marquee at dusk; cropped to remove a neighbouring office-tower logo).",
+        "sources": [
+          "https://us.atgtickets.com/venues/walter-kerr-theatre/",
+          "https://commons.wikimedia.org/wiki/File:Walter_Kerr_Theatre_-_Hadestown_(48295952136).jpg"
+        ]
+      }
+    },
+    {
+      "id": "broadway-theatre",
+      "name": "Broadway Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "It opened in 1924 as B. S. Moss's Colony film house, where Disney's Steamboat Willie premiered in 1928. Its 1,765 seats made it ideal for musicals, and its stage was first built to hold an orchestra for silent films.",
+      "website": "https://www.shubert.nyc/theatres/broadway/",
+      "images": [
+        {
+          "url": "/assets/opt/date/broadway-theatre/01.webp",
+          "alt": "Broadway Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-23",
+        "image_ok": true,
+        "notes": "Daily 2026-11-23. Official Shubert Organization page, History and Architecture sections (The Great Gatsby musical listed). Single building, distinct from the 'The Broadway' dance card (a Brooklyn venue). Photo: Wikimedia Commons 'Broadway Theatre W 53 St May 2025 02.jpg', Epicgenius, CC BY-SA 4.0 (the coffered lobby ceiling, chandelier and mezzanine rail).",
+        "sources": [
+          "https://www.shubert.nyc/theatres/broadway/",
+          "https://commons.wikimedia.org/wiki/File:Broadway_Theatre_W_53_St_May_2025_02.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -10521,6 +10663,102 @@
         "sources": [
           "https://www.trattoriadellarte.com/about/",
           "https://nypost.com/2026/10/20/business/trattoria-dellarte-fiorellos-and-bond-45-to-get-second-life-thanks-to-tilman-fertitta-deal/"
+        ]
+      }
+    },
+    {
+      "id": "il-cantinori",
+      "name": "Il Cantinori",
+      "area": "Greenwich Village, Manhattan",
+      "vibe": "Open on East 10th Street since 1983, this Tuscan restaurant keeps an ever-changing seasonal menu, and most of its original staff are still here. Book a table in the candlelit Skylight Room.",
+      "website": "https://www.ilcantinori.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/il-cantinori/01.webp",
+          "alt": "Il Cantinori"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-23",
+        "image_ok": true,
+        "notes": "Daily 2026-11-23. Official home (hours: lunch Mon–Fri, dinner nightly) and About pages; Skylight Room named in the site gallery. Single site: owners also run Periyali, which has a different name; open per Yelp (Nov 2026) and OpenTable menu (Jul 2026); no closure or second-location news. Photo: venue's own site (Wix b31b38_0c6f67be…, the Skylight Room at night; candles and flowers on the tables, no bottles or bar).",
+        "sources": [
+          "https://www.ilcantinori.com/about",
+          "https://www.ilcantinori.com/",
+          "https://www.yelp.com/biz/il-cantinori-new-york"
+        ]
+      }
+    },
+    {
+      "id": "gnocco",
+      "name": "Gnocco",
+      "area": "East Village, Manhattan",
+      "vibe": "Since 2000 this East Village osteria has cooked the Giovanetti family's Modena recipes, from tagliatelle al ragù to tortelli di zucca. Share the signature gnocco fritto, pillowy fried dough with cured meats and cheeses, in the lantern-lit indoor garden.",
+      "website": "https://www.gnocco.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/gnocco/01.webp",
+          "alt": "Gnocco"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-23",
+        "image_ok": true,
+        "notes": "Daily 2026-11-23. Official home and Location pages (337 E 10th St; open daily). Single site: EV Grieve (Jun 2025) on 25 years under owner Gian Luca Giovanetti since July 2000; his old Café Pick Me Up merged into Gnocco in 2015 and Perbacco had a different name. Restaurant-first (happy-hour and coworking pages exist, not used). Photo: venue's own site (squarespace, the garden room with lanterns and a green wall; water glasses only).",
+        "sources": [
+          "https://www.gnocco.com/",
+          "https://www.gnocco.com/locations",
+          "https://evgrieve.com/2025/06/gnocco-celebrates-25-years-on-10th.html"
+        ]
+      }
+    },
+    {
+      "id": "chadwicks",
+      "name": "Chadwick's",
+      "area": "Bay Ridge, Brooklyn",
+      "vibe": "This Bay Ridge dining room has high ceilings, burgundy banquettes and a fireplace. Come for steaks, chops, pasta and seafood, or a tiered platter of lobster, oysters, shrimp, clams and crab.",
+      "website": "https://www.chadwicksbrooklyn.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/chadwicks/01.webp",
+          "alt": "Chadwick's"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-23",
+        "image_ok": true,
+        "notes": "Daily 2026-11-23. Official home and Dinner menu pages (8822 3rd Ave; Mon–Thu 4–9pm, Fri–Sat 4–10pm, Sun 2–8pm). Single site; open per Yelp (Oct 2026). A 'Chadwick's closed' result in search was an unrelated San Francisco deli on Market St. The site also mentions an oak bar, not used. Photo: venue's own site (Wix 84a89f_c6c66d1f…, a plated tartare; food shot, because the only exterior image is 640×510).",
+        "sources": [
+          "https://www.chadwicksbrooklyn.com/",
+          "https://www.chadwicksbrooklyn.com/dinner",
+          "https://www.yelp.com/biz/chadwicks-brooklyn-3"
+        ]
+      }
+    },
+    {
+      "id": "bahari-estiatorio",
+      "name": "Bahari Estiatorio",
+      "area": "Astoria, Queens",
+      "vibe": "Formerly Stamatis and still under the same owners, this Greek taverna has an open kitchen where you can watch the cooking. Its remodelled dining rooms suit anything from a Hellenic feast to a quiet dinner for two.",
+      "website": "https://www.bahariestiatorio.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bahari-estiatorio/01.webp",
+          "alt": "Bahari Estiatorio"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-23",
+        "image_ok": true,
+        "notes": "Daily 2026-11-23. Official home page (31-14 Broadway; open daily noon–midnight). Single site: it is the renamed Stamatis on Broadway, and the separate Stamatis on 23rd Ave was a different business; no second Bahari found. Open per Yelp (Oct 2026). Photo: venue's own site (Instagram-sourced squarespace image, grilled octopus in olive oil; food shot, as the only room image carries a logo overlay).",
+        "sources": [
+          "https://www.bahariestiatorio.com/",
+          "https://www.yelp.com/biz/bahari-estiatorio-astoria",
+          "http://www.fooditka.com/2009/05/stamatis-on-broadway-now-bahari.html"
         ]
       }
     }
