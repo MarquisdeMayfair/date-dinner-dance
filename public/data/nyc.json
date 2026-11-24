@@ -6155,6 +6155,194 @@
           "https://commons.wikimedia.org/wiki/File:Broadway_Theatre_W_53_St_May_2025_02.jpg"
         ]
       }
+    },
+    {
+      "id": "neil-simon-theatre",
+      "name": "Neil Simon Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "It opened as the Alvin in 1927 with Fred and Adele Astaire in Funny Face, and was renamed for playwright Neil Simon in 1983. Porgy and Bess premiered here, Annie and Hairspray had long runs, and MJ the musical is playing now.",
+      "website": "https://www.broadwaydirect.com/theatre/neil-simon-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/neil-simon-theatre/01.webp",
+          "alt": "Neil Simon Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-24",
+        "image_ok": true,
+        "notes": "Daily 2026-11-24. Official Broadway Direct (Nederlander) venue page: 250 W 52nd St, 1,445 seats, History section, MJ now playing, box-office hours incl. Thanksgiving 2026. Single building, one of Nederlander's nine Broadway houses (not a branch). Photo: Wikimedia Commons 'Neil Simon Theatre May 2025 29.jpg', Epicgenius, CC BY-SA 4.0 (the auditorium dome and crystal chandelier; lighting truss at the left edge).",
+        "sources": [
+          "https://www.broadwaydirect.com/theatre/neil-simon-theatre/",
+          "https://commons.wikimedia.org/wiki/File:Neil_Simon_Theatre_May_2025_29.jpg"
+        ]
+      }
+    },
+    {
+      "id": "minskoff-theatre",
+      "name": "Minskoff Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Set on the third floor of a 55-storey tower, this 1,696-seat house opened in 1973 with a view over the Great White Way. Escalators climb from a pedestrian arcade to the foyer, and The Lion King has played here since 2006.",
+      "website": "https://www.broadwaydirect.com/theatre/minskoff-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/minskoff-theatre/01.webp",
+          "alt": "Minskoff Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-24",
+        "image_ok": true,
+        "notes": "Daily 2026-11-24. Official Broadway Direct (Nederlander) venue page: 200 W 45th St, About and History sections, The Lion King now playing. Single building (not a branch). Photo: Wikimedia Commons 'Minskoff Theatre (54076031902).jpg', Ajay Suresh, CC BY 2.0 (the arcade entrance at night under the theatre's own name sign; the 4:5 crop clips the first and last letters of the sign and cuts out the side show posters).",
+        "sources": [
+          "https://www.broadwaydirect.com/theatre/minskoff-theatre/",
+          "https://commons.wikimedia.org/wiki/File:Minskoff_Theatre_(54076031902).jpg"
+        ]
+      }
+    },
+    {
+      "id": "nederlander-theatre",
+      "name": "Nederlander Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Opened in 1921 as the National Theatre, this house staged Orson Welles's Julius Caesar and later ran Rent for 5,123 performances. Harry Houdini performed here in the 1920s, and Schmigadoon! is on the bill now.",
+      "website": "https://www.broadwaydirect.com/theatre/nederlander-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/nederlander-theatre/01.webp",
+          "alt": "Nederlander Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-24",
+        "image_ok": true,
+        "notes": "Daily 2026-11-24. Official Broadway Direct (Nederlander) venue page: 208 W 41st St, 1,232 seats, About and History sections, Schmigadoon! listed. Single building, not a branch; named for David T. Nederlander. Photo: Wikimedia Commons 'Nederlander Theatre Sep 2022 07.jpg', Epicgenius, CC BY-SA 4.0 (the brick façade with arched window and green iron balcony; no signage in frame).",
+        "sources": [
+          "https://www.broadwaydirect.com/theatre/nederlander-theatre/",
+          "https://commons.wikimedia.org/wiki/File:Nederlander_Theatre_Sep_2022_07.jpg"
+        ]
+      }
+    },
+    {
+      "id": "lena-horne-theatre",
+      "name": "Lena Horne Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Opened in 1926 as the Mansfield, it became the first Broadway theatre named for a Black woman when it was renamed for Lena Horne in 2022. Its original chandelier is back in place, and SIX plays here now, with Dirty Dancing coming next.",
+      "website": "https://www.broadwaydirect.com/theatre/lena-horne-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/lena-horne-theatre/01.webp",
+          "alt": "Lena Horne Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-24",
+        "image_ok": true,
+        "notes": "Daily 2026-11-24. Official Broadway Direct (Nederlander) venue page: 256 W 47th St, 1,069 seats, About and History sections (formerly the Brooks Atkinson; chandelier restored in the 2000 redecoration), SIX now, Dirty Dancing coming soon. Single building, not a branch. Photo: Wikimedia Commons 'Lena Horne Theatre Sep 2025 13.jpg', Epicgenius, CC BY-SA 4.0 (the gilded ceiling, chandeliers and proscenium).",
+        "sources": [
+          "https://www.broadwaydirect.com/theatre/lena-horne-theatre/",
+          "https://commons.wikimedia.org/wiki/File:Lena_Horne_Theatre_Sep_2025_13.jpg"
+        ]
+      }
+    },
+    {
+      "id": "union-square-park",
+      "name": "Union Square Park",
+      "area": "Union Square, Manhattan",
+      "vibe": "Opened in 1839 where Broadway met the old Bowery Road, this square hosted the first Labor Day parade in 1882. Browse the Greenmarket on its north side, then find Henry Kirke Brown's 1856 statue of George Washington.",
+      "website": "https://www.nycgovparks.org/parks/union-square-park",
+      "images": [
+        {
+          "url": "/assets/opt/date/union-square-park/01.webp",
+          "alt": "Union Square Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-24",
+        "image_ok": true,
+        "notes": "Daily 2026-11-24. Official NYC Parks page and History (Historical Signs Project text: opened 19 July 1839, Labor Day parade 5 Sept 1882, Greenmarket since 1976, Washington statue 1856 by Henry Kirke Brown, National Historic Landmark 1997). Public park, open. Distinct from the 'Union Square Cafe' dinner card. Photo: Wikimedia Commons 'Henry Kirke Brown George Washington statue by David Shankbone.jpg', David Shankbone, CC BY-SA 3.0 (the Washington statue with spring tulips and people on the lawn wall; older photo, same statue).",
+        "sources": [
+          "https://www.nycgovparks.org/parks/union-square-park/history",
+          "https://www.nycgovparks.org/parks/union-square-park",
+          "https://commons.wikimedia.org/wiki/File:Henry_Kirke_Brown_George_Washington_statue_by_David_Shankbone.jpg"
+        ]
+      }
+    },
+    {
+      "id": "crotona-park",
+      "name": "Crotona Park",
+      "area": "Crotona, The Bronx",
+      "vibe": "Once known as Bathgate Woods, this is the largest park in the South Bronx, with tulip trees, sweetgums and hickories, some over a century old, ringing Indian Lake. The 3.3-acre lake began as a natural pond and is home to ducks and turtles.",
+      "website": "https://www.nycgovparks.org/parks/crotona-park",
+      "images": [
+        {
+          "url": "/assets/opt/date/crotona-park/01.webp",
+          "alt": "Crotona Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-24",
+        "image_ok": true,
+        "notes": "Daily 2026-11-24. Official NYC Parks page and History (Historical Signs Project text: acquired from Andrew Bathgate in 1888, largest park in the South Bronx, 3.3-acre Indian Lake, WPA boathouse, trees over a century old). Public flagship park, open. Photo: Wikimedia Commons 'Crotona Park Indian Lake Bridge and Amphitheater.jpg', RoySmith, CC BY-SA 4.0 (Indian Lake with its stone bridge and amphitheatre steps; re-encoded from the original at lower WebP quality, no blur, to keep it under 150,000 bytes).",
+        "sources": [
+          "https://www.nycgovparks.org/parks/crotona-park/history",
+          "https://www.nycgovparks.org/parks/crotona-park",
+          "https://commons.wikimedia.org/wiki/File:Crotona_Park_Indian_Lake_Bridge_and_Amphitheater.jpg"
+        ]
+      }
+    },
+    {
+      "id": "kissena-park",
+      "name": "Kissena Park",
+      "area": "Flushing, Queens",
+      "vibe": "This Flushing park grew from a 19th-century plant nursery, and its historic grove still holds more than 100 kinds of trees. Walk around Kissena Lake, then watch riders on the 1963 velodrome that hosted the 1964 US Olympic trials.",
+      "website": "https://www.nycgovparks.org/parks/kissena-park",
+      "images": [
+        {
+          "url": "/assets/opt/date/kissena-park/01.webp",
+          "alt": "Kissena Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-24",
+        "image_ok": true,
+        "notes": "Daily 2026-11-24. Official NYC Parks page and History (Historical Signs Project text: Samuel Bowne Parsons' nursery, historic tree grove of 100+ types, Kissena Lake restored 2003, velodrome completed 1963 and 1964 US Olympic Team Trials, reopened 2004). Public park, open. Photo: Wikimedia Commons 'Kissena Park. Lake view. 20200920 145656.jpg', Renata3, CC BY-SA 4.0 (Kissena Lake and its tree line).",
+        "sources": [
+          "https://www.nycgovparks.org/parks/kissena-park/history",
+          "https://www.nycgovparks.org/parks/kissena-park",
+          "https://commons.wikimedia.org/wiki/File:Kissena_Park._Lake_view._20200920_145656.jpg"
+        ]
+      }
+    },
+    {
+      "id": "van-cortlandt-park",
+      "name": "Van Cortlandt Park",
+      "area": "Riverdale, The Bronx",
+      "vibe": "Shaped by retreating glaciers, this 1,146-acre park holds a 16-acre lake first made in the 1690s by damming Tibbetts Brook for a gristmill. It is also home to the country's first public municipal golf course, opened in 1895.",
+      "website": "https://www.nycgovparks.org/parks/vancortlandtpark",
+      "images": [
+        {
+          "url": "/assets/opt/date/van-cortlandt-park/01.webp",
+          "alt": "Van Cortlandt Park"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-24",
+        "image_ok": true,
+        "notes": "Daily 2026-11-24. Official NYC Parks page and History (Historical Signs Project text: glacial landscape, 16-acre lake from the dammed Tibbetts Brook in the 1690s, first public municipal golf course 1895, 1,146 acres). Public flagship park, open. The separate 'Van Cortlandt House Museum' card covers the mansion inside the park; this card is the park itself. Photo: Wikimedia Commons 'Leaves over the Lake (2) (11012496416).jpg', Rich Mitchell, CC BY 2.0 (Van Cortlandt Lake in autumn).",
+        "sources": [
+          "https://www.nycgovparks.org/parks/vancortlandtpark/history",
+          "https://www.nycgovparks.org/parks/vancortlandtpark",
+          "https://commons.wikimedia.org/wiki/File:Leaves_over_the_Lake_(2)_(11012496416).jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -10759,6 +10947,80 @@
           "https://www.bahariestiatorio.com/",
           "https://www.yelp.com/biz/bahari-estiatorio-astoria",
           "http://www.fooditka.com/2009/05/stamatis-on-broadway-now-bahari.html"
+        ]
+      }
+    },
+    {
+      "id": "frevo",
+      "name": "Frevo",
+      "area": "Greenwich Village, Manhattan",
+      "vibe": "Walk through a contemporary art gallery on West 8th Street to reach this Michelin-starred room, a 16-seat chef's counter facing an open kitchen. The tasting menu is built around sauces, rooted in French technique with South American and Asian influences.",
+      "website": "https://frevonyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/frevo/01.webp",
+          "alt": "Frevo"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-24",
+        "image_ok": true,
+        "notes": "Daily 2026-11-24. Official home/About and Restaurant pages (48 W 8th St; 'a contemporary art gallery leads to a 16-seat chef's counter and open kitchen'; sauce-centred cuisine; One Michelin Star listed). Open per Secret NYC (Jul 2026), Metro Mode (Oct 2026) and 1stDibs (Oct 2026). Single site: 1stDibs reports the owners plan a separate, differently styled family-style restaurant on Grove Street for spring 2027 (not open, no name given); not a branch today. Photo: venue's own site (wp-content 250315_Frevo_56738, a plated course on a stoneware bowl; food shot because the room photos show a wine rack and an ice-bucket bottle).",
+        "sources": [
+          "https://frevonyc.com/",
+          "https://frevonyc.com/restaurant/",
+          "https://secretnyc.co/frevo-hidden-restaurant-greenwich-village/",
+          "https://www.1stdibs.com/introspective-magazine/franco-sampogna-gaggenau/"
+        ]
+      }
+    },
+    {
+      "id": "tsukimi",
+      "name": "Tsukimi",
+      "area": "East Village, Manhattan",
+      "vibe": "This 12-seat East Village counter serves a modern take on kaiseki, the multi-course Japanese dinner, with a menu that changes each season. Its name means moon viewing, after the autumn festival that honours the full moon.",
+      "website": "https://www.tsukimi.nyc/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/tsukimi/01.webp",
+          "alt": "Tsukimi"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-24",
+        "image_ok": true,
+        "notes": "Daily 2026-11-24. Official home, About and Reservations pages (228 E 10th St; 12-seat counter; Wed–Sun dinner; 2026 Fall Kaiseki Menu listed). Open per Eater NY dining report (Feb 2026, one Michelin star). Single site, no second location found. Caveat: Time Out (May 2026) calls chef Takanori Akiyama 'previously of Tsukimi' while the official team page still lists him, so the line names no chef. Photo: venue's own site (squarespace 'moon-rabbit-wagashi', a moon-and-rabbit wagashi sweet on a lacquer plate; food shot, as the site has no usable room photo).",
+        "sources": [
+          "https://www.tsukimi.nyc/",
+          "https://www.tsukimi.nyc/about",
+          "https://www.tsukimi.nyc/reservations",
+          "https://ny.eater.com/dining-report/409646/tsukimi-nyc-restaurant-review-kaiseki-japanese-tasting-menu"
+        ]
+      }
+    },
+    {
+      "id": "majorelle",
+      "name": "Majorelle",
+      "area": "Upper East Side, Manhattan",
+      "vibe": "Inside The Lowell hotel, this French-Mediterranean dining room takes its cue from Marrakech's Jardin Majorelle, with orange trees, fountains and touches of cobalt blue. Ask for the year-round garden under its retractable glass roof, near the fireplace, and order the Dover sole.",
+      "website": "https://www.lowellhotel.com/restaurants-and-bar/majorelle/57-1/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/majorelle/01.webp",
+          "alt": "Majorelle"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-24",
+        "image_ok": true,
+        "notes": "Daily 2026-11-24. Official Lowell Hotel Majorelle page (28 E 63rd St; dinner Mon–Sat, lunch Wed–Sun; Dover sole, Poulet Grand-Mère, marble, vaulted ceilings, year-round garden terrace with fountains and fireplace) and the hotel's own Q&A (16 Jun 2026: retractable glass ceiling, orange trees between fountains, cobalt-blue nods to the Jardin Majorelle). Open per Sunday Times review (Jan 2026) and Resident (Oct 2026 fall menu). Single site in a privately owned hotel; no other Majorelle under these owners found. Restaurant-first page (the separate Jacques Bar not used). Photo: venue's own site (Majorelle_Seasonal_Valentines_Day_17, the garden room with orange trees, roses and blue glassware; only a 1600×600 original exists on the site and CDN, so the crop is upscaled about 1.5×; re-encoded from the original with a light unsharp mask, still slightly soft).",
+        "sources": [
+          "https://www.lowellhotel.com/restaurants-and-bar/majorelle/57-1/",
+          "https://www.lowellhotel.com/blog/2026/06/16/a-qa-with-the-team-behind-majorelle/73-47/",
+          "https://www.thetimes.com/travel/destinations/north-america-travel/us-travel/new-york-city/majorelle-lowell-hotel-restaurant-review-rachel-johnson-zh3brtz7z"
         ]
       }
     }
