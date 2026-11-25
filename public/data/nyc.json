@@ -6343,6 +6343,128 @@
           "https://commons.wikimedia.org/wiki/File:Leaves_over_the_Lake_(2)_(11012496416).jpg"
         ]
       }
+    },
+    {
+      "id": "stephen-sondheim-theatre",
+      "name": "Stephen Sondheim Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Once Henry Miller's Theatre, this house reopened in 2009 as the first LEED-certified Broadway theatre and was renamed for Stephen Sondheim on his 80th birthday in 2010. Roundabout first reopened it in 1998 for its Tony-winning Cabaret, and & Juliet plays here now.",
+      "website": "https://www.roundabouttheatre.org/theatre/stephen-sondheim-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/stephen-sondheim-theatre/01.webp",
+          "alt": "Stephen Sondheim Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-25",
+        "image_ok": true,
+        "notes": "Daily 2026-11-25. Official Roundabout Theatre Company venue page: 124 W 43rd St, box-office hours incl. Thanksgiving 2026 closure, history (1998 Cabaret, 2009 LEED reopening, 2010 renaming). Now playing & Juliet (official show site and Broadway listings for the week of 23 Nov 2026). Single building run by Roundabout, not a branch. Photo: Wikimedia Commons 'Stephen Sondheim Theatre Jan 2026 23.jpg', Epicgenius, CC BY-SA 4.0 (the auditorium from the side aisle with the & Juliet set on stage; re-cropped from the original to remove an audience member's lit phone; no ads).",
+        "sources": [
+          "https://www.roundabouttheatre.org/theatre/stephen-sondheim-theatre/",
+          "https://andjulietbroadway.com/tickets/",
+          "https://commons.wikimedia.org/wiki/File:Stephen_Sondheim_Theatre_Jan_2026_23.jpg"
+        ]
+      }
+    },
+    {
+      "id": "circle-in-the-square-theatre",
+      "name": "Circle in the Square Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Opened on 15 November 1972 as the uptown home of the Greenwich Village company that helped launch Off-Broadway, it was the first new Broadway theatre in fifty years. The flexible three- or four-sided auditorium seats up to 800 close around the stage, and Just in Time plays here now.",
+      "website": "https://circleinthesquare.com/about/",
+      "images": [
+        {
+          "url": "/assets/opt/date/circle-in-the-square-theatre/01.webp",
+          "alt": "Circle in the Square Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-25",
+        "image_ok": true,
+        "notes": "Daily 2026-11-25. Official Circle in the Square site (About/History: founded 1951, moved to 50th St in 1972, first Broadway show Mourning Becomes Electra; Visit page: 235 W 50th St). Just in Time running (Playbill and Broadway.com schedules for 24–29 Nov 2026). Single theatre and school, independent, not a branch. Photo: Wikimedia Commons 'Circle in the Square Theatre Oct 2025 11.jpg', Epicgenius, CC BY-SA 4.0 (the thrust stage with the Just in Time set and audience around it; no bottles or ads).",
+        "sources": [
+          "https://circleinthesquare.com/about/",
+          "https://circleinthesquare.com/visit/",
+          "https://playbill.com/production/just-in-time-broadway-circle-in-the-square-theatre-2025",
+          "https://commons.wikimedia.org/wiki/File:Circle_in_the_Square_Theatre_Oct_2025_11.jpg"
+        ]
+      }
+    },
+    {
+      "id": "hayes-theater",
+      "name": "Hayes Theater",
+      "area": "Theater District, Manhattan",
+      "vibe": "Second Stage bought and renovated the Hayes in 2015 to bring new American plays to Broadway, opening with Kenneth Lonergan's Lobby Hero in 2017. Revivals of Take Me Out and Appropriate won Tony Awards here, and The Fantasticks is playing now.",
+      "website": "https://2st.com/about-us/history-and-mission",
+      "images": [
+        {
+          "url": "/assets/opt/date/hayes-theater/01.webp",
+          "alt": "Hayes Theater"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-25",
+        "image_ok": true,
+        "notes": "Daily 2026-11-25. Official Second Stage pages: History & Mission (acquired 2015, Lobby Hero 2017, Tony-winning revivals of Take Me Out 2022 and Appropriate 2024) and Directions (240 W 44th St, box-office hours). The Fantasticks running to 7 Feb 2027 (2st.com show page, Playbill). Single theatre owned by Second Stage, not a branch. Photo: Wikimedia Commons 'Hayes Theater Jul 2025 07.jpg', Epicgenius, CC BY-SA 4.0 (the auditorium wall with crystal chandelier, sconces and arched window under show lighting).",
+        "sources": [
+          "https://2st.com/about-us/history-and-mission",
+          "https://2st.com/visit/directions",
+          "https://2st.com/shows/the-fantasticks",
+          "https://commons.wikimedia.org/wiki/File:Hayes_Theater_Jul_2025_07.jpg"
+        ]
+      }
+    },
+    {
+      "id": "samuel-j-friedman-theatre",
+      "name": "Samuel J. Friedman Theatre",
+      "area": "Theater District, Manhattan",
+      "vibe": "Manhattan Theatre Club restored the old Biltmore Theatre in 2002, re-creating its ornate plaster and digging 19 feet into Manhattan bedrock for a new lower level. Renamed for the pioneering Broadway publicist in 2008, it is between shows until Clifford Odets' Awake and Sing! begins previews on 15 December.",
+      "website": "https://www.manhattantheatreclub.com/plan-your-visit/",
+      "images": [
+        {
+          "url": "/assets/opt/date/samuel-j-friedman-theatre/01.webp",
+          "alt": "Samuel J. Friedman Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-25",
+        "image_ok": true,
+        "notes": "Daily 2026-11-25. Official Manhattan Theatre Club pages: Plan Your Visit (261 W 47th St, box-office hours) and MTC History (2002 Biltmore restoration, 2003 first production, 2008 renaming; Doubt, Rabbit Hole and Ruined history). Between shows; Awake and Sing! previews from 15 Dec 2026, opening 7 Jan 2027 (MTC calendar, Playbill, Broadway.com, re-checked 25 Nov 2026). Single building, MTC's Broadway home, not a branch. Photo: Wikimedia Commons 'Samuel J. Friedman Theatre Oct 2025 35.jpg', Epicgenius, CC BY-SA 4.0 (the gilded proscenium and lit stage; lighting truss at the top; re-cropped from the original to remove an audience member's lit phone).",
+        "sources": [
+          "https://www.manhattantheatreclub.com/plan-your-visit/",
+          "https://www.manhattantheatreclub.com/history/",
+          "https://commons.wikimedia.org/wiki/File:Samuel_J._Friedman_Theatre_Oct_2025_35.jpg"
+        ]
+      }
+    },
+    {
+      "id": "todd-haimes-theatre",
+      "name": "Todd Haimes Theatre",
+      "area": "Times Square, Manhattan",
+      "vibe": "Built in 1918 and later a cinema, this 42nd Street house stood empty until Roundabout restored it and reopened it in 2000 as its Broadway flagship. Renamed for the company's late artistic director in 2024 and renovated again, it is between shows until Dominique Morisseau's Mix and Master begins on 5 January 2027.",
+      "website": "https://www.roundabouttheatre.org/theatre/todd-haimes-theatre/",
+      "images": [
+        {
+          "url": "/assets/opt/date/todd-haimes-theatre/01.webp",
+          "alt": "Todd Haimes Theatre"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-25",
+        "image_ok": true,
+        "notes": "Daily 2026-11-25. Official Roundabout Theatre Company venue page: 227 W 42nd St, history (1918 legitimate theatre, then a cinema; restored with New 42 and reopened 2000 as the American Airlines Theatre; renamed 2024; renovated with new seating and restored interiors), box office closed to 6 Dec 2026 between shows. Next production Mix and Master, 5 Jan–28 Feb 2027 (official Roundabout production page). Single building, not a branch. Photo: Wikimedia Commons 'Todd Haimes Theatre Jun 2025 35.jpg', Epicgenius, CC BY-SA 4.0 (the painted dome, crystal chandelier, boxes and red stage curtain).",
+        "sources": [
+          "https://www.roundabouttheatre.org/theatre/todd-haimes-theatre/",
+          "https://www.roundabouttheatre.org/production/2026-2027-season/mix-and-master/",
+          "https://commons.wikimedia.org/wiki/File:Todd_Haimes_Theatre_Jun_2025_35.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -11021,6 +11143,80 @@
           "https://www.lowellhotel.com/restaurants-and-bar/majorelle/57-1/",
           "https://www.lowellhotel.com/blog/2026/06/16/a-qa-with-the-team-behind-majorelle/73-47/",
           "https://www.thetimes.com/travel/destinations/north-america-travel/us-travel/new-york-city/majorelle-lowell-hotel-restaurant-review-rachel-johnson-zh3brtz7z"
+        ]
+      }
+    },
+    {
+      "id": "bowery-meat-company",
+      "name": "Bowery Meat Company",
+      "area": "East Village, Manhattan",
+      "vibe": "Open since 2014 just off the Bowery, this steakhouse is known as much for its duck lasagna as for its dry-aged rib steak and tomahawk for two. Book the Bowery Room for long tables under the aviator mural, or come on a Sunday for the four-course Sunday Supper.",
+      "website": "https://www.bowerymeatcompany.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/bowery-meat-company/01.webp",
+          "alt": "Bowery Meat Company"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-25",
+        "image_ok": true,
+        "notes": "Daily 2026-11-25. Official site (9 E 1st St; dinner nightly; Our Story: opened 2014, celebrated duck lasagna; menu: 22 oz dry-aged bone-in rib steak, tomahawk for two, buffalo mozzarella ravioli; Bowery Room with long tables and aviator mural; Sunday Supper, four courses; Thanksgiving 2026 feast listed). Open per OpenTable/Reddit 2026 reviews. Part of Mercer Street Hospitality (Lure Fishbar, Bar Mercer etc. are different names); owner John McDonald once talked about a Miami Bowery Meat Company but none has opened, so it is single-site. Restaurant-first page. Photo: venue's own site (the signature duck lasagna dish shot on the butcher-block table; no glassware, logo or menu in frame; room shots rejected for wine walls and an ice bucket with a bottle).",
+        "sources": [
+          "https://www.bowerymeatcompany.com/",
+          "https://www.opentable.com/bowery-meat-company",
+          "https://www.miaminewtimes.com/food-drink/lure-fishbar-close-miami-beach-restaurant-with-plans-to-reopen-16958209/"
+        ]
+      }
+    },
+    {
+      "id": "cull-and-pistol",
+      "name": "Cull & Pistol",
+      "area": "Chelsea Market, Manhattan",
+      "vibe": "Run by the family behind The Lobster Place, a New York seafood market since 1974, this Chelsea Market restaurant works as an extension of the market. Its raw bar holds one of the city's widest oyster selections, alongside lobster rolls and grilled lobster.",
+      "website": "https://www.cullandpistol.com/about/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cull-and-pistol/01.webp",
+          "alt": "Cull & Pistol"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-25",
+        "image_ok": true,
+        "notes": "Daily 2026-11-25. Official About page (inside Chelsea Market, 75 9th Ave; team behind The Lobster Place, est. 1974; two generations of family ownership; working extension of the market; diverse oyster selection, chilled platters, lobster rolls, grilled lobsters; Billion Oyster Project shell partner) and Hours & Location page (open daily). Open per Chelsea Market's 2026 weekly-specials listing. One restaurant under this name; the Lobster Place market is its sister fish shop in the same building, not a branch. Food-led About page used; the bar/happy-hour pages were not. Photo: venue's own site ('Grilled_Lobster_CP', split grilled lobster with charred lemon; a metal bucket at the top-left edge was cropped out; no drinks in frame).",
+        "sources": [
+          "https://www.cullandpistol.com/about/",
+          "https://www.cullandpistol.com/location/cull-and-pistol/",
+          "https://www.chelseamarket.com/recurring-events/cull-and-pistol-weekly-specials"
+        ]
+      }
+    },
+    {
+      "id": "crevette",
+      "name": "Crevette",
+      "area": "West Village, Manhattan",
+      "vibe": "Bouillabaisse maison, lobster paella and Dover sole in brown butter anchor the menu at this seafood spot on the corner of Sixth Avenue, alongside chilled shellfish platters. Bar seats are kept for walk-ins wanting a round of oysters, and in warmer months tables line the Sixth Avenue sidewalk.",
+      "website": "https://www.crevettenyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/crevette/01.webp",
+          "alt": "Crevette"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-25",
+        "image_ok": true,
+        "notes": "Daily 2026-11-25. Official site: Dinner menu ('recent menu, frequent changes': Bouillabaisse Maison, Paella de Mariscos with lobster, Dover Sole with brown butter, Petit Plateau of chilled shellfish), Events page (bar seats held for walk-ins; sidewalk seating along Sixth Avenue in warmer months; open for dinner nightly, Saturday brunch), Feast of the Seven Fishes on Christmas Eve 2026. Address 10 Downing St (Michelin Guide, CB2 Feb 2026). Open per Eater 38 (Oct 2026). Owners Patricia Howard and Ed Szymanski also run Dame, Lord's and Chippy's (different names and concepts); no second Crevette. Photo: venue's own site (CREVETTE-12, the corner frontage with yellow-striped awning and café chairs; the dining-room shot was not used because its mural shows wine bottles).",
+        "sources": [
+          "https://www.crevettenyc.com/",
+          "https://www.crevettenyc.com/dinner",
+          "https://www.crevettenyc.com/eventsa",
+          "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/crevette",
+          "https://ny.eater.com/maps/best-new-york-restaurants-38-map"
         ]
       }
     }
