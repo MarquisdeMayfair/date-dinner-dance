@@ -6465,6 +6465,154 @@
           "https://commons.wikimedia.org/wiki/File:Todd_Haimes_Theatre_Jun_2025_35.jpg"
         ]
       }
+    },
+    {
+      "id": "central-synagogue",
+      "name": "Central Synagogue",
+      "area": "Midtown East, Manhattan",
+      "vibe": "Henry Fernbach's 1872 sanctuary at Lexington and 55th borrows from Budapest's Dohány Street Synagogue, with twin towers capped by copper-clad spheres. Inside, the original carved ark glows in gold fretwork under onion domes of celestial blue, and free docent tours run on Wednesday lunchtimes.",
+      "website": "https://centralsynagogue.org/about-us/our-history/our-sanctuary",
+      "images": [
+        {
+          "url": "/assets/opt/date/central-synagogue/01.webp",
+          "alt": "Central Synagogue"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-26",
+        "image_ok": true,
+        "notes": "Daily 2026-11-26. Official Central Synagogue pages: Our Sanctuary (Henry Fernbach design, Moorish towers with copper-clad spheres, Dohány Street Synagogue model, original ark with gold fretwork and celestial-blue onion domes), Our History (dedicated 1872 at 55th St and Lexington Ave) and Visiting Central (public viewing Wednesdays 12:30-2pm, free docent-led tours Wednesdays 12:30 and 1:15pm). Active congregation; single landmark building, not a branch. Photo: Wikimedia Commons 'Central Synagogue Oct 2026 20.jpg', Epicgenius, CC BY-SA 4.0 (the bimah and ark under the painted arch; no people, flags or signage).",
+        "sources": [
+          "https://centralsynagogue.org/about-us/our-history/our-sanctuary",
+          "https://centralsynagogue.org/about-us/our-history",
+          "https://centralsynagogue.org/about-us/visiting-central",
+          "https://commons.wikimedia.org/wiki/File:Central_Synagogue_Oct_2026_20.jpg"
+        ]
+      }
+    },
+    {
+      "id": "temple-emanu-el",
+      "name": "Temple Emanu-El",
+      "area": "Upper East Side, Manhattan",
+      "vibe": "Completed on Fifth Avenue in 1929, this sanctuary is 103 feet high and seats 2,500 with no columns blocking the view. Hildreth Meière's eight-storey mosaic arch rises over the bimah, more than 60 stained-glass windows line the walls, and the organ has over 10,000 pipes.",
+      "website": "https://emanuelnyc.org/about-us/our-temple/",
+      "images": [
+        {
+          "url": "/assets/opt/date/temple-emanu-el/01.webp",
+          "alt": "Temple Emanu-El"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-26",
+        "image_ok": true,
+        "notes": "Daily 2026-11-26. Official Temple Emanu-El pages: Our Temple (completed 1929; sanctuary 100 ft wide, 175 ft long, 103 ft high, 2,500 seats, no interior columns; Rose Window; 60+ stained-glass windows; ark shaped like an open Torah scroll; organ with 10,000+ pipes; Hildreth Meiere eight-storey mosaic arch) and Tour Our Temple (open for tours Tue and Wed 10-11:30am, call ahead on (212) 744-1400; enter at 1 East 65th St; self-guided tours temporarily suspended for security, so the line does not promise walk-in tours). Active congregation; Emanu-El Downtown is a programme, not a second temple. Photo: Wikimedia Commons 'Temple Emanu-El interior.jpg', Al.patsiko, CC BY-SA 4.0 (the mosaic arch and ark from the nave; empty pews, no flags or signage).",
+        "sources": [
+          "https://emanuelnyc.org/about-us/our-temple/",
+          "https://emanuelnyc.org/about-us/tour-our-temple/",
+          "https://commons.wikimedia.org/wiki/File:Temple_Emanu-El_interior.jpg"
+        ]
+      }
+    },
+    {
+      "id": "church-of-saint-mary-the-virgin",
+      "name": "Church of Saint Mary the Virgin",
+      "area": "Times Square, Manhattan",
+      "vibe": "Half a block from Times Square, this parish church was built in 1895 on a lot running from 46th to 47th Street, with a nave 80 feet from floor to ceiling. Its Aeolian-Skinner organ, installed in 1933, is seen as a forerunner of the American Classic school and is prized for French organ music.",
+      "website": "https://www.smokymarys.org/a-short-history",
+      "images": [
+        {
+          "url": "/assets/opt/date/church-of-saint-mary-the-virgin/01.webp",
+          "alt": "Church of Saint Mary the Virgin"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-26",
+        "image_ok": true,
+        "notes": "Daily 2026-11-26. Official parish site: A Short History ('What's a nice church like this doing in the middle of Times Square?'; incorporated 3 Dec 1868; Oxford Movement roots), Our Organ (Aeolian-Skinner Opus 891, installed January 1933, designed by G. Donald Harrison, forerunner of the American Classic school, known for French repertoire) and Directions (145 W 46th St between Sixth and Seventh Aves). A Short History also gives the 1870-1895 site on W 45th St, the 1895 build on the 46th-47th St parcel and the 80 ft nave. Weekly newsletter issue dated 22 Nov 2026, so active. Single parish church, not a branch. Photo: Wikimedia Commons 'The Nave of the Church of Saint Mary the Virgin.jpg', Sister Monica, CC BY-SA 4.0 (the nave during a service, congregation seen from behind; no signage).",
+        "sources": [
+          "https://www.smokymarys.org/a-short-history",
+          "https://www.smokymarys.org/our-organ",
+          "https://www.smokymarys.org/directions-visitor-information",
+          "https://commons.wikimedia.org/wiki/File:The_Nave_of_the_Church_of_Saint_Mary_the_Virgin.jpg"
+        ]
+      }
+    },
+    {
+      "id": "plymouth-church",
+      "name": "Plymouth Church",
+      "area": "Brooklyn Heights, Brooklyn",
+      "vibe": "You can sit in pew 89, where Abraham Lincoln sat, and visit the basement where people escaping slavery passed through on the Underground Railroad. Free history tours of this Brooklyn Heights church follow the Sunday morning service.",
+      "website": "https://www.plymouthchurch.org/history",
+      "images": [
+        {
+          "url": "/assets/opt/date/plymouth-church/01.webp",
+          "alt": "Plymouth Church"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-26",
+        "image_ok": true,
+        "notes": "Daily 2026-11-26. Official Plymouth Church pages: History (pew 89 where Lincoln sat; basement used by fugitive slaves on the Underground Railroad; Henry Ward Beecher founding pastor; Branch Rickey and Jackie Robinson) and History Tours (guided tours on Sunday morning after worship and weekdays by appointment; Underground Railroad, Lincoln's pew, stained glass). Advent and Christmas 2026 services listed, so active. Single church, not a branch. Photo: Wikimedia Commons 'Plymouth Congregationalist Ch snow jeh.jpg', Jim.henderson, CC0 (the red-brick church and white portico on Orange St in snow; parked cars at the bottom edge, church notice board at left, no ads).",
+        "sources": [
+          "https://www.plymouthchurch.org/history",
+          "https://www.plymouthchurch.org/history-tours",
+          "https://commons.wikimedia.org/wiki/File:Plymouth_Congregationalist_Ch_snow_jeh.jpg"
+        ]
+      }
+    },
+    {
+      "id": "59e59-theaters",
+      "name": "59E59 Theaters",
+      "area": "Upper East Side, Manhattan",
+      "vibe": "Since 2004 this Off-Broadway house on East 59th Street has staged new work from across the country and abroad, with performances 50 weeks a year. Its three stages run from a 185-seat proscenium to a steeply raked second-floor room and an intimate black box.",
+      "website": "https://59e59.org/about/",
+      "images": [
+        {
+          "url": "/assets/opt/date/59e59-theaters/01.webp",
+          "alt": "59E59 Theaters"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-26",
+        "image_ok": true,
+        "notes": "Daily 2026-11-26. Official 59E59 pages: About (since 2004, Drama Desk Award-winning, three performance spaces, live performances 50 weeks a year), Our Spaces (Theater A 185-seat proscenium; Theater B 98 seats with a sharp rake on the second level; Theater C black box, up to 48-53 seats) and home page (The Steel Man 3 Nov-13 Dec, Fantasma 7 Nov-20 Dec, Tim and Scrooge 16-27 Dec 2026). Single venue, not a branch. Photo: Wikimedia Commons '59E59 Theaters (55273541656).jpg', Ajay Suresh, CC BY 4.0 (the glass facade with the theatre's own blade sign and its own A/B/C show posters; no third-party ads).",
+        "sources": [
+          "https://59e59.org/about/",
+          "https://59e59.org/about/spaces/",
+          "https://59e59.org/",
+          "https://commons.wikimedia.org/wiki/File:59E59_Theaters_(55273541656).jpg"
+        ]
+      }
+    },
+    {
+      "id": "here-arts-center",
+      "name": "HERE Arts Center",
+      "area": "Hudson Square, Manhattan",
+      "vibe": "Founded by four artists in 1993, HERE launched Eve Ensler's The Vagina Monologues and Taylor Mac's work from its two black-box theatres on Sixth Avenue. This season Joey Arias and Basil Twist bring their puppet cabaret Arias with a Twist back to its original home until 20 December.",
+      "website": "https://here.org/about/",
+      "images": [
+        {
+          "url": "/assets/opt/date/here-arts-center/01.webp",
+          "alt": "HERE Arts Center"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-26",
+        "image_ok": true,
+        "notes": "Daily 2026-11-26. Official HERE pages: About (since 1993; founded by Kristin Marting, Tim Maner, Barbara Busackino and Randy Rollison; home to The Vagina Monologues and Taylor Mac), Spaces (Mainstage black box and Dorothy B. Williams Theatre, plus a cafe/lounge) and the Arias with a Twist show page (17 Sep-20 Dec 2026, 'returns to its original home'). Address 145 Sixth Ave. Single venue, not a branch. Photo: Wikimedia Commons 'Dominick St 6th Av td (2018-11-07) 05 - HERE Arts Center.jpg', Tdorante10, CC BY-SA 4.0 (the corner building with HERE's vertical sign; street signs and a parked car, no ads). Weak-ish: HERE occupies the ground floor of a larger building.",
+        "sources": [
+          "https://here.org/about/",
+          "https://here.org/spaces/",
+          "https://here.org/shows/arias-with-a-twist-2026/",
+          "https://commons.wikimedia.org/wiki/File:Dominick_St_6th_Av_td_(2018-11-07)_05_-_HERE_Arts_Center.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -11217,6 +11365,105 @@
           "https://www.crevettenyc.com/eventsa",
           "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/crevette",
           "https://ny.eater.com/maps/best-new-york-restaurants-38-map"
+        ]
+      }
+    },
+    {
+      "id": "lusardis",
+      "name": "Lusardi's",
+      "area": "Upper East Side, Manhattan",
+      "vibe": "Brothers Luigi and Mauro Lusardi came from a tiny hamlet near Parma, worked their way up from busboys, and opened this Second Avenue room in 1982; they still run it in the same spot. Expect veal carpaccio with shaved truffle cheese and homemade fettuccine in a sage-scented veal ragù.",
+      "website": "https://www.lusardis.com/story",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/lusardis/01.webp",
+          "alt": "Lusardi's"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-26",
+        "image_ok": true,
+        "notes": "Daily 2026-11-26. Official site: Story (Luigi and Mauro Lusardi from Borgo Val di Taro in the Parma region, came to NYC in 1971, opened Lusardi's in 1982 at the same location they run today) and Eat menu (Carpaccio di Vitello with lemon truffle dressing and shaved truffle cheese; Fettuccine al Ragu di Vitello flavoured with sage). 1494 Second Ave; lunch and dinner daily per the official Visit page. Open per OpenTable 2026 listing. Branch check: a 2013 Village spin-off opened under a different name (Pagani, by Massimo Lusardi; Eater 2013), so no second Lusardi's. Photo: venue's own site gallery (the green-awninged frontage with its own name and sidewalk tables; no ads or bottles).",
+        "sources": [
+          "https://www.lusardis.com/story",
+          "https://www.lusardis.com/eat",
+          "https://www.lusardis.com/visit",
+          "https://www.opentable.com/r/lusardis-restaurant",
+          "https://ny.eater.com/2013/9/17/6370327/pagani-massimo-lusardis-village-italian-restaurant"
+        ]
+      }
+    },
+    {
+      "id": "naro",
+      "name": "NARO",
+      "area": "Rockefeller Center, Manhattan",
+      "vibe": "Down on the rink level of Rockefeller Center, chef JP Park and Ellia Park of Atomix and Atoboy reimagine the Korean classics of their heritage. Dinner runs à la carte or as a five-course tasting menu chosen by the chef.",
+      "website": "https://www.naronyc.com/about",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/naro/01.webp",
+          "alt": "NARO"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-26",
+        "image_ok": true,
+        "notes": "Daily 2026-11-26. Official About page (Rockefeller Center rink level, 610 Fifth Ave; from chef Junghyun 'JP' and CEO Ellia Park of NA:EUN Hospitality, Atomix and Atoboy; reimagines Korean classics; open daily for lunch and dinner; five-course chef's tasting menu at dinner) and home page (directions via the NARO elevator on 49th St). Open per OpenTable reviews dated Nov 2026 (menu updated 26 Oct 2026). Sister restaurants have different names (Atomix, Atoboy, Seoul Salon); no other NARO. Photo: venue's own site (overhead table spread of plated dishes incl. a breaded cutlet, salads and a rice dish in a cast-iron pan; no glasses or bottles).",
+        "sources": [
+          "https://www.naronyc.com/about",
+          "https://www.naronyc.com/",
+          "https://www.opentable.com/r/naro-new-york"
+        ]
+      }
+    },
+    {
+      "id": "junoon",
+      "name": "Junoon",
+      "area": "Flatiron, Manhattan",
+      "vibe": "Junoon means passion in Hindi, and restaurateur Rajesh Bhardwaj's modern Indian dining room won a Michelin star in its first year, holding it for eight years. The kitchen cooks regional dishes such as Goan mushroom xacutti, shrimp moilee and tandoor-roasted lamb chops.",
+      "website": "https://www.junoonnyc.com/about-us/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/junoon/01.webp",
+          "alt": "Junoon"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-26",
+        "image_ok": true,
+        "notes": "Daily 2026-11-26. Official site: About Us ('passion' in Hindi; restaurateur Rajesh Bhardwaj; Michelin star the year it opened and for eight years) and Menus (Mushroom Xacutti with Goan coconut and poppy seed sauce; Shrimp Moilee; Burra Kebab tandoor-roasted lamb chops). 19 W 24th St. Open per DiningOut (Jun 2026). Branch check: owner's other venues are Jazba and Room 207 (Time Out Dec 2025; Eater 2023), different names; Junoon moved to 24th St in 2021 (Commercial Observer), one location. Photo: venue's own site (a plated dish in an ornate silver lidded bowl on a dark wood table; no drinks).",
+        "sources": [
+          "https://www.junoonnyc.com/about-us/",
+          "https://www.junoonnyc.com/menus/",
+          "https://diningout.com/new-york/indian-restaurants-nyc/",
+          "https://www.timeout.com/newyork/news/the-newest-bar-on-the-lower-east-side-is-all-about-gin-121725"
+        ]
+      }
+    },
+    {
+      "id": "mari",
+      "name": "Mari",
+      "area": "Hell's Kitchen, Manhattan",
+      "vibe": "This Ninth Avenue spot serves a seasonal Korean tasting menu that moves from Koginut squash hobak-juk through raw fish to deulkkae guksu, buckwheat noodles in a truffle perilla sauce. It ends with a corn bingsu and a chapssal doughnut with fig-leaf ice cream.",
+      "website": "https://marinyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/mari/01.webp",
+          "alt": "Mari"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-26",
+        "image_ok": true,
+        "notes": "Daily 2026-11-26. Official site home/menu (seasonal tasting menu: hobak-juk with Koginut squash; salmon, fluke, king crab and spicy tuna courses; deulkkae guksu with truffle perilla sauce and buckwheat noodle; corn bingsu; doughnut with fig-leaf ice cream; 679 9th Ave; dinner nightly). Michelin Guide listing; Yelp updated Nov 2026. Chef Sungchul Shim also runs Kochi, Mari.ne and Gui Steakhouse (different names); no other Mari. Photo: venue's own site (Dan Ahn shot of hand rolls on Mari-branded brass stands; no drinks).",
+        "sources": [
+          "https://marinyc.com/",
+          "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/mari",
+          "https://www.yelp.com/biz/mari-new-york-2"
         ]
       }
     }
