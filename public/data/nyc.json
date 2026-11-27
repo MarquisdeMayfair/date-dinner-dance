@@ -6613,6 +6613,153 @@
           "https://commons.wikimedia.org/wiki/File:Dominick_St_6th_Av_td_(2018-11-07)_05_-_HERE_Arts_Center.jpg"
         ]
       }
+    },
+    {
+      "id": "saint-thomas-church",
+      "name": "Saint Thomas Church",
+      "area": "Midtown, Manhattan",
+      "vibe": "Cram, Goodhue and Ferguson finished this French High Gothic church on Fifth Avenue in 1913, built wholly of stone with a rib-vaulted nave rising 95 feet. Behind the high altar, the Great Reredos holds 76 free-standing figures modelled by Lee Lawrie, and a free guided tour starts in the narthex after the 11am Sunday service.",
+      "website": "https://www.saintthomaschurch.org/building/",
+      "images": [
+        {
+          "url": "/assets/opt/date/saint-thomas-church/01.webp",
+          "alt": "Saint Thomas Church"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-27",
+        "image_ok": true,
+        "notes": "Daily 2026-11-27. Official Saint Thomas Church pages: Building (fourth church of the parish, first service 4 Oct 1913; Cram, Goodhue and Ferguson; French High Gothic; all-stone load-bearing rib vaulting; nave vault 95 ft), Centennial Lecture page on the Great Reredos (76 free-standing figures, nearly all modelled by Lee Lawrie 1917-19; described by the church as the largest stone reredos in the world) and Guided Tour event page (free tour from the narthex at 12:30pm after the 11am service; self-guided pamphlet any day). Active parish with daily Open Doors on its Nov 2026 calendar; single church, not a branch. Photo: Wikimedia Commons 'St Thomas Church NYC altar 001.JPG', Gryffindor, CC BY-SA 3.0 (the lit reredos from the nave; a few heads in the bottom corner, no signage).",
+        "sources": [
+          "https://www.saintthomaschurch.org/building/",
+          "https://www.saintthomaschurch.org/2014/03/28/centennial-lecture-series-the-reredos/",
+          "https://www.saintthomaschurch.org/events/2026-guided-tour-of-saint-thomas-church-2026-11-15/",
+          "https://commons.wikimedia.org/wiki/File:St_Thomas_Church_NYC_altar_001.JPG"
+        ]
+      }
+    },
+    {
+      "id": "basilica-of-st-patricks-old-cathedral",
+      "name": "Basilica of St. Patrick's Old Cathedral",
+      "area": "Nolita, Manhattan",
+      "vibe": "Opened in 1815 on the corner of Mott and Prince Streets, this was New York's first cathedral and it is still a working parish church. Up in the gallery, its 1868 Henry Erben organ, with nearly 2,500 pipes, was fully restored between February 2024 and June 2026.",
+      "website": "https://oldcathedral.org/history",
+      "images": [
+        {
+          "url": "/assets/opt/date/basilica-of-st-patricks-old-cathedral/01.webp",
+          "alt": "Basilica of St. Patrick's Old Cathedral"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-27",
+        "image_ok": true,
+        "notes": "Daily 2026-11-27. Official Basilica pages: History (New York's first Cathedral Church, cornerstone 1809, formal opening 1815 on Mott and Prince; 120 x 80 ft) and 1868 Henry Erben Pipe Organ (last large intact Erben; nearly 2,500 pipes; fully restored Feb 2024 to June 2026 by Friends of the Erben Organ, with the 1868 choir loft). Home page lists current weekly Masses (Nov 2026). Single basilica, not the Midtown St. Patrick's Cathedral (separate card). Catacomb tours are run by a third party (Tommy's New York via Fever), so the line does not sell them. Photo: Wikimedia Commons 'St. Patrick's Old Cathedral 003.jpg', Kidfly182, CC BY-SA 4.0 (empty nave to the altar screen and rose window, May 2022; 3264x2448 source, no people or signage).",
+        "sources": [
+          "https://oldcathedral.org/history",
+          "https://oldcathedral.org/erbenorgan",
+          "https://www.oldcathedral.org/",
+          "https://commons.wikimedia.org/wiki/File:St._Patrick%E2%80%99s_Old_Cathedral_003.jpg"
+        ]
+      }
+    },
+    {
+      "id": "church-of-the-ascension",
+      "name": "Church of the Ascension",
+      "area": "Greenwich Village, Manhattan",
+      "vibe": "John La Farge painted The Ascension of Our Lord in place above the altar of this Fifth Avenue church, finishing it in 1888, in a chancel remodelled under Stanford White. The church and its front garden are open most weekdays from noon to 3pm for a quiet look.",
+      "website": "https://ascensionnyc.org/art/",
+      "images": [
+        {
+          "url": "/assets/opt/date/church-of-the-ascension/01.webp",
+          "alt": "Church of the Ascension"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-27",
+        "image_ok": true,
+        "notes": "Daily 2026-11-27. Official Church of the Ascension pages: Artistic Heritage (1885-89 remodel by McKim, Mead and White under Stanford White; La Farge's 'The Ascension of Our Lord' executed on canvas in place, completed 1888; Louis St. Gaudens angels; peacock-carved organ facades), home page (church and front garden open most weekdays, Monday to Friday, noon to 3pm) and Visit Us (Fifth Avenue at Tenth Street). Active Episcopal parish; single church. Photo: Wikimedia Commons 'Interior of Church of the Ascension by David Shankbone.jpg', David Shankbone, CC BY-SA 3.0 (the La Farge mural over the altar from the aisle; no people or signage).",
+        "sources": [
+          "https://ascensionnyc.org/art/",
+          "https://ascensionnyc.org/",
+          "https://ascensionnyc.org/welcome/visit-us/",
+          "https://commons.wikimedia.org/wiki/File:Interior_of_Church_of_the_Ascension_by_David_Shankbone.jpg"
+        ]
+      }
+    },
+    {
+      "id": "st-ann-and-the-holy-trinity",
+      "name": "St. Ann & the Holy Trinity",
+      "area": "Brooklyn Heights, Brooklyn",
+      "vibe": "Minard Lafever designed this Gothic Revival church on the highest point of Brooklyn Heights, and it opened in 1847 under an elaborately vaulted roof. Its suite of stained glass by William Jay Bolton can be seen on Wednesdays, when the sanctuary is open from noon to 6pm.",
+      "website": "https://www.stannholytrinity.org/history/",
+      "images": [
+        {
+          "url": "/assets/opt/date/st-ann-and-the-holy-trinity/01.webp",
+          "alt": "St. Ann & the Holy Trinity"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-27",
+        "image_ok": true,
+        "notes": "Daily 2026-11-27. Official St. Ann & the Holy Trinity pages: History (National Historic Landmark built as the Church of the Holy Trinity by Edgar Bartow; construction from 1844 on the highest point in Brooklyn Heights; Minard LaFever; Gothic Revival; elaborately vaulted roof; extensive suite of William Jay Bolton stained glass; opened 25 April 1847) and home page (Wednesdays: Open Sanctuary 12-6pm; Advent services listed for 29 Nov 2026). Pro-Cathedral of the Episcopal Diocese of Long Island; single church (capital campaign under way, exterior scaffolding in 2026 photos). Photo: Wikimedia Commons 'St. Ann's and the Holy Trinity Church Interior (WTM by official-ly cool 004).jpg', official-ly cool (Wikipedia Takes Manhattan), CC BY-SA 3.0 (the nave from the pews to the altar screen and west window; no people or signage; slight gamma lift only).",
+        "sources": [
+          "https://www.stannholytrinity.org/history/",
+          "https://www.stannholytrinity.org/",
+          "https://commons.wikimedia.org/wiki/File:St._Ann%27s_and_the_Holy_Trinity_Church_Interior_(WTM_by_official-ly_cool_004).jpg"
+        ]
+      }
+    },
+    {
+      "id": "marble-collegiate-church",
+      "name": "Marble Collegiate Church",
+      "area": "NoMad, Manhattan",
+      "vibe": "Dedicated in 1854 on Fifth Avenue at 29th Street, Samuel A. Warner's church was built from huge blocks of white marble quarried at Hastings-on-Hudson. Inside, the original mahogany pews with swinging doors are still in use, beneath burgundy and gold walls and two Tiffany windows from 1900 and 1901.",
+      "website": "https://www.marblechurch.org/history",
+      "images": [
+        {
+          "url": "/assets/opt/date/marble-collegiate-church/01.webp",
+          "alt": "Marble Collegiate Church"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-27",
+        "image_ok": true,
+        "notes": "Daily 2026-11-27. Official Marble Collegiate Church History page (dedicated 11 Oct 1854; architect Samuel A. Warner; white marble from Hastings-on-Hudson; 215 ft steeple; original mahogany pews with swinging doors still in use; walls painted burgundy and gold in the 1891 renovation; Tiffany windows 'Joshua Leads the Israelites' and 'Moses and the Burning Bush' installed 1900 and 1901; city landmark 1967). Active congregation (Sunday worship 11am; 2026 events on home page); part of the Collegiate Church of New York but the only Marble Church. Photo: Wikimedia Commons 'Marble Collegiate Church Worship Area 2.jpg', Steven Bornholtz, CC BY-SA 4.0 (sanctuary from the rear: pews, gold chancel arch and organ; no people).",
+        "sources": [
+          "https://www.marblechurch.org/history",
+          "https://www.marblechurch.org/",
+          "https://commons.wikimedia.org/wiki/File:Marble_Collegiate_Church_Worship_Area_2.jpg"
+        ]
+      }
+    },
+    {
+      "id": "akc-museum-of-the-dog",
+      "name": "AKC Museum of the Dog",
+      "area": "Murray Hill, Manhattan",
+      "vibe": "At this Park Avenue museum, current shows are devoted to the Xoloitzcuintle, one of the world's most ancient breeds, and to the Saluki and the dogs of the desert. Pet dogs are welcome every Friday during regular hours, 11am to 6pm.",
+      "website": "https://museumofthedog.org/",
+      "images": [
+        {
+          "url": "/assets/opt/date/akc-museum-of-the-dog/01.webp",
+          "alt": "AKC Museum of the Dog"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-27",
+        "image_ok": true,
+        "notes": "Daily 2026-11-27. Official AKC Museum of the Dog home and Visit pages (101 Park Avenue; exhibitions 'Xoloitzcuintle' and 'Salukis and the Dogs of the Desert', the latter marking 100 years of AKC recognition; open 11am-6pm, last admission 5pm; pet dogs welcome every Friday during regular hours; closed 26 Nov for Thanksgiving, regular hours from 27 Nov 2026). Single museum (it moved from St. Louis to New York in 2019; no other site). Photo: Wikimedia Commons 'AKC Museum of the Dog Interior.jpg', Bizzfretty, CC BY-SA 4.0 (two visitors looking at dog paintings beside a bronze dog; no signage).",
+        "sources": [
+          "https://museumofthedog.org/",
+          "https://museumofthedog.org/visit/",
+          "https://commons.wikimedia.org/wiki/File:AKC_Museum_of_the_Dog_Interior.jpg"
+        ]
+      }
     }
   ],
   "dinner": [
@@ -11464,6 +11611,103 @@
           "https://marinyc.com/",
           "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/mari",
           "https://www.yelp.com/biz/mari-new-york-2"
+        ]
+      }
+    },
+    {
+      "id": "hwaro",
+      "name": "Hwaro",
+      "area": "Midtown, Manhattan",
+      "vibe": "Chef Sungchul Shim's Korean counter is a room of warmth, colour and restraint, where vibrant plateware meets calm built-in furnishings. The chef's tasting menu changes with the seasons.",
+      "website": "https://hwaronyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/hwaro/01.webp",
+          "alt": "Hwaro"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-27",
+        "image_ok": true,
+        "notes": "Daily 2026-11-27. Official Hwaro site (counter 'honors the Korean spirit of gathering'; space shaped by warmth, color and restraint; vibrant plateware; built-in furnishings; chef's tasting menu evolves with the seasons; Chef Sungchul Shim). Open: Michelin Guide listing (added April 2026), Eater NY review 2026, OpenTable (10-course menu, Thu-Sat). 22-seat counter inside Gui Steakhouse at 776 8th Ave; Shim's other venues are Kochi, Mari, Mari.ne and Gui, all under different names, and there is no other Hwaro. Photo: venue's own site (Frame-2: overhead shot of lidded ceramic vessels and a patchwork cloth on the counter; no drinks, no logo).",
+        "sources": [
+          "https://hwaronyc.com/",
+          "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/hwaro",
+          "https://ny.eater.com/dining-report/411241/hwaro-nyc-restaurant-korean-tasting-menu-review-sungchul-shim"
+        ]
+      }
+    },
+    {
+      "id": "graciela",
+      "name": "Graciela",
+      "area": "West Village, Manhattan",
+      "vibe": "Pablo Rivero's Argentine tavern takes its cue from the neighbourhood bodegones of Buenos Aires. Everything is built around live fire, with Argentine dishes, seasonal vegetables and meats cooked simply over flame.",
+      "website": "https://www.gracielanyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/graciela/01.webp",
+          "alt": "Graciela"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-27",
+        "image_ok": true,
+        "notes": "Daily 2026-11-27. Official Graciela site (Argentine tavern from Pablo Rivero inspired by Buenos Aires bodegones; built around live fire; Argentine dishes, seasonal vegetables and meats cooked over flame; Mon-Wed 5-10pm, Thu-Sat 5-11pm). Open: Michelin Guide addition (Eater NY, 18 Nov 2026), Eater, Grub Street and Infatuation reviews 2026, OpenTable. 81 Greenwich Ave; single site. Rivero's Buenos Aires steakhouse is Don Julio (different name), and no other Graciela was found in a news search. Photo: venue's own site (Nico Schinco overhead spread: tomato, empanadas, broccolini and sides; cropped to remove two wine glasses at the edges).",
+        "sources": [
+          "https://www.gracielanyc.com/",
+          "https://ny.eater.com/news/414985/michelin-guide-new-york-additions-2026-bib-gourmands-michelin-recommendations",
+          "https://ny.eater.com/dining-report/413841/graciela-nyc-steakhouse-restaurant-review-west-village-pablo-rivero"
+        ]
+      }
+    },
+    {
+      "id": "cha-kee",
+      "name": "Cha Kee",
+      "area": "Chinatown, Manhattan",
+      "vibe": "Hundreds of colourful paper lanterns hang over this dining room at 43 Mott Street. Executive chef Akiko Thurnauer cooks Japanese-accented Cantonese food, giving Chinese dishes a Japanese flair.",
+      "website": "https://www.chakeenyc.com/",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/cha-kee/01.webp",
+          "alt": "Cha Kee"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-27",
+        "image_ok": true,
+        "notes": "Daily 2026-11-27. Official Cha Kee home and About pages (43 Mott Street; 'under hundreds of colorful paper lanterns'; Chinese flavours and dishes with Japanese flair by Executive Chef Akiko Thurnauer; Japanese-accented Cantonese; dinner Sun-Thu 5-10pm, Fri-Sat 5-10:30pm). Open: Resy listing and Metro Mode profile dated 28 Oct 2026 (Michelin-selected; 52 seats). Single restaurant; the same owners run the Basement speakeasy next door (a bar, not a Cha Kee branch, and not the same as the skipped basement-nyc club card). Photo: venue's own site (a noodle dish with beef and okra on a blue-and-white plate; no drinks). No room photo with the lanterns was usable.",
+        "sources": [
+          "https://www.chakeenyc.com/",
+          "https://www.chakeenyc.com/about",
+          "https://metromode.co/stories/cha-kee-chinatowns-two-language-kitchen-on-mott-street"
+        ]
+      }
+    },
+    {
+      "id": "oriana",
+      "name": "Oriana",
+      "area": "Nolita, Manhattan",
+      "vibe": "On the corner of Broome and Mott, Oriana brings fire-driven cooking to the heart of Nolita. It is the newer venture from chef Andy Quinn and sommelier Cedric Nicaise of The Noortwyck, rooted in the legacy of great New York restaurants.",
+      "website": "https://www.oriananewyork.com/about",
+      "images": [
+        {
+          "url": "/assets/opt/dinner/oriana/01.webp",
+          "alt": "Oriana"
+        }
+      ],
+      "verified": {
+        "confidence": 4,
+        "checked_at": "2026-11-27",
+        "image_ok": true,
+        "notes": "Daily 2026-11-27. Official Oriana About page (corner of Broome and Mott; fire-driven flavour; latest venture from Chef Andy Quinn and Sommelier Cedric Nicaise, an evolution of The Noortwyck; rooted in the legacy of great New York restaurants; 174 Mott St; dinner Mon-Fri 5:30-10pm, Sat 5-10pm). Opened 28 May 2026 (Resy blog May 2026); Michelin addition (Eater NY, 18 Nov 2026); Grub Street and Infatuation reviews. Single site; The Noortwyck is a separate restaurant with a different name. Note oriananyc.com is an unrelated apartment building. Photo: venue's own site (Modellus Novus dining-room shot with banquettes and the open grill fire; cropped to remove a wine-bottle shelf on the right).",
+        "sources": [
+          "https://www.oriananewyork.com/about",
+          "https://www.oriananewyork.com/",
+          "https://ny.eater.com/news/414985/michelin-guide-new-york-additions-2026-bib-gourmands-michelin-recommendations",
+          "https://blog.resy.com/2026/05/oriana-nyc/"
         ]
       }
     }
